@@ -36,7 +36,37 @@ unique particular moment; as Hegel explains, 'As little as night and dary are
 its being, it is just as much night and day. ... Such a simple is through
 negation; it is neither this nor that, it is both a *not-this* and is just as
 indifferent to being this or that, and such a simple is what we call a
-*universal*'.[^1]
+*universal*.'[^1]
+
+As such, the truth of sensuous-certainty is the opposite of its original truth.
+At the start, its truth was in its consistent particularity; it is now in its
+emergent universality. Sensuous-certainty has *refuted itself*, and language has
+shown this: 'In language, we immediately refute what we *mean to say*, and since
+the universal is the truth of sensuous-certainty, and language only expresses
+this truth, it is, in that way, not possible at all that we could say what we
+*mean* about sensuous being.'[^2] By this, Hegel shows that, just as language
+necessarily deals only with universals (in 'this tree', both the word 'this' and
+'tree' are mediated universals, as explained above), so too does
+sensuous-certainty itself give rise to universals when it 'means' to refer only
+to particulars. In the very moment, I might 'know what I mean' when I refer to
+*this tree*; nonetheless, as soon as the words ('this tree') are *written down*,
+my subjectivity is removed from them, and universality takes its place.
+Consequently we find that what is persistent in sensuous-certainty's experience
+of the *This* is not the *object*, but the subject *for whom the object is a
+'This', here and now*. 'Now' is midnight, or noon, or whenever else, because *I*
+name it so; 'now' is always *my* 'now'.
+
+Who is this 'I'? As the subject that names an object to be a particular This, at
+a particular *here and now*, it must too be a particular. There is an 'I' for
+each moment; an 'I' for each This that is apprehended. However, this radical
+particularity can only be realised by comparison - contradistinction - with
+other radical particulars. From whose standpoint is this comparison carried out?
+It is precisely through the *universal* 'I' that it is done. In all experience
+of sensuous-certainty, 'what does not appears is *I as universal*, whose
+[universal] seeing is neither a seeing of the tree nor of this house.' As such,
+the truth of sensuous-certainty has shifted away from the object and on to the
+subject.
 
 [^1]: G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard.
   (Cambridge, Cambridge University Press, 2018). §96.
+[^2]: Hegel, *Phenomenology*, §97.
