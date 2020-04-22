@@ -1,0 +1,124 @@
+html {
+    background: #DADEF2;
+}
+
+body {
+    width: 50%;
+    margin: 1% auto 0 auto;
+    padding: 20px 40px;
+
+    background: white;
+
+    font-famIly: 'Garamond';
+    font-weight: 300;
+
+    counter-reset: section;
+}
+
+p {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+
+.content p:before {
+    counter-increment: section;
+    content: "[ " counter(section) " ]";
+    font-size: 12px;
+    line-height: 24px;
+    color: #ccc;
+
+    position: relative;
+    left: 101%;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 32px;
+    letter-spacing: 0.4em;
+}
+
+h2 {
+    font-family: Optima;
+    padding-top: 20px;
+    font-weight: 300;
+}
+
+h3 {
+    margin-bottom: 5px;
+    font-weight: 300;
+    font-variant: small-caps;
+    text-transform: lowercase;
+}
+
+a {
+    text-decoration: none;
+    color: #515c94;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.footnotes {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.footnotes li,
+.footnotes p {
+    font-size: 14px;
+}
+
+#contents a {
+    text-decoration: none;
+    color: black;
+
+    background: linear-gradient(to right, white 50%, #eee 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+    transition: all 0.2s ease-out;
+}
+
+#contents a:hover {
+    background-position: right bottom;
+}
+
+#author {
+    text-align: center;
+    margin: 0 0 10px 0;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+    color: #888;
+}
+
+#contents {
+    border-left: 1px solid #ddd;
+    padding-left: 28px;
+}
+
+#contents li {
+    list-style-type: none;
+}
+
+#contents li li {
+    list-style-type: upper-roman;
+}
+
+#contents li li li {
+    list-style-type: lower-greek;
+}
+
+#wordcount {
+    text-align: center;
+    color: #ccc;
+    margin-top: 4em;
+}
