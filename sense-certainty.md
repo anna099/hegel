@@ -67,6 +67,21 @@ of sensuous-certainty, 'what does not appears is *I as universal*, whose
 the truth of sensuous-certainty has shifted away from the object and on to the
 subject.
 
+At this point, sensuous-certainty has gone through two dialectical moments that
+transformed its original position. At first, it made its claim to absolute
+knowledge by (ostensibly) grasping its object *immediately*, as a particular
+'this', in a particular time and space.  This immediate particularity was
+negated, however, as the very concepts - 'This', 'Here', and 'Now' - that were
+supposed to be the guarantors of radical particularity turned out to be
+universals, defined through negation (the *true* 'now' is always *not*-now; it
+can *never* be named). Thus, following the first dialectical moment, the
+*object* (the universal This) became the essential character of
+sensuous-certainty. Following this, however, it is the universal *subject* that
+becomes essential, since there must be an agent of comparison to realise the
+negativity that constitutes the universal object. That is to say, there must be
+a subject who - *through comparison* - realises the true Now as a universal
+'not-now'.
+
 [^1]: G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard.
   (Cambridge, Cambridge University Press, 2018). §96.
 [^2]: Hegel, *Phenomenology*, §97.
