@@ -1,3 +1,7 @@
+## Consciousness {#con}
+
+### Sensuous Certainty {#s-c}
+
 'Sensuous certainty' is the name for the intial kind of knowing an object;
 specifically, the kind of knowing for which the object is *immediate*. Taking
 any spatiotemporal thing as its object, sensuous-certainty has no limit as
@@ -63,9 +67,9 @@ particularity can only be realised by comparison - contradistinction - with
 other radical particulars. From whose standpoint is this comparison carried out?
 It is precisely through the *universal* 'I' that it is done. In all experience
 of sensuous-certainty, 'what does not appears is *I as universal*, whose
-[universal] seeing is neither a seeing of the tree nor of this house.' As such,
-the truth of sensuous-certainty has shifted away from the object and on to the
-subject.
+[universal] seeing is neither a seeing of the tree nor of this house.'[^3] As
+such, the truth of sensuous-certainty has shifted away from the object and on to
+the subject.
 
 At this point, sensuous-certainty has gone through two dialectical moments that
 transformed its original position. At first, it made its claim to absolute
@@ -81,7 +85,3 @@ becomes essential, since there must be an agent of comparison to realise the
 negativity that constitutes the universal object. That is to say, there must be
 a subject who - *through comparison* - realises the true Now as a universal
 'not-now'.
-
-[^1]: G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard.
-  (Cambridge, Cambridge University Press, 2018). §96.
-[^2]: Hegel, *Phenomenology*, §97.

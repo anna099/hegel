@@ -73,6 +73,10 @@ a:hover {
     margin: 0 auto;
 }
 
+.footnotes hr {
+    display: none;
+}
+
 .footnotes li,
 .footnotes p {
     font-size: 14px;
