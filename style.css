@@ -2,8 +2,7 @@ html {
     background: #DADEF2;
 }
 
-body {
-    width: 50%;
+body { width: 50%;
     margin: 1% auto 0 auto;
     padding: 20px 40px;
 
@@ -11,8 +10,7 @@ body {
 
     font-famIly: 'Garamond';
     font-weight: 300;
-
-    counter-reset: section;
+counter-reset: section;
 }
 
 p {
@@ -66,6 +64,12 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
 }
 
 .footnotes {
