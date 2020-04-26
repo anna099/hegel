@@ -74,14 +74,46 @@ the subject.
 At this point, sensuous-certainty has gone through two dialectical moments that
 transformed its original position. At first, it made its claim to absolute
 knowledge by (ostensibly) grasping its object *immediately*, as a particular
-'this', in a particular time and space.  This immediate particularity was
-negated, however, as the very concepts - 'This', 'Here', and 'Now' - that were
-supposed to be the guarantors of radical particularity turned out to be
-universals, defined through negation (the *true* 'now' is always *not*-now; it
-can *never* be named). Thus, following the first dialectical moment, the
-*object* (the universal This) became the essential character of
+'this', in a particular time and space. Sensuous-certainty started with the
+*object* because any shape of consciousness (as opposed to self-consciousness)
+starts off as directed towards something that is not itself. This immediate
+particularity was negated, however, as the very concepts - 'This', 'Here', and
+'Now' - that were supposed to be the guarantors of radical particularity turned
+out to be universals, defined through negation (the *true* 'now' is always
+*not*-now; it can *never* be named). Thus, following the first dialectical
+moment, the *object* (the universal This) became the essential character of
 sensuous-certainty. Following this, however, it is the universal *subject* that
 becomes essential, since there must be an agent of comparison to realise the
 negativity that constitutes the universal object. That is to say, there must be
 a subject who - *through comparison* - realises the true Now as a universal
 'not-now'.
+
+The third and final moment of sensuous-certainty tries for absolute knowledge
+once again by avoiding  comparison and the universals that arise as a
+consequence of comparison. Instead, this third moment focuses purely on the
+*relation* between consciousness and thing. Comparison is avoided by *denying
+time as a process*. I no longer 'say' now and here (thus universalising them); I
+merely *point* to the always-particular This-Here-Now. The unit of experience,
+therefore, is the immediate unity of the subject-object relation. There is no
+concern or reference to what comes before or after this relation in its
+particular moment. The trouble with the 'pointing' moment of sensuous-certainty
+is that, in fact, it *never* actually grasps its object (i.e., the
+subject-object relation). As soon as I have pointed to that which is *now*, it
+is *no longer now* anymore. The immediate *presence* that sensuous-certainty
+hopes for has not been apprehended. Sensuous-certainty thus enters a dialectical
+movement once again.
+
+Hegel finds that sensuous-certainty's pointing has three logical (i.e., not
+temporal) moments within itself. First, the Now that is pointed to is taken to
+be the truth, pure and simple. Second, as the Now immediately passes away into
+the past, the pointed-out-Now is negated: it is *not* (i.e., it is in the past).
+Lastly, this negation is *itself* negated, and we return to the first Now,
+albeit in a *mediated* manner. Realising that time is an ever-appearing
+*disappearing*; a dialectical *unity* of appearing and disappearing wherein now
+is always going away, consciousness returns to the newly-contextualised Now,
+which is henceforth seen as one moment - one particuklar - amongst many. This
+*sublated* Now of the third moment is thus a 'Now of Nows': an hour of minutes,
+a minute of seconds, etc. As Hegel writes, '*Pointing out* is thus itself the
+movement that declares what the Now in truth is, namely, a result, or a
+plurality of Nows taken together; and pointing out is the experience that the
+Now is a *universal*.' [^4]
