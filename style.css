@@ -4,10 +4,11 @@ html {
 
 body {
     width: 50%;
-    margin: 1% auto 0 auto;
+    margin: 1% auto 1% auto;
     padding: 20px 40px;
 
     background: white;
+    border: 1px solid #d8d8d8;
 
     font-famIly: 'Garamond';
     font-weight: 300;
