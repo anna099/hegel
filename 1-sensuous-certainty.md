@@ -116,4 +116,4 @@ which is henceforth seen as one moment - one particuklar - amongst many. This
 a minute of seconds, etc. As Hegel writes, '*Pointing out* is thus itself the
 movement that declares what the Now in truth is, namely, a result, or a
 plurality of Nows taken together; and pointing out is the experience that the
-Now is a *universal*.' [^4]
+Now is a *universal*.'[^4]

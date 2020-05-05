@@ -10,7 +10,7 @@
         <ol id="contents">
             <li><a href="#con">Consciousness</a>
                 <ol>
-                    <li><a href="#s-c">Sensuous certainty</a></li>
+                    <li><a href="#s-c">Sensuous certainty</a> (& <a href="#re-s-c">reflections</a>)</li>
                 </ol>
             </li>
         </ol>
