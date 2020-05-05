@@ -31,4 +31,17 @@ knowable truth, are insufficiently skeptical: they fail to notice that there is
 nothing universal in immediate objects whatsoever. 'The experience of the
 sensible world teaches us that truth is properly to be found in the *concepts*
 to which names refer, and that the reference of names to things is only possible
-in the context of a time and space that are already concepts.'[^8]
+in the context of a time and space that are already concepts.'[^8] The immediate
+object that I am trying (and failing) to name when I say 'this' is completely
+private, because it is particular to my own experience. When I name it, the
+universal concepts of language snatch all particularity and immediacy out of the
+question, and all that remains is universal and conceptual. The modern Humean
+skeptics would therefore be wise to familiarise themselves with the ancient
+participants of the Eleusinian mysteries who, in their *consumption* of sensuous
+things, were assured of their ultimate impermanence. Likewise, even animals -
+for whom all sensuous things are the objects of an instinctual desire to survive -
+realise the impermanence of these things. 'Despairing of the reality of those
+things and in the total certainty of the nullity of those things, they without
+further ado simply help themselves to them and devour them. Just like the
+animals, all of nature celebrates those revealed mysteries which teach the truth
+about sensuous things.'[^9]
