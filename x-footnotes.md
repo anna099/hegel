@@ -12,3 +12,4 @@
 [^8]: Harris, *Hegel's Ladder*, p. 225.
 [^9]: Hegel, *Phenomenology*, §109.
 [^10]: §110.
+[^11]: All quotations in this paragraph: §113.
