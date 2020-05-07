@@ -21,7 +21,7 @@ p {
     margin: 0;
 }
 
-.content p:before {
+.content>p:before {
     counter-increment: section;
     content: "[ " counter(section) " ]";
     font-size: 12px;
@@ -76,10 +76,25 @@ a:hover {
     text-decoration: underline;
 }
 
+blockquote {
+    margin: 10px 40px;
+}
+
+blockquote p {
+    font-size: 14px;
+    line-height: normal;
+    text-align: justify;
+}
+
 sup {
-  vertical-align: baseline;
-  position: relative;
-  top: -0.4em;
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
+blockquote sup {
+    top: 0;
+    left: 0.4em;
 }
 
 .footnotes {
@@ -95,6 +110,7 @@ sup {
 .footnotes li,
 .footnotes p {
     font-size: 14px;
+    line-height: 21px;
 }
 
 .footnotes a {

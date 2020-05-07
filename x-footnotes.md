@@ -11,3 +11,4 @@
   (Cambridge: Hackett, 1997), p. 209.
 [^8]: Harris, *Hegel's Ladder*, p. 225.
 [^9]: Hegel, *Phenomenology*, §109.
+[^10]: §110.
