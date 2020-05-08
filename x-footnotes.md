@@ -13,3 +13,7 @@
 [^9]: Hegel, *Phenomenology*, §109.
 [^10]: §110.
 [^11]: All quotations in this paragraph: §113.
+[^12]: Ibid.
+[^13]: §114.
+[^14]: Ibid.
+[^15]: §115.
