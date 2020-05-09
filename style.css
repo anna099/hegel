@@ -99,7 +99,7 @@ blockquote sup {
 
 .footnotes {
     border-top: 1px solid #eee;
-    width: 90%;
+    /* width: 90%; */
     margin: 20px auto;
 }
 
@@ -107,8 +107,14 @@ blockquote sup {
     display: none;
 }
 
+.footnotes ol {
+    column-count: 2;
+    column-gap: 10%;
+}
+
 .footnotes li,
 .footnotes p {
+    break-inside: avoid-column;
     font-size: 14px;
     line-height: 21px;
 }
