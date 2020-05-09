@@ -62,3 +62,15 @@ properties of the Other).
 > Other], they at the same time exclude each other, but necessarily have this
 > opposed relation to the properties, which are at a distance from *their Also*
 > [i.e., the properties of the Other]. [^15]
+
+Just like any shape of consciousness, perception is a claim to absolute truth.
+The standard of perceptual truth is: *have I apprehended the object?* If the
+perceiver's apprehension is *equal* to the object itself, and *corresponds* with
+it, then the perception is true. Naturally, error is possible insofar as it is
+possible to misapprehend an object. But importantly, any such error must be
+because of some untruth on behalf of the *perceiver*, not the perceived object;
+in comparing the perceiver's apprehension with the object, any inequality that
+shows up must be an 'untruth of perceiving itself', and not an untruth of the
+object, since 'the object is what is equal to itself'.[^16] The German word for
+perception is *Wahrnehmung*; the task for the perceiver is as simple as having
+to take [*nehmung*] the true [*wahr*].
