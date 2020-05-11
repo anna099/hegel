@@ -1,4 +1,6 @@
 OUT := index.html
+PDFOUT := hegel.pdf
+FN := x-footnotes.md
 
 index:
 	pandoc *.md -o $(OUT)
@@ -7,3 +9,6 @@ index:
 	@printf "</html>" >> $(OUT)
 	js-beautify $(OUT) > _$(OUT)
 	mv _$(OUT) $(OUT)
+
+pdf:
+	pandoc [1-99]*.md $(FN) -o $(PDFOUT)
