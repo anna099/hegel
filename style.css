@@ -1,5 +1,5 @@
 html {
-    background: #f2ece8;
+    background: #f2ece8
 }
 
 body {
@@ -10,7 +10,7 @@ body {
     background: white;
     border: 1px solid #d8d8d8;
 
-    font-famIly: 'Garamond';
+    font-family: 'Garamond';
     font-weight: 300;
     counter-reset: section;
 }
@@ -19,6 +19,23 @@ p {
     font-size: 16px;
     line-height: 24px;
     margin: 0;
+}
+
+figure { /* contains images */
+    width: 150%;
+    margin: 24px auto 25px -25%;
+    padding: 8px;
+
+    background: white;
+    border: 1px solid #d8d8d8;
+}
+
+img {
+    width: 100%;
+}
+
+figcaption { /* img alt text */
+    display: none;
 }
 
 .content>p:before {

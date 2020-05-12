@@ -74,3 +74,59 @@ shows up must be an 'untruth of perceiving itself', and not an untruth of the
 object, since 'the object is what is equal to itself'.[^16] The German word for
 perception is *Wahrnehmung*; the task for the perceiver is as simple as having
 to take [*nehmung*] the true [*wahr*].
+
+At this point, Hegel looks again at the moments spelled out above, capturing
+them as perception's dialectical transformation, brought about by its own
+internal inconsistencies. This transformation is revealed when, on each occasion
+wherein I try to conceptualise the object of perception, something about the
+object escapes my conceptualisation. Hegel outlines the dialectic of perception
+as follows: firstly, I perceive the object as a 'thing'; as *purely One*. For
+instance, I perceive 'this thing, the book'. However, I also perceive 'within'
+the book several properties: it is heavy, it is green, it is dry, etc. Each of
+these properties is universal: many objects can possess heaviness, greenness,
+and so on. As such, grasping the object as purely singular and individual was
+thus a mistake; and as established in the paragraph above, the mistake must be
+within *me* and not the object. I thus revise my comprehension of the object,
+understanding it in the light of the idea of '*community*'. The object is both
+*(a)* a community of properties, and *(b)* a member of a community of objects
+with similar properties. So, to continue my example, the book is now understood
+as *(a)* the sum total of its properties: its heaviness, greenness, and so on,
+and also *(b)* one book *amongst many*; a member of the community of objects
+that have pages, contain text, and so on - that is, a community defined by
+certain properties. But what determines these properties? What makes the book
+'heavy'? It is heavy precisely because it is *not light*; its heaviness is the
+*exclusion* of non-heaviness. As such I perceive the object's properties as
+*determinate* through opposition to (and exclusion of) an Other; consequently, I
+was mistaken again to conceptualise the object as a community - after all,
+community is defined primarily by *in*clusion. If the 'community'
+conceptualisation of the object was a *negation* of the 'One' conceptualisation,
+then I must negate this negation, and posit the object as an *excluding* One. As
+Hegel puts it:
+
+> 'I thus in fact did not apprehend the objective essence correctly when I
+> determined it as *community* with others, or as continuity, and, according to
+> the *determinateness* of the property, I must in fact break up the continuity
+> into pieces and posit the objective presence as an excluding One'.[^17]
+
+Yet again, however, I am mistaken. For it is not accurate to understand the
+thing purely in terms of exclusion; after all, the properties within the thing
+simply sit indifferently alongside one another. The book's greenness does not
+affect its heaviness. As such, the thing is best understood as a '*communal
+medium*' in which these properties abide. Now, we never really 'perceive' a
+medium; rather, it is the sensuous properties that come together in that medium
+that are perceived. Aside from its size, its colour, its position, and so on,
+what is there left of the book for me to perceive? Consequently, Hegel comes to
+realise that the truth that perception apprehends 'is thereby also not a
+universal medium but rather a *singular property* for itself'.[^18] Here is
+where a particularly strange moment occurs: if what I am actually perceiving is
+merely a 'singular property for itself', then it is neither a property (because
+it, being singular, no longer belongs to a One), nor a determinate thing
+(because, being singular, it has no individuating relations to other things).
+Thus, the object is a sensuous being of the sort we encountered in sensuous
+certainty. We have flown away from the 'thing', and now only perceive that which
+we once called a 'property' which, now, is nothing but a sensuous *this, here,
+now*. The last sentence of §117 captures this confusing phenomenon: 'I am thus
+thrown back to the beginning and pulled back into the same cycle which sublates
+itself both in each moment and as a whole'.
+
+![A diagram of the dialectic of perception.](./img/perception.png)
