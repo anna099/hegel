@@ -20,3 +20,6 @@
 [^16]: §116.
 [^17]: §117.
 [^18]: Ibid.
+[^19]: §118.
+[^20]: Harris, *Hegel's Ladder*, p. 246.
+[^21]: Hegel, *Phenomenology*, §119. Emphasis added.

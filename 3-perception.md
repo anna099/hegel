@@ -130,3 +130,38 @@ thrown back to the beginning and pulled back into the same cycle which sublates
 itself both in each moment and as a whole'.
 
 ![A diagram of the dialectic of perception.](./img/perception.png)
+
+At this point, it might seem as though consciousness has reached an aporia:
+sensuous certainty collapses under its own logic, and gives way to perception,
+which itself collapses and reverts back to sensuous certainty. However, Hegel
+notices that something is different in this newer collapse. Though the result of
+perception, just like the result of sensuous certainty, is its *dissolution*,
+this dissolution nonetheless teaches us something: namely that, in its
+dissolution, perception becomes *self-reflective*. With the collapse of
+perception, 'consciousness takes cognizance that the *untruth*, which comes to
+the fore here, falls within consciousness'.[^19]
+
+The precise advantage of perception's 'reflective turn into itself' is that
+consciousness is now aware that perception is not a mere 'simple apprehension';
+that is to say, the perceiver, after self-reflection, is *consciously aware* of
+their own perceiving. As Harris writes,
+
+> Consciousness is no longer naive but reflective. At this point in the
+> dialectic of sense-certainty it became the standard of what truly is; but in
+> the dialectic of perception it distinguishes its reflective activity as the
+> source of 'falsity.' [^20]
+
+As is written in my paragraph 15 above, an important (perhaps the most
+important) moment for perception is the realisation that error can lie only in
+the perceiver, and not the object. This is the reason that perception is
+reflective; it realises itself to be, in Harris's words, 'the source of
+falsity'. This reflective realisation is the way that perception escapes the
+aporia described above.
+
+The crux of the aporia is that, while perception apprehends its object as a One,
+it is also aware of multiple properties in the object, undermining the One-ness
+of the object. The object cannot be both *one* and *many*; as such, there must
+be *some kind of falsity*. But as we have learned, the falsity that we seem to
+detect in objects must always originate *in us*; so, Hegel explains that
+'we ourselves are [now] conscious of this diversity through which [the object]
+ceases to be One as *falling within us*.[^21]
