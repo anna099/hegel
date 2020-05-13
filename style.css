@@ -193,4 +193,13 @@ blockquote sup {
     body {
         width: 80%;
     }
+
+    figure { /* contains images */
+        width: 100%;
+        margin: 24px auto 25px 0;
+        padding: 8px;
+
+        background: white;
+        border: 1px solid #d8d8d8;
+    }
 }
