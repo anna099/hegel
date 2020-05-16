@@ -17,17 +17,34 @@ body {
 
 p {
     font-size: 16px;
-    line-height: 24px;
+    line-height: 20px;
     margin: 0;
 }
 
 figure { /* contains images */
-    width: 150%;
-    margin: 24px auto 25px -25%;
+    width: 100%;
+    margin: 24px auto 25px 0;
     padding: 8px;
 
     background: white;
+    border: 1px solid white;
+}
+
+figure:after {
+    content: '(Hover to expand.)';
+
+    font-size: 10px;
+    color: grey;
+}
+
+figure:hover {
+    width: 160%;
+    margin: 24px auto 25px -30%;
     border: 1px solid #d8d8d8;
+}
+
+figure:hover:after {
+    content: none;
 }
 
 img {
@@ -42,7 +59,7 @@ figcaption { /* img alt text */
     counter-increment: section;
     content: "[ " counter(section) " ]";
     font-size: 12px;
-    line-height: 24px;
+    line-height: 16px;
     color: #ccc;
 
     position: relative;
@@ -104,14 +121,11 @@ blockquote p {
 }
 
 sup {
+    color: black;
+    font-size: 10px;
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
-}
-
-blockquote sup {
-    top: 0;
-    left: 0.4em;
 }
 
 .footnotes {
