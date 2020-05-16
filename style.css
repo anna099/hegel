@@ -128,6 +128,10 @@ sup {
     top: -0.4em;
 }
 
+hr {
+    border: none;
+}
+
 .footnotes {
     border-top: 1px solid #eee;
     /* width: 90%; */

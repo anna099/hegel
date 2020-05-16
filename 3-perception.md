@@ -162,6 +162,69 @@ The crux of the aporia is that, while perception apprehends its object as a One,
 it is also aware of multiple properties in the object, undermining the One-ness
 of the object. The object cannot be both *one* and *many*; as such, there must
 be *some kind of falsity*. But as we have learned, the falsity that we seem to
-detect in objects must always originate *in us*; so, Hegel explains that
-'we ourselves are [now] conscious of this diversity through which [the object]
-ceases to be One as *falling within us*.[^21]
+detect in objects must always originate *in us*; so, Hegel explains that 'we
+ourselves are [now] conscious of this diversity through which [the object]
+ceases to be One as *falling within us*'.[^21] What this means is that the
+*diversity* (i.e., the not-One-ness) of the object is an imposition of our own
+consciousness, rather than an attribute of the thing perceived. The properties
+of the thing 'come undone from each other', as Hegel puts it, merely because we
+perceive the thing in multiple diverse moments. Consequently, the thing *is* One
+after all; and the diversity we perceive in it - the *multiplicity* of
+properties - is attributed to the diversity of our perceiving.
+
+But on the other hand, the thing must *surely* have a diverse multiplicity of
+properties, since it is this multiplicity that, through excluding the properties
+of other objects, individualises the thing and makes it determinate. (Indeed,
+throughout this chapter, the word 'determinate' is near-synonymous with
+'individualised through the exclusion of other properties'). So, if the diverse
+properties *do* exist in the thing, after all, it must be the One-ness of the
+thing that originates in our perception. Thus when we say that a book is green
+and *also* heavy, thick and *also* rectangular, this 'also' is the work of
+consciousness, not of the thing. 'The *positing-into-a-one* of these properties
+belongs only to consciousness'.[^22] Thus we perceive a thing as unified;
+nonetheless, perception also remains aware that the properties of the thing in
+itself' are separate, and it does this by means of the notion 'insofar as':
+a plant, *insofar as* it is green, is not tall, and *insofar as* it is tall, it
+is not spiky, and so on.
+
+At this point, consciousness has become aware that it has a twofold way of
+viewing things, as (1) subjectively - that is, as a subjectively posited One -
+and (2) objectively - that is, taken in itself as a multiplicity of properties.
+But *that the thing can be viewed in such a twofold manner* implies that **the
+thing itself is twofold**: it exists 'in a determinate way *for the*
+comprehending *consciousness*', but also in 'the way in which it offers itself
+and is reflected itself *back into itself*' - in other words, the thing has its
+truth as for-consciousness, and 'in its own self has an opposed truth'.[^23]
+Here is where the distinction between *being-for-self* and *being-for-another*
+first emerge. The question of whether the unity of thinghood should be
+attributed to the *perceiver* or the *thing itself* thus comes to an end in this
+paragraph, which Harris summarises as follows:
+
+> Thus both the thing and consciousness have now taken the roles of the One and
+> the Many. It is not just perceiving, but the thing itself, that shows itself
+> in this doubled way (as being unity and plurality in and for itself).
+> Whichever side it exhibits as true to the apprehending consciousness it has
+> the opposite truth within itself. [^24]
+
+-------------------------------------------------------------------------------
+
+Finally we move beyond the issue of the One and the Many, and enter the domain
+of being-for-itself and being-for-consciousness. Hegel explains that 'the thing
+is *One*, reflected into itself; it is *for itself*, but it is also *for an
+other*, namely, it is an *other* for itself *as it* is for an other'.[^25] That
+is to say, the thing's being-for-itself is not solely determined by the essence
+of the thing's being-for-itself, but also by the *other* that is perceiving it.
+Put another way, the *twofold character* of the thing - the contradiction
+between its being-for-itself and being-for-another - 'is distributed into two
+objects'; 'The thing therefore is in and for itself, self-equal, but *this unity
+with itself is disturbed through other things*'.
+
+Understanding the twofold character of the thing gives clarity to the nature of
+properties: the diversity of properties that the thing possesses doesn't
+*divide* the thing, since such a diversity is merely the diversity of
+*relations* that the thing has with other things. This plant is tall *in
+relation to* shorter plants; this book is green *in relation to* blue or red
+books, and so on. In itself, an object is therefore propertyless and
+indeterminate. This reveals to us that *otherness is essential to indiduality*;
+as Kalkavage has remarked, 'this is the first step toward the conclusion that
+community is more real than individuality'.[^26]
