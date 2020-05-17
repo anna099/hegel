@@ -2,7 +2,7 @@
 
 ### Sensuous Certainty {#s-c}
 
-'Sensuous certainty' is the name for the intial kind of knowing an object;
+'Sensuous certainty' is the name for the initial kind of knowing an object;
 specifically, the kind of knowing for which the object is *immediate*. Taking
 any spatiotemporal thing as its object, sensuous-certainty has no limit as
 regards its 'wealth', since it can take its object from anywhere in the infinite

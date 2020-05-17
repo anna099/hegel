@@ -95,10 +95,6 @@ h3 {
 
 h4 {
     margin-bottom: 5px;
-    font-weight: 300;
-    font-size: 1.17em;
-    font-variant: small-caps;
-    text-transform: lowercase;
 }
 
 a {
@@ -130,6 +126,7 @@ sup {
 
 hr {
     border: none;
+    border-top: 1px solid #eee;
 }
 
 .footnotes {
@@ -166,14 +163,14 @@ hr {
     text-decoration: none;
     color: black;
 
-    background: linear-gradient(to right, white 50%, #eee 50%);
+    background: linear-gradient(to left, white 50%, #eee 50%);
     background-size: 200% 100%;
-    background-position: left bottom;
+    background-position: right bottom;
     transition: all 0.2s ease-out;
 }
 
 #contents a:hover {
-    background-position: right bottom;
+    background-position: left bottom;
 }
 
 #author {
@@ -190,11 +187,11 @@ hr {
 }
 
 #contents li {
-    list-style-type: none;
+    list-style-type: upper-roman;
 }
 
 #contents li li {
-    list-style-type: upper-roman;
+    list-style-type: lower-roman;
 }
 
 #contents li li li {
