@@ -8,6 +8,16 @@
         <h4 id="author">Georg Wilhelm Friedrich Hegel</h4>
         <h1>The Phenomenology of Spirit</h1>
         <ol id="contents">
+            <li><a href="#int">Introduction<a>
+                <ol>
+                    <li><a href="#what">What is the *Phenomenology of Spirit*?</a></li>
+                    <li><a href="#why">Why a 'System' of Science?</a>
+                        <ol>
+                            <li><a href="#jacobi">Friedrich Heinrich Jacobi</a></li>
+                            <li><a href="#kant">Immanuel Kant</a></li>
+                        </ol>
+                    </li>
+                </ol>
             <li><a href="#con">Consciousness</a>
                 <ol>
                     <li><a href="#s-c">Sensuous certainty</a> (& <a href="#re-s-c">reflections</a>)</li>
