@@ -59,7 +59,7 @@ Spinoza had been accused of. The principle of Leibnizian rationalism was the
 *Principle of Sufficient Reason*, which Jacobi equated with the idea that *ex
 nihilo nihil fit*. Consequently, the rationalist must accept that the reason for
 X also has a reason, which also has a reason, and so on. The notion of a **first
-cause** thus emerges to halt this infinite regress of reasons; though we might
+cause** thus emerges to halt this infinite regress of reasons. Though we might
 suspect that God would be identified as the first cause, Jacobi's reading of
 Spinoza led him to claim otherwise. For Spinoza, the first cause is *being
 itself*, or, the totality of *all that is*, because a first cause could be
@@ -96,12 +96,42 @@ for Kant, the mind has separate faculties: the receptive *sensibility*, which
 intuits finitely intelligible (i.e. causal) information from the Newtonian
 physical world, and the spontaneous faculty of *reason*, which cognised about
 infinitely intelligible (i.e. Leibnizian, grounded) things in themselves -
-albeit only in a *formal* sense.
+albeit only in a *formal* sense. Kant accordingly divides reality, giving the
+name 'noumena' to those things in themselves that we cannot sensibly intuit
+(that is, objects that belong only to the understanding), and 'phenomena' to all
+objects of *appearance*.
+
+So, with the publication of his *Critique* in in 1781, Kant had come the closest
+to finally providing a *proper grounding* to knowledge, in contrast to the
+failure of the rationalist project. However, he had failed to heed Spinoza's
+monistic demand that Jacobi would later understand; his system, insofar as it
+grounded the intelligible phenomenal in the *unintelligible* noumenal, *was not
+a complete system*. Jacobi also, less subtly, failed to meet the monistic
+demand, since he followed Hume in suggesting that we merely place *faith* in an
+unintelligible grounding of our knowledge. Thus the post-Kantian tradition of
+German Idealism, to which Hegel belongs, was born. Paul Franks says of the
+German Idealists - the most notable amongst them Fichte, Schelling, and Hegel -
+that
+
+> they are all committed, in various ways, to the view that genuine
+> justification can be achieved only within a system that meets two conditions:
+> the *holistic condition* that every particular (object, fact, or judgment) be
+> determined through its role within the whole and not through any intrinsic
+> properties; and the *monistic condition* that the whole be grounded in an
+> absolute principle that is immanent and not transcendent.<sup>[d](#d)</sup>
+
+Furthermore, the project of German Idealism had to escape the nihilism that
+Jacobi had identified with monism: thus Hegel (and Fichte, Schelling, and so on)
+had to (1) overcome the Kantian dualisms that lacked an intelligible grounding,
+and (2) account for the emergence of individual, willing things within a
+monistic reality. This is the project for Hegel's system.
 
 <div class="footnotes">
 a. <a name="a"></a> G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard. (Cambridge, Cambridge University Press, 2018), p. 468.
 
 b. <a name="b"></a> Kojève, Alexandre, *Introduction To The Reading Of Hegel*, translated by R. Queneau. (Ithaca, Cornell University Press, 1980).
 
-c. <a name="c"></a> An elaboration of Jacobi's argumentation can be found in Paul Franks, "All or Nothing", in *The Cambridge Companion to German Idealism*, edited by K. Ameriks. (Cambridge, Cambridge University Press, 2017), pp. 128-153.
+c. <a name="c"></a> An elaboration of Jacobi's argumentation can be found in Paul Franks, "All or Nothing", in *The Cambridge Companion to German Idealism*, edited by K. Ameriks. (Cambridge, Cambridge University Press, 2017), p. 131.
+
+d. <a name="d"></a> Paul W. Franks, *All or Nothing: Systematicity, Transcendental Arguments, and Skepticism in German Idealism*. (Cambridge, MA: Harvard University Press, 2005), p. 10.
 </div>
