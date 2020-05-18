@@ -5,6 +5,7 @@
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
     </head>
     <body>
+        <a id="to-top" href="#author">☝︎</a>
         <h4 id="author">Georg Wilhelm Friedrich Hegel</h4>
         <h1>The Phenomenology of Spirit</h1>
         <ol id="contents">
@@ -17,10 +18,15 @@
                             <li><a href="#kant">Immanuel Kant</a></li>
                         </ol>
                     </li>
+                    <li><a href="#method">The 'Method' of the Phenomenology</a></li>
                 </ol>
             <li><a href="#con">Consciousness</a>
                 <ol>
-                    <li><a href="#s-c">Sensuous certainty</a> (& <a href="#re-s-c">reflections</a>)</li>
+                    <li><a href="#s-c">Sensuous certainty</a>
+                        <ol>
+                            <li><a href="#re-s-c">Reflections on Sensuous Certainty</a></li>
+                        </ol>
+                    </li>
                     <li><a href="#per">Perception</a></li>
                 </ol>
             </li>

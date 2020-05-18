@@ -73,11 +73,12 @@ h1, h2, h3 {
 h1 {
     display: block;
     width: 80%;
-    margin: 0 auto;
+    margin: 0 auto 40px auto;
+
+    font-family: Optima;
     text-transform: uppercase;
     font-weight: 300;
-    font-size: 32px;
-    letter-spacing: 0.4em;
+    font-size: 24px;
 }
 
 h2 {
@@ -159,20 +160,6 @@ hr {
     color: #515c94;
 }
 
-#contents a {
-    text-decoration: none;
-    color: black;
-
-    background: linear-gradient(to left, white 50%, #eee 50%);
-    background-size: 200% 100%;
-    background-position: right bottom;
-    transition: all 0.2s ease-out;
-}
-
-#contents a:hover {
-    background-position: left bottom;
-}
-
 #author {
     text-align: center;
     margin: 0 0 10px 0;
@@ -182,7 +169,8 @@ hr {
 }
 
 #contents {
-    border-left: 1px solid #ddd;
+    width: 50%;
+    margin: 0 auto;
     padding-left: 28px;
 }
 
@@ -198,10 +186,37 @@ hr {
     list-style-type: lower-greek;
 }
 
+#contents a {
+    text-decoration: none;
+    color: black;
+
+    background: linear-gradient(to left, white 50%, #eee 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all 0.2s ease-out;
+}
+
+#contents a:hover {
+    background-position: left bottom;
+}
+
 #wordcount {
     text-align: center;
     color: #ccc;
     margin-top: 4em;
+}
+
+#to-top {
+    position: fixed;
+    top: 10;
+    left: 10;
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 24px;
+}
+
+#to-top:hover {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 1);
 }
 
 @media (max-width: 1000px) {

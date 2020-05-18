@@ -106,7 +106,19 @@ to finally providing a *proper grounding* to knowledge, in contrast to the
 failure of the rationalist project. However, he had failed to heed Spinoza's
 monistic demand that Jacobi would later understand; his system, insofar as it
 grounded the intelligible phenomenal in the *unintelligible* noumenal, *was not
-a complete system*. Jacobi also, less subtly, failed to meet the monistic
+a complete system*; it was constitutively *dualistic* (with the dualisms of
+intuition and concept, phenomenon and noumenon, appearance and thing-in-itself,
+and so on, running throughout) and therefore failed to meet the monistic demand
+of real systematicity. Hegel's particular formulation of this criticism accused
+Kant of *subjective* idealism, even in spite of Kant's attempts to distance
+himself from Bishop Berkeley:
+
+> Objectivity of thought, in Kant's sense, is again to a certain sense
+> subjective. Thoughts, according to Kant, although universal and necessary
+> categories, are *only our* thoughts - separated by an impassable gulf from the
+> thing, as it exists apart from our knowledge.<sup>[d](#d)</sup>
+
+Jacobi also, less subtly, failed to meet the monistic
 demand, since he followed Hume in suggesting that we merely place *faith* in an
 unintelligible grounding of our knowledge. Thus the post-Kantian tradition of
 German Idealism, to which Hegel belongs, was born. Paul Franks says of the
@@ -118,13 +130,30 @@ that
 > the *holistic condition* that every particular (object, fact, or judgment) be
 > determined through its role within the whole and not through any intrinsic
 > properties; and the *monistic condition* that the whole be grounded in an
-> absolute principle that is immanent and not transcendent.<sup>[d](#d)</sup>
+> absolute principle that is immanent and not transcendent.<sup>[e](#e)</sup>
 
 Furthermore, the project of German Idealism had to escape the nihilism that
 Jacobi had identified with monism: thus Hegel (and Fichte, Schelling, and so on)
 had to (1) overcome the Kantian dualisms that lacked an intelligible grounding,
 and (2) account for the emergence of individual, willing things within a
 monistic reality. This is the project for Hegel's system.
+
+### The 'Method' of the Phenomenology {#method}
+
+If we read on from the quotation from Hegel's *Logic* above, we find a hint of
+how exactly Hegel wants to surpass Kantian dualisms:
+
+> the true objectivity of thinking means that the thoughts, far from being
+> merely ours, must at the same time be the real essence of the things, and of
+> whatever is an object to us.<sup>[f](#f)</sup>
+
+In a truly systematic science, therefore, the thought of a thing must be equal
+to 'the real essence' of the thing. This equality of thought and being is what
+Hegel calls **Absolute Knowing**. If the *Phenomenology* is to be understood
+as an *introduction* to a systematic science, it must therefore take the form of
+an *ascension toward* Absolute Knowing. For this reason, Hegel describes the
+book as 'the path of natural consciousness pressing forward towards true
+knowing'.<sup>[g](#g)</sup>
 
 <div class="footnotes">
 a. <a name="a"></a> G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard. (Cambridge, Cambridge University Press, 2018), p. 468.
@@ -133,5 +162,11 @@ b. <a name="b"></a> Kojève, Alexandre, *Introduction To The Reading Of Hegel*, 
 
 c. <a name="c"></a> An elaboration of Jacobi's argumentation can be found in Paul Franks, "All or Nothing", in *The Cambridge Companion to German Idealism*, edited by K. Ameriks. (Cambridge, Cambridge University Press, 2017), p. 131.
 
-d. <a name="d"></a> Paul W. Franks, *All or Nothing: Systematicity, Transcendental Arguments, and Skepticism in German Idealism*. (Cambridge, MA: Harvard University Press, 2005), p. 10.
+d. <a name="d"></a> G.W.F. Hegel, *The Encyclopaedia of the Philosophical Sciences*, Part I: *Logic*, translated by W. Wallace. (Oxford: Oxford University Press, 1975), p. 186.
+
+e. <a name="e"></a> Paul W. Franks, *All or Nothing: Systematicity, Transcendental Arguments, and Skepticism in German Idealism*. (Cambridge, MA: Harvard University Press, 2005), p. 10.
+
+f. <a name="f"></a> G.W.F. Hegel, *Logic*, p. 186.
+
+g. <a name="g"></a> G.W.F. Hegel, *Phenomenology*, §77.
 </div>
