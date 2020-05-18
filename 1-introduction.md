@@ -153,7 +153,36 @@ Hegel calls **Absolute Knowing**. If the *Phenomenology* is to be understood
 as an *introduction* to a systematic science, it must therefore take the form of
 an *ascension toward* Absolute Knowing. For this reason, Hegel describes the
 book as 'the path of natural consciousness pressing forward towards true
-knowing'.<sup>[g](#g)</sup>
+knowing'.<sup>[g](#g)</sup> In the introduction to the *Phenomenology*, Hegel
+explains that unlike many of his forebears (Descartes and Kant amongst them), he
+sees it as a mistake to establish the rules of thinking prior to actually
+thinking, or to envision thought as a 'medium' through which the absolute is
+somehow 'filtered'. The precise reasons for this will be established later.
+Instead, Hegel wants to begin with 'natural consciousness'; that is, the way in
+which we typically think, prior to any 'philosophising'. This is not at all to
+be taken as a claim that 'common sense' holds all of the answers to
+philosophical problems; on the contrary, 'natural consciousness will prove to be
+only the concept of knowing, or it will prove to be *not real
+knowing*'.<sup>[h](#h)</sup> Each 'shape of consciousness' - that is, each stage
+along natural consciousness's transformation - contains an element of *untruth*
+insofar as it is not (yet) absolute knowing; and rather than simply 'doubting'
+the shape of consciousness in response to its untruth, Hegel's approach is to
+take the negative element - the untruth - and to *negate it*, resulting in a
+'negation of a negation', or what hegel calls a **determinate negation**. What
+this is, and how exactly it works, will become clearer later on, but here is
+Hegel's explanation of determinate negation from his introduction:
+
+> the exposition of non-truthful consciousness in its untruth is not a merely
+> *negative* movement. ... only when taken as the nothing of that from which it
+> emerges is the nothing in fact the true result; thus it is itself a
+> *determinate* nothing and it has a *content*. ... while the result is grasped
+> as it is in truth, as *determinate* negation, a new form [of consciousness]
+> has thereby immediately arisen, and in the negation, the transition is made
+> whereby the progression through the copmlete series of shapes comes about on
+> its own accord.<sup>[i](#i)</sup>
+
+What follows in these notes is a reconstruction of the various stages that
+Hegel's *Phenomenology* covers, as I have understood them.
 
 <div class="footnotes">
 a. <a name="a"></a> G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard. (Cambridge, Cambridge University Press, 2018), p. 468.
@@ -166,7 +195,11 @@ d. <a name="d"></a> G.W.F. Hegel, *The Encyclopaedia of the Philosophical Scienc
 
 e. <a name="e"></a> Paul W. Franks, *All or Nothing: Systematicity, Transcendental Arguments, and Skepticism in German Idealism*. (Cambridge, MA: Harvard University Press, 2005), p. 10.
 
-f. <a name="f"></a> G.W.F. Hegel, *Logic*, p. 186.
+f. <a name="f"></a> Hegel, *Logic*, p. 186.
 
-g. <a name="g"></a> G.W.F. Hegel, *Phenomenology*, §77.
+g. <a name="g"></a> Hegel, *Phenomenology*, §77.
+
+h. <a name="h"></a> §78.
+
+i. <a name="i"></a> §79.
 </div>
