@@ -25,4 +25,7 @@
 [^23]: §122.
 [^24]: Harris, *Hegel's Ladder*, p. 249.
 [^25]: Hegel, *Phenomenology*, §123.
-[^26]: Peter Kalkavage, *The Logic of Desire*, p. 50.
+[^26]: Ibid.
+[^27]: Peter Kalkavage, *The Logic of Desire*, p. 50.
+[^28]: Hegel, *Phenomenology*, §128.
+[^29]: §131.

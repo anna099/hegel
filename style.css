@@ -27,24 +27,6 @@ figure { /* contains images */
     padding: 8px;
 
     background: white;
-    border: 1px solid white;
-}
-
-figure:after {
-    content: '(Hover to expand.)';
-
-    font-size: 10px;
-    color: grey;
-}
-
-figure:hover {
-    width: 160%;
-    margin: 24px auto 25px -30%;
-    border: 1px solid #d8d8d8;
-}
-
-figure:hover:after {
-    content: none;
 }
 
 img {

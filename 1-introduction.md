@@ -58,18 +58,18 @@ inevitably led to monistic, fatalist atheism of the controversial kind that
 Spinoza had been accused of. The principle of Leibnizian rationalism was the
 *Principle of Sufficient Reason*, which Jacobi equated with the idea that *ex
 nihilo nihil fit*. Consequently, the rationalist must accept that the reason for
-X also has a reason, which also has a reason, and so on. The notion of a **first
-cause** thus emerges to halt this infinite regress of reasons. Though we might
-suspect that God would be identified as the first cause, Jacobi's reading of
-Spinoza led him to claim otherwise. For Spinoza, the first cause is *being
+*x* also has a reason, which also has a reason, and so on. The notion of a
+**first cause** thus emerges to halt this infinite regress of reasons. Though we
+might suspect that God would be identified as the first cause, Jacobi's reading
+of Spinoza led him to claim otherwise. For Spinoza, the first cause is *being
 itself*, or, the totality of *all that is*, because a first cause could be
 neither transcendental (and therefore conditioned by nothing, contravening the
 Principle of Sufficient Reason) nor rational (and therefore capable of
-representation, making it relational and therefore not self-standing).
-Thus, according to Spinoza (and Jacobi), rationalism is necessarily atheistic.
-It is also fatalistic, because to affirm free will is to affirm the possibility
-of multiple first causes (i.e. willing agents), and nihilistic, since it denies
-the existence of entities altogether: for Spinoza, every 'thing' is merely a
+representation, making it relational and therefore not self-standing). Thus,
+according to Spinoza (and Jacobi), rationalism is necessarily atheistic. It is
+also fatalistic, because to affirm free will is to affirm the possibility of
+multiple first causes (i.e. willing agents), and nihilistic, since it denies the
+existence of entities altogether: for Spinoza, every 'thing' is merely a
 modification of the single substance (*being* or nature).<sup>[c](#c)</sup>
 
 The German rationalist project was thereby called into question by Jacobi. If it

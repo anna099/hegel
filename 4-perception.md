@@ -217,7 +217,7 @@ of the thing's being-for-itself, but also by the *other* that is perceiving it.
 Put another way, the *twofold character* of the thing - the contradiction
 between its being-for-itself and being-for-another - 'is distributed into two
 objects'; 'The thing therefore is in and for itself, self-equal, but *this unity
-with itself is disturbed through other things*'.
+with itself is disturbed through other things*'.[^26]
 
 Understanding the twofold character of the thing gives clarity to the nature of
 properties: the diversity of properties that the thing possesses doesn't
@@ -227,4 +227,36 @@ relation to* shorter plants; this book is green *in relation to* blue or red
 books, and so on. In itself, an object is therefore propertyless and
 indeterminate. This reveals to us that *otherness is essential to indiduality*;
 as Kalkavage has remarked, 'this is the first step toward the conclusion that
-community is more real than individuality'.[^26]
+community is more real than individuality'.[^27]
+
+At this point, perception's concept of the *thing* involves both identity and
+difference: it is identical with itself, and different from others, and both of
+these facts determine what the thing actually is. The self-identity of the thing
+determines how it will be for others, and this being-for-others is what
+determines the thing's *difference* from other things. But let's look more
+closely at this relation between identity and difference: uncontroversially, a
+thing is a thing insofar as it is identical with itself. This is the role of
+*identity* within the concept of the thing. But for any *x* to be identical to
+itself, it must be *determinate* (that is, it must be individuated in some way).
+And we have learned that the thing only becomes determinate through its
+being-for-another; this is the role of *difference* within the concept of the
+thing ... as such, the thing is constitutively contradictory: 'it is for itself
+insofar as it is for others, and *it is for others insofar as it is for
+itself*'.[^28] As far as the *thing of perception* is concerned, independence
+depends on others; independence is not independent. Thus perception comes to an
+end, as its grasp on sensuous universals turns out to be an illusion - merely a
+contradictory play of 'empty abstractions' (*singularity*, *universality*,
+*essence*, and so on). Perception is the shape of consciousness most often
+understood to be 'common sense', and yet it completely fails to actually grasp
+its objects. It is a form of sophistry, since it repeatedly asserts what it had
+previously asserted to be untrue.
+
+> That healthy common sense which takes itself to be solid, real consciousness,
+> is, in perceiving, only the play of *these abstractions*, and that common
+> sense is the poorest exactly at the point where it means to be the richest.
+> While it is pushed around by these empty essences and is thus thrown out of
+> the arms of one abstraction into the arms of another, and, through its own
+> sophistry, alternately goes to all the trouble of tenaciously clinging to one
+> of them and asserting it to be true, only then to turn around and assert its
+> opposite to be true, and then to set itself against the truth, it says that
+> philosophy only deals with *thought-things* [*Gedankendingen*]. [^29]
