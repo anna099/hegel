@@ -10,7 +10,7 @@ body {
     background: white;
     border: 1px solid #d8d8d8;
 
-    font-family: 'Garamond';
+    font-family: Garamond, 'EB Garamond', serif;
     font-weight: 300;
     counter-reset: section;
 }
@@ -140,6 +140,14 @@ hr {
 
 .footnotes a:hover {
     color: #515c94;
+}
+
+.subtitle {
+    margin: -0.5em 0 10 0;
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 300;
 }
 
 #author {

@@ -1,8 +1,9 @@
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>G.W.F. Hegel</title>
         <link rel="stylesheet" href="style.css">
-        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=EB+Garamond" rel="stylesheet">
     </head>
     <body>
         <a id="to-top" href="#author">☝︎</a>

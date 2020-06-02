@@ -151,12 +151,11 @@ their own perceiving. As Harris writes,
 > the dialectic of perception it distinguishes its reflective activity as the
 > source of 'falsity.' [^20]
 
-As is written in my paragraph 15 above, an important (perhaps the most
-important) moment for perception is the realisation that error can lie only in
-the perceiver, and not the object. This is the reason that perception is
-reflective; it realises itself to be, in Harris's words, 'the source of
-falsity'. This reflective realisation is the way that perception escapes the
-aporia described above.
+As is written above, an important (perhaps the most important) moment for
+perception is the realisation that error can lie only in the perceiver, and not
+the object. This is the reason that perception is reflective; it realises itself
+to be, in Harris's words, 'the source of falsity'. This reflective realisation
+is the way that perception escapes the aporia described above.
 
 The crux of the aporia is that, while perception apprehends its object as a One,
 it is also aware of multiple properties in the object, undermining the One-ness
