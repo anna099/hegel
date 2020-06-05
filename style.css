@@ -1,14 +1,14 @@
-html {
+/*html {
     background: #f2ece8;
-}
+}*/
 
 body {
     width: 50%;
     margin: 1% auto 1% auto;
     padding: 20px 40px;
 
-    background: white;
-    border: 1px solid #d8d8d8;
+    /*background: white;
+    border: 1px solid #d8d8d8;*/
 
     font-family: Garamond, 'EB Garamond', serif;
     font-weight: 300;
@@ -16,36 +16,22 @@ body {
 }
 
 p {
-    font-size: 16px;
-    line-height: 20px;
-    margin: 0;
-}
-
-figure { /* contains images */
-    width: 100%;
-    margin: 24px auto 25px 0;
-    padding: 8px;
-
-    background: white;
-}
-
-img {
-    width: 100%;
-}
-
-figcaption { /* img alt text */
-    display: none;
+    font-size: 1.1em;
+    line-height: 1.3em;
+    margin: 0 0 10px;
+    position: relative;
 }
 
 .content>p:before {
     counter-increment: section;
-    content: "[ " counter(section) " ]";
-    font-size: 12px;
-    line-height: 16px;
+    content: "" counter(section) "";
+    font-size: .8em;
+    line-height: 1.1em;
     color: #ccc;
 
-    position: relative;
-    left: 101%;
+    white-space: nowrap;
+    position: absolute;
+    left: 105%;
 }
 
 h1, h2, h3 {
@@ -65,7 +51,8 @@ h1 {
 
 h2 {
     font-family: Optima;
-    padding-top: 20px;
+    font-size: 1.8em;
+    padding-top: 10px;
     font-weight: 300;
 }
 
@@ -73,10 +60,12 @@ h3 {
     margin-bottom: 5px;
     font-weight: 300;
     font-variant: small-caps;
+    font-size: 1.3em;
     text-transform: lowercase;
 }
 
 h4 {
+    font-size: 1.1em;
     margin-bottom: 5px;
 }
 
@@ -94,14 +83,14 @@ blockquote {
 }
 
 blockquote p {
-    font-size: 14px;
+    font-size: 1.1em;
     line-height: normal;
     text-align: justify;
 }
 
 sup {
     color: black;
-    font-size: 10px;
+    font-size: 0.7em;
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
@@ -130,8 +119,9 @@ hr {
 .footnotes li,
 .footnotes p {
     break-inside: avoid-column;
-    font-size: 14px;
+    font-size: 1em;
     line-height: 21px;
+    margin: 0;
 }
 
 .footnotes a {
@@ -179,15 +169,10 @@ hr {
 #contents a {
     text-decoration: none;
     color: black;
-
-    background: linear-gradient(to left, white 50%, #eee 50%);
-    background-size: 200% 100%;
-    background-position: right bottom;
-    transition: all 0.2s ease-out;
 }
 
 #contents a:hover {
-    background-position: left bottom;
+    background: #eee;
 }
 
 #wordcount {
@@ -212,14 +197,5 @@ hr {
 @media (max-width: 1000px) {
     body {
         width: 80%;
-    }
-
-    figure { /* contains images */
-        width: 100%;
-        margin: 24px auto 25px 0;
-        padding: 8px;
-
-        background: white;
-        border: 1px solid #d8d8d8;
     }
 }
