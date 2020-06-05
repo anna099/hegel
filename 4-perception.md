@@ -129,8 +129,6 @@ now*. The last sentence of §117 captures this confusing phenomenon: 'I am thus
 thrown back to the beginning and pulled back into the same cycle which sublates
 itself both in each moment and as a whole'.
 
-![A diagram of the dialectic of perception.](./img/perception.png)
-
 At this point, it might seem as though consciousness has reached an aporia:
 sensuous certainty collapses under its own logic, and gives way to perception,
 which itself collapses and reverts back to sensuous certainty. However, Hegel
