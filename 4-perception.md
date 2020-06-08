@@ -203,7 +203,7 @@ paragraph, which Harris summarises as follows:
 > Whichever side it exhibits as true to the apprehending consciousness it has
 > the opposite truth within itself. [^24]
 
--------------------------------------------------------------------------------
+#### The Illusion of Perception {#illp}
 
 Finally we move beyond the issue of the One and the Many, and enter the domain
 of being-for-itself and being-for-consciousness. Hegel explains that 'the thing

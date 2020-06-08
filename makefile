@@ -3,7 +3,7 @@ PDFOUT := hegel.pdf
 FN := x-footnotes.md
 
 index:
-	pandoc *.md -o $(OUT)
+	pandoc [0-99]*.md $(FN) -o $(OUT)
 	@printf "</body>\n" >> $(OUT)
 	@printf "<script>let c=0,x=document.createElement('p');x.id='wordcount';document.querySelectorAll('p').forEach(x=>c+=x.innerText.split(' ').length);x.innerText=c+' words';document.body.appendChild(x)</script>" >> $(OUT)
 	@printf "</html>" >> $(OUT)

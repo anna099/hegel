@@ -3,7 +3,7 @@
         <meta charset="UTF-8">
         <title>G.W.F. Hegel</title>
         <link rel="stylesheet" href="style.css">
-        <link href="https://fonts.googleapis.com/css2?family=EB+Garamond" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.typekit.net/eny7olf.css">
     </head>
     <body>
         <a id="to-top" href="#author">☝︎</a>
@@ -13,13 +13,13 @@
             <li><a href="#int">Introduction<a>
                 <ol>
                     <li><a href="#what">What is the *Phenomenology of Spirit*?</a></li>
-                    <li><a href="#why">Why a 'System' of Science?</a>
+                    <li><a href="#why">Why a System of Science?</a>
                         <ol>
                             <li><a href="#jacobi">Friedrich Heinrich Jacobi</a></li>
                             <li><a href="#kant">Immanuel Kant</a></li>
                         </ol>
                     </li>
-                    <li><a href="#method">The 'Method' of the Phenomenology</a></li>
+                    <li><a href="#method">The Method of the Phenomenology</a></li>
                 </ol>
             <li><a href="#con">Consciousness</a>
                 <ol>
@@ -28,7 +28,11 @@
                             <li><a href="#re-s-c">Reflections on Sensuous Certainty</a></li>
                         </ol>
                     </li>
-                    <li><a href="#per">Perception</a></li>
+                    <li><a href="#per">Perception</a>
+                        <ol>
+                            <li><a href="#illp">The Illusion of Perception</a></li>
+                        </ol>
+                    </li>
                     <li><a href="#und">Understanding</a></li>
                 </ol>
             </li>

@@ -1,25 +1,27 @@
-/*html {
-    background: #f2ece8;
-}*/
-
 body {
     width: 50%;
     margin: 1% auto 1% auto;
     padding: 20px 40px;
 
-    /*background: white;
-    border: 1px solid #d8d8d8;*/
+    background: #FAF5F3;
 
-    font-family: Garamond, 'EB Garamond', serif;
-    font-weight: 300;
+    font-family: adobe-garamond-pro, serif;
+    font-weight: 400;
     counter-reset: section;
 }
 
 p {
+    margin: 0 0 0.4em;
+    position: relative;
+
     font-size: 1.1em;
     line-height: 1.3em;
-    margin: 0 0 10px;
-    position: relative;
+    text-align: justify;
+}
+
+.content {
+    width: 90%;
+    margin: 0 auto;
 }
 
 .content>p:before {
@@ -45,7 +47,7 @@ h1 {
 
     font-family: Optima;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 24px;
 }
 
@@ -53,20 +55,26 @@ h2 {
     font-family: Optima;
     font-size: 1.8em;
     padding-top: 10px;
-    font-weight: 300;
+    margin-bottom: -0.34em;
+    font-weight: 400;
 }
 
 h3 {
     margin-bottom: 5px;
-    font-weight: 300;
+    font-weight: 400;
     font-variant: small-caps;
     font-size: 1.3em;
     text-transform: lowercase;
 }
 
-h4 {
-    font-size: 1.1em;
-    margin-bottom: 5px;
+h4:not(#author) {
+    font-weight: normal;
+    font-size: 0.9em;
+    text-align: right;
+    width: 7%;
+    position: absolute;
+    margin: 0;
+    left: 18%;
 }
 
 a {
@@ -85,7 +93,6 @@ blockquote {
 blockquote p {
     font-size: 1.1em;
     line-height: normal;
-    text-align: justify;
 }
 
 sup {
@@ -97,14 +104,15 @@ sup {
 }
 
 hr {
+    width: 80%;
     border: none;
-    border-top: 1px solid #eee;
+    border-top: 1px solid rgba(20, 20, 20, 0.2);
 }
 
 .footnotes {
-    border-top: 1px solid #eee;
-    /* width: 90%; */
-    margin: 20px auto;
+    border-top: 1px solid rgba(20, 20, 20, 0.2);
+    width: 150%;
+    margin: 50px -25%;
 }
 
 .footnotes hr {
@@ -113,14 +121,14 @@ hr {
 
 .footnotes ol {
     column-count: 2;
-    column-gap: 10%;
+    column-gap: 5%;
 }
 
 .footnotes li,
 .footnotes p {
     break-inside: avoid-column;
-    font-size: 1em;
-    line-height: 21px;
+    font-size: 0.95em;
+    line-height: 1.3em;
     margin: 0;
 }
 
@@ -137,15 +145,15 @@ hr {
     text-align: center;
     font-size: 12px;
     font-style: italic;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 #author {
     text-align: center;
     margin: 0 0 10px 0;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 0.1em;
-    color: #888;
+    color: rgba(0, 0, 0, 0.6);
 }
 
 #contents {
@@ -172,7 +180,7 @@ hr {
 }
 
 #contents a:hover {
-    background: #eee;
+    background: rgba(3, 1, 1, 0.1);
 }
 
 #wordcount {

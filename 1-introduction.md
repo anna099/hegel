@@ -35,7 +35,7 @@ brighter and clearer light. Though there is still a lot of disagreement over the
 interpretation of Hegel, we are now in a better place than ever to understand
 what the meaning and purpose of his *Phenomenology of Spirit* is.
 
-### Why a 'System' of Science? {#why}
+### Why a System of Science? {#why}
 
 Part of what makes Hegel's work so intimidating is its insistence on
 systematicity. The *Phenomenology* alone is an incredibly systematic work,
@@ -138,7 +138,7 @@ had to (1) overcome the Kantian dualisms that lacked an intelligible grounding,
 and (2) account for the emergence of individual, willing things within a
 monistic reality. This is the project for Hegel's system.
 
-### The 'Method' of the Phenomenology {#method}
+### The Method of the Phenomenology {#method}
 
 If we read on from the quotation from Hegel's *Logic* above, we find a hint of
 how exactly Hegel wants to surpass Kantian dualisms:
