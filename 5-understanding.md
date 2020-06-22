@@ -102,7 +102,7 @@ comprehending the thing's manifold *properties* (which, in perception, had led
 to a contradiction between for-itself and for-another) as expressions of a
 *unified* substance (that is, force).
 
-#### Genuine Force and Expression
+#### Genuine Force and Expression {#genu}
 
 As noted above, force is an occurrence; the object of the understanding is thus
 not static, but always in a kind of process. More precisely, force is the
@@ -192,18 +192,40 @@ experience.[^42]
 > which is the first and for that reason incomplete appearance of reason, or the
 > pure element in which the truth has its *essence*.[^43]
 
+Crucially, the supersensible is 'disclosed' 'over and above' the world of
+appearance. Consciousness does not discover it by *turning away* from
+appearance; rather, 'it looks *through appearance* as through a veil. It sees
+appearance pointing to a stable being beyond appearance, not realizing that this
+projected being is itself'.[^44] That is to say, it is *consciousness itself*
+that is projected insofar as the 'categories' of appearance, to use a Kantian
+term (for instance, 'active' and 'passive' in the context of force), are
+products of *thought* and not of *being*.
+
 This Real -- the 'inner' that Hegel refers to -- is a 'pure other-worldly
-beyond' to consciousness: it is entirely beyond the scope of thinking. As such,
-it is a kind of **nothingness**, since it is defined only in the negative, as
-that which *does not appear* to consciousness. Consciousness has therefore found
+beyond' to consciousness: it is the result of a projection of thought, and yet
+is also entirely beyond the scope of thinking. As such, it is a kind of
+**nothingness**, since it is defined only in the negative, as that which *does
+not appear* to consciousness -- to use another Kantian term, the supersensible
+is not something that can be *intuited*. Consciousness has therefore found
 itself in another trap, wherein experience is concerned only with untrue
 semblances (appearances), and the Real is merely an unknowable void. Anything
 that *can* be experienced is a fiction; for consciousness, 'daydreams themselves
-are still better than its emptiness'.[^44]
+are still better than its emptiness'.[^45]
 
 Finding itself having to settle with either *untruth* (on the side of semblance
 and appearance) or opaque *nothingness* (on the side of the supersensible Real
 of force), consciousness tries to save itself by once again refining its
 position. The 'other-worldly beyond' is now posited as **law**: after all,
 'natural laws' both govern (that is, *determine*) the world of experience and
-yet also stand beyond it.
+yet also stand beyond it. In describing the *law of force*, it is clear that
+Hegel has Plato (amongst other philosophers) in mind. Plato is the archetypal
+philosopher of the beyond: he recognises that truth and essence cannot be found
+in the world of appearance, since the latter is so constantly in *flux*:
+
+> First, we see (or think we see) the thing that we have just now been calling
+> *water* condensing and turning to stones and earth. Next, we see this same
+> thing dissolving and dispersing, turning to wind and air, and air, when
+> ignited, turning to fire. …  Now then, since none of these appears ever to
+> remain the same, which one of them can one categorically assert, without
+> embarrassment, to be some particular thing, *this* one, and not something
+> else? One can't.[^46]

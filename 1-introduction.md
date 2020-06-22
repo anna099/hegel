@@ -168,7 +168,7 @@ along natural consciousness's transformation -- contains an element of *untruth*
 insofar as it is not (yet) absolute knowing; and rather than simply 'doubting'
 the shape of consciousness in response to its untruth, Hegel's approach is to
 take the negative element -- the untruth -- and to *negate it*, resulting in a
-'negation of a negation', or what hegel calls a **determinate negation**. What
+'negation of a negation', or what Hegel calls a **determinate negation**. What
 this is, and how exactly it works, will become clearer later on, but here is
 Hegel's explanation of determinate negation from his introduction:
 
@@ -178,7 +178,7 @@ Hegel's explanation of determinate negation from his introduction:
 > *determinate* nothing and it has a *content*. ... while the result is grasped
 > as it is in truth, as *determinate* negation, a new form [of consciousness]
 > has thereby immediately arisen, and in the negation, the transition is made
-> whereby the progression through the copmlete series of shapes comes about on
+> whereby the progression through the complete series of shapes comes about on
 > its own accord.<sup>[i](#i)</sup>
 
 What follows in these notes is a reconstruction of the various stages that

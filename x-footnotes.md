@@ -43,4 +43,6 @@
 [^41]: §141.
 [^42]: §143.
 [^43]: §144.
-[^44]: §146.
+[^44]: Kalkavage, *The Logic of Desire*, p. 72. Emphasis added.
+[^45]: §146.
+[^46]: Plato, *Timaeus*, translated by D. J. Zeyl, in *Complete Works*, edited by J. M. cooper and D. S. Hutchinson. (Cambridge: Hackett, 1997), 49b-d.
