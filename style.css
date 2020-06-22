@@ -3,8 +3,6 @@ body {
     margin: 1% auto 1% auto;
     padding: 20px 40px;
 
-    background: #FAF5F3;
-
     font-family: adobe-garamond-pro, serif;
     font-weight: 400;
     counter-reset: section;
