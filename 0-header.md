@@ -33,7 +33,11 @@
                             <li><a href="#illp">The Illusion of Perception</a></li>
                         </ol>
                     </li>
-                    <li><a href="#und">Understanding</a></li>
+                    <li><a href="#und">Understanding</a>
+                        <ol>
+                            <li><a href="#solicit">The Solicitation & Breakdown(s) of Force</a></li>
+                        </ol>
+                    </li>
                 </ol>
             </li>
         </ol>

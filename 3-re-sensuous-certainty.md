@@ -14,15 +14,15 @@ the investigation. So, if Hegel has any methodology at all, it appears to be an
 *anti*-methodology, a method to suspend all methods.'[^6] So, the
 *Phenomenology* begins with the most familiar, unconceptualised form of
 experience: immediate certainty of sensuous objects. The language that expresses
-this experience - at least according to 'common sense' - expresses the simple,
+this experience -- at least according to 'common sense' -- expresses the simple,
 particular being of these objects. 'We are in the world that Adam bequeathed to
 us,' Harris writes, 'the world of *things with names* ... this is how our
-language gets its significance - by referring to objects whose "being" we can
+language gets its significance -- by referring to objects whose "being" we can
 confirm by a simple use of the senses.'[^7]
 
 It is language that best illuminates the dialectic of sensuous certainty.
 Language, in naming the 'immediate' object of experience, realises before we do
-that the immediate - 'what *truly* is' - is precisely what is *not*. As soon as
+that the immediate -- 'what *truly* is' -- is precisely what is *not*. As soon as
 I put a name to *this moment*, it has passed away and *is* no longer. The actual
 truth lies in the universality of the concepts that language employs, and *not*
 in the things of experience. As such, the modern skeptics like Hume, who endorse
@@ -38,9 +38,9 @@ universal concepts of language snatch all particularity and immediacy out of the
 question, and all that remains is universal and conceptual. The modern Humean
 skeptics would therefore be wise to familiarise themselves with the ancient
 participants of the Eleusinian mysteries who, in their *consumption* of sensuous
-things, were assured of their ultimate impermanence. Likewise, even animals -
+things, were assured of their ultimate impermanence. Likewise, even animals --
 for whom all sensuous things are the objects of an instinctual desire to survive
-- realise the impermanence of these things. 'Despairing of the reality of those
+-- realise the impermanence of these things. 'Despairing of the reality of those
 things and in the total certainty of the nullity of those things, they without
 further ado simply help themselves to them and devour them. Just like the
 animals, all of nature celebrates those revealed mysteries which teach the truth
@@ -55,5 +55,5 @@ about sensuous things.'[^9]
 This is how Hegel concludes the chapter on sensuous certainty. The 'truth of
 sensuous-certainty' contains its *un*truth; the immediacy of
 sensuous-certainty's objects inevitably dissolves as soon as it is acknowledged
-and, consequently, a new - *mediated* - claim to absolute knowledge comes on the
+and, consequently, a new -- *mediated* -- claim to absolute knowledge comes on the
 scene: **perception**.

@@ -63,7 +63,7 @@ name it so; 'now' is always *my* 'now'.
 Who is this 'I'? As the subject that names an object to be a particular This, at
 a particular *here and now*, it must too be a particular. There is an 'I' for
 each moment; an 'I' for each This that is apprehended. However, this radical
-particularity can only be realised by comparison - contradistinction - with
+particularity can only be realised by comparison -- contradistinction -- with
 other radical particulars. From whose standpoint is this comparison carried out?
 It is precisely through the *universal* 'I' that it is done. In all experience
 of sensuous-certainty, 'what does not appears is *I as universal*, whose
@@ -77,15 +77,15 @@ knowledge by (ostensibly) grasping its object *immediately*, as a particular
 'this', in a particular time and space. Sensuous-certainty started with the
 *object* because any shape of consciousness (as opposed to self-consciousness)
 starts off as directed towards something that is not itself. This immediate
-particularity was negated, however, as the very concepts - 'This', 'Here', and
-'Now' - that were supposed to be the guarantors of radical particularity turned
+particularity was negated, however, as the very concepts -- 'This', 'Here', and
+'Now' -- that were supposed to be the guarantors of radical particularity turned
 out to be universals, defined through negation (the *true* 'now' is always
 *not*-now; it can *never* be named). Thus, following the first dialectical
 moment, the *object* (the universal This) became the essential character of
 sensuous-certainty. Following this, however, it is the universal *subject* that
 becomes essential, since there must be an agent of comparison to realise the
 negativity that constitutes the universal object. That is to say, there must be
-a subject who - *through comparison* - realises the true Now as a universal
+a subject who -- *through comparison* -- realises the true Now as a universal
 'not-now'.
 
 The third and final moment of sensuous-certainty tries for absolute knowledge
@@ -111,7 +111,7 @@ Lastly, this negation is *itself* negated, and we return to the first Now,
 albeit in a *mediated* manner. Realising that time is an ever-appearing
 *disappearing*; a dialectical *unity* of appearing and disappearing wherein now
 is always going away, consciousness returns to the newly-contextualised Now,
-which is henceforth seen as one moment - one particuklar - amongst many. This
+which is henceforth seen as one moment -- one particuklar -- amongst many. This
 *sublated* Now of the third moment is thus a 'Now of Nows': an hour of minutes,
 a minute of seconds, etc. As Hegel writes, '*Pointing out* is thus itself the
 movement that declares what the Now in truth is, namely, a result, or a

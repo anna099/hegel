@@ -26,11 +26,21 @@
 [^24]: Harris, *Hegel's Ladder*, p. 249.
 [^25]: §123.
 [^26]: Ibid.
-[^27]: Peter Kalkavage, *The Logic of Desire*, p. 50.
+[^27]: Peter Kalkavage, *The Logic of Desire*. (Philadelphia, PA: Paul Dry Books, 2007), p. 50.
 [^28]: §128.
 [^29]: §131.
-[^30]: These terms - 'manifest' and 'scientific' image - are taken from Wilfrid Sellars, "Philosophy and the Scientific Image of Man", in *Science, Perception, and Reality*. (Atascadero, CA: Ridgeview Publishing Company, 1991), pp. 1-40.
+[^30]: These terms -- 'manifest' and 'scientific' image -- are taken from Wilfrid Sellars, "Philosophy and the Scientific Image of Man", in *Science, Perception, and Reality*. (Atascadero, CA: Ridgeview Publishing Company, 1991), pp. 1-40.
 [^31]: Terry Pinkard, *Hegel's Phenomenology: The Sociality of Reason*. (Cambridge: Cambridge University Press, 1994), p. 34
 [^32]: §132.
 [^33]: Ibid.
 [^34]: Isaac Newton, *The Mathematical Principles of Natural Philosophy*, Volume I, translated by A. Motte (Oxford: B. Motte, 1729), p. 20.
+[^35]: §136.
+[^36]: Ibid.
+[^37]: Jean Hyppolite, *Genesis and Structure of Hegel's Phenomenology of Spirit*, translated by S. Cerhniak and J. Heckman. (Evanston, IL: Northwestern University Press, 1974), pp. 120-1.
+[^38]: §137. Emphasis added.
+[^39]: §139.
+[^40]: Kalkavage, *The Logic of Desire*, p. 67.
+[^41]: §141.
+[^42]: §143.
+[^43]: §144.
+[^44]: §146.

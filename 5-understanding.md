@@ -2,11 +2,11 @@
 #### Appearance and the Supersensible World {.subtitle}
 
 Part A of the *Phenomenology*, entitled *Consciousness*, shows the development
-of universality - that is, the development of that which makes objects
+of universality -- that is, the development of that which makes objects
 thinkable. In sensuous certainty, universality was simply denied; consciousness
 claimed to have immediate access to its object as a This. But this claim turned
-out to be untrue, and sensuous certainty gave rise to the sensuous universal -
-the property - which perception embraced, in its conceptualising of the
+out to be untrue, and sensuous certainty gave rise to the sensuous universal --
+the property -- which perception embraced, in its conceptualising of the
 individual Thing. This, too, turned out to be mistaken, as the individuality
 that perception held to be true was mere sophistry, and what emerged was a
 notion of the Thing as being-for-another: a set of relations to other things
@@ -18,16 +18,16 @@ being-for-itself and being-for-another are hereby united, we can no longer make
 claims about objects as they are *for us* without also making the same claims
 about the objects as they are *in themselves*. Otherwise, we would end up back
 in the aporia of perception, wherein consciousness seems to falsify the object.
-So - how does Hegel make sense of this unity, this 'force'?
+So -- how does Hegel make sense of this unity, this 'force'?
 
 Force was a central concept in eighteenth-century physics, with Leibniz and
-Newton establishing the system of *dynamics* - that is, the science of force
+Newton establishing the system of *dynamics* -- that is, the science of force
 which attempts to find regularity in the apparently chaotic universe: why do
 objects fall to the ground? Why do the planets move? What keeps me from falling
 through my chair? -- These are central questions of force. Force can therefore
 be understood as *cause and effect*, *expression and expressed*, and so on. It
 is in this section of the *Phenomenology*, on force and the understanding, in
-which objects are first conceptualised as things of force - the *appearance* of
+which objects are first conceptualised as things of force -- the *appearance* of
 a thing is the appearance of *force's action*: a thing, in this sense, is
 therefore a *happening* (a th-ing). Note the subtitle of the chapter,
 *Appearance and the Supersensible World*: at the stage of understanding,
@@ -65,21 +65,21 @@ the object] and not consciousness as such in its content, the result for
 consciousness is to be posited [only] in its objective meaning'.[^32] Despite
 the fact that the word 'objective' might usually signal an exhaustive account
 for us, for Hegel, consciousness that grasps only *objective* essence is not
-complete, since it thereby neglects the *subjective* - that is, consciousness
+complete, since it thereby neglects the *subjective* -- that is, consciousness
 itself. Only when both objectivity and subjectivity have been united in the same
 shape of consciousness can consciousness be the complete **concept**. This will
 be the concern of the next section in the *Phenomenology*; for now, we will deal
 with the intricacies of the understanding.
 
-In contrast to self-certainty and perception, the focus of the understanding -
-that is, the unconditioned universal - is a *thought*, rather than a sensuous,
+In contrast to self-certainty and perception, the focus of the understanding --
+that is, the unconditioned universal -- is a *thought*, rather than a sensuous,
 empirical, perceivable thing. It is the result of a 'bringing together of
 thought'.[^33] This is a necessity if perception is to be surpassed, because
 while perception recognised the independence of things (each thing is a One
 distinct from others), it fails to recognise the *causal dependence* of every
 thing on every other thing, insofar as all things are part of one coherent
-reality. Perception indeed *cannot* notice this dependence, because - as Hume
-notes - causation is not a perceptible phenomenon. The understanding posits
+reality. Perception indeed *cannot* notice this dependence, because -- as Hume
+notes -- causation is not a perceptible phenomenon. The understanding posits
 force as the substance of things so that causation, and all other relations
 between things, are real, *essential* parts of reality (as opposed to the
 imperceptible and unessential elements of perceptual reality which led to the
@@ -96,8 +96,114 @@ motion:
 Just as, according to the Third Law, an object forcing itself upon another is
 always met with an opposing force, so too is the thing of the understanding
 asserted (in its independence, and its determinateness) by opposition to other
-things. Independence thus requires dependence. In this way, the understanding
-saves consciousness from the aporia of perception by comprehending the thing's
-manifold *properties* (which, in perception, had led to a contradiction between
-for-itself and for-another) as expressions of a *unified* substance (that is,
-force).
+things. Independence thus requires dependence (on these opposite things). In
+this way, the understanding saves consciousness from the aporia of perception by
+comprehending the thing's manifold *properties* (which, in perception, had led
+to a contradiction between for-itself and for-another) as expressions of a
+*unified* substance (that is, force).
+
+#### Genuine Force and Expression
+
+As noted above, force is an occurrence; the object of the understanding is thus
+not static, but always in a kind of process. More precisely, force is the
+movement wherein 'those differences [properties, aspects, etc.] which are
+posited as self-sufficient immediately pass over into their unity, and their
+unity immediately passes over into an unfolding'.[^35] That is to say, force is
+a process of two moments which negate one another: in the first, the manifold
+elements of the thing are brought together to make a One; in the second moment,
+the One is *expressed* (that is, it *appears*) and thus becomes a Many of
+manifold appearing qualities. This process, this movement, is exactly the same
+process that brought about the downfall of perception. The difference here, for
+the understanding, is that the process is posited as an essential feature of
+things -- that is, as something *objective* -- rather than a confusion on behalf
+of the perceiver (i.e., as something *subjective*). As Hegel writes, 'the
+movement, which previously turned out to be the self-defeating contradictory
+concept, therefore here has objective form and is a movement of force'.[^36]
+
+In explaining the movement of force, Hegel gives a name to each side of the
+movement: 'genuine force' [*eigentliche Kraft*] is the first moment described
+above, wherein a thing is drawn together to make a One, and 'expression'
+[*Äußerung*] is the second moment, wherein the thing is expanded into a manifold
+appearance. But what causes this movement in the first place? Why is force a
+process? Hegel's answer is that it is simply in the nature of force to undergo
+the moments of expression and genuine force. For instance, the force of heat
+would be meaningless if it did not *express itself* by making other things hot,
+and it would be unable to express itself if it was not *genuinely* hot itself.
+As Hyppolite remarks, 'force makes sense only insofar as it manifests itself and
+poses what is inside itself outside itself'; force is thus 'the unity of itself
+and its externalization'.[^37]
+
+#### The Solicitation & Breakdown(s) of Force {#solicit}
+
+Forces express themselves: that much has been established. But what causes them
+to express themselves? What causes them to *actualise* their potentiality? It
+can be nothing else but another actuality; as far back as Aristotle, it has been
+understood that actuality is always prior to potentiality. And in the case of
+*force*, the actuality that provokes expression is always another force; a
+force's 'expression is represented so that this *other* approaches it and
+**solicits** it'.[^38] This is all in keeping with Newton's Third Law: the
+understanding now witnesses two forces, one of which is soliciting and active,
+the other of which is solicited and passive. These two forces supply the 'event'
+of force with the action and reaction that constitute it.
+
+However, at this point we have to ask: what solicits the soliciting force? The
+answer (refer again to Newton's Law) is the *solicited force*. As such --
+confusingly -- the soliciting force solicits the solicited force, and vice versa
+… the two are thus indiscernible.
+
+> The one which is soliciting is, for example, posited as a universal medium
+> and, in contrast, the solicited one as the force driven back. However, the
+> former is a universal medium itself only as a result of the other being the
+> force that is driven back; or, the latter is instead the one that is
+> soliciting for the former and is what makes the former into a medium in the
+> first place. The former only has its determinateness through the other, and it
+> is soliciting only insofar as it is solicited by the other. It immediately
+> loses as well this determinateness given to it, for this determinateness
+> passes over into the other, or, instead, it has already passed over into that
+> other.[^39]
+
+Think, for example, of the moment a tennis racket hits a ball. We might be
+inclined to say that the racket is the active participant in the event of
+hitting, and that the ball is passive; however, the racket could not hit the
+ball at all (nor vice versa) if the ball had not *solicited* the solidity of the
+racket. Thus the ball, too, can be seen as the active role. Both the racket and
+the ball have solicited one another; therefore, neither is truly *just the
+agent* or *just the patient*. Consequently, Newton's Third Law -- in describing
+'action and reaction' -- actually 'expresses the *nullity* of force'.[^40]
+Although the understanding wanted to grasp objective truth, and attempted to do
+so by attributing force to the objects themselves, it turns out that the only
+sense in which force is *actual* is in *thought*; force as substance (as the
+substance of all things) turns out to be merely a 'play' [*Spiel*] of moments in
+thought. 'The realization of force is therefore at the same time the loss of
+reality'.[^41] 'Active and passive', 'form and content', are ways of emphasising
+parts of reality *in thought*; they are not parts or distinctions of reality
+itself. In this way, consciousness has discovered idealism.
+
+And yet, in its desperation for objectivity, consciousness *ignores* this
+idealism, and comes up with another way of attributing force to the real world.
+Consciousness asserts that force constitutes 'the true background of things';
+the world as it appears to us is thus excused from its contradictions (e.g.
+between form and content, one and many) insofar as it is merely an *appearance*
+of a supersensible Real of force: a world that lies beyond that of our
+experience.[^42]
+
+> That is, over and above the vanishing *this-worldliness* [*Diesseits*], there
+> is disclosed an enduring *other-worldly beyond* [*Jenseits*], an in-itself
+> which is the first and for that reason incomplete appearance of reason, or the
+> pure element in which the truth has its *essence*.[^43]
+
+This Real -- the 'inner' that Hegel refers to -- is a 'pure other-worldly
+beyond' to consciousness: it is entirely beyond the scope of thinking. As such,
+it is a kind of **nothingness**, since it is defined only in the negative, as
+that which *does not appear* to consciousness. Consciousness has therefore found
+itself in another trap, wherein experience is concerned only with untrue
+semblances (appearances), and the Real is merely an unknowable void. Anything
+that *can* be experienced is a fiction; for consciousness, 'daydreams themselves
+are still better than its emptiness'.[^44]
+
+Finding itself having to settle with either *untruth* (on the side of semblance
+and appearance) or opaque *nothingness* (on the side of the supersensible Real
+of force), consciousness tries to save itself by once again refining its
+position. The 'other-worldly beyond' is now posited as **law**: after all,
+'natural laws' both govern (that is, *determine*) the world of experience and
+yet also stand beyond it.

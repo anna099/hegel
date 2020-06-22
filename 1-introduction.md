@@ -23,7 +23,7 @@ text: it has been interpreted as a metaphysical Bildungsroman, a systematic
 defence of orthodox Christianity, a revolutionary *critique* of Christianity,
 and as a text that is proto-existentialist, proto-communist, proto-fascist, or
 proto-nihilistic. The two social categories of twentieth century philosophical
-thought - 'analytic' and 'Continental' philosophy - both emerged from the
+thought -- 'analytic' and 'Continental' philosophy -- both emerged from the
 British and Austro-German reception of Hegel's work. Prior to the Second World
 War, Hegel scholarship was often dogmatic or idiosyncratic, with Alexandre
 Kojève's famous reading<sup>[b](#b)</sup>, endorsed by Sartre and De Beauvoir,
@@ -53,7 +53,7 @@ nineteenth-century Germany. The 'pantheism controversy' that shook up German
 (and eventually, wider European) intellectual culture was initiated when Jacobi
 made provocative claims against Gotthold Lessing and the tradition of German
 (Leibnizian) rationalism that was predominant at the time. According to Jacobi,
-rationalism - which understood *reasons* as grounding explanations for facts -
+rationalism -- which understood *reasons* as grounding explanations for facts --
 inevitably led to monistic, fatalist atheism of the controversial kind that
 Spinoza had been accused of. The principle of Leibnizian rationalism was the
 *Principle of Sufficient Reason*, which Jacobi equated with the idea that *ex
@@ -95,7 +95,7 @@ kind of dualism in which the physical (Newtonian phenomena) and the metaphysical
 for Kant, the mind has separate faculties: the receptive *sensibility*, which
 intuits finitely intelligible (i.e. causal) information from the Newtonian
 physical world, and the spontaneous faculty of *reason*, which cognised about
-infinitely intelligible (i.e. Leibnizian, grounded) things in themselves -
+infinitely intelligible (i.e. Leibnizian, grounded) things in themselves --
 albeit only in a *formal* sense. Kant accordingly divides reality, giving the
 name 'noumena' to those things in themselves that we cannot sensibly intuit
 (that is, objects that belong only to the understanding), and 'phenomena' to all
@@ -115,15 +115,15 @@ himself from Bishop Berkeley:
 
 > Objectivity of thought, in Kant's sense, is again to a certain sense
 > subjective. Thoughts, according to Kant, although universal and necessary
-> categories, are *only our* thoughts - separated by an impassable gulf from the
+> categories, are *only our* thoughts -- separated by an impassable gulf from the
 > thing, as it exists apart from our knowledge.<sup>[d](#d)</sup>
 
 Jacobi also, less subtly, failed to meet the monistic
 demand, since he followed Hume in suggesting that we merely place *faith* in an
 unintelligible grounding of our knowledge. Thus the post-Kantian tradition of
 German Idealism, to which Hegel belongs, was born. Paul Franks says of the
-German Idealists - the most notable amongst them Fichte, Schelling, and Hegel -
-that
+German Idealists -- the most notable amongst them Fichte, Schelling, and Hegel
+-- that
 
 > they are all committed, in various ways, to the view that genuine
 > justification can be achieved only within a system that meets two conditions:
@@ -163,11 +163,11 @@ which we typically think, prior to any 'philosophising'. This is not at all to
 be taken as a claim that 'common sense' holds all of the answers to
 philosophical problems; on the contrary, 'natural consciousness will prove to be
 only the concept of knowing, or it will prove to be *not real
-knowing*'.<sup>[h](#h)</sup> Each 'shape of consciousness' - that is, each stage
-along natural consciousness's transformation - contains an element of *untruth*
+knowing*'.<sup>[h](#h)</sup> Each 'shape of consciousness' -- that is, each stage
+along natural consciousness's transformation -- contains an element of *untruth*
 insofar as it is not (yet) absolute knowing; and rather than simply 'doubting'
 the shape of consciousness in response to its untruth, Hegel's approach is to
-take the negative element - the untruth - and to *negate it*, resulting in a
+take the negative element -- the untruth -- and to *negate it*, resulting in a
 'negation of a negation', or what hegel calls a **determinate negation**. What
 this is, and how exactly it works, will become clearer later on, but here is
 Hegel's explanation of determinate negation from his introduction:

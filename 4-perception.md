@@ -1,8 +1,8 @@
 ### Perception {#per}
 
 Where sensuous certainty claimed to find absolute truth in the particular and
-the immediate, perception - arising *necessarily* from the dialectic of sensuous
-certainty - makes its claim to absolute truth in mediated, simple universals:
+the immediate, perception -- arising *necessarily* from the dialectic of sensuous
+certainty -- makes its claim to absolute truth in mediated, simple universals:
 precisely, *things*. A thing is a thing with many properties, perceived by a
 universal subject. The Thing of perception is the result of the sublated This
 that had its origin in sensuous certainty; as a determine negation, a
@@ -92,12 +92,12 @@ understanding it in the light of the idea of '*community*'. The object is both
 with similar properties. So, to continue my example, the book is now understood
 as *(a)* the sum total of its properties: its heaviness, greenness, and so on,
 and also *(b)* one book *amongst many*; a member of the community of objects
-that have pages, contain text, and so on - that is, a community defined by
+that have pages, contain text, and so on -- that is, a community defined by
 certain properties. But what determines these properties? What makes the book
 'heavy'? It is heavy precisely because it is *not light*; its heaviness is the
 *exclusion* of non-heaviness. As such I perceive the object's properties as
 *determinate* through opposition to (and exclusion of) an Other; consequently, I
-was mistaken again to conceptualise the object as a community - after all,
+was mistaken again to conceptualise the object as a community -- after all,
 community is defined primarily by *in*clusion. If the 'community'
 conceptualisation of the object was a *negation* of the 'One' conceptualisation,
 then I must negate this negation, and posit the object as an *excluding* One. As
@@ -166,8 +166,8 @@ ceases to be One as *falling within us*'.[^21] What this means is that the
 consciousness, rather than an attribute of the thing perceived. The properties
 of the thing 'come undone from each other', as Hegel puts it, merely because we
 perceive the thing in multiple diverse moments. Consequently, the thing *is* One
-after all; and the diversity we perceive in it - the *multiplicity* of
-properties - is attributed to the diversity of our perceiving.
+after all; and the diversity we perceive in it -- the *multiplicity* of
+properties -- is attributed to the diversity of our perceiving.
 
 But on the other hand, the thing must *surely* have a diverse multiplicity of
 properties, since it is this multiplicity that, through excluding the properties
@@ -185,12 +185,12 @@ a plant, *insofar as* it is green, is not tall, and *insofar as* it is tall, it
 is not spiky, and so on.
 
 At this point, consciousness has become aware that it has a twofold way of
-viewing things, as (1) subjectively - that is, as a subjectively posited One -
-and (2) objectively - that is, taken in itself as a multiplicity of properties.
+viewing things, as (1) subjectively -- that is, as a subjectively posited One --
+and (2) objectively -- that is, taken in itself as a multiplicity of properties.
 But *that the thing can be viewed in such a twofold manner* implies that **the
 thing itself is twofold**: it exists 'in a determinate way *for the*
 comprehending *consciousness*', but also in 'the way in which it offers itself
-and is reflected itself *back into itself*' - in other words, the thing has its
+and is reflected itself *back into itself*' -- in other words, the thing has its
 truth as for-consciousness, and 'in its own self has an opposed truth'.[^23]
 Here is where the distinction between *being-for-self* and *being-for-another*
 first emerge. The question of whether the unity of thinghood should be
@@ -211,8 +211,8 @@ is *One*, reflected into itself; it is *for itself*, but it is also *for an
 other*, namely, it is an *other* for itself *as it* is for an other'.[^25] That
 is to say, the thing's being-for-itself is not solely determined by the essence
 of the thing's being-for-itself, but also by the *other* that is perceiving it.
-Put another way, the *twofold character* of the thing - the contradiction
-between its being-for-itself and being-for-another - 'is distributed into two
+Put another way, the *twofold character* of the thing -- the contradiction
+between its being-for-itself and being-for-another -- 'is distributed into two
 objects'; 'The thing therefore is in and for itself, self-equal, but *this unity
 with itself is disturbed through other things*'.[^26]
 
@@ -241,7 +241,7 @@ thing ... as such, the thing is constitutively contradictory: 'it is for itself
 insofar as it is for others, and *it is for others insofar as it is for
 itself*'.[^28] As far as the *thing of perception* is concerned, independence
 depends on others; independence is not independent. Thus perception comes to an
-end, as its grasp on sensuous universals turns out to be an illusion - merely a
+end, as its grasp on sensuous universals turns out to be an illusion -- merely a
 contradictory play of 'empty abstractions' (*singularity*, *universality*,
 *essence*, and so on). Perception is the shape of consciousness most often
 understood to be 'common sense', and yet it completely fails to actually grasp
