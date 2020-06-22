@@ -8,6 +8,11 @@ body {
     counter-reset: section;
 }
 
+body.dark {
+    color: #f1edea;
+    background: #20190e;
+}
+
 p {
     margin: 0 0 0.4em;
     position: relative;
@@ -80,6 +85,10 @@ a {
     color: #515c94;
 }
 
+.dark a {
+    color: #a6cade;
+}
+
 a:hover {
     text-decoration: underline;
 }
@@ -101,16 +110,18 @@ sup {
     top: -0.4em;
 }
 
-hr {
-    width: 80%;
-    border: none;
-    border-top: 1px solid rgba(20, 20, 20, 0.2);
+.dark sup {
+    color: #f1edea;
 }
 
 .footnotes {
     border-top: 1px solid rgba(20, 20, 20, 0.2);
     width: 150%;
     margin: 50px -25%;
+}
+
+.dark .footnotes {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .footnotes hr {
@@ -138,6 +149,14 @@ hr {
     color: #515c94;
 }
 
+.dark .footnotes a {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.dark .footnotes a:hover {
+    color: white;
+}
+
 .subtitle {
     margin: -0.5em 0 10 0;
     text-align: center;
@@ -152,6 +171,10 @@ hr {
     font-weight: 400;
     letter-spacing: 0.1em;
     color: rgba(0, 0, 0, 0.6);
+}
+
+.dark #author {
+    color: rgba(255, 255, 255, 0.6);
 }
 
 #contents {
@@ -177,8 +200,17 @@ hr {
     color: black;
 }
 
+.dark #contents a {
+    color: #a6cade;
+}
+
 #contents a:hover {
     background: rgba(3, 1, 1, 0.1);
+}
+
+.dark #contents a:hover {
+    background: rgba(255, 255, 255, 0.3);
+    color: yellow;
 }
 
 #wordcount {
@@ -187,7 +219,8 @@ hr {
     margin-top: 4em;
 }
 
-#to-top {
+#to-top,
+#lightswitch {
     position: fixed;
     top: 10;
     left: 10;
@@ -195,9 +228,25 @@ hr {
     font-size: 24px;
 }
 
-#to-top:hover {
+#to-top:hover,
+#lightswitch:hover {
     text-decoration: none;
     color: rgba(0, 0, 0, 1);
+}
+
+.dark #to-top,
+.dark #lightswitch {
+    color: rgba(255, 255, 255, 0.4)
+}
+
+.dark #to-top:hover,
+.dark #lightswitch:hover {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+#lightswitch {
+    left: 40;
 }
 
 @media (max-width: 1100px) {
@@ -206,11 +255,12 @@ hr {
     }
 
     h4:not(#author):not(.subtitle) {
-        width: 100%;
+        width: 50%;
         position: static;
-        margin-top: 1em;
+        margin: 1em auto 0.6em auto;
         font-size: 1.1em;
-        text-decoration: underline;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(20, 20, 20, 0.4);
         text-align: center;
     }
 

@@ -4,9 +4,11 @@
         <title>G.W.F. Hegel</title>
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="https://use.typekit.net/eny7olf.css">
+        <script src="script.js"></script>
     </head>
     <body>
         <a id="to-top" href="#author">☝︎</a>
+        <a id="lightswitch">☀︎</a>
         <h4 id="author">Georg Wilhelm Friedrich Hegel</h4>
         <h1>The Phenomenology of Spirit</h1>
         <ol id="contents">

@@ -229,3 +229,19 @@ in the world of appearance, since the latter is so constantly in *flux*:
 > remain the same, which one of them can one categorically assert, without
 > embarrassment, to be some particular thing, *this* one, and not something
 > else? One can't.[^46]
+
+Of course, this is something fundamental to Hegel's work too; the constant flux
+of the world is the *dialectical* character of reality. Now, as described above,
+consciousness (at this point in its development, at least) is desperate for
+objectivity and stasis; as such, it looks for a way to *ground* this flux in
+something stable. This is precisely the role of the law of force: when
+consciousness cannot deny that everything is always in flux, and all objects
+constantly undergo self-cancellation and self-overcoming, 'it takes the immanent
+"beyond-ing" of self-cancellation that appearance *is* and objectifies this
+essence as a transcendent Beyond'.[^47] Kalkavage's wording is useful here,
+because he clarifies that appearance *is* self-cancellation, *by definition*.
+Since the supersensible is fundamentally negative (it is defined by what it is
+*not*, by what it *cancels out*), it is the result of hypostasising the
+self-cancellation that appearance is identified as. It is for this reason that
+Hegel writes: 'The supersensible is therefore *appearance* as
+*appearance*'.[^48]
