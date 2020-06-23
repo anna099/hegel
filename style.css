@@ -3,7 +3,7 @@ body {
     margin: 1% auto 1% auto;
     padding: 20px 40px;
 
-    font-family: adobe-garamond-pro, serif;
+    font-family: 'Arno Pro', adobe-garamond-pro, serif;
     font-weight: 400;
     counter-reset: section;
 }
@@ -14,7 +14,8 @@ body.dark {
 }
 
 p {
-    margin: 0 0 0.4em;
+    /* margin: 0 0 0.4em; */
+    margin-bottom: 0;
     position: relative;
 
     font-size: 1.1em;
@@ -22,8 +23,14 @@ p {
     text-align: justify;
 }
 
+p + p {
+    text-indent: 1em;
+    margin-top: 0;
+}
+
 .content {
-    width: 90%;
+    width: 33em;
+    /* width: 90%; */
     margin: 0 auto;
 }
 
@@ -39,19 +46,28 @@ p {
     left: 105%;
 }
 
-h1, h2, h3 {
+h2, h3 {
     text-align: center;
 }
 
-h1 {
-    display: block;
-    width: 80%;
-    margin: 0 auto 40px auto;
+/* h1 { */
+/*     display: block; */
+/*     margin: 0 auto 40px auto; */
 
-    font-family: Optima;
-    text-transform: uppercase;
-    font-weight: 400;
-    font-size: 24px;
+/*     text-align: center; */
+/*     font-weight: 400; */
+/*     font-size: 3.3em; */
+/*     font-style: italic; */
+/* } */
+
+img#title {
+    display: block;
+    width: 60%;
+    margin: 30px auto 40px auto;
+}
+
+.dark img#title {
+    filter: invert(1);
 }
 
 h2 {
@@ -63,6 +79,7 @@ h2 {
 }
 
 h3 {
+    margin-top: 2em;
     margin-bottom: 5px;
     font-weight: 400;
     font-variant: small-caps;
@@ -76,7 +93,6 @@ h4:not(#author):not(.subtitle) {
     text-align: right;
     width: 8%;
     position: absolute;
-    margin: 0;
     left: 18%;
 }
 
@@ -165,10 +181,18 @@ sup {
     font-weight: 400;
 }
 
+.sc {
+    text-transform: lowercase;
+    font-variant: small-caps;
+}
+
 #author {
     text-align: center;
     margin: 0 0 10px 0;
     font-weight: 400;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    font-size: 1.1em;
     letter-spacing: 0.1em;
     color: rgba(0, 0, 0, 0.6);
 }
@@ -251,6 +275,10 @@ sup {
 
 @media (max-width: 1100px) {
     body {
+        width: 80%;
+    }
+
+    .content {
         width: 80%;
     }
 

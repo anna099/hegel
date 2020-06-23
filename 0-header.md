@@ -9,8 +9,10 @@
     <body>
         <a id="to-top" href="#author">☝︎</a>
         <a id="lightswitch">☀︎</a>
+        <!---->
         <h4 id="author">Georg Wilhelm Friedrich Hegel</h4>
-        <h1>The Phenomenology of Spirit</h1>
+        <img id="title" src="title.png" alt="The Phenomenology of Spirit"/>
+        <!---->
         <ol id="contents">
             <li><a href="#int">Introduction<a>
                 <ol>

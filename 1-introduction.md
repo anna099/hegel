@@ -39,12 +39,12 @@ what the meaning and purpose of his *Phenomenology of Spirit* is.
 
 Part of what makes Hegel's work so intimidating is its insistence on
 systematicity. The *Phenomenology* alone is an incredibly systematic work,
-making its way rigorously from the most basic form of consciousness, to the
-sophistications of religion and politics. But the *Phenomenology* itself is only
-an *introduction* to Hegel's larger system of science as a whole ... where does
-this insistence on systematic philosophy come from? The answer is found in the
-context of German philosophy in which Hegel's work came about, and helps us to
-understand the function of the *Phenomenology*.
+making its way rigorously from the most basic form of consciousness to the
+sophistications of religion and politics. And yet the *Phenomenology* itself is
+only an *introduction* to Hegel's larger system of science as a whole ... where
+does this insistence on systematic philosophy come from? The answer is found in
+the context of German philosophy in which Hegel's work came about, and helps us
+to understand the function of the *Phenomenology*.
 
 #### Friedrich Heinrich Jacobi {#jacobi}
 
@@ -66,10 +66,10 @@ itself*, or, the totality of *all that is*, because a first cause could be
 neither transcendental (and therefore conditioned by nothing, contravening the
 Principle of Sufficient Reason) nor rational (and therefore capable of
 representation, making it relational and therefore not self-standing). Thus,
-according to Spinoza (and Jacobi), rationalism is necessarily atheistic. It is
-also fatalistic, because to affirm free will is to affirm the possibility of
-multiple first causes (i.e. willing agents), and nihilistic, since it denies the
-existence of entities altogether: for Spinoza, every 'thing' is merely a
+according to Jacobi's reading of Spinoza, rationalism is necessarily atheistic.
+It is also fatalistic, because to affirm free will is to affirm the possibility
+of multiple first causes (i.e. willing agents), and nihilistic, since it denies
+the existence of entities altogether: for Spinoza, every 'thing' is merely a
 modification of the single substance (*being* or nature).<sup>[c](#c)</sup>
 
 The German rationalist project was thereby called into question by Jacobi. If it
@@ -118,12 +118,11 @@ himself from Bishop Berkeley:
 > categories, are *only our* thoughts -- separated by an impassable gulf from the
 > thing, as it exists apart from our knowledge.<sup>[d](#d)</sup>
 
-Jacobi also, less subtly, failed to meet the monistic
-demand, since he followed Hume in suggesting that we merely place *faith* in an
-unintelligible grounding of our knowledge. Thus the post-Kantian tradition of
-German Idealism, to which Hegel belongs, was born. Paul Franks says of the
-German Idealists -- the most notable amongst them Fichte, Schelling, and Hegel
--- that
+Jacobi also failed to meet the monistic demand -- albeit less subtly -- since he
+followed Hume in suggesting that we merely place *faith* in an unintelligible
+grounding of our knowledge. Thus the post-Kantian tradition of German Idealism,
+to which Hegel belongs, was born. Paul Franks says of the German Idealists --
+the most notable amongst them Fichte, Schelling, and Hegel -- that
 
 > they are all committed, in various ways, to the view that genuine
 > justification can be achieved only within a system that meets two conditions:
@@ -199,7 +198,7 @@ f. <a name="f"></a> Hegel, *Logic*, p. 186.
 
 g. <a name="g"></a> Hegel, *Phenomenology*, §77.
 
-h. <a name="h"></a> §78.
+h. <a name="h"></a> Ibid, §78.
 
-i. <a name="i"></a> §79.
+i. <a name="i"></a> Ibid, §79.
 </div>
