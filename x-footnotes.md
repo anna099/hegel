@@ -48,3 +48,4 @@
 [^46]: Plato, *Timaeus*, translated by D. J. Zeyl, in *Complete Works*, edited by J. M. cooper and D. S. Hutchinson. (Cambridge: Hackett, 1997), 49b-d.
 [^47]: Kalkavage, *The Logic of Desire*, p. 75.
 [^48]: §147.
+[^49]: Plato, *Cratylus*, translated by C. D. C. Reeve, in *Complete Works*, 401d.

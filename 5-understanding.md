@@ -239,9 +239,18 @@ consciousness cannot deny that everything is always in flux, and all objects
 constantly undergo self-cancellation and self-overcoming, 'it takes the immanent
 "beyond-ing" of self-cancellation that appearance *is* and objectifies this
 essence as a transcendent Beyond'.[^47] Kalkavage's wording is useful here,
-because he clarifies that appearance *is* self-cancellation, *by definition*.
+because he clarifies that appearance *is* self-cancellation, by definition.
 Since the supersensible is fundamentally negative (it is defined by what it is
 *not*, by what it *cancels out*), it is the result of hypostasising the
 self-cancellation that appearance is identified as. It is for this reason that
 Hegel writes: 'The supersensible is therefore *appearance* as
 *appearance*'.[^48]
+
+Law, therefore, is *objectified flux*. It is stabilised instability. As an
+example, we might think of Heraclitus's famous saying, that 'everything gives
+way and nothing stands fast' [πάντα χωρεῖ καὶ οὐδὲν μένει]: this saying takes
+the impermanence of appearances, and renders from them a permanent law.[^49]
+Now, although Heraclitus and Plato both demonstrate this kind of thinking, we
+also find a criticism of it in Plato's later work. The criticism that Hegel
+leverages against the law of force (or, rather, the self-undermining that he
+finds within it) resembles Plato's criticism.
