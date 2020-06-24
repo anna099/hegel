@@ -17,7 +17,6 @@ body.dark {
 }
 
 p {
-    /* margin: 0 0 0.4em; */
     margin-bottom: 0;
     position: relative;
 
@@ -33,7 +32,6 @@ p + p {
 
 .content {
     width: 33em;
-    /* width: 90%; */
     margin: 0 auto;
 }
 
@@ -188,7 +186,7 @@ sup {
     font-weight: 400;
 }
 
-.sc {
+.sc { /* small caps */
     text-transform: lowercase;
     font-variant: small-caps;
 }
@@ -290,6 +288,9 @@ sup {
     }
 
     h4:not(#author):not(.subtitle) {
+        float: none;
+        clear: none;
+
         width: 50%;
         position: static;
         margin: 1em auto 0.6em auto;
