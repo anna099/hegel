@@ -6,6 +6,9 @@ body {
     font-family: 'Arno Pro', adobe-garamond-pro, serif;
     font-weight: 400;
     counter-reset: section;
+
+    color: #111;
+    background: #fffff8;
 }
 
 body.dark {
@@ -42,8 +45,10 @@ p + p {
     color: #ccc;
 
     white-space: nowrap;
-    position: absolute;
-    left: 105%;
+    clear: right;
+    float: right;
+    margin-right: -10%;
+
 }
 
 h2, h3 {
@@ -71,7 +76,7 @@ img#title {
 }
 
 h2 {
-    font-family: Optima;
+    font-family: 'Optima', sans-serif;
     font-size: 1.8em;
     padding-top: 10px;
     margin-bottom: -0.34em;
@@ -88,12 +93,14 @@ h3 {
 }
 
 h4:not(#author):not(.subtitle) {
+    width: 20%;
+    float: left;
+    clear: left;
+    margin-left: -25%;
+
     font-weight: normal;
     font-size: 0.9em;
     text-align: right;
-    width: 8%;
-    position: absolute;
-    left: 18%;
 }
 
 a {
