@@ -272,27 +272,33 @@ posited when a stable truth cannot be found in a world of flux, but in that
 inner world, all that is found is the opposite of what appears. Consequently, we
 learn nothing about the objects of experience.
 
-#### The Emerging Role of Subjectivity
+#### The Emerging Role of Subjectivity {#emerg}
 
-This is the way that the understanding goes about in general; it is 'the
-perspective that looks for the originary force [law] responsible for the
-manifold determinacy [appearance] that expresses it'.[^51] The problem with this
-strategy -- and with the scientific image in general -- lies in the givenness of
-the law. Law arises in the first place because understanding always asks 'why'
--- that is, it does not merely *perceive* or *sense*, as in the two previous
-shapes of consciousness, but actually looks for *reasons* or *grounds* beyond
-what is given in experience. However, any such grounding reason is always *just
-another given*, which itself demands grounding. In the context of the natural
-sciences, for example, we could be presented with the fact: 'object X floats in
-substance Y because X is less dense than Y'. In response to the question of
-*why* this happens, we would then be presented with a *law*, concerning the
-density and volume of different substances, and so on. However, nothing prevents
-this law from also being subjected to a '*why* question'. Ultimately, the
-natural sciences would be subjected to questions far beyond their reach; for
-instance, 'why is there matter and energy in the first place?' -- 'why is there
-anything instead of nothing?' It would seem, therefore, that laws (and
-'reasons', 'rules', etc.) fail to *make sense* of things; instead, they merely
-establish a rational context for a particular fact.
+The absurdity of the inverted world shows that the strategy of the understanding
+ends in failure. Put simply, this strategy is to look for an originary force,
+governed by some law, which grounds -- or is expressed by -- the manifold of
+appearance. It fails because it necessarily ends up positing that every object,
+in-itself, is its opposite; thus nothing *determinate* about an object can be
+known. But *why* does it fail? -- why does it necessarily posit this image of
+the world? The problem with this strategy -- and with the scientific image in
+general -- lies in the givenness of the law. Law arises in the first place
+because understanding always asks 'why' -- that is, it does not merely
+*perceive* or *sense*, as in the two previous shapes of consciousness, but
+actually looks for *reasons* or *grounds* beyond what is given in experience.
+However, any such grounding reason is always *just another given*, which itself
+demands grounding. This is why the first supersensible world ends up having a
+second supersensible (the inverted world) posited beyond it. To illustrate this
+further, take the example of the natural sciences: in the context of the
+sciences, we could be presented with the fact: 'object X floats in substance Y
+because X is less dense than Y'. In response to the question of *why* this
+happens, we would then be presented with a *law*, concerning the density and
+volume of different substances, and so on. However, nothing prevents this law
+from also being subjected to a '*why* question'.  Ultimately, the natural
+sciences would be subjected to questions far beyond their reach; for instance,
+'why is there matter and energy in the first place?' -- 'why is there anything
+instead of nothing?' It would seem, therefore, that laws (and 'reasons',
+'rules', etc.) fail to *make sense* of things; instead, they merely establish a
+rational context for a particular fact.
 
 If law is insufficient, how then do we make sense of the world? John Russon
 compares experience in general to the experience of *reading*, the latter being
