@@ -26,7 +26,7 @@ function darkToggle() {
 
 let v = null;
 function smallCaps() {
-    const ps = document.querySelectorAll('h3 + p, h4 + p');
+    const ps = document.querySelectorAll('h3 + p, h4 + p, h3 + blockquote + p');
     for (var i = 0; i < ps.length; i++) {
         let p = ps[i];
         // store first 4 words, and remove them

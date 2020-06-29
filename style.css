@@ -8,7 +8,6 @@ body {
     counter-reset: section;
 
     color: #111;
-    background: #fffff8;
 }
 
 body.dark {
@@ -28,6 +27,10 @@ p {
 p + p {
     text-indent: 1em;
     margin-top: 0;
+}
+
+strong {
+    font-weight: 600;
 }
 
 .content {

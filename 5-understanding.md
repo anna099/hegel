@@ -212,12 +212,14 @@ semblances (appearances), and the Real is merely an unknowable void. Anything
 that *can* be experienced is a fiction; for consciousness, 'daydreams themselves
 are still better than its emptiness'.[^45]
 
+#### The Law of Force and the Inverted World {#inver}
+
 Finding itself having to settle with either *untruth* (on the side of semblance
 and appearance) or opaque *nothingness* (on the side of the supersensible Real
 of force), consciousness tries to save itself by once again refining its
 position. The 'other-worldly beyond' is now posited as **law**: after all,
 'natural laws' both govern (that is, *determine*) the world of experience and
-yet also stand beyond it. In describing the *law of force*, it is clear that
+yet also stand beyond it. In describing *the law of force*, it is clear that
 Hegel has Plato (amongst other philosophers) in mind. Plato is the archetypal
 philosopher of the beyond: he recognises that truth and essence cannot be found
 in the world of appearance, since the latter is so constantly in *flux*:
@@ -250,7 +252,75 @@ Law, therefore, is *objectified flux*. It is stabilised instability. As an
 example, we might think of Heraclitus's famous saying, that 'everything gives
 way and nothing stands fast' [πάντα χωρεῖ καὶ οὐδὲν μένει]: this saying takes
 the impermanence of appearances, and renders from them a permanent law.[^49]
-Now, although Heraclitus and Plato both demonstrate this kind of thinking, we
-also find a criticism of it in Plato's later work. The criticism that Hegel
-leverages against the law of force (or, rather, the self-undermining that he
-finds within it) resembles Plato's criticism.
+These laws are what govern the in-itself: the supersensible *beyond* that
+grounds all appearances. Now, insofar as 'grounding' is a relation of two
+distinct things, the supersensible must be distinct from appearance. But it
+cannot be distinct merely through a kind of *diversity*, in the same way that a
+cat and a dog are distinct, because such diversity allows for no *essential*
+relation -- and, therefore, no grounding. As such, supersensible and appearance
+are distinct by the only other possible kind of distinction: through
+*opposition*, or inversion. This is how Hegel's idea of the **inverted world**
+comes about. Coming to the conclusion that any object must, in-itself, be the
+*opposite* of itself, the understanding is left with no choice but to posit a
+second supersensible world wherein everything is the precise opposite of the
+world of appearance. 'The *one* is *appearance*, the *other* is the *in-itself*.
+The *one* world is as it is for others, whereas the *other* is as it is *for
+itself*, so that, to use the previous examples, what tastes sweet is *really*,
+or *inwardly* in the thing itself, sour'.[^50] All of this is to say: the
+strategy of the understanding has failed; an inner world of force must be
+posited when a stable truth cannot be found in a world of flux, but in that
+inner world, all that is found is the opposite of what appears. Consequently, we
+learn nothing about the objects of experience.
+
+#### The Emerging Role of Subjectivity
+
+This is the way that the understanding goes about in general; it is 'the
+perspective that looks for the originary force [law] responsible for the
+manifold determinacy [appearance] that expresses it'.[^51] The problem with this
+strategy -- and with the scientific image in general -- lies in the givenness of
+the law. Law arises in the first place because understanding always asks 'why'
+-- that is, it does not merely *perceive* or *sense*, as in the two previous
+shapes of consciousness, but actually looks for *reasons* or *grounds* beyond
+what is given in experience. However, any such grounding reason is always *just
+another given*, which itself demands grounding. In the context of the natural
+sciences, for example, we could be presented with the fact: 'object X floats in
+substance Y because X is less dense than Y'. In response to the question of
+*why* this happens, we would then be presented with a *law*, concerning the
+density and volume of different substances, and so on. However, nothing prevents
+this law from also being subjected to a '*why* question'. Ultimately, the
+natural sciences would be subjected to questions far beyond their reach; for
+instance, 'why is there matter and energy in the first place?' -- 'why is there
+anything instead of nothing?' It would seem, therefore, that laws (and
+'reasons', 'rules', etc.) fail to *make sense* of things; instead, they merely
+establish a rational context for a particular fact.
+
+If law is insufficient, how then do we make sense of the world? John Russon
+compares experience in general to the experience of *reading*, the latter being
+a common and familiar instance of sense-making:
+
+> Notice how in reading we "make sense," as we say, of a page of text.
+> Typically, we do not "make" sense at all, but experience ourselves as simply
+> being informed by the sense the text itself makes clear to us. Sometimes,
+> though, a text is difficult and so we do struggle to "make" sense of it. Here,
+> we may apply various "rules": we revert to the practices we adopted as we
+> initially learned to read and again work through the grammar carefully … Yet
+> we do not confuse these processes with reading proper. They are precisely
+> substitute practices that stand in when the normal/proper "sense-making" does
+> not happen.[^52]
+
+As Russon has it, the practice of 'following rules' in reading (and, by analogy,
+observing laws in experience) is only ever preparatory. Actual understanding --
+actual sense-making -- takes place when the subject ('the reader') *gives
+themselves over to the object* ('the text').[^53] Law alone does not give way to
+understanding, just as knowing the rules of grammar doesn't allow somebody to
+make sense of a poem; in both cases, the object (the law-governed thing, or the
+poem) must *transform* the subject in some way.
+
+> So reading, which is to say understanding, is "giving oneself to the object"
+> in a twofold sense. First, we only understand when we get beyond the stance of
+> discursive "reasoning" and become intuitive of the *particular* rationality
+> that is the sense the object itself makes manifest. … And, second, this giving
+> oneself over to what is "making sense" for us is inseparable from our giving
+> up of our giving up of our own pre-established identities in order to allow
+> ourselves to be redefined by the object. Our own identities must be, as it
+> were, "at play" if there is to be reading [or understanding].

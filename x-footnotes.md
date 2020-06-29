@@ -49,3 +49,7 @@
 [^47]: Kalkavage, *The Logic of Desire*, p. 75.
 [^48]: §147.
 [^49]: Plato, *Cratylus*, translated by C. D. C. Reeve, in *Complete Works*, 401d.
+[^50]: §159.
+[^51]: John Russon, "Reading: Derrida in Hegel's Understanding", in *Research in Phenomenology*, Vol. 36 (Leiden: Brill, 2006), p. 184.
+[^52]: Ibid, pp. 187-8.
+[^53]: Ibid, p. 189.
