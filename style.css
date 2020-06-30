@@ -38,7 +38,7 @@ strong {
     margin: 0 auto;
 }
 
-.content>p:before {
+.content>p:not(#nav):before {
     counter-increment: section;
     content: "" counter(section) "";
     font-size: .8em;
@@ -55,16 +55,6 @@ strong {
 h2, h3 {
     text-align: center;
 }
-
-/* h1 { */
-/*     display: block; */
-/*     margin: 0 auto 40px auto; */
-
-/*     text-align: center; */
-/*     font-weight: 400; */
-/*     font-size: 3.3em; */
-/*     font-style: italic; */
-/* } */
 
 img#title {
     display: block;
@@ -118,7 +108,7 @@ a:hover {
 }
 
 blockquote {
-    margin: 10px 40px;
+    margin: 0px 40px;
 }
 
 blockquote p {
@@ -136,6 +126,17 @@ sup {
 
 .dark sup {
     color: #f1edea;
+}
+
+hr {
+    width: 25em;
+    margin-top: 2em;
+    border: none;
+    border-top: 1px solid rgba(20, 20, 20, 0.2);
+}
+
+.dark hr {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .footnotes {
@@ -264,6 +265,23 @@ sup {
 #lightswitch:hover {
     text-decoration: none;
     color: rgba(0, 0, 0, 1);
+    cursor: pointer;
+}
+
+#to-top:hover:after,
+#lightswitch:hover:after {
+    content: 'Back to contents';
+    display: block;
+    margin-top: -0.3em;;
+    padding: 0 10px;
+    font-size: 0.6em;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+#lightswitch:hover:after {
+    content: 'Toggle lights';
 }
 
 .dark #to-top,
@@ -279,6 +297,31 @@ sup {
 
 #lightswitch {
     left: 40;
+}
+
+#nav {
+    margin-top: 3em;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+#nav a {
+    text-decoration: underline;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+#nav a:hover {
+    color: black;
+}
+
+.dark #nav a {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.dark #nav a:hover {
+    color: white;
 }
 
 @media (max-width: 1100px) {

@@ -1,6 +1,7 @@
 window.onload = function() {
-    resume(); // restore the previous light/dark mode
-    smallCaps(); // sections begin with a few words in small caps
+    resume(); // restore the previous light/dark mode.
+    smallCaps(); // sections begin with a few words in small caps.
+    wordCount(); // a wordcount appears at the end of the page.
 
     const ls = document.getElementById('lightswitch');
     ls.onclick = darkToggle;
@@ -37,4 +38,13 @@ function smallCaps() {
         sc += four + '</span>';
         p.insertAdjacentHTML('afterbegin', sc);
     }
+}
+
+function wordCount() {
+    let words = 0;
+    let x = document.createElement('p');
+    x.id = 'wordcount';
+    document.querySelectorAll('p').forEach(x => words += x.innerText.split(' ').length);
+    x.innerText = words + ' words';
+    document.body.appendChild(x);
 }

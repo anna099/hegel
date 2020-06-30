@@ -12,7 +12,7 @@ In October 1806, as Napoleon entered Jena, Hegel finished his first book: *The
 Phenomenology of Spirit*. The book is intended to serve as an introduction to
 Hegel's system of science, showing the 'coming to be of knowledge', as
 **spirit** [*Geist*] makes its way through various stages towards the stage of
-scientific knowing, or, *absolute spirit*.<sup>[a](#a)</sup> The book is thus a
+scientific knowing, or, *absolute spirit*.[^1] The book is thus a
 *phenomenology* insofar as it analyses the phenomena (that is, the
 *appearances*) of consciousness's various attempts at absolute knowledge. This
 is undoubtedly an ambitious project; and as such it is no surprise that the book
@@ -26,12 +26,12 @@ proto-nihilistic. The two social categories of twentieth century philosophical
 thought -- 'analytic' and 'Continental' philosophy -- both emerged from the
 British and Austro-German reception of Hegel's work. Prior to the Second World
 War, Hegel scholarship was often dogmatic or idiosyncratic, with Alexandre
-Kojève's famous reading<sup>[b](#b)</sup>, endorsed by Sartre and De Beauvoir,
-emphasising subjective relations of *desire* as the central element of Hegel's
-thought, and Russell and Moore's complete rejection of British Hegelian thought
-as needlessly obscure. In the 1940s and onwards, however, rigorous studies in
-German, French, and eventually English have put the *Phenomenology* beneath a
-brighter and clearer light. Though there is still a lot of disagreement over the
+Kojève's famous reading[^2], endorsed by Sartre and De Beauvoir, emphasising
+subjective relations of *desire* as the central element of Hegel's thought, and
+Russell and Moore's complete rejection of British Hegelian thought as needlessly
+obscure. In the 1940s and onwards, however, rigorous studies in German, French,
+and eventually English have put the *Phenomenology* beneath a brighter and
+clearer light. Though there is still a lot of disagreement over the
 interpretation of Hegel, we are now in a better place than ever to understand
 what the meaning and purpose of his *Phenomenology of Spirit* is.
 
@@ -70,7 +70,7 @@ according to Jacobi's reading of Spinoza, rationalism is necessarily atheistic.
 It is also fatalistic, because to affirm free will is to affirm the possibility
 of multiple first causes (i.e. willing agents), and nihilistic, since it denies
 the existence of entities altogether: for Spinoza, every 'thing' is merely a
-modification of the single substance (*being* or nature).<sup>[c](#c)</sup>
+modification of the single substance (*being* or nature).[^3]
 
 The German rationalist project was thereby called into question by Jacobi. If it
 was really the case that rationalism inevitably led to atheism, fatalism, and
@@ -88,18 +88,18 @@ beneath one first cause). Aside from his influence from Hume (see
 [here](https://anna099.github.io/kant/#gen-prob)), Kant's work was also
 motivated by a tension between **Newton's** system of natural science (in which
 everything had a sufficient cause, and there was no first cause or 'causal God')
-and **Leibniz's** metaphysics which demanded that everything be intelligible (and
-thereby required the grounding of a first cause). The Kantian solution was a new
-kind of dualism in which the physical (Newtonian phenomena) and the metaphysical
-(Leibnizian intelligibility) operate at different levels of explanation. Thus,
-for Kant, the mind has separate faculties: the receptive *sensibility*, which
-intuits finitely intelligible (i.e. causal) information from the Newtonian
-physical world, and the spontaneous faculty of *reason*, which cognised about
-infinitely intelligible (i.e. Leibnizian, grounded) things in themselves --
-albeit only in a *formal* sense. Kant accordingly divides reality, giving the
-name 'noumena' to those things in themselves that we cannot sensibly intuit
-(that is, objects that belong only to the understanding), and 'phenomena' to all
-objects of *appearance*.
+and **Leibniz's** metaphysics which demanded that everything be intelligible
+(and thereby required the grounding of a first cause). The Kantian solution was
+a new kind of dualism in which the physical (Newtonian phenomena) and the
+metaphysical (Leibnizian intelligibility) operate at different levels of
+explanation. Thus, for Kant, the mind has separate faculties: the receptive
+*sensibility*, which intuits finitely intelligible (i.e. causal) information
+from the Newtonian physical world, and the spontaneous faculty of *reason*,
+which cognised about infinitely intelligible (i.e. Leibnizian, grounded) things
+in themselves -- albeit only in a *formal* sense. Kant accordingly divides
+reality, giving the name 'noumena' to those things in themselves that we cannot
+sensibly intuit (that is, objects that belong only to the understanding), and
+'phenomena' to all objects of *appearance*.
 
 So, with the publication of his *Critique* in in 1781, Kant had come the closest
 to finally providing a *proper grounding* to knowledge, in contrast to the
@@ -116,7 +116,7 @@ himself from Bishop Berkeley:
 > Objectivity of thought, in Kant's sense, is again to a certain sense
 > subjective. Thoughts, according to Kant, although universal and necessary
 > categories, are *only our* thoughts -- separated by an impassable gulf from the
-> thing, as it exists apart from our knowledge.<sup>[d](#d)</sup>
+> thing, as it exists apart from our knowledge.[^4]
 
 Jacobi also failed to meet the monistic demand -- albeit less subtly -- since he
 followed Hume in suggesting that we merely place *faith* in an unintelligible
@@ -129,7 +129,7 @@ the most notable amongst them Fichte, Schelling, and Hegel -- that
 > the *holistic condition* that every particular (object, fact, or judgment) be
 > determined through its role within the whole and not through any intrinsic
 > properties; and the *monistic condition* that the whole be grounded in an
-> absolute principle that is immanent and not transcendent.<sup>[e](#e)</sup>
+> absolute principle that is immanent and not transcendent.[^5]
 
 Furthermore, the project of German Idealism had to escape the nihilism that
 Jacobi had identified with monism: thus Hegel (and Fichte, Schelling, and so on)
@@ -144,32 +144,32 @@ how exactly Hegel wants to surpass Kantian dualisms:
 
 > the true objectivity of thinking means that the thoughts, far from being
 > merely ours, must at the same time be the real essence of the things, and of
-> whatever is an object to us.<sup>[f](#f)</sup>
+> whatever is an object to us.[^6]
 
 In a truly systematic science, therefore, the thought of a thing must be equal
 to 'the real essence' of the thing. This equality of thought and being is what
-Hegel calls **Absolute Knowing**. If the *Phenomenology* is to be understood
-as an *introduction* to a systematic science, it must therefore take the form of
-an *ascension toward* Absolute Knowing. For this reason, Hegel describes the
-book as 'the path of natural consciousness pressing forward towards true
-knowing'.<sup>[g](#g)</sup> In the introduction to the *Phenomenology*, Hegel
-explains that unlike many of his forebears (Descartes and Kant amongst them), he
-sees it as a mistake to establish the rules of thinking prior to actually
-thinking, or to envision thought as a 'medium' through which the absolute is
-somehow 'filtered'. The precise reasons for this will be established later.
-Instead, Hegel wants to begin with 'natural consciousness'; that is, the way in
-which we typically think, prior to any 'philosophising'. This is not at all to
-be taken as a claim that 'common sense' holds all of the answers to
-philosophical problems; on the contrary, 'natural consciousness will prove to be
-only the concept of knowing, or it will prove to be *not real
-knowing*'.<sup>[h](#h)</sup> Each 'shape of consciousness' -- that is, each stage
-along natural consciousness's transformation -- contains an element of *untruth*
-insofar as it is not (yet) absolute knowing; and rather than simply 'doubting'
-the shape of consciousness in response to its untruth, Hegel's approach is to
-take the negative element -- the untruth -- and to *negate it*, resulting in a
-'negation of a negation', or what Hegel calls a **determinate negation**. What
-this is, and how exactly it works, will become clearer later on, but here is
-Hegel's explanation of determinate negation from his introduction:
+Hegel calls **Absolute Knowing**. If the *Phenomenology* is to be understood as
+an *introduction* to a systematic science, it must therefore take the form of an
+*ascension toward* Absolute Knowing. For this reason, Hegel describes the book
+as 'the path of natural consciousness pressing forward towards true
+knowing'.[^7] In the introduction to the *Phenomenology*, Hegel explains that
+unlike many of his forebears (Descartes and Kant amongst them), he sees it as a
+mistake to establish the rules of thinking prior to actually thinking, or to
+envision thought as a 'medium' through which the absolute is somehow 'filtered'.
+The precise reasons for this will be established later.  Instead, Hegel wants to
+begin with 'natural consciousness'; that is, the way in which we typically
+think, prior to any 'philosophising'. This is not at all to be taken as a claim
+that 'common sense' holds all of the answers to philosophical problems; on the
+contrary, 'natural consciousness will prove to be only the concept of knowing,
+or it will prove to be *not real knowing*'.[^8] Each 'shape of consciousness' --
+that is, each stage along natural consciousness's transformation -- contains an
+element of *untruth* insofar as it is not (yet) absolute knowing; and rather
+than simply 'doubting' the shape of consciousness in response to its untruth,
+Hegel's approach is to take the negative element -- the untruth -- and to
+*negate it*, resulting in a 'negation of a negation', or what Hegel calls a
+**determinate negation**. What this is, and how exactly it works, will become
+clearer later on, but here is Hegel's explanation of determinate negation from
+his introduction:
 
 > the exposition of non-truthful consciousness in its untruth is not a merely
 > *negative* movement. ... only when taken as the nothing of that from which it
@@ -178,27 +178,7 @@ Hegel's explanation of determinate negation from his introduction:
 > as it is in truth, as *determinate* negation, a new form [of consciousness]
 > has thereby immediately arisen, and in the negation, the transition is made
 > whereby the progression through the complete series of shapes comes about on
-> its own accord.<sup>[i](#i)</sup>
+> its own accord.[^9]
 
 What follows in these notes is a reconstruction of the various stages that
 Hegel's *Phenomenology* covers, as I have understood them.
-
-<div class="footnotes">
-a. <a name="a"></a> G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard. (Cambridge, Cambridge University Press, 2018), p. 468.
-
-b. <a name="b"></a> Kojève, Alexandre, *Introduction To The Reading Of Hegel*, translated by R. Queneau. (Ithaca, Cornell University Press, 1980).
-
-c. <a name="c"></a> An elaboration of Jacobi's argumentation can be found in Paul Franks, "All or Nothing", in *The Cambridge Companion to German Idealism*, edited by K. Ameriks. (Cambridge, Cambridge University Press, 2017), p. 131.
-
-d. <a name="d"></a> G.W.F. Hegel, *The Encyclopaedia of the Philosophical Sciences*, Part I: *Logic*, translated by W. Wallace. (Oxford: Oxford University Press, 1975), p. 186.
-
-e. <a name="e"></a> Paul W. Franks, *All or Nothing: Systematicity, Transcendental Arguments, and Skepticism in German Idealism*. (Cambridge, MA: Harvard University Press, 2005), p. 10.
-
-f. <a name="f"></a> Hegel, *Logic*, p. 186.
-
-g. <a name="g"></a> Hegel, *Phenomenology*, §77.
-
-h. <a name="h"></a> Ibid, §78.
-
-i. <a name="i"></a> Ibid, §79.
-</div>

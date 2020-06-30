@@ -1,3 +1,6 @@
+<p id="nav"><a href="index.html">Previous Chapter ☜ Introduction</a>
+<a href="self-consciousness.html">Next Chapter ☞ Self-Consciousness</a></p>
+
 </section>
 
 [^1]: G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard. (Cambridge, Cambridge University Press, 2018), §96.
@@ -50,6 +53,3 @@
 [^48]: §147.
 [^49]: Plato, *Cratylus*, translated by C. D. C. Reeve, in *Complete Works*, 401d.
 [^50]: §159.
-[^51]: John Russon, "Reading: Derrida in Hegel's Understanding", in *Research in Phenomenology*, Vol. 36 (Leiden: Brill, 2006), p. 184.
-[^52]: Ibid, pp. 187-8.
-[^53]: Ibid, p. 189.
