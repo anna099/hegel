@@ -53,3 +53,7 @@
 [^48]: §147.
 [^49]: Plato, *Cratylus*, translated by C. D. C. Reeve, in *Complete Works*, 401d.
 [^50]: §159.
+[^51]: Kalkavage, *The Logic of Desire*, p. 81.
+[^52]: §160.
+[^53]: Kalkavage, *The Logic of Desire*, p. 84. The parenthetical definition of 'concept' in this paragraph is taken from Immanuel Kant, *Lectures on Logic*, translated by J. M. Young (Cambridge: Cambridge University Press, 1992), p. 589.
+[^54]: §162.

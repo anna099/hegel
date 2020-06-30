@@ -267,7 +267,53 @@ world of appearance. 'The *one* is *appearance*, the *other* is the *in-itself*.
 The *one* world is as it is for others, whereas the *other* is as it is *for
 itself*, so that, to use the previous examples, what tastes sweet is *really*,
 or *inwardly* in the thing itself, sour'.[^50] All of this is to say: the
-strategy of the understanding has failed; an inner world of force must be
-posited when a stable truth cannot be found in a world of flux, but in that
-inner world, all that is found is the opposite of what appears. Consequently, we
-learn nothing about the objects of experience.
+strategy of the understanding has failed. When stable truth cannot be found in a
+world of flux, an inner world must be posited, but in the *truth* of that inner
+world, all that is found is the opposite of what appears. Consequently, we learn
+nothing about the objects of experience.
+
+#### The Infinite {#infin}
+
+As Kalkavage explains, 'The perversity of the inverted world is Hegel's way of
+showing us that, in truth, *there is only one world*'.[^51] The mistake of the
+understanding -- and the mistake of Plato, Kant, and so on -- was to posit
+essence (or the in-itself) in *another world*; in actual fact, Hegel explains,
+*things contain their opposites within them*. The inverted world contained the
+un-inverted world, since, for something to be 'an opposite', it must include
+reference to *that which it is opposite to*; as such, 'the supersensible world,
+which is the inverted world, has at the same time enveloped the other world and
+has it in itself'.[^52] Now, the only reason that multiple worlds were posited
+in the first place was because consciousness was desperate to flee
+contradiction: terrified of the notion that things might contain their
+opposites, the understanding fractured the object of appearance and shunned its
+various moments into separate realms.
+
+Now that the concept of consciousness (i.e., the representation of that which is
+common to the objects of experience) has run its course, the *inner
+difference* of things -- 'the reciprocal containment of opposites' -- is
+finally acknowledged.[^53] Consciousness has thus arrived at the 'absolute
+concept', which Hegel also calls **infinity**.
+
+> This simple infinity, or the absolute concept, is to be called the simple
+> essence of life, the soul of the world, the universal bloodstream, which is
+> omnipresent, neither dulled nor interrupted by any difference, which is
+> instead itself both every difference as well as their sublatedness. It is
+> therefore pulsating within itself without setting itself in motion; it is
+> trembling within itself without itself being agitated. It is itself
+> self-equality, for the differences are tautological; they are differences that
+> are none at all.[^54]
+
+It's no coincidence that Hegel writes about infinity with such animated language
+-- 'life', 'soul', 'bloodstream', and so on: life itself is a process of inner
+difference and self-differentiation. Organic development comes from within as
+cells divide themselves; living things procreate and eventually die and thus
+overcome their particularity from within. Furthermore, in observing the movement
+that is intrinsic to the absolute concept, *consciousness recognises itself*.
+The understanding -- the highest stage of consciousness -- consistently sought
+for explanation, and as Stephen Houlgate recognises, 'explanation exhibits the
+structure of infinity, because it is the movement of drawing a distinction
+between force and law, and then *undermining* it again by declaring force to have
+the same content as its law.' Thus, when it realises that objects themselves are
+a kind of activity, namely, the activity of undermining and differentiating
+themselves, consciousness recognises the very same movement that it is itself.
+*For the first time, consciousness recognises itself.*

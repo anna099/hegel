@@ -29,7 +29,7 @@ strong {
 }
 
 .content {
-    width: 33em;
+    width: 30em;
     margin: 0 auto;
 }
 
@@ -232,6 +232,7 @@ hr {
 }
 
 #nav {
+    text-indent: 0;
     margin-top: 3em;
     text-transform: lowercase;
     font-variant: small-caps;
@@ -248,13 +249,13 @@ hr {
     color: black;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 700px) {
     body {
         width: 80%;
     }
 
     .content {
-        width: 80%;
+        width: 16em;
     }
 
     h4:not(#author):not(.subtitle) {
@@ -273,5 +274,9 @@ hr {
     .footnotes {
         width: 100%;
         margin: 50px 0;
+    }
+
+    .footnotes ol {
+        column-count: 1;
     }
 }
