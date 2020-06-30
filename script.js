@@ -1,28 +1,6 @@
 window.onload = function() {
-    resume(); // restore the previous light/dark mode.
     smallCaps(); // sections begin with a few words in small caps.
     wordCount(); // a wordcount appears at the end of the page.
-
-    const ls = document.getElementById('lightswitch');
-    ls.onclick = darkToggle;
-}
-
-function resume() {
-    if (localStorage['darkmode']) {
-        document.body.classList.add('dark');
-    } else {
-        document.body.classList.remove('dark')
-    }
-}
-
-function darkToggle() {
-    if (localStorage['darkmode']) {
-        document.body.classList.remove('dark');
-        localStorage.removeItem('darkmode');
-    } else {
-        document.body.classList.add('dark')
-        localStorage.setItem('darkmode', true);
-    }
 }
 
 let v = null;

@@ -10,11 +10,6 @@ body {
     color: #111;
 }
 
-body.dark {
-    color: #f1edea;
-    background: #20190e;
-}
-
 p {
     margin-bottom: 0;
     position: relative;
@@ -62,10 +57,6 @@ img#title {
     margin: 30px auto 40px auto;
 }
 
-.dark img#title {
-    filter: invert(1);
-}
-
 h2 {
     font-family: 'Optima', sans-serif;
     font-size: 1.8em;
@@ -99,10 +90,6 @@ a {
     color: #515c94;
 }
 
-.dark a {
-    color: #a6cade;
-}
-
 a:hover {
     text-decoration: underline;
 }
@@ -124,10 +111,6 @@ sup {
     top: -0.4em;
 }
 
-.dark sup {
-    color: #f1edea;
-}
-
 hr {
     width: 25em;
     margin-top: 2em;
@@ -135,18 +118,10 @@ hr {
     border-top: 1px solid rgba(20, 20, 20, 0.2);
 }
 
-.dark hr {
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
-}
-
 .footnotes {
     border-top: 1px solid rgba(20, 20, 20, 0.2);
     width: 150%;
     margin: 50px -25%;
-}
-
-.dark .footnotes {
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .footnotes hr {
@@ -174,14 +149,6 @@ hr {
     color: #515c94;
 }
 
-.dark .footnotes a {
-    color: rgba(255, 255, 255, 0.2);
-}
-
-.dark .footnotes a:hover {
-    color: white;
-}
-
 .subtitle {
     margin: -0.5em 0 10 0;
     text-align: center;
@@ -204,10 +171,6 @@ hr {
     font-size: 1.1em;
     letter-spacing: 0.1em;
     color: rgba(0, 0, 0, 0.6);
-}
-
-.dark #author {
-    color: rgba(255, 255, 255, 0.6);
 }
 
 #contents {
@@ -233,17 +196,8 @@ hr {
     color: black;
 }
 
-.dark #contents a {
-    color: #a6cade;
-}
-
 #contents a:hover {
     background: rgba(3, 1, 1, 0.1);
-}
-
-.dark #contents a:hover {
-    background: rgba(255, 255, 255, 0.3);
-    color: yellow;
 }
 
 #wordcount {
@@ -253,23 +207,13 @@ hr {
 }
 
 #to-top,
-#lightswitch {
-    position: fixed;
-    top: 10;
-    left: 10;
-    color: rgba(0, 0, 0, 0.4);
-    font-size: 24px;
-}
-
-#to-top:hover,
-#lightswitch:hover {
+#to-top:hover {
     text-decoration: none;
     color: rgba(0, 0, 0, 1);
     cursor: pointer;
 }
 
-#to-top:hover:after,
-#lightswitch:hover:after {
+#to-top:hover:after {
     content: 'Back to contents';
     display: block;
     margin-top: -0.3em;;
@@ -278,25 +222,6 @@ hr {
     text-transform: lowercase;
     font-variant: small-caps;
     background: rgba(0, 0, 0, 0.1);
-}
-
-#lightswitch:hover:after {
-    content: 'Toggle lights';
-}
-
-.dark #to-top,
-.dark #lightswitch {
-    color: rgba(255, 255, 255, 0.4)
-}
-
-.dark #to-top:hover,
-.dark #lightswitch:hover {
-    text-decoration: none;
-    color: rgba(255, 255, 255, 1);
-}
-
-#lightswitch {
-    left: 40;
 }
 
 #nav {
@@ -314,14 +239,6 @@ hr {
 
 #nav a:hover {
     color: black;
-}
-
-.dark #nav a {
-    color: rgba(255, 255, 255, 0.6);
-}
-
-.dark #nav a:hover {
-    color: white;
 }
 
 @media (max-width: 1100px) {
