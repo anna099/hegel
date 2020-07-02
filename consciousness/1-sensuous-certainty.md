@@ -1,5 +1,8 @@
 ## Consciousness {#con}
 
+
+<blockquote class="epigraph">If the doors of perception were cleansed everything would appear to man as it is, infinite.<footer>William Blake, *The Marriage of Heaven and Hell*</footer></blockquote>
+
 ### Sensuous Certainty {#s-c}
 
 'Sensuous certainty' is the name for the initial kind of knowing an object;

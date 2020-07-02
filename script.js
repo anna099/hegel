@@ -1,6 +1,13 @@
 window.onload = function() {
     smallCaps(); // sections begin with a few words in small caps.
     wordCount(); // a wordcount appears at the end of the page.
+
+    document.onkeypress = function(e) {
+        let s = String.fromCharCode(e.keyCode || e.which);
+        if (s === 'j') {
+            nextColor();
+        }
+    };
 }
 
 let v = null;
@@ -22,7 +29,8 @@ function wordCount() {
     let words = 0;
     let x = document.createElement('p');
     x.id = 'wordcount';
-    document.querySelectorAll('p').forEach(x => words += x.innerText.split(' ').length);
+    let content = document.getElementsByClassName('content')[0];
+    content.querySelectorAll('p').forEach(x => words += x.innerText.split(' ').length);
     x.innerText = words + ' words';
     document.body.appendChild(x);
 }

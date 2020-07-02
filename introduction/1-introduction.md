@@ -1,12 +1,10 @@
 ## Introduction {#int}
 
+<blockquote class="epigraph">I saw the Emperor – this world-soul – riding out of the city on reconnaissance. It is indeed a wonderful sensation to see such an individual, who, concentrated here at a single point, astride a horse, reaches out over the world and masters it ... this extraordinary man, whom it is impossible not to admire. <footer>G.W.F. Hegel to Niethammer, 1806</footer></blockquote>
+
 ### What is the *Phenomenology of Spirit*? {#what}
 
-> I saw the Emperor – this world-soul – riding out of the city on
-> reconnaissance. It is indeed a wonderful sensation to see such an individual,
-> who, concentrated here at a single point, astride a horse, reaches out over
-> the world and masters it ... this extraordinary man, whom it is impossible not
-> to admire.
+
 
 In October 1806, as Napoleon entered Jena, Hegel finished his first book: *The
 Phenomenology of Spirit*. The book is intended to serve as an introduction to

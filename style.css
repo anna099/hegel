@@ -2,107 +2,27 @@ body {
     width: 50%;
     margin: 1% auto 1% auto;
     padding: 20px 40px;
-
     font-family: 'Arno Pro', adobe-garamond-pro, serif;
     font-weight: 400;
     counter-reset: section;
-
     color: #111;
+    background: #fffff8;
 }
 
-p {
+/* Main Text: --------------------------------------------------- */
+p,
+blockquote p {
     margin-bottom: 0;
     position: relative;
-
     font-size: 1.1em;
     line-height: 1.3em;
     text-align: justify;
 }
-
-p + p {
-    text-indent: 1em;
-    margin-top: 0;
-}
-
-strong {
-    font-weight: 600;
-}
-
-.content {
-    width: 30em;
-    margin: 0 auto;
-}
-
-.content>p:not(#nav):before {
-    counter-increment: section;
-    content: "" counter(section) "";
-    font-size: .8em;
-    line-height: 1.1em;
-    color: #ccc;
-
-    white-space: nowrap;
-    clear: right;
-    float: right;
-    margin-right: -10%;
-
-}
-
-h2, h3 {
-    text-align: center;
-}
-
-img#title {
-    display: block;
-    width: 60%;
-    margin: 30px auto 40px auto;
-}
-
-h2 {
-    font-family: 'Optima', sans-serif;
-    font-size: 1.8em;
-    padding-top: 10px;
-    margin-bottom: -0.34em;
-    font-weight: 400;
-}
-
-h3 {
-    margin-top: 2em;
-    margin-bottom: 5px;
-    font-weight: 400;
-    font-variant: small-caps;
-    font-size: 1.3em;
-    text-transform: lowercase;
-}
-
-h4:not(#author):not(.subtitle) {
-    width: 20%;
-    float: left;
-    clear: left;
-    margin-left: -25%;
-
-    font-weight: normal;
-    font-size: 0.9em;
-    text-align: right;
-}
-
-a {
-    text-decoration: none;
-    color: #515c94;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-blockquote {
-    margin: 0px 40px;
-}
-
-blockquote p {
-    font-size: 1.1em;
-    line-height: normal;
-}
-
+p + p { text-indent: 1em; margin-top: 0; }
+blockquote { margin: 0px 40px; }
+strong { font-weight: 600; }
+a { text-decoration: none; color: #515c94; }
+a:hover { text-decoration: underline; }
 sup {
     color: black;
     font-size: 0.7em;
@@ -111,11 +31,68 @@ sup {
     top: -0.4em;
 }
 
+/* Epigraphs */
+blockquote.epigraph {
+    width: 75%;
+    padding-left: 25%;
+    font-size: 1em;
+    margin-top: 2.5em;
+    text-align: right;
+    font-style: italic;
+}
+blockquote.epigraph footer {
+    margin-top: 0.6em;
+    font-style: normal;
+    font-size: 0.9em;
+}
+
+/* Headers */
+h2, h3 { text-align: center; }
+h2 {
+    font-family: 'Optima', sans-serif;
+    font-size: 1.8em;
+    padding-top: 10px;
+    margin-bottom: -0.34em;
+    font-weight: 400;
+}
+h3 {
+    margin-top: 2em;
+    margin-bottom: 5px;
+    font-weight: 400;
+    font-variant: small-caps;
+    font-size: 1.3em;
+    text-transform: lowercase;
+}
+h4:not(#author):not(.subtitle) {
+    width: 20%;
+    float: left;
+    clear: left;
+    margin-left: -25%;
+    font-weight: normal;
+    font-size: 0.9em;
+    text-align: right;
+}
+
 hr {
     width: 25em;
     margin-top: 2em;
     border: none;
     border-top: 1px solid rgba(20, 20, 20, 0.2);
+}
+
+.content { width: 30em; margin: 0 auto; }
+/* Paragraph numbering: */
+.content>p:not(#nav)::before {
+    counter-increment: section;
+    content: '' counter(section) '';
+    font-size: .8em;
+    line-height: 1.1em;
+    color: #ccc;
+    white-space: nowrap;
+    clear: right;
+    float: right;
+    margin-right: -10%;
+
 }
 
 .footnotes {
@@ -162,6 +139,12 @@ hr {
     font-variant: small-caps;
 }
 
+#title {
+    display: block;
+    width: 60%;
+    margin: 30px auto 40px auto;
+}
+
 #author {
     text-align: center;
     margin: 0 0 10px 0;
@@ -173,54 +156,55 @@ hr {
     color: rgba(0, 0, 0, 0.6);
 }
 
+#nav {
+    text-indent: 0;
+    margin-top: 3em;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    text-align: center;
+}
+#nav a {
+    text-decoration: underline;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.6);
+}
+#nav a:hover { color: black; }
+
+/* Contents: ---------------------------------------------------- */
 #contents {
     width: 50%;
+    padding-left: 2.4rem;
+    font-size: 1rem;
     margin: 0 auto;
-    padding-left: 28px;
+    margin-bottom: 4em;
+    white-space: nowrap;
+    counter-reset: toc;
 }
-
-#contents li {
-    list-style-type: upper-roman;
+#contents ol { padding-left: 0; counter-reset: toc; }
+#contents li { list-style-type: none; display: block; margin-top: 0 }
+#contents > li { margin-top: 1em; }
+/* Decimal numbering */
+#contents li::before {
+    position: absolute;
+    width: 2.4rem;
+    transform: translate(-3.2rem);
+    text-align: right;
+    content: counters(toc, '.') ' ';
+    counter-increment: toc;
 }
-
-#contents li li {
-    list-style-type: lower-roman;
-}
-
-#contents li li li {
-    list-style-type: lower-greek;
-}
-
 #contents a {
+    line-height: 1.375em;
     text-decoration: none;
-    color: black;
+    border-bottom: 1px solid rgba(153, 153, 153, 0.4);
 }
+#contents a:hover { border-bottom: 1px solid rgba(153, 153, 153, 1); }
 
-#contents a:hover {
-    background: rgba(3, 1, 1, 0.1);
-}
+/* JavaaScript elements: ---------------------------------------- */
+#wordcount { text-align: center; color: #ccc; margin-top: 4em; }
 
-#wordcount {
-    text-align: center;
-    color: #ccc;
-    margin-top: 4em;
-}
-
-#to-top {
-    position: fixed;
-    top: 10;
-    left: 10;
-    color: rgba(0, 0, 0, 0.4);
-    font-size: 24px;
-}
-
-#to-top:hover {
-    text-decoration: none;
-    color: rgba(0, 0, 0, 1);
-    cursor: pointer;
-}
-
-#to-top:hover:after {
+#to-top { position: fixed; top: 10; left: 10; color: rgba(0, 0, 0, 0.4); font-size: 24px; }
+#to-top:hover { text-decoration: none; color: rgba(0, 0, 0, 1); cursor: pointer; }
+#to-top:hover::after {
     content: 'Back to contents';
     display: block;
     margin-top: -0.3em;;
@@ -231,37 +215,13 @@ hr {
     background: rgba(0, 0, 0, 0.1);
 }
 
-#nav {
-    text-indent: 0;
-    margin-top: 3em;
-    text-transform: lowercase;
-    font-variant: small-caps;
-    text-align: center;
-}
-
-#nav a {
-    text-decoration: underline;
-    display: inline-block;
-    color: rgba(0, 0, 0, 0.6);
-}
-
-#nav a:hover {
-    color: black;
-}
-
+/* Responsive Design: ------------------------------------------- */
 @media (max-width: 700px) {
-    body {
-        width: 80%;
-    }
-
-    .content {
-        width: 16em;
-    }
-
+    body { width: 80%; }
+    .content { width: 16em; }
     h4:not(#author):not(.subtitle) {
         float: none;
         clear: none;
-
         width: 50%;
         position: static;
         margin: 1em auto 0.6em auto;
@@ -270,13 +230,6 @@ hr {
         border-bottom: 1px solid rgba(20, 20, 20, 0.4);
         text-align: center;
     }
-
-    .footnotes {
-        width: 100%;
-        margin: 50px 0;
-    }
-
-    .footnotes ol {
-        column-count: 1;
-    }
+    .footnotes { width: 100%; margin: 50px 0; }
+    .footnotes ol { column-count: 1; }
 }
