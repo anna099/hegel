@@ -29,4 +29,6 @@ must match the structure of consciousness. Thus, knowledge of the world is also
 knowledge of the self. As Hegel himself remarked, at the end of the previous
 chapter, 'there is so much self-satisfaction in explanation, because the
 consciousness involved in it is, to put it this way, in an immediate
-conversation with itself, enjoying only itself'.[^4]
+conversation with itself, enjoying only itself'.[^4] So, in 'enjoying itself',
+self-consciousness imposes itself on the whole world around it. That *I am
+myself* is, for self-consciousness, the highest level of truth.
