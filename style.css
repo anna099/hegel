@@ -113,6 +113,7 @@ hr {
 .footnotes li,
 .footnotes p {
     break-inside: avoid-column;
+    page-break-inside: avoid; /* for firefox */
     font-size: 0.95em;
     line-height: 1.3em;
     margin: 0;
