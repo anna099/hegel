@@ -4,6 +4,7 @@ body {
     padding: 20px 40px;
     font-family: 'Arno Pro', adobe-garamond-pro, serif;
     font-weight: 400;
+    font-feature-settings: 'onum';
     counter-reset: section;
     color: #111;
     background: #faf9f5;
@@ -14,7 +15,7 @@ p,
 blockquote p {
     margin-bottom: 0;
     position: relative;
-    font-size: 1.1em;
+    font-size: 1.2em;
     line-height: 1.3em;
     text-align: justify;
 }
@@ -26,6 +27,7 @@ a:hover { text-decoration: underline; }
 sup {
     color: black;
     font-size: 0.7em;
+    font-feature-settings: 'nnum';
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
@@ -50,7 +52,7 @@ blockquote.epigraph footer {
 h2, h3 { text-align: center; color: #a14a3f; }
 h2 {
     font-family: adobe-garamond-pro, sans-serif;
-    font-size: 1.8em;
+    font-size: 1.9em;
     padding-top: 10px;
     margin-bottom: -0.34em;
     font-weight: 400;
@@ -60,7 +62,7 @@ h3 {
     margin-bottom: 5px;
     font-weight: 400;
     font-variant: small-caps;
-    font-size: 1.3em;
+    font-size: 1.4em;
     text-transform: lowercase;
 }
 h4:not(#author):not(.subtitle) {
@@ -80,7 +82,7 @@ hr {
     border-top: 1px solid rgba(20, 20, 20, 0.2);
 }
 
-.content { width: 30em; margin: 0 auto; }
+.content { max-width: 66ch; margin: 0 auto; }
 /* Paragraph numbering: */
 .content>p:not(#nav)::before {
     counter-increment: section;
@@ -146,13 +148,17 @@ img {
     margin: 30px auto 40px auto;
 }
 
+img#title {
+    opacity: 0.8;
+}
+
 #author {
     text-align: center;
     margin: 0 0 10px 0;
     font-weight: 400;
     text-transform: lowercase;
     font-variant: small-caps;
-    font-size: 1.1em;
+    font-size: 1.2em;
     letter-spacing: 0.1em;
     color: rgba(0, 0, 0, 0.6);
 }
@@ -203,7 +209,7 @@ img {
 /* JavaaScript elements: ---------------------------------------- */
 #wordcount { text-align: center; color: #ccc; margin-top: 4em; }
 
-#to-top { position: fixed; top: 10; left: 10; color: rgba(0, 0, 0, 0.4); font-size: 24px; }
+#to-top { position: fixed; top: 10; left: 10; color: rgba(0, 0, 0, 0.4); font-size: 32px; }
 #to-top:hover { text-decoration: none; color: rgba(0, 0, 0, 1); cursor: pointer; }
 #to-top:hover::after {
     content: 'Back to contents';
@@ -219,7 +225,6 @@ img {
 /* Responsive Design: ------------------------------------------- */
 @media (max-width: 700px) {
     body { width: 80%; }
-    .content { width: 16em; }
     h4:not(#author):not(.subtitle) {
         float: none;
         clear: none;

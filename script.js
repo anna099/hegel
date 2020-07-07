@@ -19,7 +19,7 @@ function smallCaps() {
         let four = p.innerHTML.split(' ').slice(0, 4).join(' ');
         p.innerHTML = p.innerHTML.replace(four, '');
         // reinsert the first 4 words in small-caps
-        let sc = '<span style="text-transform:lowercase;font-variant:small-caps">';
+        let sc = '<span class=sc>';
         sc += four + '</span>';
         p.insertAdjacentHTML('afterbegin', sc);
     }
