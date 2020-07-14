@@ -70,3 +70,27 @@ merely a 'motionless tautology'; secondly, that 'self-consciousness is
 otherness that desire involves (since desire is always desire for an
 other) is what gives self-consciousness its *determinate* content,
 setting it apart from mere tautology.
+
+#### The Dependency of Selfhood {#depen}
+
+In order for self-consciousness to actually express something beyond tautology
+-- that is, in order for it to *really be* self-consciousness -- it must
+recognise an Other for the sake of distinguishing itself from the Other. (We saw
+this same route to determinacy in *Perception*, when consciousness posited the
+thing as an 'excluding One'.) Thus, 'I am myself' must become something like, 'I
+am *not you*'. This negation of the Other is no ordinary negation, but a
+*sublation* -- a determinate negation -- that, in negating the Other, affirms
+the self. 'Self-consciousness is therefore only certain of itself through the
+sublating of this other'.[^8] Now, this sublation which affirms the self is, in
+fact, the acting-out of desire. To understand this, recall Hegel's remark
+regarding animals and the Eleusinian mysteries in the first chapter of the
+*Phenomenology*: when animals naturally come to desire food, 'they without
+further ado simply help themselves to them and devour them'; likewise, Ceres and
+Bacchus take up the drinks at their mysteries and 'bring about their
+nothingness'.[^9] In both scenarios, the outcome of desire is the *annihilation*
+of the desired object. At this moment, however, a dilemma arises within
+self-consciousness: 'For this sublating even to be, there must be this
+other'.[^10] That is to say, the self is conscious of itself only by sublating
+the Other, but as soon as the Other is sublated, it is gone: there is nothing
+left to sublate, and therefore nothing left through which the self can identify
+itself.
