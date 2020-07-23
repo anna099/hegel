@@ -32,6 +32,9 @@ sup {
     position: relative;
     top: -0.4em;
 }
+::selection {
+    background: rgba(161, 74, 63, 0.2);
+}
 
 /* Epigraphs */
 blockquote.epigraph {

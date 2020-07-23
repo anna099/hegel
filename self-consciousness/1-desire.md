@@ -71,7 +71,7 @@ otherness that desire involves (since desire is always desire for an
 other) is what gives self-consciousness its *determinate* content,
 setting it apart from mere tautology.
 
-#### The Dependency of Selfhood {#depen}
+#### Life and the Dependency of Selfhood {#depen}
 
 In order for self-consciousness to actually express something beyond tautology
 -- that is, in order for it to *really be* self-consciousness -- it must
@@ -88,9 +88,76 @@ regarding animals and the Eleusinian mysteries in the first chapter of the
 further ado simply help themselves to them and devour them'; likewise, Ceres and
 Bacchus take up the drinks at their mysteries and 'bring about their
 nothingness'.[^9] In both scenarios, the outcome of desire is the *annihilation*
-of the desired object. At this moment, however, a dilemma arises within
-self-consciousness: 'For this sublating even to be, there must be this
-other'.[^10] That is to say, the self is conscious of itself only by sublating
-the Other, but as soon as the Other is sublated, it is gone: there is nothing
-left to sublate, and therefore nothing left through which the self can identify
-itself.
+of the desired object. Now, this might not seem applicable to all forms of
+desire: for instance, in romantic love, is the 'annihilation' of one's lover
+really what is desired? When we are more precise, the answer turns out to be
+*yes*; since, to be exact, it is the *otherness* of the Other that desire seeks
+to annihilate: as J. N. Findlay parenthetically notes in his analysis of the
+*Phenomenology*, 'The nature of desire: to abolish the otherness of the
+Other'.[^10] In romantic love, the ultimate (if impossible) ambition of desire
+is for both lovers to become one, and see any separation between them dissolve.
+Furthermore, even *thinking* is a kind of desire, as I, the thinking self,
+negate the particularity -- the otherness -- of my object by subsuming it under
+*my* conceptualisation.
+
+The process created by the acting-out of desire is **life**; consequently, it is
+with self-consciousness that we enter the 'sphere' of life.[^11] The essence of
+self-consciousness, as it reaches out in desire in order to gaze inwards again
+in self-affirmation, is 'pure movement rotating on its own axis'.[^12] It is
+both stable and in motion, just as a ball spinning on its axis stays in the same
+place, and yet moves in its rotation. Life as a whole takes place upon the
+rotating sphere of the Earth, which embodies the movement of time as it spins
+and moves living creatures through the infinite cycle of day and night. While
+the Earth -- the location of all life -- is both stable and in motion, so too is
+life (as it maintains its stability through the cycle of reproduction and death)
+and self-consciousness (as it remains aware of itself through the movement of
+desire). The sublation of desire in self-consciousness is the *Phenomenology*'s
+first glimpse of life.
+
+At this moment, however, a dilemma arises within self-consciousness: 'For this
+sublating even to be, there must be this other'.[^13] That is to say, the self
+is conscious of itself only by sublating the Other, but as soon as the Other is
+sublated, it is gone: there is nothing left to sublate, and therefore nothing
+left through which the self can identify itself. Self-consciousness must
+therefore constantly find a new object for its desire, for fear that it will no
+longer be able to assert itself. It is for this reason that Thomas Hobbes
+observes, as 'a general inclination of all mankind', 'a perpetual and restless
+desire of power after power, that ceaseth only in death'.[^14]
+
+> *Continual success* in obtaining those things which a man from time to time
+> desireth, that is to say, continual prosperity, is that men call
+> <span class="sc">felicity</span>; I mean the felicity of this life. For there
+> is no such thing as perpetual tranquility of mind, while we live here; because
+> life itself is but motion, and never can be without desire, nor without fear,
+> no more than without sense.[^15]
+
+#### Recognition {#recog}
+
+What can bring an end to self-consciousness's 'restless desire', and bring it
+toward tranquility and absolute self-affirmation? As always, we should remember
+the golden rule of the *Phenomenology*: that which is only for-consciousness in
+one moment becomes for-the-object in the next. To save itself from constant
+negation of its objects, therefore, self-consciousness must focus its desire on
+an object that negates *itself*. In Hegel's words, 'self-consciousness can thus
+only arrive at satisfaction by this object effecting the negation in itself; and
+the object must in itself effect this negation of itself'.[^16] What kind of
+object can negate itself? That is, what kind of being can *offer itself* to an
+Other, voluntarily denying its independence and recognising its dependence on
+other beings? Only another desiring, *conscious* being. As such, the
+*Phenomenology* reaches its next triumphant conclusion:
+
+> *'Self-consciousness attains its satisfaction only in another
+> self-consciousness'*.[^17]
+
+The implications of this claim are enormous. For a start, it reveals that the
+self cannot be understood in isolation; for Hegel, to be a self is to be
+involved in a community of some sort. As he declares in the last paragraph of
+this section, 'a *self-consciousness* is *for a self-consciousness*'.[^18] In
+other words, to be an 'I' is to be part of a 'we'. In addition to this, the
+claim also brings the concept of **spirit** into the present for us ('us' being
+the phenomenological observers of spirit). Spirit is the unity of subject and
+object, and that unity has made its appearance here, as the object of
+self-consciousness is (another) self-consciousness. At this point, spirit is
+'leaving behind the colorful semblance of the this-worldly sensuous, and leaving
+behind the empty night of the supersensible other-worldly beyond, [as] it steps
+into *the spiritual daylight of the present*'.[^19]
