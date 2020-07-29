@@ -1,7 +1,7 @@
 ## Consciousness {#con}
 
-
 <blockquote class="epigraph">If the doors of perception were cleansed everything would appear to man as it is, infinite.<footer>William Blake, *The Marriage of Heaven and Hell*</footer></blockquote>
+<blockquote class="epigraph">Wir suchen überall das Unbedingte, und finden immer nur Dinge. <footer>Novalis, <i>Blüthenstaub</i>, 1798</footer></blockquote>
 
 ### Sensuous Certainty {#s-c}
 

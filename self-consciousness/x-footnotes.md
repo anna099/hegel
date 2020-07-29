@@ -1,3 +1,5 @@
+<p id="nav"><a href="consciousness.html">Previous Chapter ☜ Consciousness</a></p>
+
 </section>
 
 [^1]: §166.
@@ -5,7 +7,7 @@
 [^3]: Hyppolite, *Genesis and Structure*, p. 143.
 [^4]: §163.
 [^5]: This is most famously the strategy of Alexandre Kojève, *Introduction To The Reading Of Hegel*.
-[^6]: I take this summary of McDowell's reading from Robert B. Pippin, *Hegel on Self-Consciousness: Desire and Death in the Phenomenology of Spirit* (Princeton, NJ: Princeton University Press, 2010), pp.  12-14.  [^7]: §166.
+[^6]: I take this summary of McDowell's reading from Robert B. Pippin, *Hegel on Self-Consciousness: Desire and Death in the Phenomenology of Spirit* (Princeton, NJ: Princeton University Press, 2010), pp.  12-14.
 [^7]: §167.
 [^8]: §174.
 [^9]: §109.
@@ -19,3 +21,7 @@
 [^17]: Ibid.
 [^18]: §177.
 [^19]: Ibid. Emphasis added.
+[^20]: §178. Emphasis added.
+[^21]: Hyppolite, *Genesis and Structure*, pp. 121.
+[^22]: §179.
+[^23]: §181.
