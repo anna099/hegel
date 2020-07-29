@@ -1,3 +1,9 @@
+html {
+    --pale: #faf9f5;
+    --cblue: #515c94;
+    --cred: #a14a3f;
+}
+
 body {
     width: 50%;
     margin: 1% auto 1% auto;
@@ -6,8 +12,8 @@ body {
     font-weight: 400;
     font-feature-settings: 'onum';
     counter-reset: section;
-    color: #111;
-    background: #faf9f5;
+    color: #333;
+    background: var(--pale);
 }
 
 /* Main Text: --------------------------------------------------- */
@@ -22,7 +28,7 @@ blockquote p {
 p + p { text-indent: 1em; margin-top: 0; }
 blockquote { margin: 0px 40px; }
 strong { font-weight: 600; }
-a { text-decoration: none; color: #515c94; }
+a { text-decoration: none; color: var(--cblue); }
 a:hover { text-decoration: underline; }
 sup {
     color: black;
@@ -52,7 +58,7 @@ blockquote.epigraph footer {
 }
 
 /* Headers */
-h2, h3 { text-align: center; color: #a14a3f; }
+h2, h3 { text-align: center; color: var(--cred); }
 h2 {
     font-family: adobe-garamond-pro, sans-serif;
     font-size: 1.9em;
@@ -112,7 +118,7 @@ hr {
 
 .footnotes ol {
     column-count: 2;
-    column-gap: 5%;
+    column-gap: 3em;
 }
 
 .footnotes li,
@@ -129,7 +135,7 @@ hr {
 }
 
 .footnotes a:hover {
-    color: #515c94;
+    color: var(--cblue);
 }
 
 .subtitle {
@@ -178,7 +184,7 @@ img#title {
     display: inline-block;
     color: rgba(0, 0, 0, 0.6);
 }
-#nav a:hover { color: #a14a3f; }
+#nav a:hover { color: var(--cred); }
 
 /* Contents: ---------------------------------------------------- */
 #contents {
