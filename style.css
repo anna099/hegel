@@ -138,6 +138,15 @@ hr {
     color: var(--cblue);
 }
 
+/* See script.js */
+#hover-note {
+    position: fixed;
+    padding: 0.6em;
+    background: var(--cred);
+    color: var(--pale);
+    max-width: 33ch;
+}
+
 .subtitle {
     margin: -0.5em 0 10 0;
     text-align: center;
