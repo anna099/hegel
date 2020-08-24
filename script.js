@@ -1,7 +1,7 @@
 window.onload = function() {
     smallCaps();  // sections begin with a few words in small caps.
     wordCount();  // a wordcount appears at the end of the page.
-    hoverNotes(); // hover over a footnote number to see the note.
+    // hoverNotes(); // hover over a footnote number to see the note.
 }
 
 function smallCaps() {
@@ -36,15 +36,15 @@ function hoverNotes() {
     let ns = document.querySelectorAll('.footnote-ref');
     ns.forEach(n => {
         n.onmouseenter = e => {
-            hov.style.display = 'block';
+            hov.style.opacity = '1';
             hov.style.top = e.clientY;
             hov.style.left = e.clientX;
-            let t = document.querySelector(n.attributes.href.value).innerText
+            let t = document.querySelector(n.attributes.href.value).innerHTML;
             t = t.replace('↩', '');
-            hov.innerText = t;
+            hov.innerHTML = t;
         };
         n.onmouseleave = e => {
-            hov.style.display = 'none';
+            hov.style.opacity = '0';
         };
     });
 }

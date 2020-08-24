@@ -4,6 +4,11 @@ html {
     --cred: #a14a3f;
 }
 
+html {
+    color: #333;
+    background: var(--pale);
+}
+
 body {
     width: 50%;
     margin: 1% auto 1% auto;
@@ -12,8 +17,6 @@ body {
     font-weight: 400;
     font-feature-settings: 'onum';
     counter-reset: section;
-    color: #333;
-    background: var(--pale);
 }
 
 /* Main Text: --------------------------------------------------- */
@@ -140,11 +143,17 @@ hr {
 
 /* See script.js */
 #hover-note {
+    opacity: 0;
     position: fixed;
     padding: 0.6em;
     background: var(--cred);
     color: var(--pale);
     max-width: 33ch;
+    transition: 0.2s all;
+}
+#hover-note p {
+    font-size: 0.95em;
+    margin: 0;
 }
 
 .subtitle {
