@@ -62,7 +62,9 @@ my subjectivity is removed from them, and universality takes its place.
 Consequently we find that what is persistent in sensuous-certainty's experience
 of the *This* is not the *object*, but the subject *for whom the object is a
 'This', here and now*. 'Now' is midnight, or noon, or whenever else, because *I*
-name it so; 'now' is always *my* 'now'.
+name it so; 'now' is always *my* 'now'. (Incidentally, this notion of language
+undermining the conscious wish of subjectivity will be famously repeated by
+Sigmund Freud).
 
 Who is this 'I'? As the subject that names an object to be a particular This, at
 a particular *here and now*, it must too be a particular. There is an 'I' for
