@@ -25,3 +25,10 @@
 [^21]: Hyppolite, *Genesis and Structure*, pp. 121.
 [^22]: §179.
 [^23]: §181.
+[^24]: §182.
+[^25]: Ibid.
+[^26]: §185.
+[^27]: §187.
+[^28]: §§186-7.
+[^29]: G. W. F. Hegel, *Elements of the Philosophy of Right*, translated by H. B.  Nesbit. (Cambridge: Cambridge University Press, 2003), p. 78.
+[^30]: Thomas Hobbes, *On the Citizen*, translated by R. Tuck and M. Silverthorne. (Cambridge: Cambridge University Press, 1998), p. 27. Translation altered.
