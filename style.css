@@ -1,3 +1,8 @@
+@font-face { font-family: 'ap'; src: url('fonts/regular.otf') format('opentype'); }
+@font-face { font-family: 'ap'; font-weight: bold; src: url('fonts/bold.otf') format('opentype'); }
+@font-face { font-family: 'ap'; font-style: italic; src: url('fonts/italic.otf') format('opentype'); }
+@font-face { font-family: 'ap'; font-weight: bold; font-style: italic; src: url('fonts/bolditalic.otf') format('opentype'); }
+
 html {
     --pale: #faf9f5;
     --cblue: #515c94;
@@ -13,7 +18,7 @@ body {
     width: 50%;
     margin: 1% auto 1% auto;
     padding: 20px 40px;
-    font-family: 'Arno Pro', adobe-garamond-pro, serif;
+    font-family: 'Arno Pro', 'ap', adobe-garamond-pro, serif;
     font-weight: 400;
     font-feature-settings: 'onum';
     counter-reset: section;

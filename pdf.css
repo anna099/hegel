@@ -60,6 +60,11 @@ h3 {
     text-transform: lowercase;
 }
 
+.footnotes {
+    /* display: none; /1* FIXME *1/ */
+    margin-top: 2em;
+    border-top: 1px solid #ccc;
+}
 .footnotes hr {
     display: none;
 }
@@ -69,7 +74,6 @@ h3 {
     font-size: 0.95em;
     line-height: 1.3em;
     margin: 0;
-    color: rgba(0, 0, 0, 0.3);
 }
 
 #nav,

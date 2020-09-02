@@ -1,5 +1,6 @@
 ## Self-Consciousness
 
+<blockquote class="epigraph">I am not what I am. <footer>Iago, *Othello*</footer></blockquote>
 <blockquote class="epigraph">A human being is spirit. But what is spirit? Spirit is the self. But what is the self? The self is a relation that relates itself to itself or is the relation’s relating itself to itself in the relation. <footer>Søren Kierkegaard, *The Sickness Unto Death*</footer></blockquote>
 
 ### Desire
