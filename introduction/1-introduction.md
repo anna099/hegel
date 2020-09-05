@@ -4,8 +4,6 @@
 
 ### What is the *Phenomenology of Spirit*? {#what}
 
-
-
 In October 1806, as Napoleon entered Jena, Hegel finished his first book: *The
 Phenomenology of Spirit*. The book is intended to serve as an introduction to
 Hegel's system of science, showing the 'coming to be of knowledge', as
