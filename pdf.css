@@ -70,7 +70,6 @@ h3 {
 }
 .footnotes li,
 .footnotes p {
-    break-inside: avoid-column;
     font-size: 0.95em;
     line-height: 1.3em;
     margin: 0;

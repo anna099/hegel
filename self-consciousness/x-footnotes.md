@@ -53,3 +53,11 @@
 [^49]: Kalkavage, *The Logic of Desire*, p. 123.
 [^50]: Hyppolite, *Genesis and Structure*, p. 174.
 [^51]: §19.
+[^52]: Spinoza, *Ethics* (Id7), translated by S. Shirley. (Indianapolis, IN: Hackett, 1992), p. 31.
+[^53]: Kalkavage, *The Logic of Desire*, p. 128.
+[^54]: Harris, *Hegel's Ladder*, p. 382.
+[^55]: §197.
+[^56]: Ibid.
+[^57]: Ibid.
+[^58]: Ibid.
+[^59]: §199.
