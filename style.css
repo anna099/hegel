@@ -7,11 +7,14 @@ html {
     --pale: #faf9f5;
     --cblue: #515c94;
     --cred: #a14a3f;
+    --ctext: #1a0f00;
 }
 
-html {
-    color: #333;
-    background: var(--pale);
+html#dark {
+    --pale: #282828;
+    --cblue: #83a598;
+    --cred: #fabd2f;
+    --ctext: #d5c4a1;
 }
 
 body {
@@ -22,6 +25,8 @@ body {
     font-weight: 400;
     font-feature-settings: 'onum';
     counter-reset: section;
+    color: var(--ctext);
+    background: var(--pale);
 }
 
 /* Main Text: --------------------------------------------------- */
@@ -39,7 +44,7 @@ strong { font-weight: 600; }
 a { text-decoration: none; color: var(--cblue); }
 a:hover { text-decoration: underline; }
 sup {
-    color: black;
+    color: var(--ctext);
     font-size: 0.7em;
     font-feature-settings: 'nnum';
     vertical-align: baseline;
@@ -106,7 +111,8 @@ hr {
     content: '' counter(section) '';
     font-size: .8em;
     line-height: 1.1em;
-    color: #ccc;
+    color: var(--ctext);
+    opacity: 0.6;
     white-space: nowrap;
     clear: right;
     float: right;
@@ -192,7 +198,8 @@ img#title {
     font-variant: small-caps;
     font-size: 1.2em;
     letter-spacing: 0.1em;
-    color: rgba(0, 0, 0, 0.6);
+    color: var(--ctext);
+    opacity: 0.6;
 }
 
 #nav {

@@ -45,7 +45,8 @@ a concept is *purely* mental, and makes no attempt to represent objects separate
 from consciousness, it is always *my own*. Miller's translation has a useful
 phrase with which to contrast the stoic's thinking: it never manifests as
 'picture-thought'. This kind of thinking is free precisely because it is
-self-sufficient, and relies merely on the self alone. In thinking, consciousness
+self-sufficient, and relies merely on the self alone. It might seem, therefore,
+like a precursor to Descartes' self-reliant *cogito*. In thinking, consciousness
 is 'an object to itself'; 'its meaning is that of the *being-for-itself* of that
 consciousness [who thinks]'.[^56] As the object of free thought, the concept is
 a *thing* of sorts (a 'determinate and distinguished existent', in Hegel's
@@ -69,3 +70,37 @@ that stoicism 'consists in being free within all the dependencies of one's
 singular existence, *whether on the throne or in fetters*'. The stoic
 *withdraws* from 'actual doing', from 'suffering', and from life itself, 'and
 *withdraws* into *the simple essentiality of thought*'.[^59]
+
+As has happened before in the *Phenomenology*, the language we use to describe
+our grasp on truth has overtaken us; the very words used in describing
+stoicism's *strength* give a voice to its *weaknesses*. To be specific, stoicism
+has prided itself on its *withdrawal* from life into the *immediacy* of
+self-consciousness's own concepts, but by doing this, it has '*let go of natural
+existence*' and cast itself into a state of purely internal reflection.[^60] The
+comparison with Descartes can thus continue in a critical direction: it seems
+that the stoic has ended up trapped as the famous 'ghost in the machine'.[^61]
+To be sure, the stoic is an adept thinker, but in stoicism, Hegel writes,
+'thought only has *pure thoguhts* as its truth, a truth without any fulfillment
+in life'; as such, the 'freedom' that the stoic held onto so proudly is 'not
+living freedom itself but only the concept of freedom'.[^62] What good is
+freedom if it isn't exercised against the grip of life and its suffering? There
+is no real *content* to a stoic's thinking -- only concepts reflected in other
+concepts. Furthermore, this empty and formalistic thinking even falls into
+contradiction when it is asked for the criterion of truth:
+
+> To the question put to it, "*What* is good and true?", its answer was once
+> more that it was the abstract thinking *devoid of all content itself*, namely,
+> that the true and the good is supposed to consist in rationality. However,
+> this self-equality of thinking is only again the pure form in which nothing is
+> determinate.
+
+That is to say, there can be no real truth in thought that has no content. There
+is nothing against which the stoic's thinking can be tested; as such, all
+high-minded reference the stoic makes to 'truth', 'the good', and so on,
+eventually dissolves.
+
+> The general terms, "true" and "good", or "wisdom" and "virtue", with which
+> stoicism is stuck, are on the whole undeniably uplifting, but because they
+> cannot in fact end up in any kind of expansion of content, they quickly start
+> to become tiresome.[^63]
+

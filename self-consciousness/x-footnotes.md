@@ -61,3 +61,7 @@
 [^57]: Ibid.
 [^58]: Ibid.
 [^59]: §199.
+[^60]: §200.
+[^61]: See Gilbert Ryle, *The Concept of Mind* (London: Routledge, 2009), chapter 1: 'Descartes' Myth'.
+[^62]: §200.
+[^63]: Ibid.
