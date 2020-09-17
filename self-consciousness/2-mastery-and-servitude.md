@@ -1,6 +1,8 @@
 ### Mastery and Servitude {#master}
 #### Self-Sufficiency and Non-Self-Sufficiency of Self-Consciousness {.subtitle}
 
+<blockquote class="epigraph">Before Darwin, Hegel had provided the definitive theory of the specific function of aggressiveness in human ontology, seeming to prophesy the iron law of our own time. <footer>Jacques Lacan, *Écrits*</footer></blockquote>
+
 The present section is possibly the most-read passage in all of Hegel's work,
 though it lasts less than ten pages. At the opening, Hegel explains that
 self-consciousness is only '*in* and *for itself*' -- that is, it is only fully
@@ -235,3 +237,24 @@ they have imprinted it on the world in their work. The slave has mastered the
 in desire), but by *transforming* them. In the beginning, serving the master
 leads a slave to be a stranger to themselves. But through work, they imprint
 themselves upon the world, and thus eventually see themselves looking back.
+
+Crucially, the downfall of the master shows us the way in which the oppression
+of social relations cannot be abolished simply by negating an 'opponent'. We can
+take the dialectic of mastery and servitude as an allegory: if an individual
+seeks self-independence and freedom, they cannot find it simply by killing or
+enslaving their opponent, because their very *identity* is dependent upon their
+relation to this opponent (the slave *is* their servitude to the master, the
+master *is* their authority over the slave). As Wendy Brown writes in *States of
+Injury*:
+
+> Ideals of freedom ordinarily emerge to vanquish their imagined immediate
+> enemies, but in this move they frequently recycle and reinstate rather than
+> transform the terms of domination that generated them. Consider exploited
+> workers who dream of a world in which work has been abolished, blacks who
+> imagine a world without whites, feminists who conjure a world either without
+> men or without sex, or teenagers who fantasize a world without parents. Such
+> images of freedom perform mirror reversals of suffering without transforming
+> the *organization of the activity through which the suffering is produced* and
+> without addressing the *subject constitution that domination effects*, that
+> is, the constitution of the social categories, "workers", "blacks", "women",
+> or "teenagers".[^52]

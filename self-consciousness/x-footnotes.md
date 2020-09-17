@@ -53,15 +53,39 @@
 [^49]: Kalkavage, *The Logic of Desire*, p. 123.
 [^50]: Hyppolite, *Genesis and Structure*, p. 174.
 [^51]: §19.
-[^52]: Spinoza, *Ethics* (Id7), translated by S. Shirley. (Indianapolis, IN: Hackett, 1992), p. 31.
-[^53]: Kalkavage, *The Logic of Desire*, p. 128.
-[^54]: Harris, *Hegel's Ladder*, p. 382.
-[^55]: §197.
-[^56]: Ibid.
+[^52]: Wendy Brown, *States of Injury: Power and Freedom in Late Modernity*.  (Princeton, NJ: Princeton University Press, 1995), p. 7.
+<!-- Stoicism, skepticism, and unhappy consciousness: -->
+[^53]: Spinoza, *Ethics* (Id7), translated by S. Shirley. (Indianapolis, IN: Hackett, 1992), p. 31.
+[^54]: Kalkavage, *The Logic of Desire*, p. 128.
+[^55]: Harris, *Hegel's Ladder*, p. 382.
+[^56]: §197.
 [^57]: Ibid.
 [^58]: Ibid.
-[^59]: §199.
-[^60]: §200.
-[^61]: See Gilbert Ryle, *The Concept of Mind* (London: Routledge, 2009), chapter 1: 'Descartes' Myth'.
-[^62]: §200.
-[^63]: Ibid.
+[^59]: Ibid.
+[^60]: §199.
+[^61]: §200.
+[^62]: See Gilbert Ryle, *The Concept of Mind* (London: Routledge, 2009), chapter 1: 'Descartes' Myth'.
+[^63]: §200.
+[^64]: Ibid.
+[^65]: §202.
+[^66]: §201.
+[^67]: Harris, *Hegel's Ladder*, p. 388.
+[^68]: Sextus Empiricus, *Outlines of Pyrrhonism*, translated by R. G. Bury. (Cambridge, MA: Harvard University Press), p. 7.
+[^69]: Robert Solomon, *In the Spirit of Hegel*. (Oxford: Oxford University Press, 1985), p. 462.
+[^70]: G. W. F. Hegel, *Lectures on the History of Philosophy 1825-6*, Volume II: *Greek Philosophy*. (Oxford: Oxford University Press, 2006), p. 308.
+[^71]: G. W. F. Hegel, 'On the Relationship of Skepticism to Philosophy', translated by H. S. Harris, in *Between Kant and Hegel: Texts in the Development of Post-Kantian Idealism*, edited by Harris and G. Di Giovanni. (Indianapolis, IN: Hackett, 2000), p. 333.
+[^72]: Kalkavage, *The Logic of Desire*, p. 132.
+[^73]: §202.
+[^74]: Ibid.
+[^75]: Kalkavage, *The Logic of Desire*, p. 133.
+[^76]: §202.
+[^77]: Kalkavage, *The Logic of Desire*, pp. 133-4.
+[^78]: §204.
+[^79]: §205.
+[^80]: Ibid.
+[^81]: Ibid.
+[^82]: Ibid.
+[^83]: §206.
+[^84]: Robert Stern, *The Routledge Guidebook to Hegel's Phenomenology of Spirit*. (London: Routledge, 2013), p. 107.
+[^85]: §212.
+[^86]: §216.
