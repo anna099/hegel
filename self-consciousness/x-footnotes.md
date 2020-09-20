@@ -89,3 +89,10 @@
 [^84]: Robert Stern, *The Routledge Guidebook to Hegel's Phenomenology of Spirit*. (London: Routledge, 2013), p. 107.
 [^85]: §212.
 [^86]: §216.
+[^87]: Judith Butler, *The Psychic Life of Power: Theories in Subjection*. (Stanford, CA: Stanford University Press, 1997), p. 42.
+[^88]: Ibid, p. 45.
+[^89]: Ibid, p. 46.
+[^90]: Jean Wahl, 'Commentary on a Passage from Hegel's *Phenomenology of Spirit*', in *Transcendence and the Concrete*, edited by A. D. Schrift and I. A. Moore (New York: Fordham University Press, 2017), p. 59.
+[^91]: Ibid.
+[^92]: §217.
+[^93]: Jean Wahl, 'Commentary', p. 64.

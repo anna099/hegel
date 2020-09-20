@@ -104,10 +104,6 @@ eventually dissolves.
 > cannot in fact end up in any kind of expansion of content, they quickly start
 > to become tiresome.[^64]
 
----
-
-<blockquote class="epigraph">Finally,  there is no existence that is constant, either of our being or  of that  of objects.  And we,  and our judgment, and all mortal things go on flowing and rolling unceasingly. Thus nothing certain can be established about one thing by another, both the judging and the judged being in continual change and motion. <footer>Michel de Montaigne, *Apology for Raymond Sebond*</footer></blockquote>
-
 #### Skepticism {#skept}
 
 Where is self-consciousness to go after its claim to truth has lost all content?
@@ -265,6 +261,10 @@ itself to this contradiction, consciousness must form itself into a new shape,
 one which is *self-aware* about its doubled nature. The name of this new shape
 is **unhappy consciousness**.
 
+---
+
+<blockquote class="epigraph">For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.<footer>Ecclesiastes 1:18</footer></blockquote>
+
 #### Unhappy Consciousness {#unhappy}
 
 The unhappiness of this stage in the development of self-consciousness is easy
@@ -287,3 +287,49 @@ thinking itself'. Just as self-consciousness started out with desire, here it is
 still agonised with the desire to be like the 'unchangeable', 'other-worldly'
 *One* that it has some awareness of ... and yet it fails to realise  that this
 object 'is *it itself*, is itself the singularity of consciousness'.[^86]
+
+As Judith Butler points out, this stage of self-consciousness sees the tension
+between mastery and servitude take place within one single subject:
+
+> The bondsman takes the place of the lord by recognizing his own formative
+> capacity, but once the lord is displaced, the bondsman becomes lord over
+> himself, more specifically, lord over his own body; this form of
+> reflexivity signals the passage from bondage to unhappy consciousness.[^87]
+
+For Butler, the *body* in which self-consciousness resides is the prime example
+of the particularity and contingency which makes for the unhappiness in unhappy
+consciousness. Previously, Hegel compared skeptics to 'stubborn children' who
+take delight in negating anything that the Other says. Now, Butler explains,
+'the childish and stubborn pleasure that the skeptic takes in watching another
+fall turns into a profound unhappiness when he is, as it were, forced to watch
+himself [as unhappy consciousness] fall into endless contradictions'.[^88] To
+continue the analysis of unhappy consciousness as *split*, then, we can say that
+the side of this split who takes the place of the master -- the 'unchangeable
+cosnciousness' -- acts out of sadomasochism upon the enslaved side of the split,
+the 'changeable consciousness' that the body is taken to represent. As Butler
+puts it, 'the subject subordinates its own body in the service of the thought
+of the unchangeable'.[^89]
+
+The unhappy consciousness is the final stage in self-consciousness, before the
+*Phenomenology* moves on to 'Reason'. The unhappiness of self-consciousness at
+this stage is, as Jean Wahl realises, the sign of 'absolute negativity' becoming
+'fully aware of itself' for the first time.[^90] With this awareness, Wahl
+argues, the project of the *Phenomenology* really begins -- that is, 'the
+narration of consciousness's efforts to fill in the separations that it feels
+within itself'. Consciousness could only be happy if it were to become
+conscious of its unity; instead, it is currently stuck as '*the vision of one
+consciousness in another*'.[^91] The unhappy subject has not yet realised that
+they are the unity of contradictions.
+
+Jean Wahl makes an observation which is now becoming increasingly evident: the
+unhappy consciousness represents, in a basic form, the foundations of Abrahamic
+religion. While self-consciousness fails to realise that the divine unchangeable
+is, in fact, *within it* -- while it is 'the inward movement of the *pure* heart
+which painfully *feels* itself as estranged' -- its unhappy thinking is a form
+of '*devotion*'.[^92] As Wahl writes, the same is true in Judaism:
+
+> Jewish consciousness knows its contradiction. It turns out to be the deepening
+> of Scepticism and the still incomplete unification of that which remains
+> separated in Scepticism. It is the religion of the sublime in which the
+> essential and the inessential are most firmly opposed to each other, but in
+> which they are also shown in their reciprocal necessity.[^93]
