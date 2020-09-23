@@ -95,4 +95,8 @@
 [^90]: Jean Wahl, 'Commentary on a Passage from Hegel's *Phenomenology of Spirit*', in *Transcendence and the Concrete*, edited by A. D. Schrift and I. A. Moore (New York: Fordham University Press, 2017), p. 59.
 [^91]: Ibid.
 [^92]: §217.
-[^93]: Jean Wahl, 'Commentary', p. 64.
+[^93]: Jean Wahl, 'Commentary', pp. 63-4.
+[^94]: Augustine, *Confessions*, translated by R. S. Pine-Coffin. (London: Penguin, 2002), pp. 133-7. It is also relevant that Augustine, just like the *Phenomenology*'s unhappy subject, started out as a skeptic. Augustine studied Cicero while he was a student in Carthage.
+[^95]: Blaise Pascal, *Pensées, and Other Writings*, translated by H. Levi. (Oxford: Oxford University Press, 1999), p. 36.
+[^96]: Ibid, p. 9
+[^97]: John Heckman, 'Introduction' in Hyppolite, *Genesis and Structure*, p.  xxvii.

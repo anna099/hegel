@@ -1,5 +1,7 @@
-### Stoicism, Skepticism, and the Unhappy Consciousness {#stoic}
-#### Freedom of Self-Consciousness {.subtitle}
+### Stoicism and Skepticism {#stoic}
+#### Freedom of Self-Consciousness, Part One {.subtitle}
+
+#### Stoicism
 
 Here is where the last chapter has left us: the master has imposed the demands
 of their desire onto the slave, and has thus become a repetitive consumer. The
@@ -261,11 +263,10 @@ itself to this contradiction, consciousness must form itself into a new shape,
 one which is *self-aware* about its doubled nature. The name of this new shape
 is **unhappy consciousness**.
 
----
+### Unhappy Consciousness {#unhappy}
+#### Freedom of Self-Consciousness, Part Two {.subtitle}
 
 <blockquote class="epigraph">For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.<footer>Ecclesiastes 1:18</footer></blockquote>
-
-#### Unhappy Consciousness {#unhappy}
 
 The unhappiness of this stage in the development of self-consciousness is easy
 enough to understand. As Robert Stern writes, 'on the one hand, the Unhappy
@@ -285,7 +286,7 @@ singular individuality, but it has not yet been elevated to that thinking *for
 which* the singular individuality of consciousness is reconciled with pure
 thinking itself'. Just as self-consciousness started out with desire, here it is
 still agonised with the desire to be like the 'unchangeable', 'other-worldly'
-*One* that it has some awareness of ... and yet it fails to realise  that this
+*One* that it has some awareness of ... and yet it fails to realise that this
 object 'is *it itself*, is itself the singularity of consciousness'.[^86]
 
 As Judith Butler points out, this stage of self-consciousness sees the tension
@@ -305,7 +306,7 @@ fall turns into a profound unhappiness when he is, as it were, forced to watch
 himself [as unhappy consciousness] fall into endless contradictions'.[^88] To
 continue the analysis of unhappy consciousness as *split*, then, we can say that
 the side of this split who takes the place of the master -- the 'unchangeable
-cosnciousness' -- acts out of sadomasochism upon the enslaved side of the split,
+consciousness' -- acts out of sadomasochism upon the enslaved side of the split,
 the 'changeable consciousness' that the body is taken to represent. As Butler
 puts it, 'the subject subordinates its own body in the service of the thought
 of the unchangeable'.[^89]
@@ -321,6 +322,8 @@ conscious of its unity; instead, it is currently stuck as '*the vision of one
 consciousness in another*'.[^91] The unhappy subject has not yet realised that
 they are the unity of contradictions.
 
+#### Judaism and Christianity {#juda}
+
 Jean Wahl makes an observation which is now becoming increasingly evident: the
 unhappy consciousness represents, in a basic form, the foundations of Abrahamic
 religion. While self-consciousness fails to realise that the divine unchangeable
@@ -333,3 +336,35 @@ of '*devotion*'.[^92] As Wahl writes, the same is true in Judaism:
 > separated in Scepticism. It is the religion of the sublime in which the
 > essential and the inessential are most firmly opposed to each other, but in
 > which they are also shown in their reciprocal necessity.[^93]
+
+Why *Judaism* specifically? Does Christianity not also estrange the believer
+from God, reducing human life to the unhappy experience of lack? To be sure,
+there are important Christian philosophers who characterise the unhappy
+consciousness. For instance, Augustine addresses his *Confessions* to a God that
+is 'incorruptible'; in his conversion, Augustine is led to a realisation -- a
+'single truth [which] was the only weapon with which I could try to drive from
+my mind's eye all the unclean images which swarmed before it' -- namely, 'that
+what remains constant is better than that which is changeable ... the
+incorruptible is better than the corruptible'.[^94] Pascal is even closer to
+Hegel's description of the unhappy consciousness, claiming that 'Man's greatness
+lies in his capacity to recognize his wretchedness'.[^95] Just like Hegel's
+unhappy subject, Pascal positions his unhappiness as a successor to stoicism:
+
+> The stoics say: 'Go back into yourselves. There you will find peace.' And it
+> is not true. Others say: 'Go out, look for happiness in some distraction.' And
+> that is not true. Illness is the result. Happiness is neither outside us nor
+> within us. It is in God, and both outside and within us.[^96]
+
+Nonetheless, two things (in my judgment) make Judaism a more appropriate
+representative of the unhappy consciousness, at least in its first stage.
+Firstly, and most simply, Judaism chronologically precedes Christianity. Thus,
+any consciousness of the separation of humanity and divinity in *Christianity*
+can be seen as a derivation of Jewish thought. For Jean Hyppolite, Judaism was
+the foremost representative of this separation-thinking; he's reported to have
+said during wartime that 'insofar as we seek the universal, we are all
+Jews'.[^97] Secondly, one of the crucial events in Christianity -- the
+incarnation of God as Jesus -- marks a *denial* of this separation, as God (the
+unchangeable) takes the changeable form of a man, who undergoes the greatest act
+of finitude in the crucifixion.
+
+
