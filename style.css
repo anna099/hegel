@@ -168,7 +168,7 @@ hr {
 }
 
 .subtitle {
-    margin: -0.5em 0 10 0;
+    margin: -0.5em 0 0.25em 0;
     text-align: center;
     font-size: 16px;
     font-style: italic;
@@ -228,6 +228,7 @@ img#title {
 }
 #contents ol { padding-left: 0; counter-reset: toc; }
 #contents li { list-style-type: none; display: block; margin-top: 0 }
+#contents li li li a { font-size: 90%; margin-left: 1em; }
 #contents > li { margin-top: 1em; }
 /* Decimal numbering */
 #contents li::before {
