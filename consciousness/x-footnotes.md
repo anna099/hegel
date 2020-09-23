@@ -4,7 +4,7 @@
 </section>
 
 [^1]: G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard. (Cambridge, Cambridge University Press, 2018), §96.
-[^2]: §97. (All following citations beginning with § refer to the *Phenomenology* with Miller's paragraph numbering.)
+[^2]: §97. (All following citations beginning with § refer to the *Phenomenology* with Pinkard's paragraph numbering.)
 [^3]: §101.
 [^4]: §107.
 [^5]: §74.
