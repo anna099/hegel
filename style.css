@@ -55,7 +55,7 @@ sup {
     background: rgba(161, 74, 63, 0.2);
 }
 
-/* Epigraphs */
+/* Epigraphs, etc. */
 blockquote.epigraph {
     width: 75%;
     padding-left: 17%;
@@ -117,7 +117,6 @@ hr {
     clear: right;
     float: right;
     margin-right: -10%;
-
 }
 
 .footnotes {
@@ -125,16 +124,13 @@ hr {
     width: 150%;
     margin: 50px -25%;
 }
-
 .footnotes hr {
     display: none;
 }
-
 .footnotes ol {
     column-count: 2;
     column-gap: 3em;
 }
-
 .footnotes li,
 .footnotes p {
     break-inside: avoid-column;
@@ -143,11 +139,13 @@ hr {
     line-height: 1.3em;
     margin: 0;
 }
-
+.footnotes li:target { /* Selected footnote */
+    font-weight: bold;
+    text-decoration: underline;
+}
 .footnotes a {
     color: #eee;
 }
-
 .footnotes a:hover {
     color: var(--cblue);
 }
