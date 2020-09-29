@@ -367,4 +367,81 @@ incarnation of God as Jesus -- marks a *denial* of this separation, as God (the
 unchangeable) takes the changeable form of a man, who undergoes the greatest act
 of finitude in the crucifixion.
 
+... And yet, it is the crucifixion that takes Jesus back out of the changeable
+world. To understand the consequence of this, the meaning of the crucifixion to
+the unhappy consciousness, we will make a diversion through Hegel's analysis of
+*feeling*.
 
+The object of unhappy consciousness's focus -- that is, the unchangeable -- is
+so separate from consciousness that, as Harris puts it, 'the Unhappy
+Consciousness does not *properly think* but *feels*'.[^98] The encounter between
+changeable and unchangeable, insofar as there is one, is one of silence. No
+matter how much I call out, God does not reply. 'As such', Hegel writes, 'its
+thinking remains that of the shapeless roar of the pealing of bells, or that of
+a warm, all-suffusing vapor, or that of a musical thinking which does not amount
+to concepts'.[^99] Consider a scene from Ingmar Bergman's *The Seventh Seal*:
+
+> **Knight**: I want to talk to you as openly as I can, but my heart is empty
+> ... The emptiness is a mirror turned towards my own face. I see myself in it,
+> and I am filled with fear and disgust.
+
+> **Death** does not answer. *[silence]*[^100]
+
+Here, the knight is an example of unhappy consciousness. He wants to make sense
+of his contingent existence through dialogue with a being *beyond* such
+existence, and yet standing before this being he realises his own 'emptiness'.
+Just like the slave before the master, he is 'filled with fear' when he realises
+his changeable existence, his contingency.
+
+But why does the knight direct his confession -- his devotion, or 'shapeless
+roar' -- to death, and not God? Hegel has the answer. The aforementioned event
+of the crucifixion effects a transformation in unhappy reliigous thinking,
+namely, that 'the singular being who was God is dead'.[^101] This is the
+biblical story, at any rate. In rather abstract terms, Hegel describes the
+logical structure of this transformation:
+
+> Where the other [God, the unchangeable, etc.] is sought, it cannot be found,
+> for it is just supposed to be *an other-worldly beyond*, or the kind of thing
+> that cannot be found. Sought as individual [Jesus], it turns out not to be a
+> *universal singular individuality* of thought, or it turns out not to be a
+> *concept* but rather to be the *singular individual* as an object, or as an
+> actuality, an object of immediate sense certainty. Just for that reason, it
+> thus turns out only to be the kind of thing that has vanished.[^102]
+
+In other words, because the unchangeable is taken to be an 'other-worldly
+beyond', any worldly appearance of it must be as fleeting as the 'This-Here-Now'
+of sensuous certainty. In religion, Jesus was this fleeting appearance, and the
+crucifixion marked him as 'the kind of thing that has vanished'. Thus, all that
+remains for consciousness to devote itself to is the '*grave*' of God.[^103]
+
+#### The Subject's Return to Work {#work}
+
+The unhappy subject is thus left in an abandoned world, the grave of a crucified
+God. As such, just like the slave who was left alone with their labour, the
+unhappy subject undergoes 'the *return of the heart into itself*': now that God
+has gone, self-consciousness turns to itself as an object.[^104] This begins the
+second stage of unhappy consciousness, in which -- again, like the slave -- it
+seeks to overcome its alienation through desire and labour. Through work, the
+subject hopes to prove itself; however, Hegel admits, this will result in 'only
+the proof of the worth of what it is for itself, namely, its
+estrangement'.[^105]
+
+There is of course a difference between the work of the slave and the work of
+the unhappy consciousness: now, the object worked upon is not just something
+desired by a master, but the world itself. The world, like the subject, is
+split: it is both *empty*, having been abandoned by God, and *sacred*, being
+God's divine creation. It is, in Hegel's words, 'an *actuality at odds with
+itself*':
+
+> This actuality is a shape of the unchangeable, for the latter has preserved
+> singular individuality in itself, and because, as the unchangeable, it is the
+> universal, the meaning of its singular individuality itself is that of
+> all actuality.[^106]
+
+Understood this way, the world is indeed a metaphorical *grave*, because a grave
+is both a marker of somebody's absence, a sign of their having left this world,
+and a concrete record of their having existed. A grave is a sign that the
+person whose absence it marks will, in fact, live on through the materialisation
+of their life. Thus the world is God's grave, the sign left behind by God; and
+the subject works upon it -- transforms and consumes it -- in order to come
+closer to God.

@@ -100,3 +100,12 @@
 [^95]: Blaise Pascal, *Pensées, and Other Writings*, translated by H. Levi. (Oxford: Oxford University Press, 1999), p. 36.
 [^96]: Ibid, p. 9
 [^97]: John Heckman, 'Introduction' in Hyppolite, *Genesis and Structure*, p.  xxvii.
+[^98]: Harris, *Hegel's Ladder*, p. 412.
+[^99]: §217.
+[^100]: Ingmar Bergman, *The Seventh Seal* (1957).
+[^101]: Harris, *Hegel's Ladder*, p. 413.
+[^102]: §217.
+[^103]: Ibid.
+[^104]: §218.
+[^105]: Ibid.
+[^106]: §219.
