@@ -1,7 +1,7 @@
 window.onload = function() {
     smallCaps();  // sections begin with a few words in small caps.
     wordCount();  // a wordcount appears at the end of the page.
-    // hoverNotes(); // hover over a footnote number to see the note.
+    hoverNotes(); // hover over a footnote number to see the note.
 }
 
 function smallCaps() {
@@ -45,6 +45,8 @@ function hoverNotes() {
         };
         n.onmouseleave = e => {
             hov.style.opacity = '0';
+            hov.style.top = -900;
+            hov.style.left = -900;
         };
     });
 }
