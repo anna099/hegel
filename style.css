@@ -155,10 +155,10 @@ hr {
     opacity: 0;
     position: fixed;
     padding: 0.6em;
-    background: var(--cred);
+    background: rgba(0, 0, 0, 0.8);
     color: var(--pale);
     max-width: 33ch;
-    transition: 0.2s all;
+    /* transition: 0.2s all; */
 }
 #hover-note p {
     font-size: 0.95em;
@@ -244,7 +244,36 @@ img#title {
 }
 #contents a:hover { border-bottom: 1px solid rgba(153, 153, 153, 1); }
 
-/* JavaaScript elements: ---------------------------------------- */
+/* Bibliography: ------------------------------------------------ */
+
+#bib {
+    padding: 0;
+}
+#bib header {
+    width: 50%;
+    margin: 2em auto 1em auto;
+    text-align: center;
+    font-size: 1.1em;
+    text-decoration: underline;
+}
+#bib li {
+    font-size: 1.1em;
+    line-height: 1.3em;
+    margin-bottom: 0.5em;
+    list-style-type: none;
+}
+#bib li::before {
+  content: '\2014';
+  position: absolute;
+  margin-left: -30px;
+}
+
+#bib li p {
+    font-size: 1em;
+    margin: 0.5em 0 1em 2em;
+}
+
+/* JavaScript elements: ----------------------------------------- */
 #wordcount { text-align: center; color: #ccc; margin-top: 4em; }
 
 #to-top { position: fixed; top: 10; left: 10; color: rgba(0, 0, 0, 0.4); font-size: 32px; }
