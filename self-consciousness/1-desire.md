@@ -15,11 +15,11 @@ concept of the truth vanishes in the experience of it'.[^2] That is to say, each
 stage of knowing posits a particular concept (whether that is the This, the One,
 or force) as *absolute*, certain truth. As experience undermined the truth of
 these concepts, eventually consciousness came to recognise *itself* as the
-movement of concepts. Thus, for the first time, consciousness is its own object.
-Just as before, consciousness is making a claim to absolute truth; this time, it
-asserts consciousness itself as absolute truth. The claim of self-consciousness,
-to start with, is therefore: *'That which cannot be doubted is that I am
-myself.'*
+common denominator, the movement of concepts. Thus, for the first time,
+consciousness is its own object.  Just as before, consciousness is making a
+claim to absolute truth; this time, it asserts consciousness itself as absolute
+truth. The claim of self-consciousness, to start with, is therefore: *'That
+which cannot be doubted is that I am myself.'*
 
 This is likely to remind us of Descartes' *cogito*. But it is even more
 reminiscent of Kant's idealism, which Hyppolite summarises in the formula:
@@ -37,10 +37,10 @@ is a kind of shallowness to the bare claim that *I am myself*. Far back in
 sensuous certainty, there was already a conception -- albeit a primitive one --
 of the I as a This which apprehends the being of a sensuous object. In a sense,
 the 'self' had existed implicitly throughout the *Phenomenology*'s section on
-consciousness, if only as the hidden being who holds certainty, perceptive
+consciousness, if only as the implicit being who holds certainty, perceptive
 content, or explanations of force to be true. Does this section on
-self-consciousness simply develop an analysis of this hidden being, bringing it
-into the foreground, or is it a new kind of analysis altogether?
+self-consciousness simply develop an analysis of this being, bringing it into
+the foreground, or is it a new kind of analysis altogether?
 
 In response to this issue of the continuity between the *consciousness*
 and *self-consciousness* chapters, some interpretations have essentially
