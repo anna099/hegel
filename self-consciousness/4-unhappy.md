@@ -149,7 +149,7 @@ of sensuous certainty. In religion, Jesus was this fleeting appearance, and the
 crucifixion marked him as 'the kind of thing that has vanished'. Thus, all that
 remains for consciousness to devote itself to is the '*grave*' of God.[^103]
 
-#### The Subject's Return to Work {#work}
+#### Thanksgiving and Priesthood {#thanks}
 
 The unhappy subject is thus left in an abandoned world, the grave of a crucified
 God. As such, just like the slave who was left alone with their labour, the
@@ -191,14 +191,98 @@ also split, with its 'powers' -- its capacity to work upon the world --
 being seemingly derived from the other-worldly beyond. That is to say, insofar
 as the subject is at all able to affect a world whose essence is the
 unchangeable, the subject's power to do so must be an 'alien gift' from the
-unchangeable itself.[^108]
+unchangeable itself.
 
 The splitting of both the world and the subject is essential for desire and work
 to have any significance, for without the unchangeable elements within each of
 them, the subject would merely be 'an active this-worldliness, confronted by
-passive actuality'.[^109] The world only 'gives itself over', so to speak,
+passive actuality'.[^108] The world only 'gives itself over', so to speak,
 because its unchangeable essence 'repels' its changeable existence. Likewise,
 the subject also surrenders itself; since the satisfied feeling of
 self-sufficiency is not possible, the subject's work instead takes the shape of
 'giving thanks' to the unchangeable *'beyond'* that has bestowed it with powers
-and a world to confront.[^110]
+and a world to confront.
+
+At this point, the relation between the unhappy consciousness and God seems to
+be one wherein both sides are surrendering themselves. However, Hegel shows that
+the 'surrender' of both sides actually amounts to very little. God's surrender
+is, really, half-hearted: God renounces only the surface of Godly existence, and
+only insofar as the subject then has to work on it. Likewise, the subject claims
+to work and give thanks out of a spirit of *renunication*, but is this excessive
+humility not for the sake of earning recognition or praise? When La
+Rochefoucauld suggests that 'a refusal of praise is a desire to be praised twice
+over', is he not stuck within the thinking of this stage of unhappy
+consciousness?[^109] More simply, Hegel acknowledges that the unhappy subject
+'has *willed*, *acted*, and *consumed*'; does this really describe a subject who
+has truly surrendered themselves? As Harris puts it beautifully, 'What we try to
+put into the hands of God remains obstinately the work of our own hands'.[^110]
+So, in what is becoming the true Hegelian fashion, in work and thanksgiving, the
+subject does the *opposite* of what it intends to do; 'consciousness *makes a
+show* of renouncing the satisfaction of its own self-feeling', and has reflected
+on itself while trying to reflect humbly on the Other. The subject is thus
+closer to realising what we, the phenomenological observers, have known from the
+start: these two individuals, the God and the worshipper, are in fact the same
+individual, singular but divided:
+
+> In work and consumption, as the realization of this essenceless being,
+> \[unhappy consciousness\] can immediately forget *itself*, and its conscious
+> *ownness* in this actuality is suppressed through the thankful bestowal of
+> recognition. However, this suppression is in truth a return of consciousness
+> back into itself, namely, into itself, to itself, as the genuine
+> actuality.[^111]
+
+Is this not a success? Self-consciousness has realised *itself* as the 'genuine
+actuality'; and has itself at the centre of its world-image. But recall, at the
+start of this chapter, that the real satisfaction for unhappy consciousness is
+*dissatisfaction*: as such, this 'return of consciousness back into itself' is a
+wrong turn for a subject that wants only to assert its own finitude. Thus, if it
+is stuck with itself as the 'genuine actuality' of the world, the unhappy
+subject looks to degrade its actuality as much as possible. The subject, in this
+final stage of unhappiness, is a miserable ascetic, ridden with shame regarding
+the singular, contingent body and its 'animal functions':
+
+> These functions, instead of being performed without emabarrassment as
+> something which are in and for themselves null and which can acquire no
+> importance and essentiality for spirit, are instead now objects of serious
+> attention and they acquire the utmost importance, since it is in them that the
+> enemy shows itself shows itself in its distinctive shape.[^112]
+
+Now, the very same body that took centre stage through its desire and labour is
+derided as a fool. It is not simply that 'animal functions' are of the
+changeable world; indeed, in Christianity, they are often the medium through
+which the unchangeable is accessed, in the Eucharist. But these mundane,
+'shameful' functions (Harris takes Hegel to be thinking of Luther's constipation
+as an example) are a constant reminder of how 'impoverished' the unhappy subject
+is, in the face of an unchangeable God who has no such problems.[^113]
+Crucially, since this shame only comes about through the subject's comparison of
+themselves to God, the subject's unhappiness is still '*mediated* through the
+thought of the unchangeable'. Noticing this mediation allows us to realise
+Hegel's final syllogism of self-consciousness, wherein the shameful unhappy
+consciousness and God are the two extremes, and the figure of the **priest** is
+the mediating conclusion. Hegel doesn't refer explicitly to a 'priest', but to a
+mediator 'in an immediate relation to the unchangeable essence', who 'renders
+service by offering *counsel* about what is right'.[^114] It might seem bizarre
+that priesthood -- which might appear as a relic of an outdated world -- marks
+the conclusion of self-consciousness. However, Hegel's argument seems more
+plausible when we recall that the unhappy consciousness's 'God' is not
+necessarily an omniscient heavenly being, but in fact an (unconscious) side of
+the split subject. As the above quotations from Wahl noted, unhappy
+consciousness is 'the inward movement of the *pure* heart which painfully
+*feels* itself as estranged'. Thus, instead of a 'priest', one might think of a
+psychoanalyst who mediates the relationship between an analysand and their
+unconscious.
+
+In many ways, the priest saves the shameful subject from themselves; now, all of
+the subject's activity can be attributed to priestly instruction, which bears
+the honour of being divinely inspired. The priest is the messenger between God
+and the subject, and the subject is now a devoted *object* of the priest, who
+'has the certainty of having in truth emptied itself of its *I*, and of having
+made its immediate self-consciousness into a *thing*, into an objective
+being.'[^115] In a sense, the problems of unhappy consciousness have been
+solved: the subject is permitted to wallow away quietly, having found stability
+in a mediated relationship with God. At this point, the subject's 'doing and its
+being as this singularly *individual* consciousness is, to itself, being and
+doing *in itself*', because it has sacrificed itself to an *objective* doing;
+namely, the will of God. As such, **reason** is born within the subject, as the
+priest's mediation has allowed the 'singular individual' (unhappy subject) and
+the 'objective' (God) to be united in one moment.

@@ -53,7 +53,7 @@
 [^49]: Kalkavage, *The Logic of Desire*, p. 123.
 [^50]: Hyppolite, *Genesis and Structure*, p. 174.
 [^51]: §19.
-[^52]: Wendy Brown, *States of Injury: Power and Freedom in Late Modernity*.  (Princeton, NJ: Princeton University Press, 1995), p. 7.
+[^52]: Wendy Brown, *States of Injury: Power and Freedom in Late Modernity*. (Princeton, NJ: Princeton University Press, 1995), p. 7.
 <!-- Stoicism, skepticism, and unhappy consciousness: -->
 [^53]: Spinoza, *Ethics* (Id7), translated by S. Shirley. (Indianapolis, IN: Hackett, 1992), p. 31.
 [^54]: Kalkavage, *The Logic of Desire*, p. 128.
@@ -99,7 +99,7 @@
 [^94]: Augustine, *Confessions*, translated by R. S. Pine-Coffin. (London: Penguin, 2002), pp. 133-7. It is also relevant that Augustine, just like the *Phenomenology*'s unhappy subject, started out as a skeptic. Augustine studied Cicero while he was a student in Carthage.
 [^95]: Blaise Pascal, *Pensées, and Other Writings*, translated by H. Levi. (Oxford: Oxford University Press, 1999), p. 36.
 [^96]: Ibid, p. 9
-[^97]: John Heckman, 'Introduction' in Hyppolite, *Genesis and Structure*, p.  xxvii.
+[^97]: John Heckman, 'Introduction' in Hyppolite, *Genesis and Structure*, p. xxvii.
 [^98]: Harris, *Hegel's Ladder*, p. 412.
 [^99]: §217.
 [^100]: Ingmar Bergman, *The Seventh Seal* (1957).
@@ -110,6 +110,11 @@
 [^105]: Ibid.
 [^106]: §219.
 [^107]: §220.
-[^108]: Ibid.
-[^109]: §221.
-[^110]: §222.
+[^108]: §221.
+[^109]: François de La Rochefoucauld, *Collected Maxims*, translated by E. H. & A. M. Blackmore and F. Giguère (Oxford: Oxford University Press, 2007), p. 43 (Maxim 149).
+[^110]: Harris, *Hegel's Ladder*, p. 423.
+[^111]: §223.
+[^112]: §225.
+[^113]: For Harris's point about Luther, see *Hegel's Ladder*, pp. 427-28.
+[^114]: §228.
+[^115]: §229.

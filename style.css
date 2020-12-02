@@ -149,6 +149,13 @@ hr {
 .footnotes a:hover {
     color: var(--cblue);
 }
+#cite-note {
+    width: 60%;
+    margin: 2em auto;
+    padding-top: 1em;
+    border-top: 1px solid rgba(20, 20, 20, 0.2);
+    font-size: 0.95em;
+}
 
 /* See script.js */
 #hover-note {

@@ -3,6 +3,12 @@
 
 </section>
 
+<p id="cite-note">(A minor note on citations: I have made an effort to cite
+every quotation or paraphrasing in my writing; however, I quote from Hegel's
+*Phenomenology* so extensively that, when my quotations are only a few words
+long, or when the context makes the origin of the quotation obvious, I have
+sometimes omitted the citation.)</p>
+
 [^1]: G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard. (Cambridge, Cambridge University Press, 2018), p. 468.
 [^2]: Alexandre Kojève, *Introduction To The Reading Of Hegel*, translated by R. Queneau. (Ithaca, Cornell University Press, 1980).
 [^3]: An elaboration of Jacobi's argumentation can be found in Paul Franks, "All or Nothing", in *The Cambridge Companion to German Idealism*, edited by K. Ameriks. (Cambridge, Cambridge University Press, 2017), p. 131.
