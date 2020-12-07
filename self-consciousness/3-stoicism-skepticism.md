@@ -148,7 +148,7 @@ Solomon puts it.[^69] Hegel himself says, in his Lectures on the History of
 Philosophy, that 'the general aim of Skepticism is that, with the vanishing of
 all [finite] being, of everything determinate, everything affirmative,
 self-consciousness should attain within itself this inner stability, a perfect
-ἀταραξία, ataraxia'.[^70]
+<span lang="el">ἀταραξία</span>, ataraxia'.[^70]
 
 The significance of this distinction -- between ancient Pyyrhonic skepticism and
 modern Humean skepticism -- is that only the ancient skeptics were invested in a

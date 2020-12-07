@@ -250,27 +250,27 @@ Hegel writes: 'The supersensible is therefore *appearance* as
 
 Law, therefore, is *objectified flux*. It is stabilised instability. As an
 example, we might think of Heraclitus's famous saying, that 'everything gives
-way and nothing stands fast' [πάντα χωρεῖ καὶ οὐδὲν μένει]: this saying takes
-the impermanence of appearances, and renders from them a permanent law.[^49]
-These laws are what govern the in-itself: the supersensible *beyond* that
-grounds all appearances. Now, insofar as 'grounding' is a relation of two
-distinct things, the supersensible must be distinct from appearance. But it
-cannot be distinct merely through a kind of *diversity*, in the same way that a
-cat and a dog are distinct, because such diversity allows for no *essential*
-relation -- and, therefore, no grounding. As such, supersensible and appearance
-are distinct by the only other possible kind of distinction: through
-*opposition*, or inversion. This is how Hegel's idea of the **inverted world**
-comes about. Coming to the conclusion that any object must, in-itself, be the
-*opposite* of itself, the understanding is left with no choice but to posit a
-second supersensible world wherein everything is the precise opposite of the
-world of appearance. 'The *one* is *appearance*, the *other* is the *in-itself*.
-The *one* world is as it is for others, whereas the *other* is as it is *for
-itself*, so that, to use the previous examples, what tastes sweet is *really*,
-or *inwardly* in the thing itself, sour'.[^50] All of this is to say: the
-strategy of the understanding has failed. When stable truth cannot be found in a
-world of flux, an inner world must be posited, but in the *truth* of that inner
-world, all that is found is the opposite of what appears. Consequently, we learn
-nothing about the objects of experience.
+way and nothing stands fast' [<span lang="el">πάντα χωρεῖ καὶ οὐδὲν
+μένει</span>]: this saying takes the impermanence of appearances, and renders
+from them a permanent law.[^49] These laws are what govern the in-itself: the
+supersensible *beyond* that grounds all appearances. Now, insofar as 'grounding'
+is a relation of two distinct things, the supersensible must be distinct from
+appearance. But it cannot be distinct merely through a kind of *diversity*, in
+the same way that a cat and a dog are distinct, because such diversity allows
+for no *essential* relation -- and, therefore, no grounding. As such,
+supersensible and appearance are distinct by the only other possible kind of
+distinction: through *opposition*, or inversion. This is how Hegel's idea of the
+**inverted world** comes about. Coming to the conclusion that any object must,
+in-itself, be the *opposite* of itself, the understanding is left with no choice
+but to posit a second supersensible world wherein everything is the precise
+opposite of the world of appearance. 'The *one* is *appearance*, the *other* is
+the *in-itself*.  The *one* world is as it is for others, whereas the *other* is
+as it is *for itself*, so that, to use the previous examples, what tastes sweet
+is *really*, or *inwardly* in the thing itself, sour'.[^50] All of this is to
+say: the strategy of the understanding has failed. When stable truth cannot be
+found in a world of flux, an inner world must be posited, but in the *truth* of
+that inner world, all that is found is the opposite of what appears.
+Consequently, we learn nothing about the objects of experience.
 
 #### The Infinite {#infin}
 
