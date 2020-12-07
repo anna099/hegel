@@ -4,7 +4,7 @@
 @font-face { font-family: 'ap'; font-weight: bold; font-style: italic; src: url('fonts/bolditalic.otf') format('opentype'); }
 
 html {
-    --pale: #faf9f5;
+    --pale: #fdfdfc;
     --cblue: #515c94;
     --cred: #a14a3f;
     --ctext: #1a0f00;
@@ -30,11 +30,12 @@ body {
 }
 
 /* Main Text: --------------------------------------------------- */
+.content { max-width: 60ch; margin: 0 auto; }
 p,
 blockquote p {
     margin-bottom: 0;
     position: relative;
-    font-size: 1.2em;
+    font-size: 1.15em;
     line-height: 1.3em;
     text-align: justify;
 }
@@ -52,39 +53,50 @@ sup {
     top: -0.4em;
 }
 ::selection {
-    background: rgba(161, 74, 63, 0.2);
+    background: #e7eff6;
 }
 
 /* Epigraphs, etc. */
-blockquote.epigraph {
+.epigraph {
     width: 75%;
     padding-left: 17%;
     font-size: 1em;
     margin-top: 2.5em;
-    text-align: right;
-    font-style: italic;
+    text-align: justify;
 }
-blockquote.epigraph footer {
+.epigraph.short {
+    text-align: right;
+}
+.epigraph footer {
     margin-top: 0.6em;
-    font-style: normal;
-    font-size: 0.9em;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+    text-align: right;
+}
+/* This part is for the actual source, i.e., not the author's name */
+.epigraph footer em {
+    font-variant: normal;
+    text-transform: none;
+    letter-spacing: normal;
 }
 
 /* Headers */
-h2, h3 { text-align: center; color: var(--cred); }
+h2, h3 { text-align: center; }
 h2 {
     font-family: adobe-garamond-pro, sans-serif;
     font-size: 1.9em;
     padding-top: 10px;
     margin-bottom: -0.34em;
     font-weight: 400;
+    color: var(--cred);
 }
 h3 {
     margin-top: 2em;
     margin-bottom: 5px;
     font-weight: 400;
     font-variant: small-caps;
-    font-size: 1.4em;
+    font-size: 1.3em;
     text-transform: lowercase;
 }
 h4:not(#author):not(.subtitle) {
@@ -104,7 +116,6 @@ hr {
     border-top: 1px solid rgba(20, 20, 20, 0.2);
 }
 
-.content { max-width: 66ch; margin: 0 auto; }
 /* Paragraph numbering: */
 .content>p:not(#nav)::before {
     counter-increment: section;
@@ -165,7 +176,6 @@ hr {
     background: rgba(0, 0, 0, 0.8);
     color: var(--pale);
     max-width: 33ch;
-    /* transition: 0.2s all; */
 }
 #hover-note p {
     font-size: 0.95em;
@@ -173,7 +183,7 @@ hr {
 }
 
 .subtitle {
-    margin: -0.5em 0 0.25em 0;
+    margin: -0.25em 0 0.25em 0;
     text-align: center;
     font-size: 16px;
     font-style: italic;
@@ -187,7 +197,7 @@ hr {
 
 img {
     display: block;
-    width: 60%;
+    width: 50%;
     margin: 30px auto 40px auto;
 }
 
@@ -197,7 +207,7 @@ img#title {
 
 #author {
     text-align: center;
-    margin: 0 0 10px 0;
+    margin: 0;
     font-weight: 400;
     text-transform: lowercase;
     font-variant: small-caps;
@@ -216,7 +226,7 @@ img#title {
 }
 #nav a {
     text-decoration: underline;
-    display: inline-block;
+    display: block;
     color: rgba(0, 0, 0, 0.6);
 }
 #nav a:hover { color: var(--cred); }
@@ -226,14 +236,14 @@ img#title {
     width: 50%;
     padding-left: 2.4rem;
     font-size: 1rem;
-    margin: 0 auto;
+    margin: 2em auto;
     margin-bottom: 4em;
     white-space: nowrap;
     counter-reset: toc;
 }
 #contents ol { padding-left: 0; counter-reset: toc; }
 #contents li { list-style-type: none; display: block; margin-top: 0 }
-#contents li li li a { font-size: 90%; margin-left: 1em; }
+#contents li li li a { /*font-size: 90%;*/ margin-left: 1em; }
 #contents > li { margin-top: 1em; }
 /* Decimal numbering */
 #contents li::before {
@@ -243,13 +253,28 @@ img#title {
     text-align: right;
     content: counters(toc, '.') ' ';
     counter-increment: toc;
+    color: var(--ctext);
+    opacity: 0.2;
+}
+#contents li:hover::before {
+    opacity: 1;
 }
 #contents a {
     line-height: 1.375em;
     text-decoration: none;
-    border-bottom: 1px solid rgba(153, 153, 153, 0.4);
 }
 #contents a:hover { border-bottom: 1px solid rgba(153, 153, 153, 1); }
+/* A button to skip past the long contents section */
+#skip-contents {
+    display: block;
+    color: var(--ctext);
+    opacity: 0.3;
+    text-align: center;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    margin: 0;
+}
+#skip-contents:hover { opacity: 0.6; }
 
 /* Bibliography: ------------------------------------------------ */
 
@@ -282,19 +307,6 @@ img#title {
 
 /* JavaScript elements: ----------------------------------------- */
 #wordcount { text-align: center; color: #ccc; margin-top: 4em; }
-
-#to-top { position: fixed; top: 10; left: 10; color: rgba(0, 0, 0, 0.4); font-size: 32px; }
-#to-top:hover { text-decoration: none; color: rgba(0, 0, 0, 1); cursor: pointer; }
-#to-top:hover::after {
-    content: 'Back to contents';
-    display: block;
-    margin-top: -0.3em;;
-    padding: 0 10px;
-    font-size: 0.6em;
-    text-transform: lowercase;
-    font-variant: small-caps;
-    background: rgba(0, 0, 0, 0.1);
-}
 
 /* Responsive Design: ------------------------------------------- */
 @media (max-width: 700px) {
