@@ -2,6 +2,7 @@ window.onload = function () {
     smallCaps(); // sections begin with a few words in small caps.
     wordCount(); // a wordcount appears at the end of the page.
     hoverNotes(); // hover over a footnote number to see the note.
+    pageTitle(); // set the page title to something appropriate.
 };
 
 function smallCaps() {
@@ -51,4 +52,31 @@ function hoverNotes() {
             hov.style.left = -900;
         };
     });
+}
+
+function pageTitle() {
+    let contents = document.querySelectorAll("#contents a");
+    contents.forEach((c) => {
+        let url = withoutAnchor(c.href);
+        let current_url = withoutAnchor(document.URL);
+
+        if (current_url === url) {
+            var at = c;
+            var parents = [];
+            while (at) {
+                parents.unshift(at);
+                at = at.parentNode;
+            }
+            document.title = 'Hegel / ' + parents[4].firstChild.data;
+        }
+    });
+}
+
+// Taking 'page.html#section', returns 'page.html'
+function withoutAnchor(url) {
+    if (url.indexOf("#") >= 0) {
+        return url.slice(0, url.indexOf("#"));
+    } else {
+        return url;
+    }
 }
