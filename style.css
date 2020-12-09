@@ -99,14 +99,21 @@ h3 {
     font-size: 1.3em;
     text-transform: lowercase;
 }
+
 h4:not(#author):not(.subtitle) {
-    width: 20%;
-    float: left;
-    clear: left;
-    margin-left: -25%;
-    font-weight: normal;
-    font-size: 0.9em;
-    text-align: right;
+    float: none;
+    clear: none;
+    width: 50%;
+    position: static;
+    margin: 2em 2em 0;
+    font-size: 1.15em;
+    font-style: italic;
+    font-weight: 600;
+    text-align: left;
+}
+h4:not(#author):not(.subtitle)::before {
+    content: '• ';
+    font-feature-settings: 'ornm' 14;
 }
 
 hr {
@@ -277,32 +284,13 @@ img#title {
 #skip-contents:hover { opacity: 0.6; }
 
 /* Bibliography: ------------------------------------------------ */
-
-#bib {
+.bib {
     padding: 0;
+    text-align: justify;
 }
-#bib header {
-    width: 50%;
-    margin: 2em auto 1em auto;
-    text-align: center;
-    font-size: 1.1em;
-    text-decoration: underline;
-}
-#bib li {
-    font-size: 1.1em;
-    line-height: 1.3em;
+.bib li {
+    list-style-type: square;
     margin-bottom: 0.5em;
-    list-style-type: none;
-}
-#bib li::before {
-  content: '\2014';
-  position: absolute;
-  margin-left: -30px;
-}
-
-#bib li p {
-    font-size: 1em;
-    margin: 0.5em 0 1em 2em;
 }
 
 /* JavaScript elements: ----------------------------------------- */
@@ -311,17 +299,6 @@ img#title {
 /* Responsive Design: ------------------------------------------- */
 @media (max-width: 700px) {
     body { width: 80%; }
-    h4:not(#author):not(.subtitle) {
-        float: none;
-        clear: none;
-        width: 50%;
-        position: static;
-        margin: 1em auto 0.6em auto;
-        font-size: 1.1em;
-        text-decoration: none;
-        border-bottom: 1px solid rgba(20, 20, 20, 0.4);
-        text-align: center;
-    }
     .footnotes { width: 100%; margin: 50px 0; }
     .footnotes ol { column-count: 1; }
 }
