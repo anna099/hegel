@@ -109,10 +109,10 @@ of real systematicity. Hegel's particular formulation of this criticism accused
 Kant of *subjective* idealism, even in spite of Kant's attempts to distance
 himself from Bishop Berkeley:
 
-> Objectivity of thought, in Kant's sense, is again to a certain sense
-> subjective. Thoughts, according to Kant, although universal and necessary
-> categories, are *only our* thoughts -- separated by an impassable gulf from the
-> thing, as it exists apart from our knowledge.[^4]
+> objectivity of thinking in Kant's sense is itself again only subjective in its
+> form, because, according to Kant, thoughts, although they are universal and
+> necessary determinations, are still *only our* thoughts, and are cut off from
+> what the thing is *in-itself* by an impassable gulf.[^4]
 
 Jacobi also failed to meet the monistic demand -- albeit less subtly -- since he
 followed Hume in suggesting that we merely place *faith* in an unintelligible
