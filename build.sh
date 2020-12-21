@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-chapters=('introduction' 'consciousness' 'self-consciousness'
+chapters=('introduction' 'prologue'
+        \ 'consciousness' 'self-consciousness'
         \ 'reason-intro')
 pdfs=( "${chapters[@]/%/.pdf}" )
 FN=x-footnotes.md
@@ -22,3 +23,6 @@ for i in "${chapters[@]}"; do
         rm $TEMP
     fi
 done
+
+# PDF
+echo "${chapters[@]}"/*.md

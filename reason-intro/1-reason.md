@@ -58,4 +58,23 @@ journey (from sensuous certainty to self-consciousness) that is necessary for
 this journey is forgotten. In its present moment of certainty, reason fits the
 latter description. 'It only gives *the assurance* of being all reality, but
 does not itself comprehend this, for the comprehension of this immediately
-expressed assertion is that forgotten path itself'.[^5]
+expressed assertion is that forgotten path itself'.[^5] This kind of naive,
+asserted idealism is thus only 'an *immediate certainty* against which other
+immediate certainties stand in contrast': since the naive idealist has forgotten
+the dialectical overcoming of the certainties in consciousness and
+self-consciousness (sensuous certainty and the desiring I, respectively), it is
+unable to overcome these certainties, or prove itself against them.[^6] This point
+may be specifically directed at J. G. Fichte's idealism. In the introduction to
+his idealist system, Fichte claims that 'to begin with, idealism is unable to
+refute dogmatism', and that 'the dogmatist is equally incapable of refuting the
+idealist'.[^7] For Hegel, Fichte is forced to see idealism and dogmatism as
+incapable of refuting one another because he has ignored the dialectical path
+that makes idealism *possible*.
+
+There is a sense here in which Fichte is actually less sophisticated than his
+predecessor, Kant. As Dieter Henrich put it, Kant's critical project relied on
+the fact that 'before there can be an insight that there is some illusion in
+this metaphysics, there has first to be an original metaphysics. ... Because, in
+his view, one cannot get to the truth all at once at the beginning, there are
+necessary stages of the development of philosophy'.[^8] This is far closer to
+Hegel's realisation of the historicity of philosophy.

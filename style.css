@@ -106,7 +106,6 @@ h4:not(#author):not(.subtitle) {
     width: 50%;
     position: static;
     margin: 2em 2em 0;
-    font-size: 1.15em;
     font-style: italic;
     font-weight: 600;
     text-align: left;
@@ -202,14 +201,10 @@ hr {
     font-variant: small-caps;
 }
 
-img {
-    display: block;
-    width: 50%;
-    margin: 30px auto 40px auto;
-}
-
 img#title {
-    opacity: 0.8;
+    display: block;
+    margin: 30px auto 40px auto;
+    width: 60%;
 }
 
 #author {
@@ -218,7 +213,7 @@ img#title {
     font-weight: 400;
     text-transform: lowercase;
     font-variant: small-caps;
-    font-size: 1.2em;
+    font-size: 1.3em;
     letter-spacing: 0.1em;
     color: var(--ctext);
     opacity: 0.6;
@@ -250,7 +245,7 @@ img#title {
 }
 #contents ol { padding-left: 0; counter-reset: toc; }
 #contents li { list-style-type: none; display: block; margin-top: 0 }
-#contents li li li a { /*font-size: 90%;*/ margin-left: 1em; }
+#contents li li li a { margin-left: 1em; }
 #contents > li { margin-top: 1em; }
 /* Decimal numbering */
 #contents li::before {
@@ -272,7 +267,7 @@ img#title {
 }
 #contents a:hover { border-bottom: 1px solid rgba(153, 153, 153, 1); }
 /* A button to skip past the long contents section */
-#skip-contents {
+#show-contents {
     display: block;
     color: var(--ctext);
     opacity: 0.3;
@@ -280,8 +275,10 @@ img#title {
     text-transform: lowercase;
     font-variant: small-caps;
     margin: 0;
+    cursor: pointer;
+    text-decoration: underline;
 }
-#skip-contents:hover { opacity: 0.6; }
+#show-contents:hover { opacity: 0.6; }
 
 /* Bibliography: ------------------------------------------------ */
 .bib {

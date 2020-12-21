@@ -1,16 +1,22 @@
 ## Introduction {#int}
 
-<blockquote class="epigraph">I saw the Emperor – this world-soul – riding out of the city on reconnaissance. It is indeed a wonderful sensation to see such an individual, who, concentrated here at a single point, astride a horse, reaches out over the world and masters it ... this extraordinary man, whom it is impossible not to admire. <footer>G.W.F. Hegel to Niethammer, 1806</footer></blockquote>
+<blockquote class="epigraph">Every philosophy is complete in itself, and like an
+authentic work of art, carries the totality within itself. Just as the works of
+Apelles or Sophocles would not have appeared to Raphael and Shakespeare -- had
+they known them -- as mere preparatory studies, but as a kindred force of the
+spirit, so Reason cannot regard its former shapes as merely useful preludes to
+itself. <footer>G.W.F. Hegel, <em>The Difference Between Fichte's and
+Schelling's System of Philosophy</em>, 1801</blockquote>
 
 ### What is the *Phenomenology of Spirit*? {#what}
 
 In October 1806, as Napoleon entered Jena, Hegel finished his first book: *The
 Phenomenology of Spirit*. The book is intended to serve as an introduction to
-Hegel's system of science, showing the 'coming to be of knowledge', as
-**spirit** [*Geist*] makes its way through various stages towards the stage of
+Hegel's system of philosophy, showing the 'coming to be of knowledge', as
+'spirit' [*Geist*] makes its way through various stages towards the stage of
 scientific knowing, or, *absolute spirit*.[^1] The book is thus a
 *phenomenology* insofar as it analyses the phenomena (that is, the
-*appearances*) of consciousness's various attempts at absolute knowledge. This
+*appearances*) of humanity's various attempts at absolute knowledge. This
 is undoubtedly an ambitious project; and as such it is no surprise that the book
 is incredibly complex and difficult to understand, even for somebody familiar
 with modern German philosophy. The sheer difficulty in reading Hegel's
@@ -152,20 +158,22 @@ knowing'.[^7] In the introduction to the *Phenomenology*, Hegel explains that
 unlike many of his forebears (Descartes and Kant amongst them), he sees it as a
 mistake to establish the rules of thinking prior to actually thinking, or to
 envision thought as a 'medium' through which the absolute is somehow 'filtered'.
-The precise reasons for this will be established later.  Instead, Hegel wants to
-begin with 'natural consciousness'; that is, the way in which we typically
-think, prior to any 'philosophising'. This is not at all to be taken as a claim
-that 'common sense' holds all of the answers to philosophical problems; on the
-contrary, 'natural consciousness will prove to be only the concept of knowing,
-or it will prove to be *not real knowing*'.[^8] Each 'shape of consciousness' --
-that is, each stage along natural consciousness's transformation -- contains an
-element of *untruth* insofar as it is not (yet) absolute knowing; and rather
-than simply 'doubting' the shape of consciousness in response to its untruth,
-Hegel's approach is to take the negative element -- the untruth -- and to
-*negate it*, resulting in a 'negation of a negation', or what Hegel calls a
-**determinate negation**. What this is, and how exactly it works, will become
-clearer later on, but here is Hegel's explanation of determinate negation from
-his introduction:
+After all, if we 'subtract from a formed thing what the instrument [or medium]
+has added to it, then the thing ... is again for us exactly as it was prior to
+this consequently superfluous effort'.[^8]  Instead, Hegel wants to begin with
+'natural consciousness'; that is, the way in which we typically think, prior to
+any 'philosophising'. This is not at all to be taken as a claim that 'common
+sense' holds all of the answers to philosophical problems; on the contrary,
+'natural consciousness will prove to be only the concept of knowing, or it will
+prove to be *not real knowing*'.[^9] Each 'shape of consciousness' -- that is,
+each stage along natural consciousness's transformation -- contains an element
+of *untruth* insofar as it is not (yet) absolute knowing; and rather than simply
+'doubting' the shape of consciousness in response to its untruth, Hegel's
+approach is to take the negative element -- the untruth -- and to *negate it*,
+resulting in a 'negation of a negation', or what Hegel calls a **determinate
+negation**. What this is, and how exactly it works, will become clearer later
+on, but here is Hegel's explanation of determinate negation from his
+introduction:
 
 > the exposition of non-truthful consciousness in its untruth is not a merely
 > *negative* movement. ... only when taken as the nothing of that from which it
@@ -174,7 +182,7 @@ his introduction:
 > as it is in truth, as *determinate* negation, a new form [of consciousness]
 > has thereby immediately arisen, and in the negation, the transition is made
 > whereby the progression through the complete series of shapes comes about on
-> its own accord.[^9]
+> its own accord.[^10]
 
 What follows in these notes is a reconstruction of the various stages that
 Hegel's *Phenomenology* covers, as I have understood them.

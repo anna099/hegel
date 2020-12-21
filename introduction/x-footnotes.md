@@ -16,5 +16,6 @@ sometimes omitted the citation.)</p>
 [^5]: Paul W. Franks, *All or Nothing: Systematicity, Transcendental Arguments, and Skepticism in German Idealism*. (Cambridge, MA: Harvard University Press, 2005), p. 10.
 [^6]: Hegel, *Logic*, p. 186.
 [^7]: Hegel, *Phenomenology*, §77.
-[^8]: Ibid, §78.
-[^9]: Ibid, §79.
+[^8]: Hegel, *Phenomenology*, §73.
+[^9]: Ibid, §78.
+[^10]: Ibid, §79.
