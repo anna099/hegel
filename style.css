@@ -204,7 +204,8 @@ hr {
 img#title {
     display: block;
     margin: 30px auto 40px auto;
-    width: 60%;
+    width: 55%;
+    opacity: 0.9;
 }
 
 #author {
