@@ -1,4 +1,4 @@
-<p id="nav"><a href="reason-certainty.html">Next Chapter ☞ Reason</a>
+<p id="nav"><a href="reason-intro.html">Next Chapter ☞ Reason</a>
 <a href="consciousness.html">Previous Chapter ☜ Consciousness</a></p>
 
 </section>
