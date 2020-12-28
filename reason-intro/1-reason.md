@@ -29,7 +29,8 @@ Being the site of mediation between the universal and particular, reason begins
 with the pompous certainty of 'being all truth'. The mediating ego or *I* is
 thus at the centre of the whole world: we are now in the era of **idealism**.
 For as long as the self has been conscious of itself -- from its earliest desire
-to the apex of unhappy consciousness -- it has had a negative relationship towards the world. 'Formerly', Hegel says of the subject, 'it did not understand
+to the apex of unhappy consciousness -- it has had a negative relationship
+towards the world. 'Formerly', Hegel says of the subject, 'it did not understand
 the world; it desired it and worked on it, withdrew itself from it, took an
 inward turn back into itself away from it, and erased the world for itself and
 itself as consciousness'.[^2] It is only now, with reason's power of mediation,
@@ -37,6 +38,8 @@ that self and world -- thinking and being -- are united, one and the same. It is
 at this point that we can declare Parmenides' saying: <span lang="el">τὸ γὰρ
 αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι</span> [*being and thinking are one and the
 same*].[^3]
+
+#### First Criticism of Idealism: the Journey of the World-Spirit {#journ}
 
 In his commentary on the *Phenomenology*, J. N. Findlay gives a clear summary of
 the starting position of reason:
@@ -77,4 +80,92 @@ the fact that 'before there can be an insight that there is some illusion in
 this metaphysics, there has first to be an original metaphysics. ... Because, in
 his view, one cannot get to the truth all at once at the beginning, there are
 necessary stages of the development of philosophy'.[^8] This is far closer to
-Hegel's realisation of the historicity of philosophy.
+Hegel's realisation of the historicity of philosophy. Nonetheless, Hegel also
+had criticisms of Kant, of course, and Fichte's work certainly wasn't the first
+great example of 'forgetting' in the history of philosophy: as Harris notes,
+Fichte is really carrying out a 'repetition of Spinoza and Leibniz' in his
+insistence on immediacy.[^9]
+
+The critical element in the first four paragraphs on 'the certainty and truth'
+of reason are summarised by Hegel quite simply: 'How consciousness is
+*immediately* to be found ... depends on what it has already *come to be*.'[^10]
+
+#### Second Criticism of Idealism: On the Arbitrariness of the Categories {#categ}
+
+So far, the idealist whose development we are witnessing is comfortable in the
+certainty that all reality is conditioned by the I. Expressed more directly:
+'Reason is the certainty of being all *reality*.'[^11] The I thus becomes a
+**category**: it is the light that illuminates every thing. This idea appears
+perhaps most clearly in Kant, when he explains that 'the *I think* must be able to
+accompany all my representations': the 'I think' (which is both a thought and an
+*act* of self-awareness), unifying all objects, is the fundamental category
+which conditions all of reality.[^12] As Hegel puts it, this category is thus
+'the *simple* unity of self-consciousness and being'.
+
+The idea of 'categories' as thought's classifications of beings appears as early
+as in Aristotle. Aristotle, however, was no idealist. When Hegel refers in §235
+to 'a one-sided, bad idealism' in which there is a *remainder* of what is
+categorised -- namely, the *in-itself* 'confronting' self-consciousness -- he
+has Kant in mind. In Kant's first *Critique*, he took Aristotle's term and
+revised it to refer to the 'pure concepts' which, according to him, necessarily
+govern the way that objects can be understood:
+
+> In such a way there arise exactly as many pure concepts of the understanding,
+> which apply to objects of intuition in general *a priori*, as there were
+> logical functions of all possible judgments in the previous table: for the
+> understanding is completely exhausted and its capacity entirely measured by
+> these functions. Following Aristotle we will call these concepts
+> **categories**, for our aim is basically identical with his al­ though very
+> distant from it in execution.[^13]
+
+The idealist we have seen so far has only one category: namely, the I itself.
+This is not closely correspondent with any hugely famous moment in the history
+of philosophy. With Kant, however, we come to a 'second idealism', which is
+nonetheless 'even more incomprehensible than the first'.[^14] Kant's argument
+(the conclusion of which is in the quotation above) is that there is a
+*plurality* of categories (specifically, twelve), and that this plurality is
+grounded on the plurality of human thought's functions of judgment. For
+instance, affirmative and negative judgments correspond to the categories of
+reality and negation, and so on.
+
+Hegel seems to accept that, from the single category of the I, a plurality of
+categories must emerge. His argument for this claim is obscure; he explains that
+'this category [the I], or the *simple* unity of self-consciousness and being,
+has the *difference* in itself, for its essence is just this, that it is
+immediately self-equal in *otherness*, or immediately self-equal in the absolute
+difference'.[^15] This seems to be an instance of the argumentative gesture that
+appears again and again in the *Phenomenology*: namely, that determinateness
+(of a category, in this instance) is possible only through its *difference* with
+an opposite. Thus, as soon as any category of reality is affirmed, its opposite
+must also be affirmed as a category; consequently, a plurality of categories
+arises.
+
+Indeed, Kant's table of categories is populated by oppositions (unity-plurality,
+necessity-contingency, and so on); however, he does not arrive at plurality via
+the argument I have just given. His multiple categories are simply derived from
+the multiple functions of judgment, as described above. Many people have made
+the criticism that this makes Kant's so-called 'deduction' of the categories
+rather arbitrary, if they are grounded ultimately on what is *assumed* to be an
+exhaustive catalogue of human thinking. Hegel, however, takes this criticism a
+little further, in a concluding sentence that sounds almost exasperated or
+frustrated:
+
+> ... to take up again the plurality of categories in some way or other as
+> something we simply come upon, for example, in judgments, and then to continue
+> to put up with them in that form, is in fact to be regarded as a disgrace to
+> science. Where is the understanding supposed to be capable of demonstrating
+> necessity if it is incapable of demonstrating the pure necessity it has within
+> itself?[^16]
+
+Essentially, Kant is satisfied to 'simply come upon' the categories via the
+functions of judgment. Hegel's criticism does not target the basis Kant opts for
+(that is, *judgment*), but instead targets the *very gesture* of 'simply coming
+upon' the categories. If this criticism is a little opaque in the
+*Phenomenology*, it is clearer in Hegel's *Encyclopaedia*, where he praises
+Fichte for having 'reminded us that the *thought-determinations* [categories]
+must be exhibited in their necessity, and that it is essential for them to be
+*deduced*.'[^17] The *Science of Logic*, which was published in full in 1816,
+is Hegel's attempt to overcome the 'outrage of science' in Kant, and outline a
+system of logic that is fully and legitimately grounded, and takes nothing as
+given. As for now, we continue with the *Phenomenology*'s task of *overcoming*
+the philosophical standpoint from which a 'given' is acceptable.

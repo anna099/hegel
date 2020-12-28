@@ -10,3 +10,12 @@
 [^6]: §234.
 [^7]: J. G. Fichte, *Introductions to the Wissenschaftslehre*, translated by D. Breazeale (Indianapolis, IN: Hackett, 1994), pp. 15-16.
 [^8]: Dieter Henrich, *Between Kant and Hegel: Lectures on German Idealism*, translated by D. S. Pacini (Cambridge, MA: Harvard University Press, 2008), p. 32.
+[^9]: Harris, *Hegel's Ladder*, p. 456.
+[^10]: §234.
+[^11]: §235.
+[^12]: Immanuel Kant, *Critique of Pure Reason*, translated and edited by P. Guyer and A. Wood (Cambridge: Cambridge University Press, 1998), B131.
+[^13]: Ibid, A79-80/B105.
+[^14]: §235.
+[^15]: Ibid.
+[^16]: Ibid.
+[^17]: G. W. F. Hegel, *The Encyclopaedia Logic*, p. 84 (§42).
