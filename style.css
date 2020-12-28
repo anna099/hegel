@@ -110,6 +110,8 @@ h4:not(#author):not(.subtitle) {
 h4:not(#author):not(.subtitle)::before {
     content: '• ';
     font-feature-settings: 'ornm' 14;
+    position: absolute;
+    transform: translate(-1.25em);
 }
 
 hr {
@@ -133,25 +135,20 @@ hr {
     margin-right: -10%;
 }
 
+/* Footnotes: --------------------------------------------------- */
 .footnotes {
-    border-top: 1px solid rgba(20, 20, 20, 0.2);
-    width: 150%;
-    margin: 50px -25%;
+    border-top: 1px solid rgba(153,153,153, 0.5);
+    width: 120%;
+    margin: 50px -10%;
 }
-.footnotes hr {
-    display: none;
-}
-.footnotes ol {
-    column-count: 2;
-    column-gap: 3em;
-}
+.footnotes hr { display: none; }
+.footnotes ol { column-count: 2; column-gap: 3em; }
 .footnotes li,
 .footnotes p {
     break-inside: avoid-column;
     page-break-inside: avoid; /* for firefox */
-    font-size: 0.95em;
-    line-height: 1.3em;
-    margin: 0;
+    font-size: 0.98em;
+    margin: 0 0 0.3em 0;
 }
 .footnotes li:target { /* Selected footnote */
     font-weight: bold;
