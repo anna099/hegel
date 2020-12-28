@@ -5,14 +5,12 @@
 
 html {
     --pale: #fdfdfc;
-    --cblue: #515c94;
     --cred: #a14a3f;
     --ctext: #1a0f00;
 }
 
 html#dark {
     --pale: #282828;
-    --cblue: #83a598;
     --cred: #fabd2f;
     --ctext: #d5c4a1;
 }
@@ -42,7 +40,7 @@ blockquote p {
 p + p { text-indent: 1em; margin-top: 0; }
 blockquote { margin: 0px 40px; }
 strong { font-weight: 600; }
-a { text-decoration: none; color: var(--cblue); }
+a { text-decoration: none; color: var(--cred); }
 a:hover { text-decoration: underline; }
 sup {
     color: var(--ctext);
@@ -163,7 +161,7 @@ hr {
     color: #eee;
 }
 .footnotes a:hover {
-    color: var(--cblue);
+    color: var(--cred);
 }
 #cite-note {
     width: 60%;
@@ -218,6 +216,15 @@ img#title {
     color: var(--ctext);
 }
 
+#pre-author {
+    font-size: 1.1em;
+    text-align: center;
+    margin: 0;
+    font-weight: normal;
+    font-style: italic;
+    letter-spacing: 0.1em;
+}
+
 #nav {
     text-indent: 0;
     margin-top: 3em;
@@ -257,7 +264,6 @@ img#title {
     color: var(--ctext);
     opacity: 0.2;
 }
-#contents li:hover::before { opacity: 1; }
 #contents a { line-height: 1.375em; text-decoration: none; }
 #contents a:hover { border-bottom: 1px solid rgb(153, 153, 153); }
 
