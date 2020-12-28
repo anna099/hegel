@@ -216,7 +216,6 @@ img#title {
     font-size: 1.3em;
     letter-spacing: 0.1em;
     color: var(--ctext);
-    opacity: 0.6;
 }
 
 #nav {
@@ -258,27 +257,9 @@ img#title {
     color: var(--ctext);
     opacity: 0.2;
 }
-#contents li:hover::before {
-    opacity: 1;
-}
-#contents a {
-    line-height: 1.375em;
-    text-decoration: none;
-}
-#contents a:hover { border-bottom: 1px solid rgba(153, 153, 153, 1); }
-/* A button to skip past the long contents section */
-#show-contents {
-    display: block;
-    color: var(--ctext);
-    opacity: 0.3;
-    text-align: center;
-    text-transform: lowercase;
-    font-variant: small-caps;
-    margin: 0;
-    cursor: pointer;
-    text-decoration: underline;
-}
-#show-contents:hover { opacity: 0.6; }
+#contents li:hover::before { opacity: 1; }
+#contents a { line-height: 1.375em; text-decoration: none; }
+#contents a:hover { border-bottom: 1px solid rgb(153, 153, 153); }
 
 /* Bibliography: ------------------------------------------------ */
 .bib {

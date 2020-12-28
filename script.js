@@ -3,7 +3,6 @@ window.onload = function () {
     wordCount(); // a wordcount appears at the end of the page.
     hoverNotes(); // hover over a footnote number to see the note.
     pageTitle(); // set the page title to something appropriate.
-    hideContents(); // hide the contents on any pages other than the first
 };
 
 function smallCaps() {
@@ -80,24 +79,4 @@ function withoutAnchor(url) {
     } else {
         return url;
     }
-}
-
-function hideContents() {
-    let button = document.getElementById("show-contents");
-
-    if (button === null) {
-        return;
-    }
-
-    contents.style.display = "none";
-
-    button.onclick = () => {
-        if (contents.style.display === "none") {
-            contents.style.display = "block";
-            button.innerText = "Hide Contents";
-        } else {
-            contents.style.display = "none";
-            button.innerText = "Show Contents";
-        }
-    };
 }
