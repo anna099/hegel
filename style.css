@@ -9,12 +9,6 @@ html {
     --ctext: #1a0f00;
 }
 
-html#dark {
-    --pale: #282828;
-    --cred: #fabd2f;
-    --ctext: #d5c4a1;
-}
-
 body {
     width: 50%;
     margin: 1% auto 1% auto;
