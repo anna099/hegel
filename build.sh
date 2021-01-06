@@ -24,5 +24,3 @@ for i in "${chapters[@]}"; do
     fi
 done
 
-# PDF
-echo "${chapters[@]}"/*.md
