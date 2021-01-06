@@ -1,4 +1,4 @@
-<p id="nav"><a href="consciousness.html">Next Chapter ☞ Consciousness</a>
+<p id="nav"><a href="consciousness.html">Next Chapter: Consciousness</a>
 <a href="http://users.sussex.ac.uk/~sefd0/bib/hegel.htm">An English Hegel bibliography by A. Chitty can be found here</a></p>
 
 </section>

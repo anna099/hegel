@@ -2,6 +2,8 @@
 
 ### Introduction
 
+<blockquote class="epigraph">'The world is my representation': -- this holds true for every living, cognitive being, although only a human being can bring it to abstract, reflective consciousness: and if he actually does so he has become philosophically sound.<footer>Arthur Schopenhauer, *The World as Will and Representation*</footer></blockquote>
+
 There is a dramatic change between the eclipse of unhappy consciousness and the
 dawn of reason. The unhappy subject, who goes again and again on a pilgrimage to
 the church in order to witness God through a medium, is still ultimately
@@ -169,3 +171,110 @@ is Hegel's attempt to overcome the 'outrage of science' in Kant, and outline a
 system of logic that is fully and legitimately grounded, and takes nothing as
 given. As for now, we continue with the *Phenomenology*'s task of *overcoming*
 the philosophical standpoint from which a 'given' is acceptable.
+
+#### The Abstract Individual {#indiv}
+
+To this point, idealism has not been depicted in a favourable light. Hegel
+*does* have praise for it, however, insofar as it is the first appearance of
+*reason*. As we saw above, 'reason' is the name for all thinking that bases
+itself off of *mediation*. Kant's idealism, in this regard, is successful: it
+mediates between subject and object (self-consciousness and reality) precisely
+by making the latter conditioned by the former. For this reason, Hegel remarks
+that if we are to be Kantian idealists, 'we can no longer really talk of
+*things* at all, which is to say, we can no longer speak of what for
+consciousness would only be the negative of itself'.[^18] In a simpler form of
+his accusation of *subjectivism* in Kant, Hegel is here arguing that insofar as
+all things, for the Kantian idealist, are conditioned by the categories, and
+these categories are themselves mere '*species* of the pure category' -- namely,
+the I -- then all our talk about 'things' amounts to little more than reflection
+on the fundamental category of things: the I itself. Are we therefore left with
+nothing but pure thinking, with no otherness or externality? Not quite: in the
+labyrinthine remainder of §236, Hegel shows how externality and the Other come
+back to idealist consciousness. Because this passage is so difficult, I have
+quoted it at length, and split it into subsections which I will then explain one
+by one.
+
+1. However, the many categories are already equivocation itself, since at the
+   same time they have in themselves otherness in its *plurality as opposed* to
+   the pure category.
+2. They in fact contradict the pure category through this plurality, and the
+   pure unity must sublate them in themselves, and thereby constitute itself as
+   the *negative unity* of the differences.
+3. However, as *negative* unity, it excludes from itself both the *differences*
+   as such and that first *immediate* pure unity as such, and it is *singular
+   individuality*.
+4. This is a new category, which is an excluding consciousness, which is
+   to say, it has *an other* for it.[^19]
+
+These four moments follow the aforementioned scenario, in which there is no real
+*Other* when all that consciousness can refer to is conditioned by the
+categories which, ultimately, are various 'species' of consciousness itself. In
+the first moment, Hegel points out that some kind of otherness *is* present,
+after all, since there is a difference between the **unity** of the 'pure
+category' (that is, the I), and the **plurality** of the 'many categories' --
+and since, whenever there is difference, there is otherness. Hegel realises, in
+the second moment, that this difference is a *contradiction*, between the unity
+of the I and the plurality of the categories. (This is, in some sense, a
+reappearance of the contradiction of the One and the Many in the earlier chapter
+on perception). The 'pure unity' -- by which Hegel means the I as a mere 'genus'
+of the categories -- *sublates* or overcomes this contradiction when it is
+re-understood as the '*negative unity*' of the categories: that is, a unity of
+*mutually excluding* parts. The third moment explains that, through becoming a
+negative unity, the I is thus *separate* to both the original sense of the I, as
+a *pure* unity, and to the original plurality of the categories, which are not a
+unity at all. In this separation, as Hegel remarks in the fourth moment, the I
+as negative unity is thus *exclusive*: it excludes, and has an Other. Hegel
+calls this new, excluding shape of the I a 'singular individual'.
+
+The singular individual is the I or 'ego' that Descartes could not conceive of:
+it is a 'thinking thing' which nonetheless is an individual thing among other
+things of the world. As Harris writes,
+
+> The thinker cannot identify herself with the pure thinking (any more than with
+> the "thoughts") because she is *the being that is appeared to*. This step
+> undercuts the Cartesian *dualism*. The "certainty" of Reason is simply a
+> singular agent in a world of *external* sensible appearances.[^20]
+
+This 'singular agent' is not as stable as it might first appear, however. Though
+it has achieved the awareness of otherness, in a sense, this awareness has only
+come about through the interplay of consciousness and its manifold facets. 'Each
+of these different moments' -- that is, the pure category, the negative unity,
+and so on -- 'points to another moment, but at the same time, within each of
+them, there is never any otherness at all'.[^21] The singular individual is the
+negative unity of the manifold categories, which themselves are immediately
+unified by the I as 'pure category' which, in its contradiction with the
+plurality of the manifold categories, is sublated in the I as singular
+individual ... and so on.
+
+For this reason, Hegel explains, consciousness is at this point 'posited in a
+twofold manner': it is *both* the constant movement between various moments,
+desperate (but always failing) to grasp real otherness, *and* the '*motionless
+unity*', the 'I am I', proud of its immediate certainty. At this stage of
+idealism, consciousness *is* this movement within itself. (Compare this to the
+similarly navel-gazing condition of the stoic and skeptic, in the chapter on
+self-consciousness). Whenever rational consciousness (by which I mean,
+consciousness in the stage of Reason) thinks it has grasped an Other, the Other
+slips through its fingers like sand, turning out merely to be another moment of
+consciousness itself. There is always a *thing in itself*, supposedly to be
+found on the 'other side' of consciousness. At this moment, rational
+consciousness is at the impasse that Hegel described in the introduction:
+
+> Consciousness seems, as it were, to be incapable of getting behind the object
+> to the object as it is *in itself* and not as the object is *for
+> consciousness*.[^22]
+
+In the last two paragraphs of his introduction to Reason, Hegel makes his
+conclusive critical statements on the idealism that represents the *certainty*
+(rather than the *truth*) of reason. As he puts it, this idealism -- which,
+though it is best represented by Kant and Fichte, can be concisely summarised by
+Schopenhauer's declaration that 'the world is my representation' -- fails
+because it is *abstract*.[^23] All reality, for this idealism, is 'the pure
+*mine* of consciousness'; as we have seen, a notion this pure and simple cannot
+find a stable other to which it can relate itself. Consequently, it finds itself
+always turning to some 'alien impact' [*fremden Anstoßes*] in order to find
+something meaningful or contentful. Of course, since it regards truth as
+inhering in the *I* (the 'unity of apperception' in Kant), it is forced to
+denigrate any such alien externality as a mere *phenomenon*, a categorised
+appearance that is distinct from a thing in itself. 'Reason condemns itself',
+Harris writes, 'to be a search in which it is known a priori that there can be
+no success, no finding'.[^24]

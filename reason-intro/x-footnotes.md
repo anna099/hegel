@@ -1,4 +1,4 @@
-<p id="nav"><a href="self-consciousness.html">Previous Chapter ☜ Self-Consciousness</a></p>
+<p id="nav"><a href="self-consciousness.html">Previous Chapter: Self-Consciousness</a></p>
 
 </section>
 
@@ -19,3 +19,10 @@
 [^15]: Ibid.
 [^16]: Ibid.
 [^17]: G. W. F. Hegel, *The Encyclopaedia Logic*, p. 84 (§42).
+[^18]: §236. I have altered the text to fix a grammatical mistake in the translation.
+[^19]: §236.
+[^20]: Harris, *Hegel's Ladder*, p. 464.
+[^21]: §236.
+[^22]: §85.
+[^23]: Arthur Schopenhauer, *The World as Will and Representation*, translated by J. Norman, A. Welchman, and C. Janaway (Cambridge: Cambridge University Press, 2010), §3.
+[^24]: Harris, *Hegel's Ladder*, p. 467.
