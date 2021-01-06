@@ -13,7 +13,7 @@ body {
     width: 50%;
     margin: 1% auto 1% auto;
     padding: 20px 40px;
-    font-family: 'Arno Pro', 'ap', adobe-garamond-pro, serif;
+    font-family: 'Arno Pro', 'ap', Georgia, serif;
     font-weight: 400;
     font-feature-settings: 'onum';
     counter-reset: section;
@@ -24,11 +24,12 @@ body {
 /* Main Text: --------------------------------------------------- */
 .content { max-width: 60ch; margin: 0 auto; }
 p,
-blockquote p {
+blockquote p,
+.content li {
     margin-bottom: 0;
     position: relative;
-    font-size: 1.15em;
-    line-height: 1.3em;
+    font-size: 1.12em;
+    line-height: 1.4;
     text-align: justify;
 }
 p + p { text-indent: 1em; margin-top: 0; }
@@ -43,6 +44,17 @@ sup {
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
+}
+.content ol {
+    padding-left: 0;
+    counter-reset: item;
+    list-style-type: none;
+}
+.content ol li::before {
+    position: absolute;
+    left: -1.3em;
+    content: counter(item) ' ';
+    counter-increment: item;
 }
 ::selection {
     background: #e7eff6;
@@ -92,20 +104,15 @@ h3 {
 }
 
 h4:not(#author):not(.subtitle) {
-    float: none;
-    clear: none;
-    width: 50%;
-    position: static;
-    margin: 2em 2em 0;
+    font-size: 1.12em;
+    font-weight: normal;
     font-style: italic;
-    font-weight: 600;
-    text-align: left;
+    margin: 2em 0 1em 0;
 }
 h4:not(#author):not(.subtitle)::before {
-    content: '• ';
-    font-feature-settings: 'ornm' 14;
-    position: absolute;
-    transform: translate(-1.25em);
+    content: attr(js-number);
+    font-style: normal;
+    margin-right: 0.75em;
 }
 
 hr {
@@ -141,7 +148,7 @@ hr {
 .footnotes p {
     break-inside: avoid-column;
     page-break-inside: avoid; /* for firefox */
-    font-size: 0.98em;
+    font-size: 1em;
     margin: 0 0 0.3em 0;
 }
 .footnotes li:target { /* Selected footnote */

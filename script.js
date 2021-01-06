@@ -1,8 +1,9 @@
 window.onload = function () {
-    smallCaps(); // sections begin with a few words in small caps.
-    wordCount(); // a wordcount appears at the end of the page.
+    smallCaps();  // sections begin with a few words in small caps.
+    wordCount();  // a wordcount appears at the end of the page.
     hoverNotes(); // hover over a footnote number to see the note.
-    pageTitle(); // set the page title to something appropriate.
+    pageTitle();  // set the page title to something appropriate.
+    numbering();  // add decimal numbering ('4.1.1' etc) to H4's.
 };
 
 function smallCaps() {
@@ -79,4 +80,38 @@ function withoutAnchor(url) {
     } else {
         return url;
     }
+}
+
+function numbering() {
+    let subheads = document.querySelectorAll("h4:not(#author):not(.subtitle)");
+    subheads.forEach((s) => {
+        s.setAttribute('js-number', getContentsIndex(s.id));
+    });
+}
+
+// Takes an ID (used as an href) and returns the decimal place in the contents
+function getContentsIndex(id) {
+    let items = document.querySelectorAll("#contents a");
+    let x = undefined;
+
+    items.forEach((i) => {
+        if (i.href.substr(i.href.indexOf("#") + 1) === id) {
+            x = i;
+        }
+    });
+
+    let p = parentsOf(x);
+    let io = Array.prototype.indexOf;
+    return (io.call(p[3].children, p[4]) + 1) + "." +
+           (io.call(p[5].children, p[6]) + 1) + "." +
+           (io.call(p[7].children, p[8]) + 1);
+}
+
+function parentsOf(elem) {
+    var parents = [];
+    while (elem) {
+        parents.unshift(elem);
+        elem = elem.parentNode;
+    }
+    return parents;
 }
