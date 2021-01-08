@@ -2,7 +2,7 @@
 
 chapters=('introduction' 'prologue'
         \ 'consciousness' 'self-consciousness'
-        \ 'reason-intro')
+        \ 'reason-intro' 'observing-reason')
 pdfs=( "${chapters[@]/%/.pdf}" )
 FN=x-footnotes.md
 TEMP=temp.html
@@ -23,4 +23,3 @@ for i in "${chapters[@]}"; do
         rm $TEMP
     fi
 done
-

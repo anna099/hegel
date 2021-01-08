@@ -39,7 +39,15 @@ itself as consciousness'.[^2] It is only now, with reason's power of mediation,
 that self and world -- thinking and being -- are united, one and the same. It is
 at this point that we can declare Parmenides' saying: <span lang="el">τὸ γὰρ
 αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι</span> [*being and thinking are one and the
-same*].[^3]
+same*].[^3] Note, however, the centrality of thought -- that is, of *theory*. As
+Robert Solomon notices, the chapter on Reason -- at least in its first section,
+on 'observing reason' -- sees a repetition of some of the themes from the
+earlier chapter on Consciousness. Solomon suggests that the book can therefore
+be divided between a 'Phenomenology of Theory' (consisting of the Preface,
+Introduction, and the chapters on Consciousness and Observing Reason, and a
+'Phenomenology of Practice' (consisting of the remainder of the book); the final
+chapter, on 'Absolute Knowing', is a 'hinge holding the two books together'; the
+moment when theory and practice are recognised as inseparable.[^4]
 
 #### First Criticism of Idealism: the Journey of the World-Spirit {#journ}
 
@@ -52,7 +60,7 @@ the starting position of reason:
 > self-consciousness has been projected into the world of objects, into the
 > realm of being, and it has also identified itself with the universal. It has
 > become the middle term in a syllogism which reconciles the individual with the
-> unchangeable universal, and which thereby sees itself as all truth.[^4]
+> unchangeable universal, and which thereby sees itself as all truth.[^5]
 
 In what particular way does reason 'see itself as all truth'? Recall that every
 shape of knowing in the *Phenomenology* so far begins with *certainty*: an
@@ -63,16 +71,16 @@ journey (from sensuous certainty to self-consciousness) that is necessary for
 this journey is forgotten. In its present moment of certainty, reason fits the
 latter description. 'It only gives *the assurance* of being all reality, but
 does not itself comprehend this, for the comprehension of this immediately
-expressed assertion is that forgotten path itself'.[^5] This kind of naive,
+expressed assertion is that forgotten path itself'.[^6] This kind of naive,
 asserted idealism is thus only 'an *immediate certainty* against which other
 immediate certainties stand in contrast': since the naive idealist has forgotten
 the dialectical overcoming of the certainties in consciousness and
 self-consciousness (sensuous certainty and the desiring I, respectively), it is
-unable to overcome these certainties, or prove itself against them.[^6] This point
+unable to overcome these certainties, or prove itself against them.[^7] This point
 may be specifically directed at J. G. Fichte's idealism. In the introduction to
 his idealist system, Fichte claims that 'to begin with, idealism is unable to
 refute dogmatism', and that 'the dogmatist is equally incapable of refuting the
-idealist'.[^7] For Hegel, Fichte is forced to see idealism and dogmatism as
+idealist'.[^8] For Hegel, Fichte is forced to see idealism and dogmatism as
 incapable of refuting one another because he has ignored the dialectical path
 that makes idealism *possible*.
 
@@ -81,27 +89,27 @@ predecessor, Kant. As Dieter Henrich put it, Kant's critical project relied on
 the fact that 'before there can be an insight that there is some illusion in
 this metaphysics, there has first to be an original metaphysics. ... Because, in
 his view, one cannot get to the truth all at once at the beginning, there are
-necessary stages of the development of philosophy'.[^8] This is far closer to
+necessary stages of the development of philosophy'.[^9] This is far closer to
 Hegel's realisation of the historicity of philosophy. Nonetheless, Hegel also
 had criticisms of Kant, of course, and Fichte's work certainly wasn't the first
 great example of 'forgetting' in the history of philosophy: as Harris notes,
 Fichte is really carrying out a 'repetition of Spinoza and Leibniz' in his
-insistence on immediacy.[^9]
+insistence on immediacy.[^10]
 
 The critical element in the first four paragraphs on 'the certainty and truth'
 of reason are summarised by Hegel quite simply: 'How consciousness is
-*immediately* to be found ... depends on what it has already *come to be*.'[^10]
+*immediately* to be found ... depends on what it has already *come to be*.'[^11]
 
 #### Second Criticism of Idealism: On the Arbitrariness of the Categories {#categ}
 
 So far, the idealist whose development we are witnessing is comfortable in the
 certainty that all reality is conditioned by the I. Expressed more directly:
-'Reason is the certainty of being all *reality*.'[^11] The I thus becomes a
+'Reason is the certainty of being all *reality*.'[^12] The I thus becomes a
 **category**: it is the light that illuminates every thing. This idea appears
 perhaps most clearly in Kant, when he explains that 'the *I think* must be able to
 accompany all my representations': the 'I think' (which is both a thought and an
 *act* of self-awareness), unifying all objects, is the fundamental category
-which conditions all of reality.[^12] As Hegel puts it, this category is thus
+which conditions all of reality.[^13] As Hegel puts it, this category is thus
 'the *simple* unity of self-consciousness and being'.
 
 The idea of 'categories' as thought's classifications of beings appears as early
@@ -118,12 +126,12 @@ govern the way that objects can be understood:
 > understanding is completely exhausted and its capacity entirely measured by
 > these functions. Following Aristotle we will call these concepts
 > **categories**, for our aim is basically identical with his al­ though very
-> distant from it in execution.[^13]
+> distant from it in execution.[^14]
 
 The idealist we have seen so far has only one category: namely, the I itself.
 This is not closely correspondent with any hugely famous moment in the history
 of philosophy. With Kant, however, we come to a 'second idealism', which is
-nonetheless 'even more incomprehensible than the first'.[^14] Kant's argument
+nonetheless 'even more incomprehensible than the first'.[^15] Kant's argument
 (the conclusion of which is in the quotation above) is that there is a
 *plurality* of categories (specifically, twelve), and that this plurality is
 grounded on the plurality of human thought's functions of judgment. For
@@ -135,7 +143,7 @@ categories must emerge. His argument for this claim is obscure; he explains that
 'this category [the I], or the *simple* unity of self-consciousness and being,
 has the *difference* in itself, for its essence is just this, that it is
 immediately self-equal in *otherness*, or immediately self-equal in the absolute
-difference'.[^15] This seems to be an instance of the argumentative gesture that
+difference'.[^16] This seems to be an instance of the argumentative gesture that
 appears again and again in the *Phenomenology*: namely, that determinateness
 (of a category, in this instance) is possible only through its *difference* with
 an opposite. Thus, as soon as any category of reality is affirmed, its opposite
@@ -157,7 +165,7 @@ frustrated:
 > to put up with them in that form, is in fact to be regarded as a disgrace to
 > science. Where is the understanding supposed to be capable of demonstrating
 > necessity if it is incapable of demonstrating the pure necessity it has within
-> itself?[^16]
+> itself?[^17]
 
 Essentially, Kant is satisfied to 'simply come upon' the categories via the
 functions of judgment. Hegel's criticism does not target the basis Kant opts for
@@ -166,13 +174,13 @@ upon' the categories. If this criticism is a little opaque in the
 *Phenomenology*, it is clearer in Hegel's *Encyclopaedia*, where he praises
 Fichte for having 'reminded us that the *thought-determinations* [categories]
 must be exhibited in their necessity, and that it is essential for them to be
-*deduced*.'[^17] The *Science of Logic*, which was published in full in 1816,
+*deduced*.'[^18] The *Science of Logic*, which was published in full in 1816,
 is Hegel's attempt to overcome the 'outrage of science' in Kant, and outline a
 system of logic that is fully and legitimately grounded, and takes nothing as
 given. As for now, we continue with the *Phenomenology*'s task of *overcoming*
 the philosophical standpoint from which a 'given' is acceptable.
 
-#### The Abstract Individual {#indiv}
+#### Third Criticism of Idealism: The Abstract Individual {#indiv}
 
 To this point, idealism has not been depicted in a favourable light. Hegel
 *does* have praise for it, however, insofar as it is the first appearance of
@@ -182,7 +190,7 @@ mediates between subject and object (self-consciousness and reality) precisely
 by making the latter conditioned by the former. For this reason, Hegel remarks
 that if we are to be Kantian idealists, 'we can no longer really talk of
 *things* at all, which is to say, we can no longer speak of what for
-consciousness would only be the negative of itself'.[^18] In a simpler form of
+consciousness would only be the negative of itself'.[^19] In a simpler form of
 his accusation of *subjectivism* in Kant, Hegel is here arguing that insofar as
 all things, for the Kantian idealist, are conditioned by the categories, and
 these categories are themselves mere '*species* of the pure category' -- namely,
@@ -204,7 +212,7 @@ by one.
    as such and that first *immediate* pure unity as such, and it is *singular
    individuality*.
 4. This is a new category, which is an excluding consciousness, which is
-   to say, it has *an other* for it.[^19]
+   to say, it has *an other* for it.[^20]
 
 These four moments follow the aforementioned scenario, in which there is no real
 *Other* when all that consciousness can refer to is conditioned by the
@@ -233,14 +241,14 @@ things of the world. As Harris writes,
 > The thinker cannot identify herself with the pure thinking (any more than with
 > the "thoughts") because she is *the being that is appeared to*. This step
 > undercuts the Cartesian *dualism*. The "certainty" of Reason is simply a
-> singular agent in a world of *external* sensible appearances.[^20]
+> singular agent in a world of *external* sensible appearances.[^21]
 
 This 'singular agent' is not as stable as it might first appear, however. Though
 it has achieved the awareness of otherness, in a sense, this awareness has only
 come about through the interplay of consciousness and its manifold facets. 'Each
 of these different moments' -- that is, the pure category, the negative unity,
 and so on -- 'points to another moment, but at the same time, within each of
-them, there is never any otherness at all'.[^21] The singular individual is the
+them, there is never any otherness at all'.[^22] The singular individual is the
 negative unity of the manifold categories, which themselves are immediately
 unified by the I as 'pure category' which, in its contradiction with the
 plurality of the manifold categories, is sublated in the I as singular
@@ -261,14 +269,14 @@ consciousness is at the impasse that Hegel described in the introduction:
 
 > Consciousness seems, as it were, to be incapable of getting behind the object
 > to the object as it is *in itself* and not as the object is *for
-> consciousness*.[^22]
+> consciousness*.[^23]
 
 In the last two paragraphs of his introduction to Reason, Hegel makes his
 conclusive critical statements on the idealism that represents the *certainty*
 (rather than the *truth*) of reason. As he puts it, this idealism -- which,
 though it is best represented by Kant and Fichte, can be concisely summarised by
 Schopenhauer's declaration that 'the world is my representation' -- fails
-because it is *abstract*.[^23] All reality, for this idealism, is 'the pure
+because it is *abstract*.[^24] All reality, for this idealism, is 'the pure
 *mine* of consciousness'; as we have seen, a notion this pure and simple cannot
 find a stable other to which it can relate itself. Consequently, it finds itself
 always turning to some 'alien impact' [*fremden Anstoßes*] in order to find
@@ -277,4 +285,4 @@ inhering in the *I* (the 'unity of apperception' in Kant), it is forced to
 denigrate any such alien externality as a mere *phenomenon*, a categorised
 appearance that is distinct from a thing in itself. 'Reason condemns itself',
 Harris writes, 'to be a search in which it is known a priori that there can be
-no success, no finding'.[^24]
+no success, no finding'.[^25]
