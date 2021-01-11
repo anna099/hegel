@@ -21,3 +21,11 @@
 [^19]: Diogenes Laërtius, *Lives of Eminent Philosophers*, translated by R. D. Hicks, Vol. 2 (Cambridge, MA: Harvard University Press, 1925) p. 43, VI 40-42.
 [^20]: §248.
 [^21]: §249.
+[^22]: Ibid, translation altered.
+[^23]: Ibid.
+[^24]: Harris, *Hegel's Ladder*, p. 490.
+[^25]: §249.
+[^26]: §250.
+[^27]: Francis Bacon, *The New Organon* (Cambridge: Cambridge University Press, 2004), p. 16.
+[^28]: §250.
+[^29]: Ibid.

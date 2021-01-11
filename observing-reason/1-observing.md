@@ -54,7 +54,7 @@ of *Observing Reason*, and gives a clue to what follows them:
 > movement as it incorporates nature, spirit, and, finally, the relation of both
 > as sensuous being, and when as an existing actuality, it seeks itself.[^6]
 
-#### Observation of Nature {#natur}
+#### Observation of Nature: I {#natur}
 
 <blockquote class="epigraph">O chestnut tree, great rooted blossomer, / Are you the leaf, the blossom or the bole?<footer>William Butler Yeats, *Among School Children*</footer></blockquote>
 
@@ -153,6 +153,8 @@ our cognition is really grasping what the observed objects *actually are* --
 arises again. There is movement in the world that the observer's account of
 universals cannot account for. A memory does not move.
 
+#### Observation of Nature: II. Laws of Nature {#laws}
+
 The only way to overcome this problem is to form a new account of the universal
 -- one which won't hope for '*inert* determinateness', but instead will expect
 precisely what it sees in the observed world: that is, the *shifting* of
@@ -185,8 +187,70 @@ than simply mocking Plato, says something in general about our current
 conception of law. The observer is still an avowed empiricist, establishing its
 laws and concepts on the basis of experience; as Hegel says, 'the *truth of the
 law* is in *experience* in the way that *sensuous being* is'.[^21] The problem
-in this stragey is that there might always be a Diogenes who enters the scene
+in this strategy is that there might always be a Diogenes who enters the scene
 and, in his dirty hands, shows us an exception to our law. No matter how much we
 refine our concepts and laws, they will never have *necessity* if they are based
 on the contingencies found in observation. A law that is based in such a way,
 Hegel admits, is 'not really a law.'
+
+The problem the observer now faces is this: without room for necessity, a law
+cannot be a law; however, without room for *contingency*, a law has nothing to
+govern. The current sense of law, based simply on observation of contingencies,
+clearly has no room for necessity. But this problem doesn't have to last, Hegel
+explains.
+
+> However, the law's being a concept not only does not conflict with its being
+> available for observation, but is rather the very reason it is in possession
+> of necessary *existence* [*Dasein*], and is for observation. The universal in
+> the sense of a *rational universality* is also the universal in the previous
+> sense of its exhibiting itself *for that* consciousness as what is current and
+> actual ... but without thereby losing its nature and falling back down into
+> inert stable existence or indifferent succession.[^22]
+
+In these sentences, Hegel is basically claiming that it is possible for
+necessity (that is, *universality*) to be found *within* the contingency of the
+observer's experience. When he claims that 'the concept presents itself in the
+mode of thinghood', he is explaining that the contingent things of our
+experience are, in fact, the *manifestation* of the conceptual, lawlike, and
+*rational* side of reality. When 'concept' is understood as what he calls
+'*rational* universality', it is understood not as the artificial *abstraction*
+from observed things, but as the genuine *reality* of what those things *are*.
+*Law*, then, is the recognition of the inherent link between rational
+universality and the world we observe: if the latter did not have rational
+universality as its very reality, it would not be possible to make sense of it
+at all. As such, Hegel makes a profound and aphoristic statement:
+
+> What *ought* to be is also in fact what *is*.[^23]
+
+This statement might sound illegitimate, but only if it isn't properly thought
+through. It is, in one sense, a critique of the Kantian tradition's postulation
+that there is a 'noumenal' world that, despite having no presence in possible
+experience, 'is the standard of "pure Reason" by which the phenomenal world of
+"experience" is to be judged', as Harris puts it.[^24] As far as *actual
+experience* goes, the noumenon is a concept which 'only *should* be, but is
+not'; and a concept of this sort, Hegel says, 'has no real truth'.[^25] Our laws
+and concepts of the world are of no use whatsoever if we don't find their truth
+within reality. Accordingly, the observer is now at the stage of asserting that
+'the truth of the law is essentially *reality*.'[^26] Laws are no longer
+established by generalising and abstracting from singular observations, but
+instead through *experimentation* and inductive reasoning about the observed
+world. Francis Bacon himself wrote that 'we regard induction as the form of
+demonstration which respects the senses, stays close to nature, fosters results
+and is almost involved in them itself'; it is likely that, at this point, Hegel
+has projects such as Bacon's in mind.[^27]
+
+As he goes on, Hegel admits that, so long as consciousness 'sticks to
+observation', there is a tension between its new conception of law as
+'essentially *reality*' and 'the universal in itself'. Indeed, he says, such a
+thing as [the observer's] law is not an essence that stems from reason.'[^28]
+For an observer that wants to find reason in itself and in the world, this is a
+major problem. It arises because, through what we can call the observer's
+'inductive method', consciousness is forced to concede that not '*all singular*
+sensuous things must have provided evidence for the appearance of law in order
+for it to be able to assert the truth of the law.'[^29] This is an intuitive
+point about inductive reason, wherein Hegel is echoing Hume. 'Laws' of the
+inductive method are arrived at through experimentation; but it is impossible to
+arrive at a truly universal law by experimenting on *all* objects. Newton didn't
+theorise about gravity by watching *every* apple fall. Instead, inductive reason
+arrives only at *probability*, which is not truth. As Hegel says stubbornly,
+'let the probability be as great as it may, vis-à-vis truth, it is nothing.'
