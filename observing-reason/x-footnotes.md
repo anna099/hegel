@@ -14,3 +14,10 @@
 [^12]: §246.
 [^13]: Kalkavage, *The Logic of Desire*, p. 168.
 [^14]: §246.
+[^15]: Ibid, translation altered.
+[^16]: Ibid.
+[^17]: Note that Darwin had not even been born by the time the *Phenomenology* was written; many of the ways that living beings come to distinguish themselves would not have been known to Hegel.
+[^18]: §248.
+[^19]: Diogenes Laërtius, *Lives of Eminent Philosophers*, translated by R. D. Hicks, Vol. 2 (Cambridge, MA: Harvard University Press, 1925) p. 43, VI 40-42.
+[^20]: §248.
+[^21]: §249.
