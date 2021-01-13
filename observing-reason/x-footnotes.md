@@ -1,5 +1,7 @@
 <p id="nav"><a href="reason-intro.html">Previous Chapter: Reason</a></p>
 
+</section>
+
 [^1]: §239.
 [^2]: Hyppolite, *Genesis and Structure*, p. 232.
 [^3]: §240.
@@ -29,3 +31,8 @@
 [^27]: Francis Bacon, *The New Organon* (Cambridge: Cambridge University Press, 2004), p. 16.
 [^28]: §250.
 [^29]: Ibid.
+[^30]: Ibid.
+[^31]: §251.
+[^32]: Ibid.
+[^33]: §252.
+[^34]: Kalkavage, *The Logic of Desire*, p. 169.

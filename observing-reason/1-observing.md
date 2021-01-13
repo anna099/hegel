@@ -54,7 +54,7 @@ of *Observing Reason*, and gives a clue to what follows them:
 > movement as it incorporates nature, spirit, and, finally, the relation of both
 > as sensuous being, and when as an existing actuality, it seeks itself.[^6]
 
-#### Observation of Nature: I {#natur}
+#### Observation of Nature {#natur}
 
 <blockquote class="epigraph">O chestnut tree, great rooted blossomer, / Are you the leaf, the blossom or the bole?<footer>William Butler Yeats, *Among School Children*</footer></blockquote>
 
@@ -153,7 +153,7 @@ our cognition is really grasping what the observed objects *actually are* --
 arises again. There is movement in the world that the observer's account of
 universals cannot account for. A memory does not move.
 
-#### Observation of Nature: II. Laws of Nature {#laws}
+#### Observation of Nature: Laws of Nature {#laws}
 
 The only way to overcome this problem is to form a new account of the universal
 -- one which won't hope for '*inert* determinateness', but instead will expect
@@ -252,5 +252,51 @@ point about inductive reason, wherein Hegel is echoing Hume. 'Laws' of the
 inductive method are arrived at through experimentation; but it is impossible to
 arrive at a truly universal law by experimenting on *all* objects. Newton didn't
 theorise about gravity by watching *every* apple fall. Instead, inductive reason
-arrives only at *probability*, which is not truth. As Hegel says stubbornly,
-'let the probability be as great as it may, vis-à-vis truth, it is nothing.'
+arrives only at *probability*, which is not truth. As Hegel says bluntly, 'let
+the probability be as great as it may, vis-à-vis truth, it is nothing.'
+
+However, Hegel also acknowledges that, in the actual practice of science, the
+inductive method arrives at laws that are firmer than mere generalisations on
+the basis of some experimentation. He uses gravity as an example:
+
+> That 'the stone falls' is, to that [observing] consciousness, true because, to
+> consciousness, the stone is *heavy*, which is to say, because in its weight
+> the stone has *in and for itself* an essential relation *to the earth* which
+> is expressed in its falling.[^30]
+
+Though he is not quite explicit about it, what Hegel means to say here is that
+inductive law *can* work when the experimenting observer has established not
+only the applicability of the law (i.e., its demonstration in experiments), but
+also the intelligibility of the law -- that is, an explanation for it. When the
+scientist arrives at a basic law of gravity, for instance, they are not just
+giving a mere generalisation or 'analogy' drawn from the observation of many
+objects behaving the same way (that is, *falling*); in addition, they are giving
+an theoretical -- that is, *conceptual* -- explanation of why this behaviour
+happens. When the law is understood in these *two* aspects, then it is 'true, to
+itself', Hegel writes. 'The law counts as law because it exhibits itself in
+appearance and at the same time is in itself the concept.'
+
+Interestingly, Hegel mentions that it is again 'the instinct of reason' that
+leads to this more sophisticated account of law; consciousness 'necessarily sets
+itself to *purifying* the law and its moments *into concepts* but without
+knowing that this is what it wants to do'.[^31] In this process, the concept
+which constitutes the nature of an object -- that is, the *rational* aspect of
+the object -- begins 'as sunken into empirical material'; it is the scientific
+process of experimentation that draws out this concept, by abstracting from the
+singular objects of empirical material. Since the observer is now more
+interested in concepts than in singular objects, it is increasingly focused on
+the realm of the universal: the concepts that arise in scientific research --
+Hegel gives the examples of positive and negative electricity, and acids and
+bases -- 'cannot last on their own, like a tooth or a claw, and be pointed out
+in that way.'[^32] Instead, they 'have truth only in being *universal*.' The
+work of the observer 'frees the predicates from their subjects.' However, the
+observer carries this process out 'without knowing'. That is, it still
+attributes the conceptual content of the law to *consciousness itself*, and does
+not recognise the reason that is inherent in the *world*. For this reason, the
+observer has gone from one one-sided perspective to another: from a grasping of
+only empirical contingencies, to a grasping of 'matters' (acids, bases,
+calories, degrees of heat, etc.), which are neither sensuous objects nor
+properties of such objects. A 'matter' of this kind is, in Hegel's words, 'a
+non-sensuous sensuousness, an incorporeal and nonetheless objective being.'[^33]
+Basically, as Kalkavage puts it, 'reason has failed to find an embodied
+universal.'[^34]
