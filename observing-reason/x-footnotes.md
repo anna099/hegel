@@ -34,5 +34,16 @@
 [^30]: Ibid.
 [^31]: §251.
 [^32]: Ibid.
-[^33]: §252.
-[^34]: Kalkavage, *The Logic of Desire*, p. 169.
+[^33]: This is now an obsolete sense of the word 'matter'.
+[^34]: §252.
+[^35]: Kalkavage, *The Logic of Desire*, p. 169.
+[^36]: Harris, *Hegel's Ladder*, p. 494.
+[^37]: Hyppolite, *Genesis and Structure*, pp. 239-40.
+[^38]: Hyppolite, *Genesis and Structure*, p. 240.
+[^39]: §2.
+[^40]: René Descartes, 'Meditations on First Philosophy' in *Philosophical Essays and Correspondence*, edited by Roger Ariew (Indianapolis, IN: Hackett, 2000), p. 111.
+[^41]: §254.
+[^42]: Harris, *Hegel's Ladder*, p. 496.
+[^43]: §255.
+[^44]: Ibid.
+[^45]: Ibid.

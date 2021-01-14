@@ -296,7 +296,86 @@ not recognise the reason that is inherent in the *world*. For this reason, the
 observer has gone from one one-sided perspective to another: from a grasping of
 only empirical contingencies, to a grasping of 'matters' (acids, bases,
 calories, degrees of heat, etc.), which are neither sensuous objects nor
-properties of such objects. A 'matter' of this kind is, in Hegel's words, 'a
-non-sensuous sensuousness, an incorporeal and nonetheless objective being.'[^33]
-Basically, as Kalkavage puts it, 'reason has failed to find an embodied
-universal.'[^34]
+properties of such objects.[^33] A 'matter' of this kind is, in Hegel's words,
+'a non-sensuous sensuousness, an incorporeal and nonetheless objective
+being.'[^34] Basically, as Kalkavage puts it, 'reason has failed to find an
+embodied universal.'[^35]
+
+#### Observation of Nature: The Organic {#organ}
+
+In failing to find an embodied universal, and instead finding a pure law,
+standing free from the sensuous, consciousness proves that 'the *truth* of
+observation is non-observable reality.'[^36] Its new object is *revealed* in
+worldly experience, but is not actually *bound up* in the sensuous world. As
+Hyppolite puts it elegantly,
+
+> It is as if an experiment were a *sensuous conception*, an elaboration of the
+> sensuous which reveals in it the necessity of the concept. It raises the
+> concept, which had been submerged in being, and makes it appear as what it is:
+> the dynamism of nature, rather than the static universal of description or
+> classification.[^37]
+
+Law had previously fallen apart when the objects it was supposed to govern were
+lost in their transformations. A chemical would be transformed in reaction and
+no longer be grasped by the same law. Now, however, the observer is prepared to
+understand law 'as the unity of a process which preserves itself in its
+becoming-other.'[^38] The name for the new *object* of consciousness -- the
+object which is understood through this law -- is the **organic**, or the
+organism. An organism in this sense is, simply put, a worldly thing *grasped in
+the context* of 'the dynamism of nature' and the 'process' of 'becoming-other'.
+The organic worldview is a major theme for Hegel, and it is introduced right at
+the beginning of the *Phenomenology*, in a beautiful passage in the preface:
+
+> The bud disappears when the blossom breaks through, and one might say that the
+> former is refuted by the latter. Likewise, through the fruit, the blossom
+> itself may be declared to be a false existence of the plant, since the fruit
+> emerges as the blossom's truth as it comes to replace the blossom itself.
+> These forms are not only distinguished from each other, but, as incompatible
+> with each other, they also supplant each other. However, at the same time
+> their fluid nature makes them into moments of an organic unity in which they
+> are not only not in conflict with each other, but rather, one is equally as
+> necessary as the other, and it is this equal necessity which alone constitutes
+> the life of the whole.[^39]
+
+An inorganic account of the world, such as the one held by mechanistic
+philosophers like Descartes, cannot comprehend the 'absolute fluidity' of the
+world. When Descartes notices a piece of wax change colour and lose its scent
+and shape when held near a fire, he concludes that nothing is really *essential*
+to the wax but 'that it is something extended, flexible, and mutable.'[^40] On
+the other hand, when an object is grasped as organic, 'all the determinatenesses
+through which it is open to others are bound together under the simple organic
+unity. None of them come forward as essential, or as items that could relate
+themselves free-standingly to others, and the organic thus preserves itself in
+its relation.'[^41] That is to say, an organic object does not dissolve as soon
+as it enters in relations with other beings (and thereby undergoes
+transformations). An organism is *inherently dynamic*: being in relations is not
+a threat to its persevering existence. The organism *maintains itself*; this is
+what it means, after all, to be alive. One final way of illustrating what an
+organism is comes from Harris, who says that 'the inorganic thing exists "in
+itself" in the totality of ways in which it exists "for another"'; while, on the
+other hand, 'the organism exists primitively "for itself".'[^42] His example for
+this distinction is the difference between a human and a glass bottle falling
+from a great height: while the bottle 'falls as it must' and *inevitably*
+shatters, losing its form completely, the outcome of a human's fall is dependent
+on some *effort* taken to land on one's feet. The human shows itself as an
+organism in the way it uses its internal capacities to (try to) maintain itself.
+
+In the first moments of the observer's discovery of organic nature, the instinct
+of reason leads it toward the observation of '*aspects of law*' that govern the
+relation of organic nature to inorganic nature. The inorganic nature that the
+observer is focused on here is the **environment** that organisms live in: the
+'air, water, earth, zones, and climate' are Hegel's 'elemental' examples.[^43]
+In the process of maintaining and developing itself -- that is, the process of
+*Bildung* -- an organism must *internally* respond to the *external*
+environment. As such, a system of laws based on such responses will claim that
+the environment in which an organism develops is the determining factor of what
+that organism *is* and *can be*. The weakness of this kind of law is found
+quickly, however, once we see that it 'does not correspond to the diversity of
+the organic'.[^44] One might devise a law that 'animals in northerly latitudes
+have thick coats of fur', for instance, but the law will quickly be falsified.
+Hegel also points out that the *freedom* that is inherent to organisms also
+allows them to wilfully 'exempt' themselves from the determinations of their
+environment. Consequently, the role of the environment is nothing more than an
+'influence', and 'one does not know what really belongs to this influence and
+what does not.' Yet again, the observer has devised a law that isn't really a
+law, since it doesn't 'exhaust the range of the organic.'[^45]
