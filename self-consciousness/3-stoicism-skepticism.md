@@ -1,7 +1,7 @@
-### Stoicism and Skepticism {#stoic}
+### Stoicism and Skepticism
 #### Freedom of Self-Consciousness, Part One {.subtitle}
 
-#### Stoicism
+#### Stoicism {#stoic}
 
 Here is where the last chapter has left us: the master has imposed the demands
 of their desire onto the slave, and has thus become a repetitive consumer. The

@@ -140,14 +140,14 @@ where he clearly has Linnaeus in mind:
 Now, Hegel realises that not all objects are animals; that is, not all objects
 'get as far' as *being-for-themselves*. Plants have no 'intention' or will to
 survive; the only 'distinguishing marks' that Hegel finds in them arise from
-their '*dividing themselves in two*' in sexual differentiation.[^17] This limit
+their *'dividing themselves in two'* in sexual differentiation.[^17] This limit
 in distinction, he explains, is what makes plants harder *for us* to distinguish
 from one another, in comparison to animals. However, 'at an even lower level' --
 i.e., the level of chemical objects -- things make no 'effort' to distinguish
 themselves at all; often, they dissolve into one another and change form
 constantly. Such an object 'cannot itself any longer differentiate itself from
-an other'. It is seemingly a different thing when it is '*motionless*' to when
-it is '*in relationships*'; in this difference, we see the world of constant
+an other'. It is seemingly a different thing when it is *'motionless'* to when
+it is *'in relationships'*; in this difference, we see the world of constant
 flux that Heraclitus described. Accordingly, the wavering question -- of whether
 our cognition is really grasping what the observed objects *actually are* --
 arises again. There is movement in the world that the observer's account of
@@ -158,8 +158,8 @@ universals cannot account for. A memory does not move.
 The only way to overcome this problem is to form a new account of the universal
 -- one which won't hope for '*inert* determinateness', but instead will expect
 precisely what it sees in the observed world: that is, the *shifting* of
-determinacy. The truth of determinateness, Hegel explains, is '*its relating
-itself to its opposite*.'[^18] The 'instinct of reason' pushes the observer now
+determinacy. The truth of determinateness, Hegel explains, is *'its relating
+itself to its opposite.'*[^18] The 'instinct of reason' pushes the observer now
 to look not merely for 'determinatenesses' in the form of 'distinguishing
 marks', but for the **laws** that govern the *relating* of these
 determinatenesses to one another -- that is, the laws of their *movement*. A
@@ -169,8 +169,8 @@ This development of reason is parallel to the previous development of
 consciousness from perception to the understanding.
 
 What is a law in this context? And how does it come about? Following Harris, we
-can use the story of Plato and Diogenes to exemplify the observer's sense of a
-law. This is how Diogenes Laërtius tells the story:
+can use the story of Plato and Diogenes the Cynic to exemplify the observer's
+sense of a law. This is how Diogenes Laërtius tells the story:
 
 > Plato had defined Man as an animal, biped and featherless, and was applauded.
 > Diogenes plucked a fowl and brought it into the lecture-room with the words,
@@ -361,7 +361,7 @@ on some *effort* taken to land on one's feet. The human shows itself as an
 organism in the way it uses its internal capacities to (try to) maintain itself.
 
 In the first moments of the observer's discovery of organic nature, the instinct
-of reason leads it toward the observation of '*aspects of law*' that govern the
+of reason leads it toward the observation of *'aspects of law'* that govern the
 relation of organic nature to inorganic nature. The inorganic nature that the
 observer is focused on here is the **environment** that organisms live in: the
 'air, water, earth, zones, and climate' are Hegel's 'elemental' examples.[^43]
@@ -379,3 +379,72 @@ environment. Consequently, the role of the environment is nothing more than an
 'influence', and 'one does not know what really belongs to this influence and
 what does not.' Yet again, the observer has devised a law that isn't really a
 law, since it doesn't 'exhaust the range of the organic.'[^45]
+
+Ultimately, the 'environmental influence' model of law fails because the
+relation between organism and environment holds no *necessity*. Hegel
+illustrates this point neatly:
+
+> as often as a coat of fur may be *found* to go together with northerly
+> latitudes, ... nevertheless the concept of a thick covering of fur is not
+> contained in the concept of the north.[^46]
+
+In fact, in the way it is posited by the observer, the organism-environment
+relation is better described as 'a teleological relation': it is *external* to
+what is related and is effectively imposed upon the relata by the observer. In
+Harris's words, 'it operates upon the lawful order from outside, and from
+"above" it, like the sculptor turning his block of marble into a statue.'[^47]
+Organisms only appear to be 'designed' for their environments if we are
+intentionally ignorant of the organisms that are *exceptions* to this apparent
+design.
+
+The law of 'adaptation' was based on an *external teleology*; that is, a concept
+of an organism's relation to its environment which 'seems to fall outside the
+bounds of the organic' (and the environment). Residing in neither element, it
+couldn't be observed, and couldn't hold any necessity. Some kind of teleology
+can be retained, however, if it is found *within* the organism; that is, if the
+observer realises that 'the organic is in fact the real purpose itself.'[^48]
+This is a more familiar account of teleology for those who are familiar with
+Aristotle, and it was also understood by Kant, who recognised the organism as
+'an *organized* and *self-organizing* being'.[^49] Nothing truly 'new' is born
+in the organism; rather, the organism undergoes changes for the sake of
+preserving what it is.
+
+> The organic does not produce something, it only *conserves itself*, or what is
+> produced is, as it is produced, just as much already present.[^50]
+
+At this stage, then, the observer finds that organisms undergo changes, and
+develop their 'distinguishing marks', by the internal concept of **purpose**
+[*Zweck*] that drives them to self-conservation. This is a significant moment
+since, in the preface, Hegel referred to *reason* as '*purposive* doing.'[^51]
+Laws of purpose are the of the kind that appear in Pindar and Nietzsche:
+*'become what you are'*.[^52] Only *'at the end'*, Hegel explains, is it
+retroactively revealed that an organism's whole process of change was a
+necessary process of *becoming*, rather than one of mere transformation:
+'nothing else emerges other than what was already there.'[^53]
+
+Now that the observing consciousness of reason has grasped some kind of purpose
+in organic nature, reason is closer to seeing itself reflected in the world.
+Nonetheless, reason's journey is still incomplete, as it 'does not recognize
+itself in what it finds' in nature.[^54] That is, though reason has managed to
+find itself in the world, it is still driven only by *instinct*; it isn't
+self-conscious of what it is trying to do, and thus remains ignorant of it. Now,
+'instinct' is the subjective experience of what, objectively, we call *purpose*.
+This is why the observer is not yet aware of discovering itself (as reason) in
+the world: because it is only being guided by blind instinct, it fails to
+reflect on itself and realise that this instinct, this *drive*, is itself
+evidence of some 'purpose'.
+
+The theological 'argument from design', made by figures like Aquinas or William
+Paley, makes the mistake of assuming that purpose-driven nature requires some
+superior intelligent being directing this purpose. At this stage of observing
+reason, consciousness makes a similar mistake: instead of arguing that it is
+*God* who bestows purpose onto nature, however, the observer assumes that all
+purpose is projected onto nature by *itself*. 'Observing consciousness makes a
+distinction between the concept of purpose ... and self-preservation, a
+difference which is really no difference at all.'[^55] This erroneous
+distinction is easy to make: if non-human organic beings like flowers and
+bunnies have no reason, we can only describe their development in a teleological
+(i.e., purposeful) manner in a *subjective* sense -- that is, in the sense that
+we *project* a teleology, a <span lang="el">τέλος</span>, onto their
+development.
+<!--But behind this line of thinking is the false idea that a *purpose*-->

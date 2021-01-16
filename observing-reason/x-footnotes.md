@@ -41,9 +41,19 @@
 [^37]: Hyppolite, *Genesis and Structure*, pp. 239-40.
 [^38]: Hyppolite, *Genesis and Structure*, p. 240.
 [^39]: §2.
-[^40]: René Descartes, 'Meditations on First Philosophy' in *Philosophical Essays and Correspondence*, edited by Roger Ariew (Indianapolis, IN: Hackett, 2000), p. 111.
+[^40]: René Descartes, 'Meditations on First Philosophy' in *Philosophical Essays and Correspondence*, edited by R. Ariew (Indianapolis, IN: Hackett, 2000), p. 111.
 [^41]: §254.
 [^42]: Harris, *Hegel's Ladder*, p. 496.
 [^43]: §255.
 [^44]: Ibid.
 [^45]: Ibid.
+[^46]: Ibid, translation altered.
+[^47]: Harris, *Hegel's Ladder*, p. 498.
+[^48]: §256.
+[^49]: Kant, *Critique of the Power of Judgment*, translated by P. Guyer and E. Matthews (Cambridge: Cambridge University Press, 2002), §65, 5:374.
+[^50]: §256, translation altered.
+[^51]: §22.
+[^52]: Pindar, *The Complete Odes*, translated by A. Verity (Oxford: Oxford University Press, 2007), Pyth. II, 73. Friedrich Nietzsche, *The Gay Science*, translated by W. Kaufmann (New York: Random House, 1974), §270.
+[^53]: §257.
+[^54]: Ibid.
+[^55]: §259.
