@@ -303,6 +303,8 @@ embodied universal.'[^35]
 
 #### Observation of Nature: The Organic {#organ}
 
+<blockquote class="epigraph">Nature is what we know -- / Yet have no art to say -- / So impotent Our Wisdom is / To her Simplicity. <footer>Emily Dickinson, *The Single Hound*, 1914</footer></blockquote>
+
 In failing to find an embodied universal, and instead finding a pure law,
 standing free from the sensuous, consciousness proves that 'the *truth* of
 observation is non-observable reality.'[^36] Its new object is *revealed* in
@@ -437,14 +439,39 @@ evidence of some 'purpose'.
 The theological 'argument from design', made by figures like Aquinas or William
 Paley, makes the mistake of assuming that purpose-driven nature requires some
 superior intelligent being directing this purpose. At this stage of observing
-reason, consciousness makes a similar mistake: instead of arguing that it is
-*God* who bestows purpose onto nature, however, the observer assumes that all
-purpose is projected onto nature by *itself*. 'Observing consciousness makes a
-distinction between the concept of purpose ... and self-preservation, a
-difference which is really no difference at all.'[^55] This erroneous
-distinction is easy to make: if non-human organic beings like flowers and
-bunnies have no reason, we can only describe their development in a teleological
-(i.e., purposeful) manner in a *subjective* sense -- that is, in the sense that
-we *project* a teleology, a <span lang="el">τέλος</span>, onto their
-development.
-<!--But behind this line of thinking is the false idea that a *purpose*-->
+reason, consciousness makes a similar mistake. Instead of arguing that it is
+*God* who bestows purpose onto nature, however, the observer might instead
+assume that all purpose is projected onto nature by *itself*. Either way,
+observing consciousness refuses to accept that purpose is *within* organisms,
+and instead recognises it as given unto them: the observer 'makes a distinction
+between the concept of purpose ... and self-preservation, a difference which is
+really no difference at all.'[^55] This erroneous distinction is easy to make:
+if non-human organic beings like flowers and bunnies have no reason, it would
+seem that we can only describe their development in a teleological (i.e.,
+purposeful) manner in a *subjective* sense -- that is, in the sense that we
+*project* a teleology, a <span lang="el">τέλος</span>, onto their development.
+But behind this line of thinking is the false idea that *purpose* belongs only
+to intelligent, thinking organisms like humans. As Hegel puts it, observing
+consciousness 'does not recognize that the concept of purpose is not existing
+somewhere else in some intellect but just is here [in the organism] and as a
+thing.'[^56] Really, it is inevitable for *observing* consciousness to make this
+mistake, since 'purpose' is internal to organic things, and therefore not
+observable. To return to the claim of my last paragraph, this is again why the
+observer has no adequate understanding of itself: it cannot *observe* reason and
+purpose, and thus has nothing on which to base a conception of itself.
+
+Hegel recognises that the observer's current conception of organic nature,
+wherein the organism has no inherent, self-concerned purpose, quickly falls
+apart. If this were true, then an organism's 'doing would accordingly be empty
+efficaciousness without any content in its own self; it would not even be the
+efficaciousness of a machine, for a machine has a purpose, and its
+efficaciousness thereby has a determinate content.'[^57] In other words, if
+organic activity had no intrinsic purpose, it would be meaningless and random.
+As Michael Inwood puts it nicely, 'for all we know, bears might light fires or
+knit themselves sweaters to fend off the cold.'[^58] Of course, we witness
+every day that this isn't the case: there is regularity to the development and
+activity of organisms, demonstrating that there is some teleology within the
+organism itself, driving its self-conservation. 'In its own self,' Hegel writes,
+'the activity [of an organism] is an activity inwardly turning back into itself,
+not an activity led back into itself by anything alien to itself', like the
+mind of the observer.[^59]

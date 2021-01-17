@@ -57,3 +57,7 @@
 [^53]: §257.
 [^54]: Ibid.
 [^55]: §259.
+[^56]: §259.
+[^57]: §260.
+[^58]: Michael Inwood, 'Commentary' in G. W. F. Hegel, *The Phenomenology of Spirit*, translated by M. Inwood (Oxford: Oxford University Press, 2018), p. 416.
+[^59]: §260.
