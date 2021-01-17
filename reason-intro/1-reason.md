@@ -2,7 +2,7 @@
 
 ### Introduction
 
-<blockquote class="epigraph">'The world is my representation': -- this holds true for every living, cognitive being, although only a human being can bring it to abstract, reflective consciousness: and if he actually does so he has become philosophically sound.<footer>Arthur Schopenhauer, *The World as Will and Representation*</footer></blockquote>
+<blockquote class="epigraph">'The world is my representation': -- this holds true for every living, cognitive being, although only a human being can bring it to abstract, reflective consciousness: and if he actually does so he has become philosophically sound.<footer>Arthur Schopenhauer, *The World as Will and Representation*, 1819</footer></blockquote>
 
 There is a dramatic change between the eclipse of unhappy consciousness and the
 dawn of reason. The unhappy subject, who goes again and again on a pilgrimage to

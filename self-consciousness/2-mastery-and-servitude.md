@@ -1,7 +1,7 @@
 ### Mastery and Servitude {#master}
 #### Self-Sufficiency and Non-Self-Sufficiency of Self-Consciousness {.subtitle}
 
-<blockquote class="epigraph">Before Darwin, Hegel had provided the definitive theory of the specific function of aggressiveness in human ontology, seeming to prophesy the iron law of our own time. <footer>Jacques Lacan, *Écrits*</footer></blockquote>
+<blockquote class="epigraph">Before Darwin, Hegel had provided the definitive theory of the specific function of aggressiveness in human ontology, seeming to prophesy the iron law of our own time. <footer>Jacques Lacan, *Écrits*, 1966</footer></blockquote>
 
 The present section is possibly the most-read passage in all of Hegel's work,
 though it lasts less than ten pages. At the opening, Hegel explains that

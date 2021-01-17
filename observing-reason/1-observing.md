@@ -56,7 +56,7 @@ of *Observing Reason*, and gives a clue to what follows them:
 
 #### Observation of Nature {#natur}
 
-<blockquote class="epigraph">O chestnut tree, great rooted blossomer, / Are you the leaf, the blossom or the bole?<footer>William Butler Yeats, *Among School Children*</footer></blockquote>
+<blockquote class="epigraph">O chestnut tree, great rooted blossomer, / Are you the leaf, the blossom or the bole?<footer>W.B. Yeats, *Among School Children*, 1926</footer></blockquote>
 
 At the outset, the observer thinks in the tradition of Francis Bacon, working as
 an 'unthinking consciousness.' Hegel does not mean this in a straightforwardly
