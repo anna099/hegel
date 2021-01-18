@@ -363,7 +363,7 @@ on some *effort* taken to land on one's feet. The human shows itself as an
 organism in the way it uses its internal capacities to (try to) maintain itself.
 
 In the first moments of the observer's discovery of organic nature, the instinct
-of reason leads it toward the observation of *'aspects of law'* that govern the
+of reason leads it towards the observation of *'aspects of law'* that govern the
 relation of organic nature to inorganic nature. The inorganic nature that the
 observer is focused on here is the **environment** that organisms live in: the
 'air, water, earth, zones, and climate' are Hegel's 'elemental' examples.[^43]
@@ -475,3 +475,21 @@ organism itself, driving its self-conservation. 'In its own self,' Hegel writes,
 'the activity [of an organism] is an activity inwardly turning back into itself,
 not an activity led back into itself by anything alien to itself', like the
 mind of the observer.[^59]
+
+The observer's problem, from our perspective, is that it cannot comprehend the
+intrinsic relation between an organism's activity and its purpose -- that is,
+the directed *movement* of organic activity towards a purpose. In short, this is
+because that relation, that movement, 'can only be grasped as concept', and the
+observer is still stuck in a mode of thinking that expects everything to be
+sensuous and observable. Consequently, Hegel explains, consciousness
+'transforms' the two poles of the *individual* organism and the *universal*
+purpose 'into the kind of opposition that conforms to its point of view.'[^60]
+This newly posited opposition is the classical dualism of **body and soul**. The
+observer now understands the organism as divided in terms of its form: body and
+soul are not separate *entities*, but separate senses, aspects, or modes of the
+single organism which is 'laid as the foundation'.[^61] What the body is is
+self-explanatory. The soul is the 'inner' aspect of the organism, but can
+nonetheless be observed, since 'it appears as doing, or the *movement* of
+*vanishing* [i.e., changing] actuality'.[^62] To understand this, think of the
+Latin translation of Aristotle's work on the soul: *De Anima*. The soul,
+'anima', is what moves -- *animates* -- the organism.
