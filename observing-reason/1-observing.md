@@ -416,8 +416,7 @@ preserving what it is.
 
 At this stage, then, the observer finds that organisms undergo changes, and
 develop their 'distinguishing marks', by the internal concept of **purpose**
-[*Zweck*] that drives them to self-conservation. This is a significant moment
-since, in the preface, Hegel referred to *reason* as '*purposive* doing.'[^51]
+[*Zweck*] that drives them to self-conservation. This is a significant moment since, in the preface, Hegel referred to *reason* as '*purposive* doing.'[^51]
 Laws of purpose are the of the kind that appear in Pindar and Nietzsche:
 *'become what you are'*.[^52] Only *'at the end'*, Hegel explains, is it
 retroactively revealed that an organism's whole process of change was a
@@ -493,3 +492,38 @@ nonetheless be observed, since 'it appears as doing, or the *movement* of
 *vanishing* [i.e., changing] actuality'.[^62] To understand this, think of the
 Latin translation of Aristotle's work on the soul: *De Anima*. The soul,
 'anima', is what moves -- *animates* -- the organism.
+
+The soul expresses itself in all organisms as 'reproduction' and, in animal
+organisms, also as 'sensibility' and 'irritability'. Hegel explains what each of
+these mean:[^63]
+
+1. Sensibility is the animal's 'organic reflective turn into itself, or the
+   universal fluidity of this concept.' This is a rather strange definition
+   today, but it can be understood by comparison to the word *sensation*, when
+   referring to the phenomenon whereby an animal's nervous system 'takes in' the
+   surrounding world, thus enacting the animal's 'turn into itself'. The nervous
+   system can thus be understood as the 'outer' manifestation of 'inner'
+   sensibility.
+   As a sensing thing, the animal organism is something *in-itself*.
+2. Irritability is the animal's 'organic elasticity': the organism's capacity
+   for 'conducting itself *reactively*'. In other words, if sensibility is the
+   *receptive* property of the soul, irritability is the *responsive*
+   property. Irritability is the 'actualization' of the organism's
+   *being-for-others*, Hegel explains. The 'muscular system' is Hegel's example
+   of an outer manifestation of irritability.
+3. Reproduction involves both the growth and self-maintenance of the organism,
+   as well as the genesis of new organisms. It is essentially the same as what
+   Aristotle called the 'vegetative soul'. Because reproduction is the condition
+   of possibility for an organism in general, Hegel describes it as organic
+   'activity as a purpose in itself'. Through reproduction, an organism is *in
+   and for itself*. The 'intestinal system' is one outer manifestation of
+   reproduction, Hegel suggests.
+
+The whole point of describing organisms in this way, as possessing a soul with
+manifold properties, is so that the observer can devise a new kind of law: at
+this stage, laws 'concern a relationship between organic moments in their
+twofold meaning', Hegel writes.[^64] The 'twofold' in question is the organism's
+*inner* and *outer*: the inner side of the organism is the soul, the
+'life-principle', and its properties such as sensibility, and the outer side is
+the *expression* of these properties, in concretenesses such as the nervous
+system.

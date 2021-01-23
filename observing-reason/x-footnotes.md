@@ -64,3 +64,5 @@
 [^60]: §261.
 [^61]: §263.
 [^62]: §265.
+[^63]: These definitions are given in §266, and the examples of their manifestations in §267.
+[^64]: §268.
