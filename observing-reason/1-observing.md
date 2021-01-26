@@ -416,7 +416,8 @@ preserving what it is.
 
 At this stage, then, the observer finds that organisms undergo changes, and
 develop their 'distinguishing marks', by the internal concept of **purpose**
-[*Zweck*] that drives them to self-conservation. This is a significant moment since, in the preface, Hegel referred to *reason* as '*purposive* doing.'[^51]
+[*Zweck*] that drives them to self-conservation. This is a significant moment
+since, in the preface, Hegel referred to *reason* as '*purposive* doing.'[^51]
 Laws of purpose are the of the kind that appear in Pindar and Nietzsche:
 *'become what you are'*.[^52] Only *'at the end'*, Hegel explains, is it
 retroactively revealed that an organism's whole process of change was a
@@ -527,3 +528,91 @@ twofold meaning', Hegel writes.[^64] The 'twofold' in question is the organism's
 'life-principle', and its properties such as sensibility, and the outer side is
 the *expression* of these properties, in concretenesses such as the nervous
 system.
+
+The observer looks to construct laws regarding these life-properties, the
+'*factors*' of the organism; however, Hegel explains, the search for these laws
+exposes the fact that although they might *appear* as distinct divisions of the
+organism, they are in fact the opposite: sensibility, for instance, is actually
+'a universal *moment* which is essentially undivided and inseparable from
+reaction, or irritability, and reproduction.'[^65] The reason for this is that,
+when a rational observer (like a nineteenth-century scientist) comes up with a
+law such as, 'sensibility and irritability stand in inverse relations of
+magnitude, so that as the one increases, the other diminishes', she is ignoring
+the fact that these factors -- sensibility and irritability -- are not separable,
+wholly distinct quantities, but *modalities* of the same whole (that is, the
+organism).[^66] If this is unclear, Hegel makes it clearer by use of an analogy:
+
+> Just as [a] hole and what fills it and what is removed from it are
+> *qualitatively opposed*, what is real in them and its determinate magnitude
+> are one and the same. ... So too the organic moments [sensibility,
+> irritability, etc.] are likewise inseparable both according to what is real in
+> them and in their magnitude, which is itself the magnitude of what is real in
+> them. The one decreases and increases only with the other, *for either one of
+> them has a meaning at all only insofar as the other is present.*[^67]
+
+As such, to construct laws regarding the 'quantities' of the organism's
+life-properties is to get no further than tautology. There is really *one*
+quantity -- the organism itself. As Hegel writes, 'an organic *existence* is
+such a quantitative size ... It is what is increased or diminished, and if it is
+increased, *both* [or, *all*] of its factors are also increased.'[^68]
+Interestingly, this point was already suggested in the first Kantian *Critique*
+when Kant likens a system of science to 'an animal body, whose growth does not
+add a limb but rather makes each limb stronger and fitter for its end without
+any alteration of proportion.'[^69] Ultimately, The mistake of the observer was
+to isolate *moments* of the organism's *life process* and interpret them as
+distinct, quantifiable properties of an *inner* that affects an opposing
+*outer*. 'The law wants to grasp and express [this] opposition as motionless
+aspects', Hegel writes, 'but in being kept apart in that way, they lose their
+organic significance.'[^70] Hegel gives a rather opaque definition of the
+organism as *the movement of the dissolution of determinations*; this definition
+makes sense when we see that the observer's attempt to isolate the moments of
+the organism's life process and render them as stable determinations
+*necessarily fails* because of the constant movement and interrelation of these
+moments within the organic whole. As Kalkavage puts it,
+
+> More generally, Hegel argues that static systems of *any* kind cannot capture
+> the Concept of life. Formalism in biology turns life into anatomy: the study
+> of the living organism insofar as it is *dead*. ... In using number to
+> formulate laws of organisms, reason also reveals it *bond* with the abstract
+> understanding. It reduces the fluidity of life to the static being of the
+> inorganic. It makes the determinateness of living things rational at the
+> expense of what they *are*.[^71]
+
+Now, the observer is different to the Understanding that appeared in the
+consciousness chapter, because the **relation** that its laws are supposed to
+describe is *objective* -- that is, the relation is found within the observed
+object (the organism) rather than imposed upon the world by consciousness. At
+the end of the chapter on consciousness, Understanding was transformed into
+self-consciousness because consciousness recognised *itself* as the movement and
+relation of law-bound objects. For the *observer*, however, it is not the
+*relation* but the **relata**, the 'objects' themselves, that cannot be found in
+the observed thing. These relata -- which the observer names the 'inner' and
+'outer' -- are in constant motion and change, and thus cannot be grasped as
+easily as they could at the stage of Understanding. The observer, Inwood writes,
+'can no longer get a grip on intrinsically static sides needed for a law. The
+sides immediately succumb to the unrest of the concept.'[^72] Or, as Hegel puts
+it, 'because the moments are essentially *pure transition*, it turns out that
+there are no such *existing* aspects as had been demanded for there to be
+law.'[^73]
+
+The result of all this is that the observer has yet again failed to describe
+nature in law -- and, more broadly, that reason (embodied in the observer) has
+failed to find itself reflected in nature. The systems of law hitherto attempted
+have remained too static to capture the endless motion and transition, the
+inherent *dynamism*, of the natural world. What can be said with lawful
+necessity of a being that is constantly shifting? The organic being, Hegel
+explains, 'refuses to offer any *enduring* sensuous differences [i.e.
+differentiating qualities] to observation'; or, in other words, 'its essential
+determinateness [is] only the *changing flux of existing*
+determinatenesses.'[^74]
+
+#### The Outside World {#outside}
+
+After all of these failed attempts at constructing laws of the organism
+*itself*, Hegel turns to 'the *outer* of the organic' -- that is, the organism's
+environment -- and *its* inner and outer. Of course, the observer already looked
+at the environment previously, but found no necessity or lawfulness in its
+effect on the organism's form. As Hegel acknowledges, 'inorganic nature [that
+is, the environment] cannot constitute the aspect of a law vis-à-vis the organic
+creature, because the latter at the same time is utterly for itself and assumes
+a universal and free relation to inorganic nature.'[^75]

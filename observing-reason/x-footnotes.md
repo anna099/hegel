@@ -39,7 +39,7 @@
 [^35]: Kalkavage, *The Logic of Desire*, p. 169.
 [^36]: Harris, *Hegel's Ladder*, p. 494.
 [^37]: Hyppolite, *Genesis and Structure*, pp. 239-40.
-[^38]: Hyppolite, *Genesis and Structure*, p. 240.
+[^38]: Ibid, p. 240.
 [^39]: §2.
 [^40]: René Descartes, 'Meditations on First Philosophy' in *Philosophical Essays and Correspondence*, edited by R. Ariew (Indianapolis, IN: Hackett, 2000), p. 111.
 [^41]: §254.
@@ -66,3 +66,14 @@
 [^62]: §265.
 [^63]: These definitions are given in §266, and the examples of their manifestations in §267.
 [^64]: §268.
+[^65]: §270.
+[^66]: §271.
+[^67]: Ibid. Emphasis added.
+[^68]: Ibid.
+[^69]: Kant, *Critique of Pure Reason*, A33/B861.
+[^70]: §278.
+[^71]: Kalkavage, *The Logic of Desire*, pp. 174-5.
+[^72]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 418.
+[^73]: §279.
+[^74]: §280. Emphasis added.
+[^75]: §284.

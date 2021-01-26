@@ -33,7 +33,6 @@ blockquote p,
     text-align: justify;
 }
 p + p { text-indent: 1.3em; margin-top: 0; }
-blockquote { margin: 0px 40px; }
 strong { font-weight: 600; }
 a { text-decoration: none; color: var(--cred); }
 a:hover { text-decoration: underline; }
@@ -62,8 +61,8 @@ sup {
 
 /* Epigraphs, etc. */
 .epigraph {
-    width: 75%;
-    padding-left: 17%;
+    width: 80%;
+    padding-left: 11%;
     font-size: 1em;
     margin-top: 2.5em;
     text-align: justify;
@@ -114,6 +113,14 @@ h4:not(#author):not(.subtitle)::before {
     font-style: normal;
     margin-right: 0.75em;
 }
+h5 {
+    margin: 0;
+    font-size: 1.1em;
+    font-weight: normal;
+    text-decoration: underline;
+    opacity: 0.6;
+}
+h5 + p { margin-top: 0.3em; }
 
 hr {
     width: 25em;
@@ -271,8 +278,9 @@ img#title {
     text-align: justify;
 }
 .bib li {
-    list-style-type: square;
-    margin-bottom: 0.5em;
+    list-style-type: none;
+    text-indent: -1em;
+    margin-left: 1em;
 }
 
 /* JavaScript elements: ----------------------------------------- */
