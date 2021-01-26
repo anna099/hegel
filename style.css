@@ -228,6 +228,8 @@ img#title {
     font-weight: normal;
     font-style: italic;
     letter-spacing: 0.1em;
+    text-decoration: none;
+    opacity: 1;
 }
 
 #nav {
