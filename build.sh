@@ -3,7 +3,6 @@
 chapters=('introduction' 'prologue'
         \ 'consciousness' 'self-consciousness'
         \ 'reason-intro' 'observing-reason')
-pdfs=( "${chapters[@]/%/.pdf}" )
 FN=x-footnotes.md
 TEMP=temp.html
 
