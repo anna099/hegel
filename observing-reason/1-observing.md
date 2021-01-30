@@ -606,7 +606,7 @@ differentiating qualities] to observation'; or, in other words, 'its essential
 determinateness [is] only the *changing flux of existing*
 determinatenesses.'[^74]
 
-#### The Outside World {#outside}
+#### Observation of Nature: The Outside World {#outside}
 
 After all of these failed attempts at constructing laws of the organism
 *itself*, Hegel turns to 'the *outer* of the organic' -- that is, the organism's
@@ -616,3 +616,50 @@ effect on the organism's form. As Hegel acknowledges, 'inorganic nature [that
 is, the environment] cannot constitute the aspect of a law vis-à-vis the organic
 creature, because the latter at the same time is utterly for itself and assumes
 a universal and free relation to inorganic nature.'[^75]
+
+In order to preserve this freedom, reason leads the observer to a conception of
+the organism as a **mediation**: a 'mediating middle' between being-in-itself
+(inorganic nature -- the environment's *outer*) and being-for-itself (pure life
+-- the environment's *inner*).[^76] The last time we considered the environment,
+the observer looked at the organism as a passive recipient of the environment's
+influence. Now, the organism is conceptualised as a more complex being, residing
+in a syllogistic relationship *between* life and the environment. 'Life', in
+this sense, is what Hegel calls an 'infinite One', which might remind us of his
+description of life and infinity in the earlier chapter on the understanding:
+
+> This simple infinity, or the absolute concept, is to be called the simple
+> essence of life, the soul of the world, the universal bloodstream, which is
+> omnipresent, neither dulled nor interrupted by any difference.[^77]
+
+The life as 'infinite One' which is mediated in the organism also fits this
+description: it is not 'interrupted by any difference' because it is a 'simple
+negativity', nothing but the indifferent *striving to be*. As Hegel writes, 'It
+is a matter of indifference to this stream of life what sorts of mills it
+drives.' When it is mediated in the organism, therefore, 'life appears in it as
+the simplicity of subsistence [*Einfachheit des Bestehens*].'[^78] On its own,
+therefore, life is 'devoid of content': a striving force is nothing without
+*that which strives*; it is only in its mediation with nature -- that is, in the
+organism -- where life is given an organic shape, and expresses itself. This
+makes sense; after all, there is nothing we can point to and say, '*this* is
+life itself.'
+
+This conception of 'the organic whole' -- that is, the environment and the
+organisms within it -- still shares a similarity with previous conceptions,
+insofar as the dualism of *inner* and *outer* works in a relationship wherein
+the latter is an expression or manifestation of the former. In this case, the
+stream of life is expressed, in its mediation with inorganic nature, as the
+organism. Now, since the stream of life is indifferent to *how* it is
+manifested, as explained above, only by means of **numbers** can 'the whole
+range of differences which develop themselves' in organisms be generalised.
+Hegel saw this in the life sciences of his own time in the concept of 'specific
+gravity', whih 'can be observed just as well as can the determinateness of
+number'. Harris helpfully explains this concept which, today, might be a little
+less obvious:
+
+> Specific gravity is the 'inward aspect' of the different 'shapes' of matter.
+> Hegel conceived of "specific gravity" in strict accordance with its name. It
+> was a *specification* (at a higher level of logical development) of the
+> primitively undifferentiated force of gravity. In Hegel's interpretation, this
+> makes it analogous to our concept of atoms and molecules. What the *number*
+> corresponds to in the object ... is a numerically determinate quantum of
+> energy.[^79]

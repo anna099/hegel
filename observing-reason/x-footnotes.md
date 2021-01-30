@@ -77,3 +77,7 @@
 [^73]: §279.
 [^74]: §280. Emphasis added.
 [^75]: §284.
+[^76]: §285.
+[^77]: §162.
+[^78]: §285, translation altered.
+[^79]: Harris, *Hegel's Ladder*, p. 526.
