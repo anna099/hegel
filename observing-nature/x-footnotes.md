@@ -82,3 +82,7 @@
 [^78]: §285, translation altered.
 [^79]: Harris, *Hegel's Ladder*, p. 526.
 [^80]: Ibid, p. 529.
+[^81]: §291.
+[^82]: §291. Emphasis added.
+[^83]: Hyppolite, *Genesis and Structure*, p. 257.
+[^84]: §291. Emphasis added.
