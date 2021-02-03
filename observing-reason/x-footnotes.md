@@ -81,3 +81,4 @@
 [^77]: §162.
 [^78]: §285, translation altered.
 [^79]: Harris, *Hegel's Ladder*, p. 526.
+[^80]: Ibid, p. 529.

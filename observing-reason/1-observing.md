@@ -652,7 +652,7 @@ organism. Now, since the stream of life is indifferent to *how* it is
 manifested, as explained above, only by means of **numbers** can 'the whole
 range of differences which develop themselves' in organisms be generalised.
 Hegel saw this in the life sciences of his own time in the concept of 'specific
-gravity', whih 'can be observed just as well as can the determinateness of
+gravity', which 'can be observed just as well as can the determinateness of
 number'. Harris helpfully explains this concept which, today, might be a little
 less obvious:
 
@@ -663,3 +663,26 @@ less obvious:
 > makes it analogous to our concept of atoms and molecules. What the *number*
 > corresponds to in the object ... is a numerically determinate quantum of
 > energy.[^79]
+
+Basically, the observer takes the specific gravity of an organism to be the
+determinate, numerical signature of that organism: the measure of the organism's
+being-for-itself. Number takes the organic flux of the stream of life and
+renders it stable and determinate.
+
+But is this not just another attempt to repress the freedom and *in*determinacy
+present in every organism? As we saw above, no singular quantity -- whether it
+is of a property like sensibility, or of specific gravity as in this case -- can
+capture an object as a *whole* of *related*, qualitatively different properties.
+If we were to hierarchically order a group of things according to their specific
+gravity, nothing about a particular thing's position in a hierarchy would tell
+us why it is *qualitatively* such-and-such a way. Again, Harris summarises
+Hegel's critique of this kind of hierarchical science:
+
+> Any measurable property that varies progressively can *represent* the essence
+> in series of this kind; in other words it can be a *Vorstellung* of the
+> essence, but it is not the "Thing itself." The Thing itself would be the
+> Concept (and we might say that it is *represented* in a genuine theory). But
+> no parallelism of properties in any sequence of bodies could be a Concept of
+> the essential nature in its self-differentiation. Serial arrangements,
+> therefore, are not what we ought to be trying to establish; organizing things
+> in "series" is not yet "science."[^80]
