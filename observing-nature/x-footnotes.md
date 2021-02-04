@@ -86,3 +86,6 @@
 [^82]: §291. Emphasis added.
 [^83]: Hyppolite, *Genesis and Structure*, p. 257.
 [^84]: §291. Emphasis added.
+[^85]: §292.
+[^86]: Ibid.
+[^87]: Hyppolite, *Genesis and Structure*, p. 257.

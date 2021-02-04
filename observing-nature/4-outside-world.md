@@ -131,3 +131,17 @@ reproduction and death -- that animates organic nature, in just the way that
 consciousness in the *Phenomenology* is urged forward by the negativity of
 dialectics. (Of course, at this point, consciousness does not see this
 similarity.)
+
+Now, the observer acknowledges that we cannot point to an organism and identify
+it as the genus. I cannot point at a bluebird and say, '*that* is *Sialia*.'
+Rather, what is actually observed is the *species*, with its determinate
+properties, numerical quantities, and so on. 'The existence at which the
+negativity of the universal, or the negativity of the genus, arrives is only the
+developed movement of a process that runs its course in *the parts of the
+existing shape*,' Hegel writes.[^85] He continues: 'Actuality begins with the
+genus, or what enters into actuality is not the genus as such, i.e., is not
+thought at all. As the actually organic, this genus is only represented by
+something standing in for it.'[^86] The observer is still obsessed with the
+search for something stable and observable, and is thus reluctant to grasp life
+conceptually; instead, it is more comfortable with individual organisms as
+*determinate* but 'imperfect expressions of life'.[^87]
