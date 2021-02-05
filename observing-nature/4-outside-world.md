@@ -144,4 +144,39 @@ thought at all. As the actually organic, this genus is only represented by
 something standing in for it.'[^86] The observer is still obsessed with the
 search for something stable and observable, and is thus reluctant to grasp life
 conceptually; instead, it is more comfortable with individual organisms as
-*determinate* but 'imperfect expressions of life'.[^87]
+*determinate* but 'imperfect expressions of life'.[^87] Hegel thus finds another
+syllogism, where one extreme is 'the *universal life as universal*' -- that is,
+the genus -- and the other extreme is '*life as singular*', or, the particular
+*body* or matter that comes from the Earth and (at death) merges back into it.
+The *species* which I point to -- 'this is a bluebird' -- is a '*determinate*
+universality', the middle term in the syllogism of life and Earth.[^88] Peter
+Kalkavage clarifies this syllogism:
+
+> One extreme is the universal life-process or genus. The other is this same
+> universal individualized and brought to rest as the Earth. The middle term 'is
+> composed of both.' The first extreme participates in the middle term as a
+> species (the determinate universal), the second as a concrete single
+> individual (the rabbit [or, in our case, the bluebird]). In one aspect of the
+> middle term, the organism is a specification of universal life: in another a
+> mere outward life-form that comes to be and passes away on the great stage
+> that is the Earth.[^89]
+
+The observer is thus putting forward a picture of nature wherein the striving
+stream of life, manifest as a universal, shapes the matter of the Earth and
+accordingly gives rise to a species, a singular embodiment of the universal
+genus. As such, 'the differences of the concept' are exhibited 'as a series of
+simple determinatenesses', Hegel explains.[^90] This is likely a reference to
+medieval and early modern thinkers of 'the great chain of being'; for instance
+Leibniz, Alexander Pope, for whom
+
+> All are but parts of one stupendous whole,<br>
+> Whose body Nature is, and God the soul.[^91]
+
+The stream of life takes determinate shape in the Earth in every way it can;
+thus, the observer contends, every organism corresponds to its own place in 'a
+*numerical series*' of the natural kingdom. However, Hegel is quick to point out
+that the 'universal individual' -- that is, *the Earth* -- is 'not only free
+from all the divisions of the genus', but also 'the power over them.' That is to
+say, the 'enterprise' of the genus, striving to take its shape in the organic
+material of the Earth, 'becomes interrupted through the unbridled violence of
+those elements and comes to be both full of gaps and is stunted.'[^92]

@@ -89,3 +89,8 @@
 [^85]: §292.
 [^86]: Ibid.
 [^87]: Hyppolite, *Genesis and Structure*, p. 257.
+[^88]: §293.
+[^89]: Kalkavage, *The Logic of Desire*, p. 177.
+[^90]: §294.
+[^91]: Alexander Pope, *An Essay on Man*, Epistle I: 277-8.
+[^92]: §294.
