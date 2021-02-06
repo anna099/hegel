@@ -116,7 +116,7 @@ also the intelligibility of the law -- that is, an explanation for it. When the
 scientist arrives at a basic law of gravity, for instance, they are not just
 giving a mere generalisation or 'analogy' drawn from the observation of many
 objects behaving the same way (that is, *falling*); in addition, they are giving
-an theoretical -- that is, *conceptual* -- explanation of why this behaviour
+a theoretical -- that is, *conceptual* -- explanation of why this behaviour
 happens. When the law is understood in these *two* aspects, then it is 'true, to
 itself', Hegel writes. 'The law counts as law because it exhibits itself in
 appearance and at the same time is in itself the concept.'
