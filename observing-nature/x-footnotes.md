@@ -94,3 +94,4 @@
 [^90]: §294.
 [^91]: Alexander Pope, *An Essay on Man*, Epistle I: 277-8.
 [^92]: §294.
+[^93]: Harris, *Hegel's Ladder*, p. 536.

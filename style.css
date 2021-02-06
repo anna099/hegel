@@ -273,6 +273,9 @@ img#title {
 }
 #contents a { line-height: 1.375em; text-decoration: none; }
 #contents a:hover { border-bottom: 1px solid rgb(153, 153, 153); }
+/* Some parts need to be indented */
+#contents li.ind { padding-left: 1rem; }
+#contents li.ind::before { transform: translate(-4.2rem); }
 
 /* Bibliography: ------------------------------------------------ */
 .bib {

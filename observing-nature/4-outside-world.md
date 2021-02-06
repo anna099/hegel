@@ -179,4 +179,7 @@ that the 'universal individual' -- that is, *the Earth* -- is 'not only free
 from all the divisions of the genus', but also 'the power over them.' That is to
 say, the 'enterprise' of the genus, striving to take its shape in the organic
 material of the Earth, 'becomes interrupted through the unbridled violence of
-those elements and comes to be both full of gaps and is stunted.'[^92]
+those elements and comes to be both full of gaps and is stunted.'[^92] Hegel
+thus counters the observer's Leibnizian view of organic life with the chaos of
+the elements and seasons of the Earth, just as Voltaire had done in his
+*Candide*.[^93]
