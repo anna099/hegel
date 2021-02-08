@@ -95,3 +95,8 @@
 [^91]: Alexander Pope, *An Essay on Man*, Epistle I: 277-8.
 [^92]: §294.
 [^93]: Harris, *Hegel's Ladder*, p. 536.
+[^94]: Kalkavage, *The Logic of Desire*, p. 178.
+[^95]: §295.
+[^96]: Ibid.
+[^97]: §297.
+[^98]: Ibid.
