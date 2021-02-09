@@ -22,7 +22,6 @@ chapters=('introduction' 'prologue'
 FN=x-footnotes.md
 TEMP=temp.html
 
-# HTML
 for i in "${chapters[@]}"; do
     if [ $i = ${chapters[0]} ]; then
         pandoc $i/[0-99]*.md $i/$FN -o $TEMP
