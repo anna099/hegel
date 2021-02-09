@@ -2,6 +2,7 @@
 #### Freedom of Self-Consciousness, Part Two {.subtitle}
 
 <blockquote class="epigraph">For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.<footer>Ecclesiastes 1:18</footer></blockquote>
+<blockquote class="epigraph">There never was a war that was not inward; I must fight till I have conquered in myself what causes war, but I would not believe it. <footer>Marianne Moore, *In Distrust of Merits*, 1944</footer></blockquote>
 
 The unhappiness of this stage in the development of self-consciousness is easy
 enough to understand. As Robert Stern writes, 'on the one hand, the Unhappy

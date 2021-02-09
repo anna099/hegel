@@ -15,8 +15,9 @@
 #
 
 chapters=('introduction' 'prologue'
-        \ 'consciousness' 'self-consciousness'
-        \ 'reason-intro' 'observing-nature')
+        \ 'consciousness'
+        \ 'self-consciousness'
+        \ 'reason-intro' 'observing-nature' 'observing-self')
 
 FN=x-footnotes.md
 TEMP=temp.html

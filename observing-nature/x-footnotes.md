@@ -1,4 +1,5 @@
-<p id="nav"><a href="reason-intro.html">Previous Chapter: Reason</a></p>
+<p id="nav"><a href="observing-self.html">Next Chapter: Observing Self-Consciousness</a>
+<a href="reason-intro.html">Previous Chapter: Reason</a></p>
 
 </section>
 
