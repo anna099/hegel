@@ -2,7 +2,7 @@ window.onload = function () {
     smallCaps();  // sections begin with a few words in small caps.
     wordCount();  // a wordcount appears at the end of the page.
     hoverNotes(); // hover over a footnote number to see the note.
-    pageTitle();  // set the page title to something appropriate.
+    // pageTitle();  // set the page title to something appropriate.
     numbering();  // add decimal numbering ('4.1.1' etc) to H4's.
 };
 
