@@ -34,8 +34,8 @@ blockquote p,
 }
 p + p { text-indent: 1.3em; margin-top: 0; }
 strong { font-weight: 600; }
-a { text-decoration: none; color: var(--cred); }
-a:hover { text-decoration: underline; }
+a[href] { text-decoration: none; color: var(--cred); }
+a[href]:hover { text-decoration: underline; }
 sup {
     color: var(--ctext);
     font-size: 0.7em;
@@ -193,7 +193,6 @@ hr {
 .subtitle {
     margin: -0.25em 0 0.25em 0;
     text-align: center;
-    font-size: 16px;
     font-style: italic;
     font-weight: 400;
 }
@@ -250,7 +249,6 @@ img#title {
 #contents {
     width: 50%;
     padding-left: 2.4rem;
-    font-size: 1rem;
     margin: 2em auto;
     margin-bottom: 4em;
     white-space: nowrap;
@@ -293,7 +291,17 @@ img#title {
 
 /* Responsive Design: ------------------------------------------- */
 @media (orientation: portrait) {
-    body { width: 80%; }
-    .footnotes { width: 100%; margin: 50px 0; }
+    body {
+        width: 100%;
+        margin: 8% 0 0 0;
+        padding: 0;
+        font-size: 30pt;
+    }
+    .content { max-width: 90%; }
+    /* paragraph numbers */
+    .content>p:not(#nav)::before { display: none; }
+    .footnotes { width: 85%; margin: 50px auto; }
     .footnotes ol { column-count: 1; }
+    /* this looks terrible on phones: */
+    .footnote-back { display: none; }
 }
