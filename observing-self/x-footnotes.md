@@ -13,3 +13,6 @@
 [^9]: Michel Foucault, *Madness and Civilization*, translated by Richard Howard (London: Routledge, 2001), pp. 35 ff.
 [^10]: §303.
 [^11]: §304.
+[^12]: §305.
+[^13]: §306.
+[^14]: Hyppolite, *Genesis and Structure*, p. 263.

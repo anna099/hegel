@@ -57,6 +57,8 @@ its negativity' -- that is, its *movement* -- 'only as *laws* of being.' Yet
 again, the shortcoming of observing reason is that it finds *doing* in the
 world, and falsely renders it as static *being*.
 
+#### Psychology {#psych}
+
 Consequently, the observer must observe self-consciousness as an *active*
 process, if it is to find the laws that govern it. Hegel actually suggests that,
 in taking this step forward (i.e. towards the acknowledgment of
@@ -126,3 +128,25 @@ individual's psyche, they must acknowledge that 'the essence of individuality is
 the universal of spirit.' In other words, the individual's cultural environment,
 with all of the actualities of spirit, must inform the psychologist's
 observation.
+
+How can the relation between an individual and their 'circumstances, situations,
+habits, mores, religion' be understood as *law*?[^12] A psychologist might want
+to claim that an individuality's personhood is nothing but a reflection of their
+environment; a historian of so-called 'Great Men' might want to claim the
+reverse, that a particular era's culture and environment was nothing but the
+reflection of the will of a few strong individuals. For Hegel, any such law --
+which cleanly places 'the individual' on one side and 'society' (and culture,
+religion, etc.) on the other -- is mistaken. This is for the simple reason that
+no individual is born entirely separate from their environment. To suggest so
+would presumably be a contradiction of the very meaning of 'environment'!
+Rather, Hegel points out, individuality 'comes to be in accordance with [the
+norms of its environment] *as* conducting itself in opposition to them.'[^13] In
+other words, an individual and their environment -- that is, the environment
+around them *as they experience and understand it* -- are so irretrievably
+interrelated that one cannot be comprehended without reference to another. As
+Hyppolite puts it clearly,
+
+> The world that acts on us is already "our world"; we see it through ourselves.
+> And we can come to know an individual's world only if we begin with that
+> individual. We can specify an influence only if we know the person who
+> undergoes it, and thereby determines it.[^14]
