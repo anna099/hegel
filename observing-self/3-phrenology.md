@@ -77,5 +77,3 @@ individual's activity that, in a sense, what they *are* is simply what the
 individual *does*. It is 'the hand by which a person brings himself to appearance
 and actualizes himself', Hegel writes: 'It is the ensouled artisan of his
 fortune.'[^25]
-
-- It is only (Hamlet's) *memory* that makes the skull 'Yorick'.
