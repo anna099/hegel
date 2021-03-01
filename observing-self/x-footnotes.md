@@ -28,3 +28,5 @@
 [^23]: Ibid. Emphasis added.
 [^24]: §316.
 [^25]: §315.
+[^26]: Harris, *Hegel's Ladder*, p. 576.
+[^27]: §318.

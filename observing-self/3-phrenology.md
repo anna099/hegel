@@ -74,6 +74,30 @@ fluidity of body language and vocal expression. Secondly, in Hegel's words, 'the
 *organ* of activity is just as *much* a *being* as it is a doing': that is to
 say, body parts like the mouth and hand are so central and essential to an
 individual's activity that, in a sense, what they *are* is simply what the
-individual *does*. It is 'the hand by which a person brings himself to appearance
-and actualizes himself', Hegel writes: 'It is the ensouled artisan of his
-fortune.'[^25]
+individual *does*. It is 'the hand by which a person brings himself to
+appearance and actualizes himself', Hegel writes: 'It is the ensouled artisan of
+his fortune.'[^25] The physiognomist can thus suggest that these features are a
+'*mediating middle*' between the individual's inner life (intentions) and their
+externalities (actions). Harris directly identifies this thinking with Lavater,
+and explains it in the following way:
+
+> The individual's deeds are many and various, but all are mediated, all pass
+> through hand or mouth, so hands and face and tone of voice (and the
+> handwriting) are where the simple disposition will show. All that the agent
+> has done, and all that she has suffered through circumstance and destiny, is
+> recorded in these organs of the will.[^26]
+
+An 'mediating' organ like the face is thus taken to be an outer sign of the
+inner, but -- just as before -- this notion of *signifiying* leads to
+significant problems. The face is 'indeed an expression', Hegel writes, 'but at
+the same time it is so only in the sense of a *sign*, so that the makeup of that
+through which it is expressed is completely indifferent to the content
+expressed.'[^27] Hegel is here referring to what in linguistics is known as the
+'arbitrariness' of a sign: something that Ferdinand de Saussure, who wrote a
+century after Hegel, is often credited with. The arbitrariness of signs is not a
+Saussurean concept, or even a particularly unintuitive concept: it is simply the
+fact that a sign -- whether that is a word (for instance, 'squirrel') or a face
+-- has no *inherent* relation to that which it signifies (for instance, an
+actual squirrel, or an individual's inner state). The face renders visible the
+invisible, Hegel concedes, 'but without [the invisible inner] itself being
+intertwined with this appearance.'
