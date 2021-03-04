@@ -87,7 +87,7 @@ and explains it in the following way:
 > has done, and all that she has suffered through circumstance and destiny, is
 > recorded in these organs of the will.[^26]
 
-An 'mediating' organ like the face is thus taken to be an outer sign of the
+A 'mediating' organ like the face is thus taken to be an outer sign of the
 inner, but -- just as before -- this notion of *signifiying* leads to
 significant problems. The face is 'indeed an expression', Hegel writes, 'but at
 the same time it is so only in the sense of a *sign*, so that the makeup of that
@@ -101,3 +101,34 @@ fact that a sign -- whether that is a word (for instance, 'squirrel') or a face
 actual squirrel, or an individual's inner state). The face renders visible the
 invisible, Hegel concedes, 'but without [the invisible inner] itself being
 intertwined with this appearance.'
+
+The arbitrariness of a face's signification is the first blow to the
+physiognomist's search for necessary law. The second is a repetition of a moment
+that the psychologist already experienced: that is, the *freedom* of the
+individual removes any necessary connection between their inner state and its
+outer manifestation. In psychological observation, this meant that the
+individual was free to choose how she was affected by her cultural environment.
+In the case of physiognomy, it poses the following problem:
+
+> In the way that in the previous relationships [e.g. that of psychology], in
+> the circumstances lying before us [the cultural environment in the case of
+> psychology, and the face and body in physiognomic context], there was an
+> existent, and the individuality took for itself what *he* could and what *he*
+> wanted from it, and he either submitted to this existent or he twisted it
+> around, and for that reason the existent did not contain the necessity and
+> essence of individuality. ... [Therefore,] to the individual, **the sign is as
+> much its face as it is its mask**, which it can remove.[^28]
+
+With this point, Hegel starts to move forward to the conclusion of his critique
+of physiognomy. In doing so, he provides us with a helpful account of 'the
+genuine thought that lies at the basis of ... the *science* of physiognomy'
+(though he is reluctant to call it a 'science').[^29] This fundamental 'thought'
+is that of a strict distinction between the 'theoretical' and the 'practical';
+that is, between a non-essential outer which is some *manifestation* of an
+essential inner. Of course, we have seen this mode of thinking occur time and
+time again in the *Observing Reason* chapter. For observational reason,
+'inwardness' is 'supposed to be the true'. In this sense, it is no surprise that
+*Kant*, a philosopher for whom reason is of utmost importance, sees the ultimate
+reality of things as a kind of *inner* (the in-itself) that lies beyond
+appearances and manifestations, and sees the true moral worth of an act in its
+*inner* intention.[^30]
