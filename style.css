@@ -129,7 +129,7 @@ hr {
     border-top: 1px solid rgba(20, 20, 20, 0.2);
 }
 
-/* Paragraph numbering: */
+/* Paragraph numbering */
 .content>p:not(#nav)::before {
     counter-increment: section;
     content: '' counter(section) '';
