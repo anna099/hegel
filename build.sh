@@ -23,12 +23,14 @@ FN=x-footnotes.md
 TEMP=temp.html
 
 for i in "${chapters[@]}"; do
+    # Introduction
     if [ $i = ${chapters[0]} ]; then
         pandoc $i/[0-99]*.md $i/$FN -o $TEMP
 	cp top-header.html index.html
 	cat $i/contents.html >> index.html
 	cat $TEMP >> index.html
 	rm $TEMP
+    # Other chapters
     else
         pandoc $i/[0-99]*.md $i/$FN -o $TEMP
         cp header.html $i.html

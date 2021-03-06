@@ -86,14 +86,13 @@ don't necessarily *cognise*) the infinite.
 
 Even more famously than Jacobi, Kant's *Critique of Pure Reason* dealt with the
 failure of rationalism's monistic system (monistic because it unifies everything
-beneath one first cause). Aside from his influence from Hume (see
-[here](https://anna099.github.io/kant/#gen-prob)), Kant's work was also
-motivated by a tension between **Newton's** system of natural science (in which
-everything had a sufficient cause, and there was no first cause or 'causal God')
-and **Leibniz's** metaphysics which demanded that everything be intelligible
-(and thereby required the grounding of a first cause). The Kantian solution was
-a new kind of dualism in which the physical (Newtonian phenomena) and the
-metaphysical (Leibnizian intelligibility) operate at different levels of
+beneath one first cause). Aside from his influence from Hume, Kant's work was
+also motivated by a tension between **Newton's** system of natural science (in
+which everything had a sufficient cause, and there was no first cause or 'causal
+God') and **Leibniz's** metaphysics which demanded that everything be
+intelligible (and thereby required the grounding of a first cause). The Kantian
+solution was a new kind of dualism in which the physical (Newtonian phenomena)
+and the metaphysical (Leibnizian intelligibility) operate at different levels of
 explanation. Thus, for Kant, the mind has separate faculties: the receptive
 *sensibility*, which intuits finitely intelligible (i.e. causal) information
 from the Newtonian physical world, and the spontaneous faculty of *reason*,
@@ -107,7 +106,7 @@ So, with the publication of his *Critique* in in 1781, Kant had come the closest
 to finally providing a *proper grounding* to knowledge, in contrast to the
 failure of the rationalist project. However, he had failed to heed Spinoza's
 monistic demand that Jacobi would later understand; his system, insofar as it
-grounded the intelligible phenomenal in the *unintelligible* noumenal, *was not
+grounded the intelligible phenomenon in the *unintelligible* noumenon, *was not
 a complete system*; it was constitutively *dualistic* (with the dualisms of
 intuition and concept, phenomenon and noumenon, appearance and thing-in-itself,
 and so on, running throughout) and therefore failed to meet the monistic demand

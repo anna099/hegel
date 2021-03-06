@@ -278,12 +278,16 @@ img#title {
 /* Bibliography: ------------------------------------------------ */
 .bib {
     padding: 0;
-    text-align: justify;
+    text-align: left;
 }
 .bib li {
     list-style-type: none;
     text-indent: -1em;
     margin-left: 1em;
+}
+.bib li span {
+    text-transform: lowercase;
+    font-variant: small-caps;
 }
 
 /* JavaScript elements: ----------------------------------------- */
