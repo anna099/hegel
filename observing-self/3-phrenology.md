@@ -4,10 +4,18 @@ Having found no place for law in the individual's free mind, our observer gives
 up her short-lived career in psychology and turns to the more visible aspect of
 human existence: the 'distinctive determinateness' of individuality, the
 'rigidly fixed being' of an individual's actuality: that is, the **body**.[^16]
-This move seems plausible: it seems intuitive that the body is an actuality
-closer to an individual's 'inner life' than the actualities of spirit explored
-above. In ancient times, Plato had supposed that the human body was designed by
-the gods to house the soul, and that every basic function of the body could be
+This move seems plausible: it seems intuitive that the body is closer to an
+individual's 'inner life' than the aforementioned actualities of spirit are.
+Moreover, while logic studied only the *purely universal* elements of human
+consciousness (that is, the laws of thinking), and psychology studied the
+*particular* shape of the human in its environment, physiognomy and phrenology
+take a slightly more sophisticated route by understanding the individual *as an
+individual*; that is, as an incorporation of both previous logical moments,
+universal and particular: the individual that the observer now examines is the
+result of an *outer* expression of an *inner* essence.
+
+In ancient times, Plato had supposed that the human body was designed by the
+gods to house the soul, and that every basic function of the body could be
 traced back to this purpose.[^17] In Hegel's own era, scientists like Johann
 Kaspar Lavater revived the discipline of 'physiognomy', claiming that one could
 discern somebody's character and personality based on an observation of their
@@ -19,7 +27,7 @@ somewhat similar to those of psychology.
 For the physiognomist, Hegel says, the body is an outer **sign** of an
 individual's inner life. Indeed, since we cannot literally peer inside the mind
 of a person, we rely on the body and its activity (facial expressions, speech,
-and so no) as it 'makes known what he [the person] *is*, in the sense of putting
+and so on) as it 'makes known what he [the person] *is*, in the sense of putting
 his original nature into practice.' With this idea, we arrive at another
 formulation of the 'outer-expressing-inner' motif that appears so often in the
 *Phenomenology*. The body is understood as a kind of 'record', signifying what
@@ -51,19 +59,15 @@ activity 'means', signifies, and so on. In Hegel's words, 'language and labor'
 -- that is, all the visible activities of an individual -- 'are expressions in
 which the individual on his own no longer retains and possesses himself; rather,
 he lets the inner move wholly outside of him and he thus *abandons it to the
-other*.'[^23]
-
-These first two points lead to a third: as Hegel puts rather opaquely, 'we can
-just as well say that these expressions express the inner too much as we can say
-that they express it too little.' Imagine that I mean to act in a certain way,
-and that my activity doesn't deceive me: my 'meaning' is interpreted by an Other
-accurately. Now, as previously stated, there is really no difference between my
-'meaning' and the activity itself; consequently, 'no opposition remains between
-[the activity] and the inner', and there is thus no 'relation' within which the
-observer can find a law.
+other*.'[^23] Imagine that I mean to act in a certain way, and that my activity
+doesn't deceive me: my 'meaning' is interpreted by an Other accurately. Now, as
+previously stated, there is really no difference between my 'meaning' and the
+activity itself; consequently, 'no opposition remains between [the activity] and
+the inner', and there is thus no 'relation' within which the observer can find a
+law.
 
 Finding no stable law within the *activity* of a body, the physiognomist can
-still turn to the *features* of a body to try an access an individual's inner
+still turn to the *features* of a body to try and access an individual's inner
 life. Rather than the words that someone's voice speaks, or the gestures that
 their hands perform, the physiognomist can instead look to the '*tone* and
 *range* of the voice', and 'the *simple lines of the hand*', taking these
@@ -126,9 +130,25 @@ genuine thought that lies at the basis of ... the *science* of physiognomy'
 is that of a strict distinction between the 'theoretical' and the 'practical';
 that is, between a non-essential outer which is some *manifestation* of an
 essential inner. Of course, we have seen this mode of thinking occur time and
-time again in the *Observing Reason* chapter. For observational reason,
-'inwardness' is 'supposed to be the true'. In this sense, it is no surprise that
-*Kant*, a philosopher for whom reason is of utmost importance, sees the ultimate
-reality of things as a kind of *inner* (the in-itself) that lies beyond
-appearances and manifestations, and sees the true moral worth of an act in its
-*inner* intention.[^30]
+time again in the *Observing Reason* chapter. It is no surprise that Hegel
+should now announce it as the archetypal feature of the observer's thinking. For
+observational reason, 'inwardness' is 'supposed to be the true'. In this sense,
+it is no surprise that *Kant*, a philosopher for whom reason is of utmost
+importance, sees the ultimate reality of things as a kind of *inner* (the
+in-itself) that lies beyond appearances and manifestations, and sees the true
+moral worth of an act in its *inner* intention.[^30]
+
+The problem with physiognomy's search for the 'true' inner is that it never
+ventures beyond 'the unconscious judging' that most of us carry out in everyday
+life. It's natural for us to make judgments about someone's character based on
+their appearance -- whether these judgments are right or wrong. Physiognomy
+simply has the confidence to suppose that these judgments can be governed by
+some kind of law. Not only is there no necessity to be found for phsyiognomic
+laws, as Hegel has shown in multiple ways, but the very subject matter of
+physiognomy (i.e., bodily appearance) *cannot be rendered* into words or laws.
+As Hegel puts it, the individual's expression (appearance) is 'infinitely
+determinate': the physiognomist is stuck with the same kind of uncertainty that
+sensuous certainty suffered from, because no quantity of words and concepts will
+ever *exhaustively* describe all the determinatenesses of an individual,
+especially when one is concerned with devising *law*, and not just a poetic or
+literary portrait.[^31]

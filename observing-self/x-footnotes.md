@@ -33,3 +33,4 @@
 [^28]: Ibid. Emphasis (in bold) added.
 [^29]: §319.
 [^30]: Cf. Harris, *Hegel's Ladder*, p. 579.
+[^31]: §320.
