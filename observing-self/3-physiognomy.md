@@ -1,4 +1,4 @@
-#### Physiognomy and Phrenology {#phren}
+#### Physiognomy {#physio}
 
 Having found no place for law in the individual's free mind, our observer gives
 up her short-lived career in psychology and turns to the more visible aspect of
@@ -152,3 +152,38 @@ sensuous certainty suffered from, because no quantity of words and concepts will
 ever *exhaustively* describe all the determinatenesses of an individual,
 especially when one is concerned with devising *law*, and not just a poetic or
 literary portrait.[^31]
+
+Physiognomy, in short, is incoherent. The everyday habits it emerges from might
+remain worthwhile to a poet or an artist, but no *scientific* theory can emerge
+in the practice of someone who *radically separates* individuals into an 'inner'
+and 'outer', and then tries to repair this separation on the grounds of mere
+assumption, inexpressible in language. In his last paragraph on physiognomy,
+Hegel quotes Georg Christoph Lichtenberg's 1778 book *Über Physiognomik, wider
+die Physiognomen*, which mocks Lavater's 'science' of physiognomy:
+
+> If someone said, 'To be sure, you act like an honest man, but I can see from
+> your face that you are forcing yourself to do so and are a knave at heart,'
+> then any upright fellow, when addressed in that fashion, will, until the end
+> of time, respond with a slap in the accuser's face.[^32]
+
+Hegel sees more than just a joke in this remark. When the 'upright fellow'
+retorts with a slap in the face, Hegel sees 'the refutation of the first
+presupposition' of physiognomy: 'namely, that *the actuality* of a person is
+supposed to be his face, etc.' The upright fellow is *performing* the
+refutation, namely, the fact that *action* -- '*his deed*' -- is the real
+actuality of an individual, not some ambiguous sign of a merely assumed inner.
+The slap in Lichtenberg's remark is a wake-up call to the physiognomist, saying:
+'my character is not in my face, not in my appearance, but in *what I do*!'
+Thus, Hegel takes Lichtenberg's point -- which he endorses himself -- to be
+this:
+
+> The deed is something simply determinate [contrast with the 'infinite
+> determinateness' of the face], universal, to be grasped in an abstraction; it
+> is murder, theft, beneficence, a courageous act, and so on, and what it *is*
+> can be *said* of it. The deed *is* this, and its being is not only a sign, it
+> is the matter at issue itself.[^33]
+
+This is an early sign of Hegel's insistence on individuals as primarily *doing*,
+*acting* beings -- the insistence that will eventually drive us out of *Observing
+Reason* entirely. For now, however, the stubborn observer makes one last attempt
+at a science of observing the individual: namely, **phrenology**.

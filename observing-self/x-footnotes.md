@@ -34,3 +34,5 @@
 [^29]: §319.
 [^30]: Cf. Harris, *Hegel's Ladder*, p. 579.
 [^31]: §320.
+[^32]: Quoted in §322. Lichtenberg's book title translates to 'On Physiognomy, Against the Physiognomists'.
+[^33]: Ibid.
