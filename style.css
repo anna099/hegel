@@ -204,7 +204,7 @@ hr {
 
 img#title {
     display: block;
-    margin: 30px auto 40px auto;
+    margin: 30px auto 30px auto;
     width: 55%;
     opacity: 0.9;
 }
@@ -229,6 +229,12 @@ img#title {
     letter-spacing: 0.1em;
     text-decoration: none;
     opacity: 1;
+}
+
+#title-info {
+    text-align: center;
+    font-style: italic;
+    opacity: 0.8;
 }
 
 #nav {
