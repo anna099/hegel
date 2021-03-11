@@ -36,3 +36,6 @@
 [^31]: §320.
 [^32]: Quoted in §322. Lichtenberg's book title translates to 'On Physiognomy, Against the Physiognomists'.
 [^33]: Ibid.
+[^34]: §323. Hegel's term for phrenology is *Schädellehre*, which literally means 'skull theory'.
+[^35]: Slavoj Žižek, *The Sublime Object of Ideology* (London: Verso, 2008), pp. 235-6.
+[^36]: §343.
