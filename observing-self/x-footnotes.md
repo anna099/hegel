@@ -39,3 +39,9 @@
 [^34]: §323. Hegel's term for phrenology is *Schädellehre*, which literally means 'skull theory'.
 [^35]: Slavoj Žižek, *The Sublime Object of Ideology* (London: Verso, 2008), pp. 235-6.
 [^36]: §343.
+[^37]: §325.
+[^38]: §327.
+[^39]: Ibid.
+[^40]: §328.
+[^41]: §329.
+[^42]: Ibid.
