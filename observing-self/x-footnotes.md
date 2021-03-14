@@ -45,3 +45,7 @@
 [^40]: §328.
 [^41]: §329.
 [^42]: Ibid.
+[^43]: A short account of Gall's theory -- and of the cultural-scientific context surrounding it -- can be found in Eric R. Kandel, *The Age of Insight* (New York: Random House, 2012), pp. 36 ff.
+[^44]: §330.
+[^45]: §331.
+[^46]: Ibid.
