@@ -134,6 +134,8 @@ desire of power after power, that ceaseth only in death'.[^14]
 
 #### Recognition {#recog}
 
+<blockquote class="epigraph">And since you know you cannot see yourself so well as by reflection, I, your glass, will modestly discover to yourself that of yourself which you yet know not of. <footer>Cassius, *Julius Caesar -- Act I Scene II*</footer></blockquote>
+
 What can bring an end to self-consciousness's 'restless desire', and bring it
 toward tranquility and absolute self-affirmation? As always, we should remember
 the golden rule of the *Phenomenology*: that which is only for-consciousness in

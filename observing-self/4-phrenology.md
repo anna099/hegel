@@ -2,7 +2,6 @@
 
 <blockquote class="epigraph">That skull had a tongue in it, and could sing once. How the knave jowls it to the ground, as if 'twere Cain's jawbone, that did the first murther! This might be the pate of a Politician, which this ass now o'erreaches; one that would circumvent God, might it not?<footer>Hamlet, Act V Scene I</footer></blockquote>
 
-
 Hegel recognises phrenology as the 'one relationship left over': the only way
 that remains for the observer to understand the relationship between the
 individual and spirit.[^34] Psychology considered the spirit of the individual
@@ -116,15 +115,40 @@ relation, but the 'skull/mind' relation. For this reason, the brain can be
 understood as an organ that gains its 'value' or significance through an
 individual's spirit, and the skull can be understood as the *actual existence*
 of this spirit. Thus: 'The *actuality and existence of man is his
-skull-bone.*'[^46] This is the conclusive statement in Hegel's *reconstruction*
-of phrenology; we are now prepared to see its *destruction* -- and thus the
-eclipse of reason's purely theoretical, observing phase. The apparent absurdity
-of this conclusion is worth paying attention to: we know -- both intuitively and
-from the adventure in the *Self-Consciousness* chapter -- that individual spirit
-is formed through social and ethical practices. That theoretical reason should
-conclude *instead* that individual spirit is formed in only a few years of
-infancy, in the ossification of the skull, is a significant embarrassment for
-reason. It is only through a focus on *practice*, and not just theory, that
-reason can grasp the subject (the individual spirit) in its rich,
-socially-formed existence. The ridiculousness of phrenology *is* the
-ridiculousness of (purely) theoretical reason.
+skull-bone.*'[^46]
+
+This is the conclusive statement in Hegel's *reconstruction* of phrenology; we
+are now prepared to see its *destruction* -- and thus the eclipse of reason's
+purely theoretical, observing phase. The apparent absurdity of this conclusion
+is worth paying attention to: we know -- both intuitively and from the adventure
+in the *Self-Consciousness* chapter -- that individual spirit is formed through
+social and ethical practices. That theoretical reason should conclude *instead*
+that individual spirit is formed in only a few years of infancy, in the
+ossification of the skull, is a significant embarrassment for reason. It is only
+through a focus on *practice*, and not just theory, that reason can grasp the
+subject (the individual spirit) in its rich, socially-formed existence. The
+ridiculousness of phrenology *is* the ridiculousness of (purely) theoretical
+reason. To fully realise this, however, we need to see exactly how phrenological
+theory falls apart.
+
+Hegel quickly gives multiple criticisms of the phrenologist. Firstly, the skull
+has no movement, no activity, and *signifies* nothing. Looking at a skull on its
+own, one could say nothing about the life of the individual who once possessed
+it. Even when Hamlet speaks emotionally about Yorick, while examining his skull,
+he is referring only to his memories of Yorick's life; the skull plays no part
+in constructing these memories -- 'it is not a reminder of any conscious
+animation', as Hegel says.[^47]
+
+More criticisms arise when Hegel considers Gall's division of the skull into
+multiple function-specific regions. How are we to determine which region
+corresponds to a particular function? Perhaps, since our mental activity is
+often associated with a physical feeling in our head, then '*stealing*,
+*committing murder*, *writing poetry*, and so forth, might each by accompanied
+by its own proper feeling, [with] its own particular location as well.'[^48] But
+is *any* such feeling in the head determinate enough to give us its location? Of
+course, Hegel had no knowledge of MRI scans, but a contemporary
+quasi-phrenologist might want to suggest that a scan of the brain can reveal
+which particular region is 'engaged' during a certain kind of activity. But what
+if some strange individual was committing murder while also writing poetry --
+which of their 'engaged regions' in the scan (or which of their 'feelings', for
+the traditional phrenologist) is to be associated with each of their activities?
