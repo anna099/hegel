@@ -282,6 +282,11 @@ img#title {
 #contents li.ind::before { transform: translate(-4.2rem); }
 
 /* Bibliography: ------------------------------------------------ */
+#biblink { /* link following the footnotes */
+    color: var(--cred);
+    display: block;
+    text-align: center;
+}
 .bib {
     padding: 0;
     text-align: left;

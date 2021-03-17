@@ -1,9 +1,10 @@
 window.onload = function () {
-    smallCaps();  // sections begin with a few words in small caps.
-    wordCount();  // a wordcount appears at the end of the page.
-    hoverNotes(); // hover over a footnote number to see the note.
     // pageTitle();  // set the page title to something appropriate.
-    numbering();  // add decimal numbering ('4.1.1' etc) to H4's.
+    smallCaps();     // sections begin with a few words in small caps.
+    wordCount();     // a wordcount appears at the end of the page.
+    hoverNotes();    // hover over a footnote number to see the note.
+    numbering();     // add decimal numbering ('4.1.1' etc) to H4's.
+    bibLink();       // add link to bibliography below footnotes.
 };
 
 function smallCaps() {
@@ -114,4 +115,13 @@ function parentsOf(elem) {
         elem = elem.parentNode;
     }
     return parents;
+}
+
+function bibLink() {
+    let bl = document.createElement("a");
+    bl.href = "bibliography.html";
+    bl.id = "biblink";
+    bl.innerText = "Bibliography";
+    let fn = document.querySelector(".footnotes ol");
+    fn.parentNode.insertBefore(bl, fn.nextSibling);
 }

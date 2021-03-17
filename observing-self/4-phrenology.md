@@ -34,8 +34,7 @@ in his final chapter (§790), reflecting on how it *proves* that, when taken as
 devoid of activity, sociality, and culture, spirit is nothing at all.
 
 Why is it the *skull* in particular that the observer chooses as the immediate
-actuality of its focus? To start with, Hegel points out that the majority of
-bodily organs are, as the physiognomist recognised, 'mediating middles' between
+actuality of its focus? To start with, Hegel points out that the majority of bodily organs are, as the physiognomist recognised, 'mediating middles' between
 the individual and the external world: the hands physically manipulate the
 world, the sexual organs look to reproduce the individual, and so on. In this
 sense, most organs are 'instruments'.[^37] In trying to find not a signifier of
@@ -77,16 +76,30 @@ the originator of phrenology, believed the former. It seems that a phrenologist
 would be *unable* to believe the latter; since, if the skull influences the
 brain, it therefore influences the individual's knowing and acting, too -- and
 this externalisation of the skull's influence would deny its existence as purely
-*for itself*. Of course, the causal relation between skull and brain might not
-be simple and one-way: there is also the possibility of a 'pre-established
-harmony' determining the form of brain *and* skull at the same time. Now, while
-this notion of pre-established harmony is found famously in *Leibniz's* work,
-Hegel points out that this kind of skull-brain harmony wouldn't necessarily
-imply an actual *correspondence* between skull and brain. They would have the
-same loose relation as that of 'the form of the grape and the taste of
-wine'.[^42] Consequently, even though this pre-established harmony between the
-skull and the brain is the closest to the *actual truth* of the matter (as we
-know today), it is rejected by the phrenologist.
+*for itself*. It seems that even *Darwin* (later than Gall *and* Hegel) also
+adhered to the idea that the skull, being affected by the brain, was an
+indication of mental capacity:
+
+> The belief that there exists in man some close relation between the size of
+> the brain and the development of the intellectual faculties is supported by
+> the comparison of the skulls of savage and civilised races ...
+
+> ... As [humans started to walk on two feet], the internal pressure of the
+> brain, will, also, have influenced the form of the skull; for many facts shew
+> how easily the skull is thus affected. ... [I]f the mental powers were to be
+> much increased or diminished without any great change in the size of the body;
+> the shape of the skull would almost certainly be altered.[^41.1]
+
+Of course, the causal relation between skull and brain might not be simple and
+one-way: there is also the possibility of a 'pre-established harmony'
+determining the form of brain *and* skull at the same time. Now, while this
+notion of pre-established harmony is found famously in *Leibniz's* work, Hegel
+points out that this kind of skull-brain harmony wouldn't necessarily imply an
+actual *correspondence* between skull and brain. They would have the same loose
+relation as that of 'the form of the grape and the taste of wine'.[^42]
+Consequently, even though this pre-established harmony between the skull and the
+brain is the closest to the *actual truth* of the matter (as we know today), it
+is rejected by the phrenologist.
 
 For Gall, the brain must be an assortment of *multiple organs* to account for
 the numerous psychological functions that were attributed to the brain in the
@@ -152,3 +165,37 @@ which particular region is 'engaged' during a certain kind of activity. But what
 if some strange individual was committing murder while also writing poetry --
 which of their 'engaged regions' in the scan (or which of their 'feelings', for
 the traditional phrenologist) is to be associated with each of their activities?
+As Hegel puts it, a murderer 'is neither only this abstraction of a murderer,
+nor does he have only *one* protuberance and *one* indentation.'[^49]
+
+These criticisms lead Hegel to suppose that phrenological 'reasoning' is, in
+fact, nothing but *imagination*. 'One *can imagine* the murderer with a high
+bump here at this place on the skull and the thief with a bump over there', he
+explains, but there is no real thinking that takes place beyond this
+imagination.[^50] As Harris puts neatly, 'science is only possible where there
+is a certain logical structure that makes this free imagining
+illegitimate.'[^51] Phrenology has no such structure: like physiognomy, it is
+simply a 'natural' practice of everyday life, tainted with unconscious biases --
+and arguably *constituted* of nothing but these biases. It is perhaps no
+surprise, then, that phrenology was famously used as a post-hoc legitimisation
+of colonial views, a central part of the British and American racial
+imagination. James Poskett recounts this story of George Combe, a Scottish
+phrenologist and intellectual heir to Gall, whose book outsold Darwin's:
+
+> Holding up a Native American skull, Combe pointed out that 'the Indian has
+> more Destructiveness, less Cautiousness, less Benevolence.' This explained why
+> Native Americans could not be enslaved. According to Combe, 'he has retained
+> his freedom by being the proud, indomitable, and destructive Savage which such
+> a combination indicates.' In contrast, the 'Negro' was 'gentler in nature' and
+> so more easily subdued. Combe concluded by comparing the Native American and
+> African skulls, suggesting that 'had the Negroes possessed a similar
+> organization, to make useful slaves of them would have been impossible.'
+> Phrenology, therefore, both explained and reinforced racial divisions.[^52]
+
+Unfortunately, Hegel doesn't reflect much upon the relation of phrenology to
+prejudice -- partly because the pseudoscience didn't truly grip the mainstream
+until after his death. Nonetheless, he still mocks the phrenologists for having
+no scientific basis whatsoever. If one is to explain an individual's behaviour
+and character via bumps and dents on their head, he says, 'one may just as well
+imagine the flying cow which was first caressed by the crab that rode on the
+donkey'.[^53]

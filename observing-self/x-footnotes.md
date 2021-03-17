@@ -44,6 +44,7 @@
 [^39]: Ibid.
 [^40]: §328.
 [^41]: §329.
+[^41.1]: Charles Darwin, *The Descent of Man* (Ware: Wordsworth Editions, 2013), pp. 108-9.
 [^42]: Ibid.
 [^43]: A short account of Gall's theory -- and of the cultural-scientific context surrounding it -- can be found in Eric R. Kandel, *The Age of Insight* (New York: Random House, 2012), pp. 36 ff.
 [^44]: §330.
@@ -51,3 +52,8 @@
 [^46]: Ibid.
 [^47]: §333.
 [^48]: §334.
+[^49]: §335.
+[^50]: §336.
+[^51]: Harris, *Hegel's Ladder*, p. 594.
+[^52]: James Poskett, *Materials of the Mind* (Chicago, IL: Chicago University Press, 2019), p. 13.
+[^53]: §336.
