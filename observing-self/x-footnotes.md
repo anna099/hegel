@@ -57,3 +57,11 @@
 [^51]: Harris, *Hegel's Ladder*, p. 594.
 [^52]: James Poskett, *Materials of the Mind* (Chicago, IL: Chicago University Press, 2019), p. 13.
 [^53]: §336.
+[^54]: §337.
+[^55]: Harris, *Hegel's Ladder*, p. 594.
+[^56]: §338. Emphasis (in bold) added.
+[^57]: §339.
+[^58]: §343.
+[^59]: §342.
+[^60]: §343.
+[^61]: Harris, *Hegel's Ladder*, p. 600.

@@ -124,7 +124,7 @@ h5 + p { margin-top: 0.3em; }
 
 hr {
     width: 25em;
-    margin-top: 2em;
+    margin: 1.5em;
     border: none;
     border-top: 1px solid rgba(20, 20, 20, 0.2);
 }

@@ -199,3 +199,83 @@ no scientific basis whatsoever. If one is to explain an individual's behaviour
 and character via bumps and dents on their head, he says, 'one may just as well
 imagine the flying cow which was first caressed by the crab that rode on the
 donkey'.[^53]
+
+A phrenologist might try to accommodate for individual freedom and for the
+socialisation of the individual by saying that the shape of the skull is
+evidence only of an '*original disposition*', so that, if the phrenological
+observation seems to be disproved, the phrenologist can respond by saying that
+'this individual *really* is *supposed to be* what his skull proclaims him to be
+according to the law, but he has an *original disposition* which has not been
+cultivated and developed.'[^54] This is an important moment in the development
+of phrenology, since it is the first time when the observer *consciously admits*
+that their work is failing. By acknowledging that phrenological observation only
+reveals *tendencies* -- and not *lawlike necessity* -- the observer is
+acknowledging the superior importance of *freedom* in human character, and the
+lack of scientific rigor in the theory of phrenology. 'In this way', Harris
+remarks, 'Observing Reason finally sublates itself.'[^55] Hegel describes the
+exact nature of this sublation in concise but revealing terms:
+
+> We see the conjecturing **brought by the nature of the matter at issue** into
+> saying, however *unthinkingly*, the *opposite* of what it affirms -- into
+> saying that there is something indicated by this bone but *also* into saying
+> with the same ease that the same thing is *not* indicated by this bone.[^56]
+
+This is a crucial detail which is important for Hegel's whole thinking: the
+contradiction that consciousness arrives at is not due to its limitations, but
+due to 'the nature of the matter at issue' itself. That is, it is not through
+careless mistakes but *careful attention* to the object of consideration that
+consciousness arrives at contradictions. Consider how different this is to the
+role of contradiction in *Kant*, for whom contradiction is an inevitable but
+impassable phenomenon that occurs when reason poses itself questions that it
+cannot answer. For Hegel, as we've seen in the whole of the *Phenomenology* so
+far, and as is emphasised by this short quotation, contradiction is the
+*positive sign of progress*. Contradiction is not a sign of consciousness's
+misturning, but instead a sign of consciousness's *success* at interrogating its
+object -- 'the nature of the matter at issue'.
+
+How does this sublation play out for observing consciousness? In trying to
+defend phrenology, by relegating it to the realm of *disposition* and
+*tendency*, the observer unwittingly confesses that phrenology has no grasp of
+scientific law -- that is, of necessity. This confession, fundamentally, is the
+admission that spirit is determined by freedom and social activity that
+*necessarily* cannot be rendered in the static rigidity of a skull: '*being* as
+such' -- that is, any static determinateness like the skull -- 'is not the truth
+of spirit at all'.[^57]
+
+In the last paragraphs of *Observing Reason*, Hegel recapitulates the
+development of observational thinking in order to demonstrate that phrenology
+marks its ultimatum. He recalls how, in trying to grasp the dynamic, changing
+objects of the world, reason wanted to find 'the concept ... present as a
+thing'.[^58] When observing consciousness was forced to turn to *itself*, as the
+only being that holds its movement and development within itself, it
+consistently failed to find any lawlike necessity in the relation of some
+'inner' to some 'outer'; at every stage (logic, psychology, physiognomy),
+observation fails because the outer content 'is indifferent to the sign'.[^59]
+In trying to overcome this 'indifference' -- that is, the gap between individual
+spirit and that which is *observable* -- the observer moves its attention closer
+and closer to the actual individual. For instance, the move from psychology to
+physiognomy is a move from the 'outer' being the individual's *surrounding
+environment*, to the 'outer' being the individual's outer (i.e. bodily)
+*actuality*. Now, one sense in which phrenology is the pinnacle of observing
+reason is that there is no static actuality closer to an individual than their
+skull, a '*dead thing*' which is nonetheless central to the individual's life.
+However, Hegel explains, this move to phrenology is particularly distinct; it is
+not *just* a further step closer to the individual:
+
+> What was sublated by the very first observation of inorganic nature, namely,
+> that *the concept is supposed to present as a thing*, is established by this
+> last mode of observation [i.e. phrenology] so as *to make the actuality of
+> spirit itself into a thing*, or, to put it conversely, so as to give dead
+> being the significance of spirit.[^60]
+
+In other words, since the phrenologist takes the skull to be not a *sign* of
+spirit but *spirit itself*, phrenology marks the development of observing reason
+from (1) searching for spirit presented as a thing to (2) searching for a thing
+present as spirit. The phrenologist isn't looking for a *representation* of
+spirit, but is looking for spirit itself; in this sense, phrenology is markedly
+different from psychology and physiognomy. And, as Harris remarks, 'Without this
+violent break we could not close the circle of Observation as a whole', because
+it is only when observing reason is led to the absurdity of phrenology -- the
+absurdity of claiming that 'the *being of spirit is a bone*' -- that the
+instinctive search for spirit in being as such is shown to be a dead end (as
+explained above).[^61]
