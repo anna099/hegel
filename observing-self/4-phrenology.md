@@ -159,14 +159,15 @@ often associated with a physical feeling in our head, then '*stealing*,
 *committing murder*, *writing poetry*, and so forth, might each by accompanied
 by its own proper feeling, [with] its own particular location as well.'[^48] But
 is *any* such feeling in the head determinate enough to give us its location? Of
-course, Hegel had no knowledge of MRI scans, but a contemporary
-quasi-phrenologist might want to suggest that a scan of the brain can reveal
-which particular region is 'engaged' during a certain kind of activity. But what
-if some strange individual was committing murder while also writing poetry --
-which of their 'engaged regions' in the scan (or which of their 'feelings', for
-the traditional phrenologist) is to be associated with each of their activities?
-As Hegel puts it, a murderer 'is neither only this abstraction of a murderer,
-nor does he have only *one* protuberance and *one* indentation.'[^49]
+course, Hegel had no knowledge of <span class="sc">MRI</span> scans, but a
+contemporary quasi-phrenologist might want to suggest that a scan of the brain
+can reveal which particular region is 'engaged' during a certain kind of
+activity. But what if some strange individual was committing murder while also
+writing poetry -- which of their 'engaged regions' in the scan (or which of
+their 'feelings', for the traditional phrenologist) is to be associated with
+each of their activities? As Hegel puts it, a murderer 'is neither only this
+abstraction of a murderer, nor does he have only *one* protuberance and *one*
+indentation.'[^49]
 
 These criticisms lead Hegel to suppose that phrenological 'reasoning' is, in
 fact, nothing but *imagination*. 'One *can imagine* the murderer with a high
@@ -279,3 +280,66 @@ it is only when observing reason is led to the absurdity of phrenology -- the
 absurdity of claiming that 'the *being of spirit is a bone*' -- that the
 instinctive search for spirit in being as such is shown to be a dead end (as
 explained above).[^61]
+
+#### From Theory to Practice {#theory}
+
+The meaning of an 'infinite judgment' is described by Kant in the *Critique of
+Pure Reason* as follows:
+
+> If I had said of the soul that it is not mortal, then ... nothing is said by
+> my proposition but that the soul is one of the infinite multitude of things
+> that remain if I take away everything that is mortal.[^62]
+
+So, for Kant, infinite judgments are always negative in the sense that they only
+state what the subject is *not*. At the end of *Observing Reason*, however,
+Hegel identifies the conclusive statement of observing reason -- namely, 'that
+the self is a thing' -- as an infinite judgment.[^63] Since it doesn't affirm a
+negative, it doesn't fit Kant's criteria for infinit judgments; nonetheless, it
+is still infinite for Hegel because, as Inwood's conveys it, 'the predicates
+affirmed or denied lie beyond the (finite) range of predicates categorically
+compatible with the subject.'[^64] The infinity of 'the self is a thing' (or,
+'spirit is a bone') is in its *incorrectness*, and its absurdity. The judgment
+is *false*, and yet we still take interest in it because it shows the dead-end
+that lies at the end of the path of observational reason. It is 'a judgment
+which sublates itself', Hegel writes, because it shows that all of the
+observer's attempts at *mediation* have led to the equation of spirit with the
+*immediacy* of pure being, and that consciousness can no longer even try to
+'*find* itself *immediately*.'[^65] In this sense, the judgment is infinite in
+that it is 'infinitely dissolving'.[^66]
+
+The 'thing' that observing reason equated to selfhood and spirit is now
+'determined as a negative object'; in other words, spirit is now to be found as
+*not-being* -- that is, as an active *becoming*. Significantly, this is also the
+long-awaited solution to the alienation of the unhappy consciousness. The climax
+of unhappy consciousness saw self-consciousness become consciousness: in tragic
+awareness of their dependence and contingency, the unhappy subject claimed that
+*true* self-consciousness, *true* selfhood and agency, lay not within themselves
+but within some external being (God, divinity, 'the beyond', etc.). Their
+*unhappiness* was precisely their lack of a grasp on genuine self-consciousness,
+and their dwelling among the other lowly *things* of the world. And this
+association of the subject with thinghood is exactly what observing reason has
+returned to, and exactly what is to be overcoming in the activity of
+*self-actualisation*! Harris expresses this whole realisation quite clearly:
+
+> Reason as Observation adopted the position of the Unchangeable Consciousness
+> who 'owns all things.' How unsatisfactory that position is, we finally realize
+> when it tries to own *itself* as a thing (the skull-record). The *immediacy*
+> of the ownership relation must now be mediated. The self is to *be for
+> itself*, by actualizing itself as its own end.[^67]
+
+Hegel finishes the 206-paragraph-long examination of *Observing Reason* with a
+joke. The phrenologist, he says, is wrapped up in irony insofar as they allow us
+to make the profoundest step, wherein 'spirit pushes out from its inwardness' and
+starts to actualise itself, in the most mundane, ignorant manner: equating
+selfhood and spirit with a dead bone. This weird mix of profundity and
+ignorance, he suggests, have
+
+> the same kind of connection of higher and lower which, in the case of the
+> living being, nature itself naively expresses in the combination of the organ
+> of its highest fulfillment, the organ of reproduction, with the organ of
+> urination.[^68]
+
+We are now ready to see how spirit moves on towards its self-actualisation. The
+stubborn phrenologist, meanwhile, is stuck in an ironic ignorance that conceals
+a deep profundity; thus, an ignorance 'which remains within representational
+thought conducts itself like urination.'

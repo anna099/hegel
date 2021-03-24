@@ -8,7 +8,8 @@ window.onload = function () {
 };
 
 function smallCaps() {
-    const ps = document.querySelectorAll("h3 + p, h4 + p, h3 + blockquote + p");
+    const selector = "h3 + p, h4 + p, h3 + blockquote + p, h4 + blockquote + p";
+    const ps = document.querySelectorAll(selector);
     for (var i = 0; i < ps.length; i++) {
         let p = ps[i];
         // store first 4 words, and remove them

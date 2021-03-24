@@ -65,3 +65,10 @@
 [^59]: §342.
 [^60]: §343.
 [^61]: Harris, *Hegel's Ladder*, p. 600.
+[^62]: Kant, *Critique of Pure Reason*, A72/B97.
+[^63]: §344.
+[^64]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 428.
+[^65]: §344.
+[^66]: §345.
+[^67]: Harris, *Hegel's Ladder*, p. 603.
+[^68]: §346.
