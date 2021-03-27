@@ -131,7 +131,7 @@ his changeable existence, his contingency.
 
 But why does the knight direct his confession -- his devotion, or 'shapeless
 roar' -- to death, and not God? Hegel has the answer. The aforementioned event
-of the crucifixion effects a transformation in unhappy reliigous thinking,
+of the crucifixion effects a transformation in unhappy religious thinking,
 namely, that 'the singular being who was God is dead'.[^101] This is the
 biblical story, at any rate. In rather abstract terms, Hegel describes the
 logical structure of this transformation:

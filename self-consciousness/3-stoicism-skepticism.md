@@ -217,7 +217,7 @@ sensuous certainty, perception, and the understanding. But in skepticism,
 dialectics 'is a moment of self-consciousness, to which it does not simply
 *happen* that the true and the real for it vanishes without its knowing how this
 comes about'.[^78] That is to say, the real now vanishes because the skeptic
-*consciously lets* vanish; dialectical overturning is no longer an unconscious
+*consciously lets* it vanish; dialectical overturning is no longer an unconscious
 side-effect of claiming absolute truth.
 
 #### Disarray, Vertigo and Disorder {#disord}
