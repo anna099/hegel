@@ -29,6 +29,17 @@ Where the 'observer' character of the previous chapter was concerned with
 observation, we are now concerned with *action*; where the observer was
 concerned with the natural world, we are concerned with the **ethical** world.
 
+This chapter is the beginning of the individual's genuine *action*, since the
+genuine freedom that action requires was not to be found in *Self-Consciousness*
+prior to *Reason*. The freedom of the stoic and skeptic was cut off from the
+actual world, and the unhappy consciousness ended up giving up their freedom in
+following the priest's instruction. A genuinely free individual (who is also
+rational and embodied) is on the scene only now, as the unintentional
+consequence of observational reason's failure. Now, this is not to say that
+contemplation and desire play no role in human activity from this point forth;
+rather, they are *incorporated* into the subject's more sophisticated activity:
+that is, *action* and *actualisation*.
+
 #### The Story of Subjectivity (So Far) {#story}
 
 Since the actualisation of the subject (that is, the 'rational
@@ -76,7 +87,22 @@ slave, the unhappy consciousness denigrates their contingent (i.e. bodily)
 existence with contempt; this is the first time in the *Phenomenology* that
 'absolute negativity' is embodied. The unhappy consciousness looks for the
 divine unchangeable on Earth, but finds that the planet is nothing but the grave
-of God.[^13] The only hope that remains is found in the counsel of the 'priest':
-a figure who *mediates* between the unhappy self-consciousness and the
-unchangeable God.[^14] This mediation is what concludes the *Self-Consciousness*
-chapter and marks the birth of *Reason*.
+of God.[^13] The only hope that remains is for the subject to surrender their
+freedom to the counsel and instruction of the 'priest': a figure who *mediates*
+between the unhappy self-consciousness and the unchangeable God.[^14] This
+mediation is what concludes the *Self-Consciousness* chapter and marks the birth
+of *Reason* -- the Reason that, failing to find itself reflected in the world
+through mere *observation*, now turns to action.
+
+#### Ethos {#ethos}
+
+The launch into active reason is a little bewildering, as the subject is no
+longer a lonely adventurer who occasionally interacts with an Other in the form
+of a master, a priest, or a criminal; now, 'the *realm of ethical life* opens
+itself up.'[^15] This is a realm of (some kind of) community: namely, a society
+of 'individuals in their self-sufficient *actuality*', possessing reason and an
+awareness of other individuals around them. 'Ethical life' is *Sittlichkeit*, a
+central term in Hegel's philosophy, deriving from *Sitte* which can be
+translated into the Greek term *ethos*. Ethical life, for Hegel, can be
+understood simply as the '**spiritual** *unity* of the essence of those
+individuals' that make up a society.[^16]
