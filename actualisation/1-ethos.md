@@ -99,10 +99,55 @@ through mere *observation*, now turns to action.
 The launch into active reason is a little bewildering, as the subject is no
 longer a lonely adventurer who occasionally interacts with an Other in the form
 of a master, a priest, or a criminal; now, 'the *realm of ethical life* opens
-itself up.'[^15] This is a realm of (some kind of) community: namely, a society
-of 'individuals in their self-sufficient *actuality*', possessing reason and an
-awareness of other individuals around them. 'Ethical life' is *Sittlichkeit*, a
-central term in Hegel's philosophy, deriving from *Sitte* which can be
-translated into the Greek term *ethos*. Ethical life, for Hegel, can be
-understood simply as the '**spiritual** *unity* of the essence of those
-individuals' that make up a society.[^16]
+itself up.'[^15] This is a realm of not just a single Other, but an entire
+community (a '*polis*', perhaps): namely, a society of 'individuals in their
+self-sufficient *actuality*', possessing reason and an awareness of other
+individuals around them. 'Ethical life' is *Sittlichkeit*, a central term in
+Hegel's philosophy, deriving from *Sitte* which can be translated into the Greek
+term *ethos*. Ethical life, for Hegel, can be understood simply as the
+'**spiritual** *unity* of the essence of those individuals' that make up a
+society.[^16] Kalkavage points out that while, in the *Self-Consciousness*
+chapter, 'the self waged war on thinghood', and in the *Reason* chapter,
+thinghood and objectivity was 'something to be desired in a positive sense',
+with the birth of the free individual, the 'subject now desires
+*inter*-subjectivity' -- that is, a **recognition** of subjectivity in its
+objects (namely, other individuals).[^17] Hegel describes this
+inter-subjectivity in some detail, and shows that it has a co-constitutive
+relationship with ethical life.
+
+> In the life of a people, the concept of the actualization of self-conscious
+> reason has in fact its consummate reality, namely, where in the
+> self-sufficiency of the *other*, each intuits its complete *unity* with the
+> other, or where I have for an object this free *thinghood* of an other, which
+> is the negative of myself and which I simply find before me, as *my*
+> being-for-*myself*.[^18]
+
+What Hegel means in this remark is that, in ethical life, multiple individuals
+find *unity in difference*. I can recognise an Other as an individual in her own
+right, because we are both living in the same ethos. In this regard, Hegel
+suggests, we can understand ethical life metaphorically as 'light [that]
+shatters into stars as innumerable luminous points, each shining by its own
+light'.[^19] Or, as Inwood suggests, the relationship between ethical life and
+individuals is comparable to the difference, in Saussure's linguistics, between
+*langue* (language as such, the rules and conventions of language) and *parole*
+(the concrete linguistic utterances of an individual). There is no *langue*
+without *parole*, and vice versa; in the same way, there are no free individuals
+outside of ethical life, and no ethical life without free individuals.[^20] More
+specifically, ethical life as the 'universal substance' of society is identified
+by Hegel as the 'doing' of the individuals, 'the work which is brought forth by
+themselves'; thus, he recognises that the *actualisation* of the individual is
+essential to the cultivation of ethos.
+
+The interdependence of the individual and the totality of ethical life runs as
+deep as the most basic, singular functions of the human being, Hegel argues. The
+individual's 'commonest functions', he writes, are social not only in their
+*form* but also in their content: 'the individual's *labor* for his needs is a
+satisfaction of the needs of others as much as it is of his own needs, and the
+satisfaction of his own needs is something he attains only through the labor of
+others.'[^21] Now, Aristotle had recognised the intrinsic link between basic
+human functions and the functions of society: early in his *Politics*, he
+suggests that complex social institutions (like the State) emerge from the
+simplest forms of human interactions which themselves are based on humanity's
+'natural desire to leave behind an image of themselves'.[^22] So, for Aristotle,
+ethical life can in some way be traced back to the reproductive desire of
+individuals.

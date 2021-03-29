@@ -32,3 +32,9 @@
 [^14]: §228.
 [^15]: §349.
 [^16]: Ibid. Emphasis (in bold) added.
+[^17]: Kalkavage, *The Logic of Desire*, p. 187.
+[^18]: §350.
+[^19]: Ibid.
+[^20]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 429.
+[^21]: §351.
+[^22]: Aristotle, *Politics*, 1252a (*Basic Works* pp. 1127-8).
