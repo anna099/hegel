@@ -26,7 +26,7 @@
 [^21]: §249.
 [^22]: Ibid, translation altered.
 [^23]: Ibid.
-[^24]: Harris, *Hegel's Ladder*, p. 490.
+[^24]: Harris, *Hegel's Ladder*, I, p. 490.
 [^25]: §249.
 [^26]: §250.
 [^27]: Francis Bacon, *The New Organon* (Cambridge: Cambridge University Press, 2004), p. 16.
@@ -38,18 +38,18 @@
 [^33]: This is now an obsolete sense of the word 'matter'.
 [^34]: §252.
 [^35]: Kalkavage, *The Logic of Desire*, p. 169.
-[^36]: Harris, *Hegel's Ladder*, p. 494.
+[^36]: Harris, *Hegel's Ladder*, I, p. 494.
 [^37]: Hyppolite, *Genesis and Structure*, pp. 239-40.
 [^38]: Ibid, p. 240.
 [^39]: §2.
 [^40]: René Descartes, 'Meditations on First Philosophy' in *Philosophical Essays and Correspondence*, edited by R. Ariew (Indianapolis, IN: Hackett, 2000), p. 111.
 [^41]: §254.
-[^42]: Harris, *Hegel's Ladder*, p. 496.
+[^42]: Harris, *Hegel's Ladder*, I, p. 496.
 [^43]: §255.
 [^44]: Ibid.
 [^45]: Ibid.
 [^46]: Ibid, translation altered.
-[^47]: Harris, *Hegel's Ladder*, p. 498.
+[^47]: Harris, *Hegel's Ladder*, I, p. 498.
 [^48]: §256.
 [^49]: Kant, *Critique of the Power of Judgment*, translated by P. Guyer and E. Matthews (Cambridge: Cambridge University Press, 2002), §65, 5:374.
 [^50]: §256, translation altered.
@@ -81,7 +81,7 @@
 [^76]: §285.
 [^77]: §162.
 [^78]: §285, translation altered.
-[^79]: Harris, *Hegel's Ladder*, p. 526.
+[^79]: Harris, *Hegel's Ladder*, I, p. 526.
 [^80]: Ibid, p. 529.
 [^81]: §291.
 [^82]: §291. Emphasis added.
@@ -95,7 +95,7 @@
 [^90]: §294.
 [^91]: Alexander Pope, *An Essay on Man*, Epistle I: 277-8.
 [^92]: §294.
-[^93]: Harris, *Hegel's Ladder*, p. 536.
+[^93]: Harris, *Hegel's Ladder*, I, p. 536.
 [^94]: Kalkavage, *The Logic of Desire*, p. 178.
 [^95]: §295.
 [^96]: Ibid.

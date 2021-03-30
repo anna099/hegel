@@ -10,7 +10,7 @@
 [^5]: §74.
 [^6]: Frederick Beiser, *Hegel*. (Oxford: Routledge, 2005), p. 160.
 [^7]: H.S. Harris, *Hegel's Ladder*, Volume I: *The Pilgrimage of Reason*. (Cambridge: Hackett, 1997), p. 209.
-[^8]: Harris, *Hegel's Ladder*, p. 225.
+[^8]: Harris, *Hegel's Ladder*, I, p. 225.
 [^9]: §109.
 [^10]: §110.
 [^11]: All quotations in this paragraph: §113.
@@ -22,11 +22,11 @@
 [^17]: §117.
 [^18]: Ibid.
 [^19]: §118.
-[^20]: Harris, *Hegel's Ladder*, p. 246.
+[^20]: Harris, *Hegel's Ladder*, I, p. 246.
 [^21]: §119. Emphasis added.
 [^22]: §121.
 [^23]: §122.
-[^24]: Harris, *Hegel's Ladder*, p. 249.
+[^24]: Harris, *Hegel's Ladder*, I, p. 249.
 [^25]: §123.
 [^26]: Ibid.
 [^27]: Peter Kalkavage, *The Logic of Desire*. (Philadelphia, PA: Paul Dry Books, 2007), p. 50.

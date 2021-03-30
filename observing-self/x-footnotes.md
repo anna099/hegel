@@ -4,7 +4,7 @@
 </section>
 
 [^1]: Samuel Beckett, *Nohow On* (London: John Calder, 1989), p. 101.
-[^1.1]: Harris, *Hegel's Ladder*, p. 570.
+[^1.1]: Harris, *Hegel's Ladder*, I, p. 570.
 [^2]: §299.
 [^3]: Ibid.
 [^4]: §300.
@@ -29,11 +29,11 @@
 [^23]: Ibid. Emphasis added.
 [^24]: §316.
 [^25]: §315.
-[^26]: Harris, *Hegel's Ladder*, p. 576.
+[^26]: Harris, *Hegel's Ladder*, I, p. 576.
 [^27]: §318.
 [^28]: Ibid. Emphasis (in bold) added.
 [^29]: §319.
-[^30]: Cf. Harris, *Hegel's Ladder*, p. 579.
+[^30]: Cf. Harris, *Hegel's Ladder*, I, p. 579.
 [^31]: §320.
 [^32]: Quoted in §322. Lichtenberg's book title translates to 'On Physiognomy, Against the Physiognomists'.
 [^33]: Ibid.
@@ -55,21 +55,21 @@
 [^48]: §334.
 [^49]: §335.
 [^50]: §336.
-[^51]: Harris, *Hegel's Ladder*, p. 594.
+[^51]: Harris, *Hegel's Ladder*, I, p. 594.
 [^52]: James Poskett, *Materials of the Mind* (Chicago, IL: Chicago University Press, 2019), p. 13.
 [^53]: §336.
 [^54]: §337.
-[^55]: Harris, *Hegel's Ladder*, p. 594.
+[^55]: Harris, *Hegel's Ladder*, I, p. 594.
 [^56]: §338. Emphasis (in bold) added.
 [^57]: §339.
 [^58]: §343.
 [^59]: §342.
 [^60]: §343.
-[^61]: Harris, *Hegel's Ladder*, p. 600.
+[^61]: Harris, *Hegel's Ladder*, I, p. 600.
 [^62]: Kant, *Critique of Pure Reason*, A72/B97.
 [^63]: §344.
 [^64]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 428.
 [^65]: §344.
 [^66]: §345.
-[^67]: Harris, *Hegel's Ladder*, p. 603.
+[^67]: Harris, *Hegel's Ladder*, I, p. 603.
 [^68]: §346.

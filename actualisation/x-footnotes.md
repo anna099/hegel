@@ -38,3 +38,6 @@
 [^20]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 429.
 [^21]: §351.
 [^22]: Aristotle, *Politics*, 1252a (*Basic Works* pp. 1127-8).
+[^23]: Harris, *Hegel's Ladder*, II, p. 15.
+[^24]: §352.
+[^25]: §353.

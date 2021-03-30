@@ -38,9 +38,9 @@
 [^33]: Aristotle, *Politics*, translated by B. Jowett, in *The Basic Works of Aristotle*, edited by R. McKeon. (New York: Random House, 2001), 1254a (pp. 1131-2).
 [^34]: Kalkavage, *The Logic of Desire*, p. 119.
 [^35]: §190.
-[^36]: Harris, *Hegel's Ladder*, p. 359. Emphasis added.
+[^36]: Harris, *Hegel's Ladder*, I, p. 359. Emphasis added.
 [^37]: §190.
-[^38]: Harris, *Hegel's Ladder*, p. 359.
+[^38]: Harris, *Hegel's Ladder*, I, p. 359.
 [^39]: §191.
 [^40]: Ibid.
 [^41]: §193.
@@ -58,7 +58,7 @@
 <!-- Stoicism, skepticism, and unhappy consciousness: -->
 [^53]: Spinoza, *Ethics* (Id7), translated by S. Shirley. (Indianapolis, IN: Hackett, 1992), p. 31.
 [^54]: Kalkavage, *The Logic of Desire*, p. 128.
-[^55]: Harris, *Hegel's Ladder*, p. 382.
+[^55]: Harris, *Hegel's Ladder*, I, p. 382.
 [^56]: §197.
 [^57]: Ibid.
 [^58]: Ibid.
@@ -70,7 +70,7 @@
 [^64]: Ibid.
 [^65]: §202.
 [^66]: §201.
-[^67]: Harris, *Hegel's Ladder*, p. 388.
+[^67]: Harris, *Hegel's Ladder*, I, p. 388.
 [^68]: Sextus Empiricus, *Outlines of Pyrrhonism*, translated by R. G. Bury. (Cambridge, MA: Harvard University Press), p. 7.
 [^69]: Robert Solomon, *In the Spirit of Hegel*. (Oxford: Oxford University Press, 1985), p. 462.
 [^70]: G. W. F. Hegel, *Lectures on the History of Philosophy 1825-6*, Volume II: *Greek Philosophy*. (Oxford: Oxford University Press, 2006), p. 308.
@@ -101,10 +101,10 @@
 [^95]: Blaise Pascal, *Pensées, and Other Writings*, translated by H. Levi. (Oxford: Oxford University Press, 1999), p. 36.
 [^96]: Ibid, p. 9
 [^97]: John Heckman, 'Introduction' in Hyppolite, *Genesis and Structure*, p. xxvii.
-[^98]: Harris, *Hegel's Ladder*, p. 412.
+[^98]: Harris, *Hegel's Ladder*, I, p. 412.
 [^99]: §217.
 [^100]: Ingmar Bergman, *The Seventh Seal* (1957).
-[^101]: Harris, *Hegel's Ladder*, p. 413.
+[^101]: Harris, *Hegel's Ladder*, I, p. 413.
 [^102]: §217.
 [^103]: Ibid.
 [^104]: §218.
@@ -113,9 +113,9 @@
 [^107]: §220.
 [^108]: §221.
 [^109]: François de La Rochefoucauld, *Collected Maxims*, translated by E. H. & A. M. Blackmore and F. Giguère (Oxford: Oxford University Press, 2007), p. 43 (Maxim 149).
-[^110]: Harris, *Hegel's Ladder*, p. 423.
+[^110]: Harris, *Hegel's Ladder*, I, p. 423.
 [^111]: §223.
 [^112]: §225.
-[^113]: For Harris's point about Luther, see *Hegel's Ladder*, pp. 427-28.
+[^113]: For Harris's point about Luther, see *Hegel's Ladder*, I, pp. 427-28.
 [^114]: §228.
 [^115]: §229.

@@ -144,10 +144,47 @@ individual's 'commonest functions', he writes, are social not only in their
 *form* but also in their content: 'the individual's *labor* for his needs is a
 satisfaction of the needs of others as much as it is of his own needs, and the
 satisfaction of his own needs is something he attains only through the labor of
-others.'[^21] Now, Aristotle had recognised the intrinsic link between basic
-human functions and the functions of society: early in his *Politics*, he
+others.'[^21] Now, Aristotle had also recognised the intrinsic link between
+basic human functions and the functions of society: early in his *Politics*, he
 suggests that complex social institutions (like the State) emerge from the
 simplest forms of human interactions which themselves are based on humanity's
 'natural desire to leave behind an image of themselves'.[^22] So, for Aristotle,
 ethical life can in some way be traced back to the reproductive desire of
-individuals.
+individuals. Hegel and Aristotle are making very similar points here: that is,
+that human functions become *social* functions, because the maintenance of life
+and self-actualisation involves help from others, communication with others, a
+division of labour, and so on. To put it in more explicitly Hegelian terms: in
+ethical life, my being-for-another is identical to my being-for-self. This
+unity, Hegel says, 'speaks its *universal language* within the ethos and laws of
+a people.'
+
+Already, therefore, we have reached a more sophisticated understanding of the
+individual and her relation to society. Recall that, for the psychologist, the
+individual and the customs of their society were assumed to be two distinct
+poles; no relation could be found between them, since the individual's freedom
+undermined any possible attachment to social custom. Now, however, we have
+realised that the individual's freedom is *part* of their immersion in the ethos
+of society, the two poles of the observational psychologist are, as Harris says,
+'brought together in a universal concept that has a higher level of
+comprehension.'[^23] In ethical life, the substance of the individual *and* of
+the community are determined by individual activity:
+
+> In a free people reason is in truth actualized. It is a current living spirit
+> not only in that the individual finds his *destiny* [*Bestimmung*], that is,
+> his universal and singular essence, expressed and found present as thinghood,
+> but also that he himself is this essence and that he has also achived his
+> destiny.[^24]
+
+So far, this seems very triumphant. The individual has achieved their destiny;
+and every individual has done so by collaborating socially! This sounds an awful
+lot like *spirit*; that is, 'the I that is we and the we that is I'. But we are
+not yet at spirit -- we see this most plainly in the fact that we are still in
+the *Reason* chapter. So, what is there that lies in our way, between the
+self-actualising individual and spirit? Hegel makes two suggestions: first,
+there is the possibility that the individual *loses* her destiny and her
+attachment to ethical life: self-consciousness 'lives surrounded by that
+destiny, then ... leaves it behind'; alternatively, and more simply, it may be
+the case that the individual 'has not yet achieved its destiny'.[^25] In either
+state of affairs, it can be said that the individual 'is *spirit*' only
+according to the *concept* of spirit, and not in truth -- that is, she 'is
+*spirit* only *immediately*.'
