@@ -172,7 +172,7 @@ the community are determined by individual activity:
 > In a free people reason is in truth actualized. It is a current living spirit
 > not only in that the individual finds his *destiny* [*Bestimmung*], that is,
 > his universal and singular essence, expressed and found present as thinghood,
-> but also that he himself is this essence and that he has also achived his
+> but also that he himself is this essence and that he has also achieved his
 > destiny.[^24]
 
 So far, this seems very triumphant. The individual has achieved their destiny;
@@ -188,3 +188,29 @@ the case that the individual 'has not yet achieved its destiny'.[^25] In either
 state of affairs, it can be said that the individual 'is *spirit*' only
 according to the *concept* of spirit, and not in truth -- that is, she 'is
 *spirit* only *immediately*.'
+
+It is possible for individuals to withdraw from ethical life (and, vice versa,
+for ethical life to withdraw from them), Hegel argues, because the 'universal
+spirit' of ethical life is a 'restricted ethical substance' when it is not
+cognised by the individuals that make it up.[^26] What Hegel means by this is
+that, when the *ethos* of a society is not reflected on, it is only *in itself*,
+and is therefore limited in its scope. Only 'in that lofty moment, namely, the
+*consciousness about* [ethical life's] *essence*', does it do away with this
+limitation. Prior to this reflective awareness, individuals live in ethical life
+only *immediately*, just accepting the norms and customs around them. For
+'ethical substance' to exist *in- and for-itself*, there must be some kind of
+critical reflection on it; for instance, Harris points to Ancient Greek Sophism,
+which was developed by individuals who experienced *multiple* cultures
+and ethical contexts and were then able to reflect critically upon their own.
+Harris points out that, crucially,
+
+> this presence of "critical" Reason was not fatal to the Ethical Substance;
+> quite the contrary, in fact, if we think that the existence of the Sophists
+> was essential to the appearance of Socrates, Plato, and Aristotle.[^27]
+
+However, Hegel adds that even though a critical reflection allows ethical life
+to develop and become for-itself, the individual (or, we might say,
+individual*ist*) who *enacts* this reflection will have their '*immediate* unity
+with spirit' -- their 'trust' -- dissolved.[^28] This dissolution can be seen in
+the trial of Socrates, or in the lives of 'the heroes of Romanticism', as
+Hyppolite suggests.[^29]

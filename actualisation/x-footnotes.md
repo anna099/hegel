@@ -41,3 +41,7 @@
 [^23]: Harris, *Hegel's Ladder*, II, p. 15.
 [^24]: §352.
 [^25]: §353.
+[^26]: §354.
+[^27]: Harris, *Hegel's Ladder*, II, pp. 16-7.
+[^28]: §356.
+[^29]: Hyppolite, *Genesis and Structure*, p. 279.
