@@ -59,6 +59,18 @@ sup {
     background: #e7eff6;
 }
 
+table {
+    margin: 2em auto;
+    line-height: 1.7;
+    border-top: 1px solid var(--ctext);
+    border-bottom: 1px solid var(--ctext);
+    border-collapse: collapse; /* allows for internal borders */
+}
+
+thead { border-bottom: 1px solid var(--ctext); }
+th { font-weight: normal; }
+td, th { padding: 0 0.3em; }
+
 /* Epigraphs, etc. */
 .epigraph {
     width: 80%;
@@ -299,7 +311,7 @@ img#title {
 #wordcount { text-align: center; color: #ccc; margin-top: 4em; }
 
 /* Responsive Design: ------------------------------------------- */
-@media (orientation: portrait) {
+@media (orientation: portrait and max-width: 600px) {
     body {
         width: 100%;
         margin: 8% 0 0 0;
