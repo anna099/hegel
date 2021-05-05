@@ -41,7 +41,15 @@
 [^23]: Harris, *Hegel's Ladder*, II, p. 15.
 [^24]: §352.
 [^25]: §353.
-[^26]: §354.
-[^27]: Harris, *Hegel's Ladder*, II, pp. 16-7.
-[^28]: §356.
-[^29]: Hyppolite, *Genesis and Structure*, p. 279.
+[^26]: I take this 'Eden' metaphor from Kalkavage, *The Logic of Desire*, pp. 188-9.
+[^27]: Robert Brandom, *A Spirit of Trust* (Cambridge, MA: Harvard University Press, 2019), p. 472.
+[^28]: §352.
+[^29]: §354.
+[^30]: §355.
+[^31]: §80.
+[^32]: §355.
+[^33]: §356.
+[^34]: §357.
+[^35]: Harris, *Hegel's Ladder*, II, p. 20.
+[^36]: §359.
+[^37]: Ibid.

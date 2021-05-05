@@ -104,16 +104,16 @@ community (a '*polis*', perhaps): namely, a society of 'individuals in their
 self-sufficient *actuality*', possessing reason and an awareness of other
 individuals around them. 'Ethical life' is *Sittlichkeit*, a central term in
 Hegel's philosophy, deriving from *Sitte* which can be translated into the Greek
-term *ethos*. Ethical life, for Hegel, can be understood simply as the
-'**spiritual** *unity* of the essence of those individuals' that make up a
-society.[^16] Kalkavage points out that while, in the *Self-Consciousness*
-chapter, 'the self waged war on thinghood', and in the *Reason* chapter,
-thinghood and objectivity was 'something to be desired in a positive sense',
-with the birth of the free individual, the 'subject now desires
-*inter*-subjectivity' -- that is, a **recognition** of subjectivity in its
-objects (namely, other individuals).[^17] Hegel describes this
-inter-subjectivity in some detail, and shows that it has a co-constitutive
-relationship with ethical life.
+term *ethos*. (I will use 'ethical life' and '*Sittlichkeit*' interchangeably.)
+Ethical life, for Hegel, can be understood simply as the '**spiritual** *unity*
+of the essence of those individuals' that make up a society.[^16] Kalkavage
+points out that while, in the *Self-Consciousness* chapter, 'the self waged war
+on thinghood', and in the *Reason* chapter, thinghood and objectivity was
+'something to be desired in a positive sense', with the birth of the free
+individual, the 'subject now desires *inter*-subjectivity' -- that is, a
+**recognition** of subjectivity in its objects (namely, other individuals).[^17]
+Hegel describes this inter-subjectivity in some detail, and shows that it has a
+co-constitutive relationship with ethical life.
 
 > In the life of a people, the concept of the actualization of self-conscious
 > reason has in fact its consummate reality, namely, where in the
@@ -144,8 +144,8 @@ individual's 'commonest functions', he writes, are social not only in their
 *form* but also in their content: 'the individual's *labor* for his needs is a
 satisfaction of the needs of others as much as it is of his own needs, and the
 satisfaction of his own needs is something he attains only through the labor of
-others.'[^21] Now, Aristotle had also recognised the intrinsic link between
-basic human functions and the functions of society: early in his *Politics*, he
+others.'[^21] Aristotle had also recognised the intrinsic link between basic
+human functions and the functions of society: early in his *Politics*, he
 suggests that complex social institutions (like the State) emerge from the
 simplest forms of human interactions which themselves are based on humanity's
 'natural desire to leave behind an image of themselves'.[^22] So, for Aristotle,
@@ -181,36 +181,106 @@ lot like *spirit*; that is, 'the I that is we and the we that is I'. But we are
 not yet at spirit -- we see this most plainly in the fact that we are still in
 the *Reason* chapter. So, what is there that lies in our way, between the
 self-actualising individual and spirit? Hegel makes two suggestions: first,
-there is the possibility that the individual *loses* her destiny and her
+there is the possibility that the individual *loses* their destiny and their
 attachment to ethical life: self-consciousness 'lives surrounded by that
 destiny, then ... leaves it behind'; alternatively, and more simply, it may be
 the case that the individual 'has not yet achieved its destiny'.[^25] In either
 state of affairs, it can be said that the individual 'is *spirit*' only
-according to the *concept* of spirit, and not in truth -- that is, she 'is
-*spirit* only *immediately*.'
+according to the *concept* of spirit, and not in truth -- that is, the
+individual 'is *spirit* only *immediately*.'
 
-It is possible for individuals to withdraw from ethical life (and, vice versa,
-for ethical life to withdraw from them), Hegel argues, because the 'universal
-spirit' of ethical life is a 'restricted ethical substance' when it is not
-cognised by the individuals that make it up.[^26] What Hegel means by this is
-that, when the *ethos* of a society is not reflected on, it is only *in itself*,
-and is therefore limited in its scope. Only 'in that lofty moment, namely, the
-*consciousness about* [ethical life's] *essence*', does it do away with this
-limitation. Prior to this reflective awareness, individuals live in ethical life
-only *immediately*, just accepting the norms and customs around them. For
-'ethical substance' to exist *in- and for-itself*, there must be some kind of
-critical reflection on it; for instance, Harris points to Ancient Greek Sophism,
-which was developed by individuals who experienced *multiple* cultures
-and ethical contexts and were then able to reflect critically upon their own.
-Harris points out that, crucially,
+The movement that must be undergone in order for immediate ethical life to reach
+the stage of *true* spirit involves alienation. This is another instance of how
+Hegel considers negativity to have a positive power. In the *Phenomenology*, it
+is the negativity in each stage of knowing -- the element that remains
+unconscious, unacknowledged, unaccounted for -- that eventually springs forth
+and allows the stage to progress. Here, alienation plays the same role: for
+those living in the Eden of immediate ethical life, alienation serves as the
+forbidden fruit that awakens them into self-conscious reflection and pushes them
+out of immediacy and towards the ethical life of *spirit*.[^26] The progression of
+ethical life (*Sittlichkeit*) therefore takes place in three stages, which
+Robert Brandom formulates like this:[^27]
 
-> this presence of "critical" Reason was not fatal to the Ethical Substance;
-> quite the contrary, in fact, if we think that the existence of the Sophists
-> was essential to the appearance of Socrates, Plato, and Aristotle.[^27]
+|                | *No subjectivity* | *Subjectivity* |
+|:--------------:|:-----------------:|:--------------:|
+| *Sittlichkeit* |     Stage One     |   Stage Three  |
+|   Alienation   |         X         |    Stage Two   |
 
-However, Hegel adds that even though a critical reflection allows ethical life
-to develop and become for-itself, the individual (or, we might say,
-individual*ist*) who *enacts* this reflection will have their '*immediate* unity
-with spirit' -- their 'trust' -- dissolved.[^28] This dissolution can be seen in
-the trial of Socrates, or in the lives of 'the heroes of Romanticism', as
-Hyppolite suggests.[^29]
+Ethical life is 'immediate' when it is lived prior to alienation. Hegel has in
+mind the life of ancient Greeks, who claimed that '*Wisdom and virtue consist in
+living in conformity with the ethos of one's people*.'[^28] These Greeks lived
+prior to the separation of one's social role from one's individuality as such.
+One's 'destiny', mentioned above, is simply *given*. At this stage, the
+*Sittlichkeit* is a 'restricted ethical substance'.[^29] It takes a moment of
+alienation -- a sense of being *outside* of this ethos -- in order for
+subjectivity and individuality to arise (this is Brandom's Stage Two). The task
+of modernity for Hegel (and of the following parts of the *Phenomenology*) is to
+find how this modern, alienated subjectivity can still find themselves 'at home'
+in a form of *Sittlichkeit*. Prior to this task, however, we must properly
+understand how individuals become alienated in the first place.
+
+In immediate ethical life, each singular consciousness has only 'an unalloyed
+trust' in the ethos surrounding them; culture and norms are simply given, not to
+be questioned.[^30] However, it is not in the nature of reason to accept a limit
+to its questioning that is simply handed down by social custom. By its very
+nature, consciousness 'is immediately the going beyond the restricted', 'the
+going beyond of its own self'.[^31] In Hegel's view, therefore, it is inevitable
+for a rebellious individualism to emerge out of immediate *Sittlichkeit*, in the
+figure of someone like Socrates. The singular self-consciousness is thus only a
+'vanishing magnitude' in immediate ethical life, who vanishes precisely when
+they start to ask questions and distance themselves from the ethos that
+surrounds them. It is 'in that lofty moment' when the 'singular
+self-consciousness' becomes an *individual*.[^32]
+
+Reason, as always, wants to find itself reflected in the world. The individual
+in premodern, immediate *Sittlichkeit* acts 'with the purpose of doubling
+itself', and wants 'to engender itself as a This as its existent mirror
+image'.[^33] The individual -- who we can currently identify as an
+individual*ist* -- 'is thereby cast forth into the world by his spirit to *seek
+his happiness*.' The remaining pages of the *Reason* chapter accordingly trace
+the development of individualism that the alienated individual carries out.
+
+This development, Hegel explains, tells a story both of gain and of loss. The
+individual, being the embodiment of Reason, is still led by *instinct* -- by
+'natural drives'. On the one hand, individualism is the **coming-to-be** of a
+new ethical substance, one in which the individual finds themselves reflected in
+the world; in this coming-to-be, the natural drives are sublated and 'the very
+rawness of the impulses is lost'.[^34] On the other hand, individualism is the
+**letting-go** of society's ethos as 'rational self-consciousness has lost the
+happiness of existing within the substance'; in this sense, what is lost is not
+the impulses and drives themselves but the attitude (the 'false representation')
+that identifies these impulses as the individual's destiny. We will eventually
+see the individual discover that it is not just impulsive happiness that is
+worth striving for, but **morality**: 'the ideal of free obedience to a law that
+one gives to oneself.'[^35] Thus, the post-alienation *Sittlichkeit* in
+Brandom's Stage Three is one that incorporates both ethos and subjectivity --
+ethics and morality.
+
+In the last paragraph before Hegel actually examines the three shapes of
+individualism, he gives a dense summary of how these three shapes develop. This
+development runs parallels to the story in the *Self-Consciousness* chapter;
+however, rather than dealing with a singular object or a singular Other, the
+rational individual deals with *communities*; this is not surprising, given that
+the individual has just emerged from a society of immediate ethical life. At
+first, the individual is desiring: they are concerned most of all with personal
+**pleasure** and hedonistic, yearning love that allows an individual 'to intuit
+itself in another self-consciousness.'[^36] This moment echoes the story of
+Faust, though Hegel does not mention him (or Goethe, his friend) by name. When
+the individual realises the limits of pleasure, they turn to a more communal
+form of self-expression, a kind of loving humanitarianism driven by the **'law
+of the heart'**. The individual wants to *act*, to help, and so on; however,
+this leads them to the realisation that 'the good can only be put into practice
+through the sacrifice' of the singular individual. This is what gives rise to a
+kind of **virtue**, a good in-itself which demands that we let go of the ego and
+its individual desire. This is the final shape of individualism; at the end,
+after all this development, the individual realises that 'its purpose has in
+itself already been put into practice ... that the good is the doing
+itself.'[^37] The individual then enters *civil society*, wherein they seek not
+to save the world or virtuously master themselves, but to socially express
+themselves *through* the society around them. The result of this adventure is an
+individual
+
+> which no longer finds any resistance in an actuality opposed to it, and whose
+> object and purpose are only this giving voice to itself.
+
+#### The Adventure of Individualism: Pleasure and Necessity {#pleas}
