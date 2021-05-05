@@ -53,3 +53,6 @@
 [^35]: Harris, *Hegel's Ladder*, II, p. 20.
 [^36]: §359.
 [^37]: Ibid.
+<!-- Pleasure -->
+[^38]: J.G. von Goethe, *Faust*, translated by S. Atkins (Princeton, NJ: Princeton University Press, 2014), lines 385, 464-5.
+[^39]: §360, translation altered.

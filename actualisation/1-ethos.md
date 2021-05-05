@@ -282,5 +282,3 @@ individual
 
 > which no longer finds any resistance in an actuality opposed to it, and whose
 > object and purpose are only this giving voice to itself.
-
-#### The Adventure of Individualism: Pleasure and Necessity {#pleas}
