@@ -56,3 +56,7 @@
 <!-- Pleasure -->
 [^38]: J.G. von Goethe, *Faust*, translated by S. Atkins (Princeton, NJ: Princeton University Press, 2014), lines 385, 464-5.
 [^39]: §360, translation altered.
+[^40]: §362.
+[^41]: Kalkavage, *The Logic of Desire*, p. 190.
+[^42]: §360.
+[^43]: §361.
