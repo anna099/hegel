@@ -60,3 +60,7 @@
 [^41]: Kalkavage, *The Logic of Desire*, p. 190.
 [^42]: §360.
 [^43]: §361.
+[^44]: See Harris, *Hegel's Ladder*, II, p. 27.
+[^45]: §363.
+[^46]: Robert Stern, *Guidebook to Hegel's Phenomenology of Spirit*, p. 138.
+[^47]: §363.

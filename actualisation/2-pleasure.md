@@ -35,4 +35,37 @@ thinking', the pleasure-seeker has 'the law of ethos and existence, together
 with the skills related to observation and theory, only as a gray and gradually
 vanishing shadow behind it'.[^42] 'The shadows cast by science, laws, and
 principles, which alone stand between it and its own actuality, vanish like a
-lifeless fog.'[^43]
+lifeless fog', and the Faustian individual is left with a clean slate upon which
+their self-actualisation can take place.[^43]
+
+This actualisation is, as we have established, 'a doing of *desire*.' The
+amorous individualist wants to obliterate the otherness of its object (the
+love-interest); this, Hegel points out, is a little different to the more
+primitive form of desire in the *Self-Consciousness* chapter, which started out
+by wanting to obliterate its object as such -- to consume it, destroy it, and so
+on. In *Pleasure and Necessity*, desire wants to be one with the Other: to
+overcome its very *Other*-ness and witness it as the 'objectified selfhood' of
+the desiring individual.[^44] This witnessing is the moment of pleasure.
+
+The pleasurable unity of lovers 'positively signifies that [the individual] has
+come to be objective self-consciousness *to itself*': now that there is love,
+some real satisfaction has been found.[^45] However, this satisfaction only
+takes the individual to a certain point. It is limited, and its limitation is
+what it shares with the desire of the *Self-Consciousness* chapter. Faust's
+desire earns him some kind of relationship with Gretchen, but their relationship
+never becomes something permanent and ethical: indeed, Gretchen ends up being
+charged with murder after she drowns the illegitimate child she had with Faust.
+Bound to Mephistopheles's pact, Faust is unable to pursue anything beyond
+worldly pleasure; in Robert Stern's words, 'pleasure-seeking now appears as an
+alien constraint on his happiness, a kind of external necessity or fate which
+seems to destroy him.'[^46] Hegel expresses this in logical terms by saying that
+the Faustian individual's practice ultimately amounts to
+
+> the further expansion of those empty essentialities, or of pure unity, of pure
+> difference, and of their relation ... the simply and empty but nonetheless
+> inexorable and impassive *relation* whose work is only the nothingness of
+> singular individuality.[^47]
+
+As a consequence, Hegel explains, the pleasure-seeker's 'plunge into life' has
+ultimately been reversed: the individual has 'instead plunged into the
+consciousness of its own lifelessness ... as *dead* actuality.'
