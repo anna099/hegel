@@ -197,9 +197,12 @@ unconscious, unacknowledged, unaccounted for -- that eventually springs forth
 and allows the stage to progress. Here, alienation plays the same role: for
 those living in the Eden of immediate ethical life, alienation serves as the
 forbidden fruit that awakens them into self-conscious reflection and pushes them
-out of immediacy and towards the ethical life of *spirit*.[^26] The progression of
-ethical life (*Sittlichkeit*) therefore takes place in three stages, which
-Robert Brandom formulates like this:[^27]
+out of immediacy and towards the ethical life of *spirit*.[^26] The negativity
+of alienation is, of course, not the last step: Hegel's ultimate aim (in the
+socio-political context, at least) is for us to overcome alienation, no matter
+how necessary this alienation might be.[^26.1] The progression of ethical life
+(*Sittlichkeit*) therefore takes place in three stages, which Robert Brandom
+formulates like this:[^27]
 
 |                | *No subjectivity* | *Subjectivity* |
 |:--------------:|:-----------------:|:--------------:|

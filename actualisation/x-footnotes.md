@@ -42,6 +42,7 @@
 [^24]: §352.
 [^25]: §353.
 [^26]: I take this 'Eden' metaphor from Kalkavage, *The Logic of Desire*, pp. 188-9.
+[^26.1]: For a good elaboration on this aim, see Michael O. Hardimon, *Hegel's Social Philosophy: The Project of Reconciliation* (Cambridge: Cambridge University Press, 1994).
 [^27]: Robert Brandom, *A Spirit of Trust* (Cambridge, MA: Harvard University Press, 2019), p. 472.
 [^28]: §352.
 [^29]: §354.
@@ -62,5 +63,10 @@
 [^43]: §361.
 [^44]: See Harris, *Hegel's Ladder*, II, p. 27.
 [^45]: §363.
-[^46]: Robert Stern, *Guidebook to Hegel's Phenomenology of Spirit*, p. 138.
-[^47]: §363.
+[^46]: Harris, *Hegel's Ladder*, II, p. 28.
+[^47]: Robert Stern, *Guidebook to Hegel's Phenomenology of Spirit*, p. 138.
+[^48]: §363.
+[^49]: §364-5.
+[^50]: §355-6.
+<!-- Law of the Heart -->
+[^51]: Solomon, *In the Spirit of Hegel*, p. 507.

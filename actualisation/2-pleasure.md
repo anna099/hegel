@@ -6,28 +6,38 @@ The pleasure-seeking individual is modelled on Goethe's Faust. At the time of
 writing the *Phenomenology*, Hegel would not have read the same *Faust* as us;
 prior to 1808, only a 'fragment' of the text existed. Nonetheless, he would have
 been familiar with the story of the scholarly man Faust who, having grown
-disillusioned with his philosophical and scientific knowledge, makes deals with
+disillusioned with his philosophical and scientific knowledge, makes a deal with
 the devil (Mephistopheles) so that he can 'be done with peddling empty words'
 and 'feel brave enough to venture forth and bear earth's torments and its
-joys.'[^38] Ultimately, Faust wants to find true love; he seems to find this in
-Gretchen, but the result of their relationship is ruin and shame.
+joys.'[^38] Ultimately, Faust wants to find the ultimate pleasure, namely, love;
+he seems to find this in Gretchen, but the result of their relationship is ruin
+and shame when Gretchen becomes accidentally pregnant and they unintentionally
+kill her mother. (In this way, *Faust* is an inversion of the story of Adam and
+Eve: Eve eats from the Tree of Knowledge, and the gift of knowledge leads to
+ruin. Faust, on the other hand, rejects knowledge and seeks an Eden of pleasure,
+and it is this pleasure that leads him to ruin.)
 
 Hegel's passage on *Pleasure and Necessity* therefore describes the alienated
-individual's '*first purpose*': 'to become conscious of oneself as a singular
-essence within that other self-consciousness, or to make this other into
-itself.'[^39] This is Hegel's abstract way of describing a kind of love. The
-individual desires 'the intuition of the unity of both self-sufficient
-self-consciousnesses' -- for instance, the unity of Faust and Gretchen -- and is
-thereby prepared to 'plunge into life'; they have abandoned 'the seemingly
-heavenly spirit' of observational knowing and doing, and have succumbed to 'the
-spirit of the earth'.[^40] This is a direct reference to the 'Erdgeist' in
-*Faust*, which Hegel describes as 'a spirit to whom the only being which counts
-as the true actuality is that of the actuality of singular consciousness.' The
-individual is now concerned only with the particular, sensory things of this
-world insofar as they might satisfy one's desire. Faust chooses the Earth over
-Heaven because the Earth is the natural home of his body. It is for these
-reasons that Kalkavage refers to pleasure-seeking individualism as 'the erotic
-version of sense-certainty.'[^41]
+individual's '*first purpose*' as one of finding love: 'to become conscious of
+oneself as a singular essence within that other self-consciousness, or to make
+this other into itself.'[^39] The individual desires 'the intuition of the unity
+of both self-sufficient self-consciousnesses' -- for instance, the unity of
+Faust and Gretchen. In *Mastery and Servitude*, Hegel showed that an
+individual's self-consciousness (their very awareness of self) is not possible
+without recognition from another individual. In *Pleasure and Necessity*, he
+shows that an individual's self-*actualisation* is not possible without their
+recognising their situatedness in a greater whole: the social context
+(responsibility) and the human context (mortality and death). The process by
+which this takes place starts out with a Faustian 'plunge into life'; the
+individual has abandoned 'the seemingly heavenly spirit' of observational
+knowing and doing, and have succumbed to 'the spirit of the earth'.[^40] This is
+a direct reference to the 'Erdgeist' in *Faust*, which Hegel describes as 'a
+spirit to whom the only being which counts as the true actuality is that of the
+actuality of singular consciousness.' The individual is now concerned only with
+the particular, sensory things of this world insofar as they might satisfy one's
+desire. Faust chooses the Earth over Heaven because the Earth is the natural
+home of his body. It is for these reasons that Kalkavage refers to
+pleasure-seeking individualism as 'the erotic version of sense-certainty.'[^41]
 
 Hegel describes the abandonment of observational reason with all the Romantic
 grandeur that this individualist idolises: 'out of the motionless being of
@@ -51,21 +61,47 @@ The pleasurable unity of lovers 'positively signifies that [the individual] has
 come to be objective self-consciousness *to itself*': now that there is love,
 some real satisfaction has been found.[^45] However, this satisfaction only
 takes the individual to a certain point. It is limited, and its limitation is
-what it shares with the desire of the *Self-Consciousness* chapter. Faust's
-desire earns him some kind of relationship with Gretchen, but their relationship
-never becomes something permanent and ethical: indeed, Gretchen ends up being
-charged with murder after she drowns the illegitimate child she had with Faust.
-Bound to Mephistopheles's pact, Faust is unable to pursue anything beyond
-worldly pleasure; in Robert Stern's words, 'pleasure-seeking now appears as an
-alien constraint on his happiness, a kind of external necessity or fate which
-seems to destroy him.'[^46] Hegel expresses this in logical terms by saying that
-the Faustian individual's practice ultimately amounts to
+what it shares with the desire of the *Self-Consciousness* chapter. To start
+with, pleasure is shared in a loving relationship, the *unity* of two selves.
+However, such a relationship necessarily gives way to certain hardships -- for
+instance, the accident of conception, or the realisation that your loved one
+will die. These hardships fracture the unity of the relationship, and reveal the
+way in which **necessity** takes precedence over pleasure-seeking. Life always
+gives way to death; one cannot plunge into the former without eventually coming
+to face the latter. When an individual realises this, they finally realise the
+*social responsibility* that is inherent to self-actualisation.
+'Self-recognizing pleasure reduces the agent self to a moment in a greater
+whole', Harris writes.[^46] Self-actualisation cannot be achieved through
+pleasure-seeking alone.
+
+So, Faust's desire earns him some kind of relationship with Gretchen, but their
+relationship never becomes something permanent and ethical; indeed, Gretchen
+ends up being charged with murder after she drowns the illegitimate child she
+had with Faust. Bound to Mephistopheles's pact, Faust is unable to pursue
+anything beyond worldly pleasure, unable to truly integrate himself in a
+community; in Robert Stern's words, 'pleasure-seeking now appears as an alien
+constraint on his happiness, a kind of external necessity or fate which seems to
+destroy him.'[^47] Hegel expresses this in logical terms by saying that the
+Faustian individual's practice ultimately amounts to
 
 > the further expansion of those empty essentialities, or of pure unity, of pure
 > difference, and of their relation ... the simply and empty but nonetheless
 > inexorable and impassive *relation* whose work is only the nothingness of
-> singular individuality.[^47]
+> singular individuality.[^48]
 
 As a consequence, Hegel explains, the pleasure-seeker's 'plunge into life' has
 ultimately been reversed: the individual has 'instead plunged into the
-consciousness of its own lifelessness ... as *dead* actuality.'
+consciousness of its own lifelessness ... as *dead* actuality.' Hegel describes
+this reversal as taking the individual from pure *being-for-itself* (the selfish
+pleasure-seeker who 'has jettisoned all community') to pure *being-in-itself*
+(the hard, basic actuality and 'lifeless necessity' of mortality, like the skull
+that phrenology finds at the apex of observational reason).[^49]
+
+Someone like Faust *feels* this reversal from the Eden of pleasure into the hell
+of necessity, but does not *understand* it rationally. As such, here is the
+point that we leave Faust behind. Only the individual who can recognise the fall
+into necessity as the *inherent* outcome of pleasure -- someone who can
+recognise the unavoidable death that awaits us at the end of life -- can reverse
+this reversal and 'know necessity as itself', thereby progressing to a new shape
+of individualism.[^50]
+
