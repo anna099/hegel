@@ -67,6 +67,6 @@
 [^47]: Robert Stern, *Guidebook to Hegel's Phenomenology of Spirit*, p. 138.
 [^48]: §363.
 [^49]: §364-5.
-[^50]: §355-6.
+[^50]: §365-6.
 <!-- Law of the Heart -->
 [^51]: Solomon, *In the Spirit of Hegel*, p. 507.
