@@ -67,6 +67,26 @@
 [^47]: Robert Stern, *Guidebook to Hegel's Phenomenology of Spirit*, p. 138.
 [^48]: §363.
 [^49]: §364-5.
+[^49.1]: Andrew Cutrofello, 'A history of Reason in the Age of Insanity: the Deconstruction of Foucault in Hegel's *Phenomenology*,' in *Owl of Minerva* (1993, Vol. 25, No. 1), p. 17.
+[^49.2]: Ibid., p. 18.
 [^50]: §365-6.
 <!-- Law of the Heart -->
 [^51]: Solomon, *In the Spirit of Hegel*, p. 507.
+[^52]: §367.
+[^53]: §369.
+[^54]: Jean-Jacques Rousseau, *The Social Contract and the First and Second Discourses*, ed. Susan Dunn (New Haven: Yale University Press, 2002), p. 156.
+[^55]: §370, translation altered.
+[^56]: §372.
+[^57]: Hyppolite, *Genesis and Structure*, p. 286.
+[^58]: §372.
+[^59]: §373.
+[^60]: Harris, *Hegel's Ladder*, II, p. 40.
+[^61]: Immanuel Kant, *Critique of Practical Reason*, trans. Mary Gregor (Cambridge: Cambridge University Press, 2015), 5:28.
+[^62]: §374.
+[^63]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 432.
+[^64]: §377.
+[^65]: Ibid.
+[^66]: Hyppolite, *Genesis and Structure*, p. 288.
+[^67]: §379.
+[^68]: §380.
+[^69]: Harris, *Hegel's ladder*, II. p. 46.

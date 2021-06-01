@@ -74,6 +74,31 @@ to face the latter. When an individual realises this, they finally realise the
 whole', Harris writes.[^46] Self-actualisation cannot be achieved through
 pleasure-seeking alone.
 
+Andrew Cutrofello suggests that *Pleasure and Necessity* prefigures Foucault's
+criticism of 'the repressive hypothesis' in *The History of Sexuality*.[^49.1]
+Foucault argues against the prevalent hypothesis that (particularly in the
+Victorian era) talk of sexuality is repressed by social authority and that,
+consequently, expressing one's sexuality is socially subversive. In fact, he
+claims, our very understanding of sexuality is socially constructed --
+*conditioned* by these authorities we claim to subvert. Consequently, attempts
+to express one's *pleasure* against a repressive *necessity* actually amounts to
+one's *subsumption* under the discourse of that necessity. So, why does this
+discourse of 'repression' come about? Cutrofello suggests that
+
+> Hegel's answer is clear: because we live in an age in which we falsely define
+> individuals as the simple opposite of society as a whole. We will see
+> ourselves as repressed until we realize the inadequacy of defining ourselves
+> in terms of the pleasure principle.[^49.2]
+
+As such, although philosophers like Foucault like to criticise Hegel for
+affirming self-consciousness by denying the alterity of others. We can see here
+that Hegel does the very opposite: he shows that, in trying to affirm one's
+pleasure against society's necessity, one actually ends up subsumed by that
+necessity. Real self-recognition, we will see, comes about when the individual
+*reconciles* themselves to the alterity of others. The individualist who looks
+for some common essence in all humanity -- pleasure-seeking, in this instance --
+will always fail for Hegel.
+
 So, Faust's desire earns him some kind of relationship with Gretchen, but their
 relationship never becomes something permanent and ethical; indeed, Gretchen
 ends up being charged with murder after she drowns the illegitimate child she
@@ -97,7 +122,7 @@ pleasure-seeker who 'has jettisoned all community') to pure *being-in-itself*
 (the hard, basic actuality and 'lifeless necessity' of mortality, like the skull
 that phrenology finds at the apex of observational reason).[^49]
 
-Someone like Faust *feels* this reversal from the Eden of pleasure into the hell
+Someone like Faust *feels* the reversal from the Eden of pleasure into the hell
 of necessity, but does not *understand* it rationally. As such, here is the
 point that we leave Faust behind. Only the individual who can recognise the fall
 into necessity as the *inherent* outcome of pleasure -- someone who can

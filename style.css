@@ -296,11 +296,13 @@ img#title {
 .bib {
     padding: 0;
     text-align: left;
+    font-size: 0.95em;
 }
 .bib li {
     list-style-type: none;
-    text-indent: -1em;
-    margin-left: 1em;
+    text-indent: -2em;
+    margin-left: 2em;
+    margin-bottom: 0.2em;
 }
 .bib li span {
     text-transform: lowercase;
