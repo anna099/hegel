@@ -202,7 +202,7 @@ back to idealist consciousness. Because this passage is so difficult, I have
 quoted it at length, and split it into subsections which I will then explain one
 by one.
 
-1. However, the many categories are already equivocation itself, since at the
+1. &lsquo;However, the many categories are already equivocation itself, since at the
    same time they have in themselves otherness in its *plurality as opposed* to
    the pure category.
 2. They in fact contradict the pure category through this plurality, and the
@@ -212,7 +212,7 @@ by one.
    as such and that first *immediate* pure unity as such, and it is *singular
    individuality*.
 4. This is a new category, which is an excluding consciousness, which is
-   to say, it has *an other* for it.[^20]
+   to say, it has *an other* for it.&rsquo;[^20]
 
 These four moments follow the aforementioned scenario, in which there is no real
 *Other* when all that consciousness can refer to is conditioned by the
