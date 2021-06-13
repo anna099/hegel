@@ -4,7 +4,7 @@ Consequently, the observer must observe self-consciousness as an *active*
 process, if it is to find the laws that govern it. Hegel actually suggests that,
 in taking this step forward (i.e. towards the acknowledgment of
 self-consciousness as *active*), the observer is 'guided by the very nature of
-the matter which is at issue', though she does not yet comprehend 'the way this
+the matter which is at issue', though they do not yet comprehend 'the way this
 all hangs together.'[^6] Though it's not entirely clear, this might be a hint
 that the observer is getting closer to realising *its own role* in that which it
 is observing. Either way, the observation of self-consciousness as *active*

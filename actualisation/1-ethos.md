@@ -123,8 +123,8 @@ co-constitutive relationship with ethical life.
 > being-for-*myself*.[^18]
 
 What Hegel means in this remark is that, in ethical life, multiple individuals
-find *unity in difference*. I can recognise an Other as an individual in her own
-right, because we are both living in the same ethos. In this regard, Hegel
+find *unity in difference*. I can recognise an Other as an individual in their
+own right, because we are both living in the same ethos. In this regard, Hegel
 suggests, we can understand ethical life metaphorically as 'light [that]
 shatters into stars as innumerable luminous points, each shining by its own
 light'.[^19] Or, as Inwood suggests, the relationship between ethical life and
@@ -159,7 +159,7 @@ unity, Hegel says, 'speaks its *universal language* within the ethos and laws of
 a people.'
 
 Already, therefore, we have reached a more sophisticated understanding of the
-individual and her relation to society. Recall that, for the psychologist, the
+individual and their relation to society. Recall that, for the psychologist, the
 individual and the customs of their society were assumed to be two distinct
 poles; no relation could be found between them, since the individual's freedom
 undermined any possible attachment to social custom. Now, however, we have

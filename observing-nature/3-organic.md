@@ -234,10 +234,11 @@ organism, they are in fact the opposite: sensibility, for instance, is actually
 reaction, or irritability, and reproduction.'[^65] The reason for this is that,
 when a rational observer (like a nineteenth-century scientist) comes up with a
 law such as, 'sensibility and irritability stand in inverse relations of
-magnitude, so that as the one increases, the other diminishes', she is ignoring
-the fact that these factors -- sensibility and irritability -- are not separable,
-wholly distinct quantities, but *modalities* of the same whole (that is, the
-organism).[^66] If this is unclear, Hegel makes it clearer by use of an analogy:
+magnitude, so that as the one increases, the other diminishes', they are
+ignoring the fact that these factors -- sensibility and irritability -- are not
+separable, wholly distinct quantities, but *modalities* of the same whole (that
+is, the organism).[^66] If this is unclear, Hegel makes it clearer by use of an
+analogy:
 
 > Just as [a] hole and what fills it and what is removed from it are
 > *qualitatively opposed*, what is real in them and its determinate magnitude

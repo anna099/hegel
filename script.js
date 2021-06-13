@@ -1,5 +1,5 @@
 window.onload = function () {
-    // pageTitle();  // set the page title to something appropriate.
+    pageTitle();     // set the page title to something appropriate.
     smallCaps();     // sections begin with a few words in small caps.
     wordCount();     // a wordcount appears at the end of the page.
     hoverNotes();    // hover over a footnote number to see the note.
@@ -44,7 +44,6 @@ function hoverNotes() {
         n.onmouseenter = (e) => {
             hov.style.opacity = "1";
             hov.style.top = e.clientY;
-            hov.style.left = e.clientX;
             let t = document.querySelector(n.attributes.href.value).innerHTML;
             t = t.replace("↩", "");
             hov.innerHTML = t;
@@ -52,36 +51,14 @@ function hoverNotes() {
         n.onmouseleave = (e) => {
             hov.style.opacity = "0";
             hov.style.top = -900;
-            hov.style.left = -900;
+            // hov.style.left = -900;
         };
     });
 }
 
 function pageTitle() {
-    let contents = document.querySelectorAll("#contents a");
-    contents.forEach((c) => {
-        let url = withoutAnchor(c.href);
-        let current_url = withoutAnchor(document.URL);
-
-        if (current_url === url) {
-            var at = c;
-            var parents = [];
-            while (at) {
-                parents.unshift(at);
-                at = at.parentNode;
-            }
-            document.title = 'Hegel / ' + parents[4].firstChild.data;
-        }
-    });
-}
-
-// Taking 'page.html#section', returns 'page.html'
-function withoutAnchor(url) {
-    if (url.indexOf("#") >= 0) {
-        return url.slice(0, url.indexOf("#"));
-    } else {
-        return url;
-    }
+    let h2 = document.querySelector("h2");
+    document.title = "Hegel / " + h2.innerText;
 }
 
 function numbering() {

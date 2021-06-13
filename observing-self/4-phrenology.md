@@ -62,7 +62,7 @@ who thinks of the genuine location of spirit thinks not of the spine but only of
 the head'; secondly, since 'knowing and acting' (or the instructions telling the
 body and mind to act and to know) are driven 'through the spine', the spine
 cannot be seen as a stable site of spirit.[^40] The phrenologist is thus left
-with the skull, the *'caput mortuum'* (dead head), as her object of focus.
+with the skull, the *'caput mortuum'* (dead head), as their object of focus.
 
 Having arrived at the skull as the supposed location of spirit, the first task
 of the phrenologist is to understand the *causal relationship* between the

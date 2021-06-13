@@ -3,7 +3,7 @@
 The great chain of being has given way to the 'unbridled violence' of the Earth.
 What this ultimately means is that, as soon as the observer hopes the find a
 story that finds rational order in nature, the chaos of the Earth, and the
-contingency of organic life, causes the observer to lose her footing. Think of
+contingency of organic life, causes the observer to lose their footing. Think of
 the failures we have witnessed so far in this chapter:
 
 1. First, the observer found (what seemed like) universality in nature by

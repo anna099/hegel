@@ -153,8 +153,8 @@ h5 {
 h5 + p { margin-top: 0.3em; }
 
 hr {
-    width: 25em;
-    margin: 1.5em;
+    width: 20em;
+    margin: 1.3em auto;
     border: none;
     border-top: 1px solid rgba(20, 20, 20, 0.2);
 }
@@ -201,14 +201,20 @@ hr {
 
 /* See script.js */
 #hover-note {
+    border-right: 1px solid #33330055;
+    border-bottom: 1px solid #33330055;
+
     opacity: 0;
-    position: fixed;
     padding: 0.6em;
-    background: rgba(0, 0, 0, 0.8);
-    color: var(--pale);
-    max-width: 33ch;
+    position: fixed;
+    margin-top: -1em;
+    width: 33ch;
+
+    /* body-left-margin - width - extra space */
+    left: calc(25% - 33ch / 2 - 2em);
 }
 #hover-note p {
+    text-align: right;
     font-size: 0.95em;
     margin: 0;
 }

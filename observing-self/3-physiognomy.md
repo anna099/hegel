@@ -1,8 +1,8 @@
 #### Physiognomy {#physio}
 
 Having found no place for law in the individual's free mind, our observer gives
-up her short-lived career in psychology and turns to the more visible aspect of
-human existence: the 'distinctive determinateness' of individuality, the
+up their short-lived career in psychology and turns to the more visible aspect
+of human existence: the 'distinctive determinateness' of individuality, the
 'rigidly fixed being' of an individual's actuality: that is, the **body**.[^16]
 This move seems plausible: it seems intuitive that the body is closer to an
 individual's 'inner life' than the aforementioned actualities of spirit are.
@@ -111,8 +111,8 @@ physiognomist's search for necessary law. The second is a repetition of a moment
 that the psychologist already experienced: that is, the *freedom* of the
 individual removes any necessary connection between their inner state and its
 outer manifestation. In psychological observation, this meant that the
-individual was free to choose how she was affected by her cultural environment.
-In the case of physiognomy, it poses the following problem:
+individual was free to choose how they were affected by their cultural
+environment. In the case of physiognomy, it poses the following problem:
 
 > In the way that in the previous relationships [e.g. that of psychology], in
 > the circumstances lying before us [the cultural environment in the case of
