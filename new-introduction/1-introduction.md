@@ -191,7 +191,7 @@ out upon his contemporary landscape and assessing its various ways of thinking.
 How have other philosophers tried to find unity against dualism? Why have they
 failed (in Hegel's view)?
 
-#### Critique of Romanticism {#roma}
+#### Hegel's Romanticism and Anti-Romanticism {#roma}
 
 At the start of Hegel's philosophical career, a trend of counter-Enlightenment
 thought was growing in Germany, with the *'Sturm und Drang'* group -- influenced
@@ -252,14 +252,15 @@ Romantics. In an essay on love, written nearly a decade before the
 > to what is determined. Love neither restricts nor is restricted; it is not
 > finite at all. It is a feeling, yet not a single feeling.[^25]
 
-Like the Romantics, Hegel sees love and the passionate phenomena of life as the
-real source of unity -- rather than the intellect. His insistence that true love
-exists only among beings 'alike in power' is a criticism of the Christian notion
-of love, between human and God. It is difficult for a finite human to love a
-being that is infinite and unknowable; such a relationship is more comparable to
-that of a master and slave. Thus, while Christianity has 'oscillated to and fro'
-between the dualism of God and world, 'it is its fate that ... piety and virtue,
-spiritual and worldly action, can never dissolve into one.'[^26]
+Like the Romantics, the early Hegel sees love and the passionate phenomena of
+life as the real source of unity -- not the intellect. His insistence that true
+love exists only among beings 'alike in power' is a criticism of the Christian
+notion of love, between human and God. It is difficult for a finite human to
+love a being that is infinite and unknowable; such a relationship is more
+comparable to that of a master and slave. Thus, while Christianity has
+'oscillated to and fro' between the dualism of God and world, 'it is its fate
+that ... piety and virtue, spiritual and worldly action, can never dissolve into
+one.'[^26]
 
 So, rather than trying to appeal to God, or to first establish the structure of
 knowledge, the Romantics claimed that a kind of *immediate*, *intuitive*
@@ -272,12 +273,12 @@ final, *unproved* point upon which our beliefs rest. He thus urged his
 contemporaries to take a *salto mortale*, a daring leap, to *embrace* the faith
 upon which our knowledge rests.[^27]
 
-It is this reliance on an immediate, foundational grounding for knowledge that
-sets Hegel apart from Jacobi and the Romantics. While he was influenced by the
-Romantic admiration for antiquity, and by their attempts to overcome dualism
-and disunity, Hegel came to insist that *logic* -- rather than faith,
-imagination, or feeling -- has the power to establish unity. Thus, Richard
-Kroner writes:
+Hegel is set apart from Jacobi, the *Sturm und Drang* movement, and the
+Romantics by his refusal to rely on an immediate, foundational grounding for
+knowledge. While he was influenced by the Romantic admiration for antiquity, and
+by their attempts to overcome dualism and disunity, Hegel came to insist that
+only *logic* -- rather than faith, imagination, or feeling -- has the power to
+establish unity. Thus, Richard Kroner writes:
 
 > While the Romanticists were content with denying ultimate separation,
 > indulging in pictorial language and paradoxes to give force to their negation,
@@ -285,3 +286,126 @@ Kroner writes:
 > logic. He was convinced that the more accurately we think, the clearer becomes
 > the impossibility of drawing clearly defined boundaries between our
 > concepts.[^28]
+
+Romanticism, as Hegel came to see it, was not concerned with *accurate thinking*
+at all. In the *Phenomenology*'s preface, he suggests that the Romantics were
+reacting against the *disenchantment* brought upon the world by the science of
+modernity. (Indeed, the term 'disenchantment' was brought into sociology by Max
+Weber, but Weber himself borrowed it from Schiller, the Romantic.) However,
+instead of finding an alternative to this disenchantment by progressing through
+modernity and developing human thought, Romanticism called for a return to the
+spirit of pre-modern *religion*. 'What it wants from philosophy is not so much
+*insight* as *edification*.'[^29] The task of Romantic philosophy, in Hegel's
+terms, is just 'to take what thought has torn asunder [that is, dualisms] and
+then to stir it all together into a smooth mélange, to *suppress* the concept
+that makes those distinctions, and then to fabricate the *feeling* of the
+essence.'[^30]
+
+In other words, the Romantics did nothing to *cure* the dualisms of modern life
+and thought; instead, they suppressed them and covered them up with a
+quasi-religious *feeling* which, beyond its apparent majesty, is nothing more
+than a vacuous ambiguity, an 'inflamed inspiration'. Hegel empathises with the
+Romantic hostility to disenchantment and dualism. His break from Romanticism is
+in his rejection of an *immediate*, anti-intellectual response to these problems
+-- no matter how much it makes sense for such a response to come about in the
+time of modernity, when 'Spirit has shown itself to be so impoverished that it
+seems to yearn for its refreshment only in the meager feeling of divinity.'[^31]
+
+#### Against Formalism {#form}
+
+During much of his career, Hegel was academically overshadowed by his
+contemporary F. W. J. Schelling (1775-1854), who was five years younger than him
+but nonetheless rose to philosophical prominence more quickly. While Schelling
+was also interested in overcoming dualism -- especially that of subject and
+object, knower and known -- he took a wildly different approach to the
+Romantics. Where writers like Schlegel and Novalis were fragmentary, poetic, and
+spiritual, Schelling was unrepentantly systematic and focused predominantly on
+*nature*, rather than the religious or spiritual dimensions of life. It was
+thought by Schelling that, if we are to understand how subjectivity is a part of
+reality in the first place, we must understand the natural world from which
+subjectivity emerges. In this regard, Schelling's philosophy took the opposite
+direction to that of his predecessor, Fichte, for whom subjectivity ('the I', or
+*das Ich*) was the fundamental fact of philosophy, from which everything else
+had to be derived.
+
+Schelling's influence led to a 'school' of students working under his influence:
+philosophers who took Schelling's work as though it was a catalogue of clean-cut
+concepts, ready to be applied to any domain of reality. These philosophers are
+among those that Hegel criticises in his preface, accusing them of *formalism*.
+(Hegel claimed that he did not intend to criticise Schelling, who was his close
+friend, specifically. Nonetheless, Schelling seems to have taken the criticism
+personally, and Hegel went on to name Schelling explicitly in his
+*Encyclopaedia*.) Formalism, in this context, refers to the moment when
+philosophy is turned into a rigid and insular play of language: a 'language
+game' in the most disparaging sense. Complicated, incredibly specific concepts
+and terminology are devised, which after a point seem to refer to nothing except
+themselves. Formalism praises itself for its wide scope and range of
+applicability, but amounts to little more than 'the shapeless repetition of one
+and the same thing'. Any philosophical truth is lost, 'ensnared in its origin',
+insofar as 'its development consists in nothing but the repetition of the same
+old formula.'[^32]
+
+> It is all the easier to speak in [a formalist terminology], because if I have
+> no sense of personal shame, I can permit myself to utter every possible
+> nonsense and triviality when I am talking to people in a language that they do
+> not understand.[^33]
+
+Hegel criticises formalism not only for introducing a foreign terminology, but
+also for giving no account of its emergence in history, and its relation to the
+history before it. How did Schelling, Reinhold, and anyone else arrive at their
+conceptual frameworks which are so divorced from everyday language? It is a
+mystery, only to be known by the practitioners of these arcane systems. Without
+making the historical *development* of one's thinking clear, Hegel claims,
+'science has no general intelligibility, and it seems to be the esoteric
+possession of only a few individuals.'[^34] To try and understand the origins
+and intentions of a formalist system of philosophy is akin to trying to see an
+acorn in an oak tree.[^35]
+
+Hegel insists that philosophy must be intelligible to everyone, which is no
+surprise when we recall that, for him, philosophy has the anti-elitist concern
+of finding the conditions for a good life. Consequently, he believes that
+philosophy should be concerned with *everyday* language and concepts. We should
+avoid the formalist temptation of devising our own conceptual vocabularies from
+scratch. Instead, Hegel predicts that when we correctly comprehend ordinary
+concepts, we will find that everyday life contains philosophical, religious, and
+spiritual riches hidden away -- *repressed* -- within it, already there. In this
+way, he wants to show that conceptual content is already present in the
+phenomena of experience; by doing so, he is able to avoid the dualisms of
+'phenomena' and 'noumena', 'appearance' and 'thing in itself', etc., that appear
+in philosophers like Kant.
+
+Hegel's insistence on comprehending everyday concepts is also a rejection of
+formalism's ahistorical nature. Philosophy should not do away with ordinary
+concepts (like the formalists do), but nor should it simply take them for
+granted; rather, as one commentator puts it,
+
+> Science itself must take us by the hand and lead us from our ordinary concepts
+> in their ordinary usage, through all the forgotten and remembered phases, back
+> to those same concepts in the philosophical system.[^36]
+
+Far from taking these concepts at face value, Hegel wants to situate them within
+the story of their development. Unlike the development of an oak tree, which can
+be drawn on a simple timeline between an acorn and the tree itself, human
+thought's *logical* development is not *chronological*. At any one time,
+multiple philosophical views confront us and compete with one another. How do we
+know which view is the most coherent and accurate? Which one is the acorn, the
+sapling, or the tree? The philosopher's task, Hegel thinks, is to acquaint
+themselves with the ordinary views of the present and all the views of the past,
+and comprehend them in their logical development. This is what happens in *The
+Phenomenology of Spirit*: it begins (and frequently returns to) views that might
+be considered 'common sense', and situates them in a line of development towards
+more sophisticated views. The progression in the *Phenomenology* is logical, but
+not chronological, since the changes in philosophy throughout history have not
+always been moves 'forward'. As Stanley Rosen remarks,
+
+> No competent observer would question the superiority of Galileo's mechanics to
+> that of Aristotle. The same cannot be said, however, about the relative merits
+> of the ethical and political teachings of Aristotle on the one hand and of
+> Machiavelli or Hobbes on the other.[^37]
+
+This developmental, anti-formalist approach to philosophy is why Hegel begins
+his work *in medias res*, as mentioned above. The aim of the *Phenomenology* is
+to begin amidst our ordinary understanding, and show how knowledge of 'the
+Absolute' (a concept which Hegel takes from Schelling and transforms) emerges
+from the development of this ordinary thinking. The Absolute, like a repressed
+thought, is already there, waiting to be discovered and unveiled.

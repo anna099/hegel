@@ -9,8 +9,8 @@
 [^4]: §107.
 [^5]: §74.
 [^6]: Frederick Beiser, *Hegel*. (Oxford: Routledge, 2005), p. 160.
-[^7]: H.S. Harris, *Hegel's Ladder*, Volume I: *The Pilgrimage of Reason*. (Cambridge: Hackett, 1997), p. 209.
-[^8]: Harris, *Hegel's Ladder*, I, p. 225.
+[^7]: Harris, *Hegel's Ladder*, I, p. 209.
+[^8]: Ibid., p. 225.
 [^9]: §109.
 [^10]: §110.
 [^11]: All quotations in this paragraph: §113.

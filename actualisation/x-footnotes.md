@@ -89,4 +89,4 @@
 [^66]: Hyppolite, *Genesis and Structure*, p. 288.
 [^67]: §379.
 [^68]: §380.
-[^69]: Harris, *Hegel's ladder*, II. p. 46.
+[^69]: Harris, *Hegel's Ladder*, II. p. 46.

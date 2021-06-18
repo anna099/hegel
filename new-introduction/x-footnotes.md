@@ -10,10 +10,9 @@
 [^5]: Ibid., p. 162.
 [^6]: Alexandre Koyré, *From the Closed World to the Infinite Universe* (Baltimore: Johns Hopkins Press, 1957), p. 2.
 [^7]: Galileo Galilei, 'The Assayer' in *The Essential Galileo*, translated by M.A. Finocchiaro (Indianapolis: Hackett, 2008), p. 183.
-[^8]: Stanley Rosen, *G.W.F. Hegel*, p. xv.
-<!-- Reflection and Speculation -->
+[^8]: Rosen, *G.W.F. Hegel*, p. xv.
 [^9]: Hegel, *The Encyclopaedia Logic*, translated by T. F. Geraets, W. A. Suchting, and H. S Harris (Indianapolis, IN: Hackett, 1991), p. 83 (§41: Addition 2).
-[^10]: Hegel, *The Difference Between Fichte’s and Schelling's System of Philosophy*, translated by H. S. Harris and W. Cerf (Albany, NY: State University of New York Press, 1977), p. 89. Henceforth cited as 'D'.
+[^10]: Hegel, *The Difference Between Fichte’s and Schelling's System of Philosophy*, translated by H. S. Harris and W. Cerf (Albany: State University of New York Press, 1977), p. 89. Henceforth cited as 'D'.
 [^11]: §73.
 [^12]: §74, §76.
 [^13]: §74.
@@ -33,3 +32,13 @@
 [^26]: Hegel, 'The Spirit of Christianity', p. 301.
 [^27]: Friedrich Heinrich Jacobi, *Über die Lehre des Spinoza in Briefen an den Herrn Moses Mendelssohn* (Breslau: Gottlieb Löwe, 1785), p. 17.
 [^28]: Richard Kroner, 'Hegel's Philosophical Development', in *Early Theological Writings*, p. 15.
+[^29]: §7.
+[^30]: Ibid. Emphasis added.
+[^31]: §8.
+<!-- Critique of Formalism -->
+[^32]: §15.
+[^33]: Karl Rosenkranz, 'Hegel's Philosophy of Spirit in the Early Jena Period', in Hegel, *System of Ethical Life and First Philosophy of Spirit*, translated by H.S. Harris and T.M. Knox (Albany: State University of New York Press, 1979), p. 258.
+[^34]: §13.
+[^35]: §12.
+[^36]: H.S. Harris, *Hegel's Ladder*, Volume I: *The Pilgrimage of Reason*. (Cambridge: Hackett, 1997), p. 48.
+[^37]: Rosen, *G.W.F. Hegel*, p. 6.

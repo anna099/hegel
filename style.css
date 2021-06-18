@@ -14,6 +14,7 @@ body {
     margin: 1% auto 1% auto;
     padding: 20px 40px;
     font-family: 'Arno Pro', 'ap', Georgia, serif;
+    font-size: 12.5pt;
     font-weight: 400;
     font-feature-settings: 'onum';
     counter-reset: section;
@@ -185,12 +186,12 @@ hr {
 .footnotes p {
     break-inside: avoid-column;
     page-break-inside: avoid; /* for firefox */
-    font-size: 1em;
+    font-size: 0.98em;
     margin: 0 0 0.3em 0;
 }
 .footnotes blockquote { margin: 0.5em 1em; }
 .footnotes blockquote p {
-    font-size: 0.95em;
+    font-size: 0.98em;
     line-height: 1.1em;
 }
 .footnotes a { color: #eee; }
@@ -201,20 +202,16 @@ hr {
 
 /* See script.js */
 #hover-note {
-    border-right: 1px solid #33330055;
-    border-bottom: 1px solid #33330055;
+    border-left: 1px solid #000000aa;
 
     opacity: 0;
     padding: 0.6em;
     position: fixed;
-    margin-top: -1em;
-    width: 33ch;
-
-    /* body-left-margin - width - extra space */
-    left: calc(25% - 33ch / 2 - 2em);
+    transform: translateY(-50%);
+    width: 18%;
+    left: calc(75%);
 }
 #hover-note p {
-    text-align: right;
     font-size: 0.95em;
     margin: 0;
 }
