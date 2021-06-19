@@ -10,7 +10,7 @@ objects of their desire, and they are also are not free, because they rely so
 constantly on the work of the slave. Freedom requires intelligent
 self-sufficiency, Hegel claims, just as Spinoza had recognised in the *Ethics*:
 
-> That thing is said to be free [*liber*] which exists solely from the
+> That thing is said to be free [*liber*] which exists solely from the necessity
 > of its own nature, and is determined to action by itself alone.[^53]
 
 The slave, on the other hand, has moved towards freedom by expressing their
