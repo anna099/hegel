@@ -37,7 +37,7 @@ while the slave and the master obviously had *thoughts*, they had them only in a
 limited and dependent sense. As Harris describes them, 'Being human, they both
 think, but they think finitely, and in *Vorstellungen* [representations]. Their
 thoughts have external referents, and are not the comprehensive grasping of
-completely intellectual contents (the Under­ standing's concept of Force was the
+completely intellectual contents (the Understanding's concept of Force was the
 first "pure thought" that we had to deal with)'.[^55] That is to say, free
 thought -- which is precisely what the stoic practices -- operates not
 'according to representations or shapes but rather in *concepts*, which is to

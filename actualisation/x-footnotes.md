@@ -1,4 +1,4 @@
-<p id="nav"><a href="observing-self.html">Previous Chapter: Observing\ Self-Consciousness</a></p>
+<div id="nav"><a href="observing-self.html">Previous Chapter: Observing Self-Consciousness</a></div>
 
 </section>
 

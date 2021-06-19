@@ -1,5 +1,4 @@
-<p id="nav"><a href="consciousness.html">Next Chapter: Consciousness</a>
-<a id="biblink" href="bibliography.html">Bibliography of referenced texts</a></p>
+<div id="nav"><a href="consciousness.html">Next Chapter: Consciousness</a></div>
 
 </section>
 

@@ -161,7 +161,7 @@ hr {
 }
 
 /* Paragraph numbering */
-.content>p:not(#nav)::before, .content>ol::before {
+.content>p::before, .content>ol::before {
     counter-increment: section;
     content: '' counter(section) '';
     font-size: .8em;
@@ -263,12 +263,14 @@ img#title {
 }
 
 #nav {
-    text-indent: 0;
     margin-top: 3em;
     text-transform: lowercase;
     font-variant: small-caps;
+    font-size: 1.2em;
     text-align: center;
 }
+
+#nav a { display: block; }
 
 /* Contents: ---------------------------------------------------- */
 #contents {
@@ -336,7 +338,7 @@ img#title {
     }
     .content { max-width: 90%; }
     /* paragraph numbers */
-    .content>p:not(#nav)::before { display: none; }
+    .content>p::before { display: none; }
     .footnotes { width: 85%; margin: 50px auto; }
     .footnotes ol { column-count: 1; }
     /* this looks terrible on phones: */

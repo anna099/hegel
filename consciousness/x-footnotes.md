@@ -1,5 +1,5 @@
-<p id="nav"><a href="self-consciousness.html">Next Chapter: Self-Consciousness</a>
-<a href="index.html">Previous Chapter: Introduction</a></p>
+<div id="nav"><a href="self-consciousness.html">Next Chapter: Self-Consciousness</a>
+<a href="index.html">Previous Chapter: Introduction</a></div>
 
 </section>
 

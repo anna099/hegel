@@ -1,5 +1,5 @@
-<p id="nav"><a href="actualisation.html">Next Chapter: Actualisation of Self-Consciousness</a>
-<a href="observing-nature.html">Previous Chapter: Nature</a></p>
+<div id="nav"><a href="actualisation.html">Next Chapter: Actualisation of Self-Consciousness</a>
+<a href="observing-nature.html">Previous Chapter: Nature</a></div>
 
 </section>
 

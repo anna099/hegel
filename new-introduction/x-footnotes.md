@@ -1,4 +1,4 @@
-<p id="nav"><a href="consciousness.html">Next Chapter: Consciousness</a></p>
+<div id="nav"><a href="consciousness.html">Next Chapter: Consciousness</a></div>
 
 </section>
 
