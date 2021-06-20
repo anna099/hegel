@@ -5,6 +5,7 @@ window.onload = function () {
     hoverNotes();    // hover over a footnote number to see the note.
     numbering();     // add decimal numbering ('4.1.1' etc) to H4's.
     bibLink();       // add link to bibliography below footnotes.
+    followHeading(); // note the heading of the current section at the top
 };
 
 function smallCaps() {
@@ -102,4 +103,30 @@ function bibLink() {
     bl.innerText = "Bibliography";
     let fn = document.querySelector(".footnotes ol");
     fn.parentNode.insertBefore(bl, fn.nextSibling);
+}
+
+function followHeading() {
+    let follow = document.createElement("div");
+    follow.id = "moving-header";
+    document.body.appendChild(follow);
+
+    document.addEventListener("scroll", (e) => {
+        let first_header = document.querySelector("h2");
+        if (first_header.getBoundingClientRect().bottom > 0) {
+            follow.innerHTML = "";
+        }
+
+        let pattern = "h2, h3, h4:not(#author):not(.subtitle)";
+        let headers = document.querySelectorAll(pattern);
+        headers.forEach((h) => {
+            if (h.getBoundingClientRect().bottom < 0) {
+                follow.innerHTML = h.innerHTML;
+            }
+        });
+
+        let notes_pos = document.querySelector(".footnotes hr").getBoundingClientRect().top;
+        if (notes_pos <= 0) {
+            follow.innerHTML = "";
+        }
+    });
 }

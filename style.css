@@ -176,11 +176,10 @@ hr {
 
 /* Footnotes: --------------------------------------------------- */
 .footnotes {
-    border-top: 1px solid rgba(153,153,153, 0.5);
     width: 120%;
     margin: 50px -10%;
 }
-.footnotes hr { display: none; }
+.footnotes hr { width: 100%; }
 .footnotes ol { column-count: 2; column-gap: 3em; }
 .footnotes li,
 .footnotes p {
@@ -326,21 +325,14 @@ img#title {
 
 /* JavaScript elements: ----------------------------------------- */
 #wordcount { text-align: center; color: #ccc; margin-top: 4em; }
-
-/* Responsive Design: ------------------------------------------- */
-@media (orientation: portrait and max-width: 600px) {
-    body {
-        width: 100%;
-        margin: 8% 0 0 0;
-        padding: 0;
-        /* font-size: 30pt; */
-        font-size: 4vw;
-    }
-    .content { max-width: 90%; }
-    /* paragraph numbers */
-    .content>p::before { display: none; }
-    .footnotes { width: 85%; margin: 50px auto; }
-    .footnotes ol { column-count: 1; }
-    /* this looks terrible on phones: */
-    .footnote-back { display: none; }
+#moving-header {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 25%;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    font-size: 1.2em;
+    opacity: 0.5;
 }
+#moving-header em { font-style: normal; }
