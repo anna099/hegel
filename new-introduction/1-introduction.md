@@ -409,3 +409,108 @@ to begin amidst our ordinary understanding, and show how knowledge of 'the
 Absolute' (a concept which Hegel takes from Schelling and transforms) emerges
 from the development of this ordinary thinking. The Absolute, like a repressed
 thought, is already there, waiting to be discovered and unveiled.
+
+#### Substance and Subject {#subs}
+
+In Spinoza's system of philosophy, everything begins with a set of definitions.
+Basic, fundamental propositions are expanded upon to arrive at a comprehensive
+philosophical view. In keeping with his anti-formalist view of philosophy as a
+developing *process*, Hegel is highly critical of this approach: 'No
+philosophical beginning could look worse than to begin with a definition as
+Spinoza does,' he remarks.[^38] We might also recall his dislike of the Romantic
+trend of resting knowledge upon one immediate foundation. In the
+*Phenomenology*'s preface, he explains his criticism:
+
+> It is only as a science or as a *system* that knowing is actual and can be
+> given an exposition; and that any further so-called fundamental proposition or
+> first principle of philosophy, if it is true, is for this reason alone also
+> false just because it is a fundamental proposition or a principle.[^39]
+
+A first principle, like one of Spinoza's definitions, is false *because it is
+true*. What does this mean? The answer is in Hegel's emphasis on *development*
+and *history* in philosophy, that we have already established. A first principle
+or definition, expressed in propositional form, is completely rigid and
+unchanging; as such, it resists the development that is required to comprehend
+things in their concrete actuality -- that is, in their *development*. To grasp
+something in a proposition is to capture its truth only in one moment, only on
+one side -- and 'truth' that is only momentary and one-sided is no truth at all.
+Static, propositional philosophy 'is incapable of expressing what is concrete
+(and what is true is concrete) and speculative', Hegel writes in the
+*Encyclopaedia*; 'because of its form, the judgment is one-sided and to that
+extent false.'[^40]
+
+In spite of all of this, the preface contains some aphoristic remarks which
+*appear*, at the very least, to be 'first principles' of Hegel's thought. They
+have clearly been interpreted in that way by many people, since they have become
+some of the most notorious quotations in Hegel's work. The first is as follows:
+
+> According to my insight, which must be justified through the presentation of
+> the system itself, everything depends upon comprehending and expressing the
+> true not as *substance* but just as much as *subject*.[^41]
+
+Once we understand what this remark means, we will see that it does *not*
+contradict Hegel's criticism of aphorisms and first principles. To start with,
+the ideas of *substance* and *subject* can be compared.
+
+1. 'Substance' is an ancient concept in philosophy, typically traced back to
+   Aristotle, for whom a substance (οὐσία) is that which predicates can apply
+   to, and which is not itself a predicate.[^42] In this sense, substance is
+   understood to be the 'bottom layer' of concrete reality. The English word
+   *substance* comes from Latin *substantia*, literally 'to stand under'.
+   Underneath the changes and various appearances in experience stands
+   substance, which *persists* through time. According to Spinoza, there is just
+   one substance: God -- or nature, which for him is the same thing. This led to
+   a huge controversy, with Jacobi famously accusing Spinoza of atheism and
+   determinism: if God/nature is the single cause of *everything*, then there is
+   surely no room left for individual subjects who cause their own actions.[^43]
+2. 'Subject' is less of a clearly-defined concept. It is typically associated
+   with thought, perception, and so on: the *subject* is the being who
+   perceives and thinks about *objects*, regarding them as separate to them. An
+   important contrast to substance is that a subject plays some role in
+   constituting itself, *determining* what it is. Hegel believed that 'all
+   determinacy is negation', and he attributed this idea to Spinoza (with
+   questioning accuracy): '*omnis determinatio est negatio*, as Spinoza
+   says.'[^44] Accordingly, subjectivity -- the very fact of being a subject --
+   is for Hegel based on the activity of negation. A subject is a being that is
+   able to 'step outside of itself': to recognise an Other, be recognised by an
+   Other, and to contrast themselves with the Other. So, while substances are
+   persistent and self-same, subjects are developmental and determined by what
+   they are *not*, just as much by what they *are*.
+
+A philosopher can choose to give particular priority to substance or subject in
+their work. Those who choose the former might be classified as *materialists*,
+those who choose the latter as *idealists*. Many of the philosophers preceding
+Hegel fit into one of these groups: Walter Kaufmann suggests Spinoza and Fichte
+as representatives of materialism and idealism and J. B. Baillie adds Kant and
+Schelling to the idealist side.[^45] Hegel sees both sides as unsatisfactory:
+for materialism, it seems that 'self-consciousness only perishes and is not
+preserved': as in Jacobi's criticism of Spinoza, to reduce everything to
+substance precludes the possibility of free subjects. Moreover, it seems
+impossible to entirely rule out the existence of ideal things: since 'matter'
+cannot be perceived with the senses, and is a universal derived from various
+different things, is it not itself an idea?[^46]
+
+Even the idealists, who put the subject and its thought at the root of all
+things, are in a difficult situation regarding freedom. An idealist can go the
+route of Leibniz, who endows our knowledge with certainty by suggesting that the
+mind has a pre-established harmony with the unchanging, self-sufficient nature
+of God, but in doing so makes everything determined and completely undermines
+freedom. Alternatively, one can go the route of Kant and Fichte, who maintain
+a belief in subjective freedom, but only via an act of *faith* (in Kant) or an
+'intellectual intuition' (in Fichte): for neither philosopher is freedom
+established as a *fact* of subjectivity.
+
+Materialism-idealism is thus another dualism that Hegel wants to overcome, and
+to understand 'the true not as *substance* but just as much as *subject*' is his
+attempt at doing this. By attributing subjectivity to substance, Hegel is
+claiming that *negativity*, which has been established as central to
+subjectivity, *is also central to substance itself*. That is to say, substantial
+reality itself involves self-othering, involves its own negation, and is
+inherently a *development* and a process. As such, 'substance is subject' is
+permissible as a 'first principle' precisely because it is an *anti*-principle;
+to equate substance (what *is*) with subject (what is *becoming*, in and through
+what it is *not*) is to avoid the rigidity of propositional first principles. To
+understand exactly *how* substance is subject can never be done in a
+proposition; it 'must be justified through the presentation of the system', as
+Hegel writes. The *Phenomenology* will thus show the inherence of negativity
+within reality, the process through which things *become*.

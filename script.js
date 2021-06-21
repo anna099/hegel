@@ -110,7 +110,7 @@ function followHeading() {
     follow.id = "moving-header";
     document.body.appendChild(follow);
 
-    document.addEventListener("scroll", (e) => {
+    document.addEventListener("scroll", () => {
         let first_header = document.querySelector("h2");
         if (first_header.getBoundingClientRect().bottom > 0) {
             follow.innerHTML = "";

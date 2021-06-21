@@ -42,3 +42,12 @@
 [^35]: §12.
 [^36]: H.S. Harris, *Hegel's Ladder*, Volume I: *The Pilgrimage of Reason*. (Cambridge: Hackett, 1997), p. 48.
 [^37]: Rosen, *G.W.F. Hegel*, p. 6.
+[^38]: D 105.
+[^39]: §24.
+[^40]: Hegel, *The Encyclopaedia Logic*, p. 69 (§31).
+[^41]: §17, my translation.
+[^42]: See Aristotle, *Categories* and *Metaphysics* Z (VII).
+[^43]: This is a very brief and oversimplified account of Jacobi's anti-Spinozism. For more detail see *Concerning the Doctrine of Spinoza in Letters to Herr Moses Mendelssohn* (1785) in *The Main Philosophical Writings and the Novel Allwill*, translated by G. Di Giovanni (Montreal: McGill-Queen's University Press, 2009).
+[^44]: Hegel, *The Encyclopaedia Logic*, p. 147 (§91: Addition).
+[^45]: Walter Kaufmann, *Hegel: Texts and Commentary* (New York: Anchor Books, 1966), p. 29; Hegel, *The Phenomenology of Mind*, translated by J. B. Baillie (London: George Allen & Unwin, 1964), p. 80.
+[^46]: See §252.
