@@ -1,4 +1,5 @@
 window.onload = function () {
+    handleMobile();  // change the <body> if user is on mobile.
     pageTitle();     // set the page title to something appropriate.
     smallCaps();     // sections begin with a few words in small caps.
     wordCount();     // a wordcount appears at the end of the page.
@@ -7,6 +8,21 @@ window.onload = function () {
     bibLink();       // add link to bibliography below footnotes.
     followHeading(); // note the heading of the current section at the top
 };
+
+function handleMobile() {
+    if (isMobile()) {
+        document.body.setAttribute("mobile", true);
+    }
+}
+
+function isMobile() {
+    const matches = ['Android', 'webOS', 'iPhone', 'iPad',
+        'iPod', 'BlackBerry', 'Windows Phone', 'Mobile'];
+
+    return matches.some((item) => {
+        return navigator.userAgent.indexOf(item) >= 0;
+    });
+}
 
 function smallCaps() {
     const selector = "h3 + p, h4 + p, h3 + blockquote + p, h4 + blockquote + p";
@@ -65,7 +81,7 @@ function pageTitle() {
 function numbering() {
     let subheads = document.querySelectorAll("h4:not(#author):not(.subtitle)");
     subheads.forEach((s) => {
-        s.setAttribute('js-number', getContentsIndex(s.id));
+        s.setAttribute("js-number", getContentsIndex(s.id));
     });
 }
 
@@ -119,7 +135,7 @@ function followHeading() {
         let pattern = "h2, h3, h4:not(#author):not(.subtitle)";
         let headers = document.querySelectorAll(pattern);
         headers.forEach((h) => {
-            if (h.getBoundingClientRect().bottom < 0) {
+            if (h.getBoundingClientRect().top < 20) {
                 follow.innerHTML = h.innerHTML;
             }
         });
