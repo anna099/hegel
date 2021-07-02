@@ -418,9 +418,15 @@ img#title {
 
 body[mobile="true"] {
     width: 85%;
+    margin-top: 15%;
     font-size: 18pt;
 }
 
+body[mobile="true"] #contents li::before,
+body[mobile="true"] .content>p::before,
+body[mobile="true"] .content>ol::before,
+body[mobile="true"] #author,
+body[mobile="true"] #pre-author,
 body[mobile="true"] #moving-header,
 body[mobile="true"] #hover-note,
 body[mobile="true"] .footnote-back {
