@@ -5,67 +5,125 @@
 
 html {
     --pale: #fdfdfc;
-    --cred: #a14a3f;
-    --ctext: #1a0f00;
+    --red: #a14a3f;
+    --black: #1a0f00;
+    --lightgrey: #d2d2d2;
+    --blue: #e7eff6;
 }
 
 body {
     width: 50%;
-    margin: 1% auto 1% auto;
-    padding: 20px 40px;
-    font-family: 'Arno Pro', 'ap', Georgia, serif;
+    margin: 3% auto;
+
+    font-family: 'Arno Pro', 'ap', Garamond, Georgia, serif;
     font-size: 12.5pt;
-    font-weight: 400;
     font-feature-settings: 'onum';
-    counter-reset: section;
-    color: var(--ctext);
+
+    color: var(--black);
     background: var(--pale);
+
+    counter-reset: section;
 }
 
-/* Main Text: --------------------------------------------------- */
-.content { max-width: 60ch; margin: 0 auto; }
+/* Main text ------------------------------------------------ */
+
+.content {
+    max-width: 60ch;
+    margin: 0 auto;
+}
+
 p,
 blockquote p,
 .content li {
     margin-bottom: 0;
-    position: relative;
+
     font-size: 1.13em;
     line-height: 1.3;
     text-align: justify;
 }
-.content li p { font-size: 1em; }
-p + p { text-indent: 1.3em; margin-top: 0; }
-strong { font-weight: 600; }
-a[href] { text-decoration: none; color: var(--cred); }
-a[href]:hover { text-decoration: underline; }
-sup {
-    color: var(--ctext);
-    font-size: 0.7em;
-    font-feature-settings: 'nnum';
-    vertical-align: baseline;
-    position: relative;
-    top: -0.4em;
+
+p + p {
+    margin-top: 0;
+    text-indent: 1.3em;
 }
+
+strong { font-weight: 600; }
+
+::selection {
+    background: var(--blue);
+}
+
+hr {
+    width: 20em;
+    margin: 1.3em auto;
+    border: none;
+    border-top: 1px solid var(--lightgrey);
+}
+
+/* paragraph numbering */
+
+.content>p::before, .content>ol::before {
+    clear: right;
+    float: right;
+    margin-right: -10%;
+
+    font-size: 0.8em;
+    color: var(--lightgrey);
+    white-space: nowrap;
+    counter-increment: section;
+    content: counter(section);
+}
+
+/* lists */
+
 .content ol {
+    position: relative; /* required for the numbers, see below */
     padding-left: 0;
     counter-reset: item;
     list-style-type: none;
 }
+
 .content ol li::before {
     position: absolute;
     left: -1.3em;
     content: counter(item) ' ';
     counter-increment: item;
 }
-::selection {
-    background: #e7eff6;
+
+.content li p { font-size: 1em; }
+
+/* links and footnote numbers */
+
+a[href] {
+    text-decoration: none;
+    color: var(--red);
 }
+a[href]:hover {
+    text-decoration: underline;
+}
+
+sup {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+
+    font-size: 0.7em;
+    font-feature-settings: 'nnum';
+}
+
+.sc { /* small caps */
+    text-transform: lowercase;
+    font-variant: small-caps;
+}
+
+/* tables */
 
 table {
     margin: 2em auto;
     line-height: 1.7;
-    border-top: 1px solid var(--ctext);
-    border-bottom: 1px solid var(--ctext);
+
+    border-top: 1px solid var(--black);
+    border-bottom: 1px solid var(--black);
     border-collapse: collapse; /* allows for internal borders */
 }
 
@@ -73,58 +131,66 @@ thead { border-bottom: 1px solid var(--ctext); }
 th { font-weight: normal; }
 td, th { padding: 0 0.3em; }
 
-/* Epigraphs, special text, etc. */
+/* epigraphs, special text, etc. */
+
 .epigraph {
     width: 80%;
     padding-left: 11%;
-    font-size: 1em;
     margin-top: 2.5em;
+
+    font-size: 1em;
     text-align: justify;
-    font-feature-settings: 'swsh';
+    font-feature-settings: 'swsh'; /* swashes */
 }
+
 .epigraph.short { text-align: right; }
-.epigraph footer {
+
+.epigraph footer { /* i.e. the citation */
     margin-top: 0.6em;
+
     font-variant: small-caps;
+    font-feature-settings: normal;
     text-transform: lowercase;
     letter-spacing: 1px;
-    text-align: right;
-    font-feature-settings: normal;
 }
-/* This part is for the actual source, i.e., not the author's name */
-.epigraph footer em {
+
+.epigraph footer em { /* the source text in the citation */
     font-variant: normal;
     text-transform: none;
     letter-spacing: normal;
 }
 
-/* For definitions, special quotations, etc. */
-.special {
+.special { /* for definitions, special quotations, etc. */
     width: 80%;
     margin: 1em auto;
     text-align: justify;
 }
+
 .special strong {
     font-variant: small-caps;
     font-weight: normal;
     text-transform: lowercase;
-    font-family: 'Optima', 'ap';
+    font-family: 'Optima', 'ap', serif;
 }
+
 p + .special {
     margin-top: 1em;
     text-indent: 0;
 }
 
-/* Headers */
+/* headings */
+
 h2, h3 { text-align: center; }
-h2 {
+
+h2 { /* main chapter titles, e.g. 'Consciousness' or 'Reason' */
     font-size: 1.9em;
     padding-top: 10px;
     margin-bottom: -0.34em;
     font-weight: 400;
-    color: var(--cred);
+    color: var(--red);
 }
-h3 {
+
+h3 { /* section titles, e.g. 'Sensuous Certainty' or 'Mastery and Servitude' */
     margin-top: 2em;
     margin-bottom: 5px;
     font-weight: 400;
@@ -133,206 +199,230 @@ h3 {
     text-transform: lowercase;
 }
 
-h4:not(#author):not(.subtitle) {
+h4:not(#author):not(.subtitle) { /* mini-section titles, e.g. 'Skepticism' or Pleasure and Necessity' */
     font-size: 1.12em;
     font-weight: normal;
     font-style: italic;
     margin: 2em 0 1em 0;
 }
+
 h4:not(#author):not(.subtitle)::before {
-    content: attr(js-number);
+    content: attr(js-number); /* see script.js */
     font-style: normal;
     margin-right: 0.75em;
-}
-h5 {
-    margin: 0;
-    font-size: 1.1em;
-    font-weight: normal;
-    text-decoration: underline;
-    opacity: 0.6;
-}
-h5 + p { margin-top: 0.3em; }
-
-hr {
-    width: 20em;
-    margin: 1.3em auto;
-    border: none;
-    border-top: 1px solid rgba(20, 20, 20, 0.2);
-}
-
-/* Paragraph numbering */
-.content>p::before, .content>ol::before {
-    counter-increment: section;
-    content: '' counter(section) '';
-    font-size: .8em;
-    line-height: 1.1em;
-    color: var(--ctext);
-    opacity: 0.6;
-    white-space: nowrap;
-    clear: right;
-    float: right;
-    margin-right: -10%;
-}
-
-/* Footnotes: --------------------------------------------------- */
-.footnotes {
-    width: 120%;
-    margin: 50px -10%;
-}
-.footnotes hr { width: 100%; }
-.footnotes ol { column-count: 2; column-gap: 3em; }
-.footnotes li,
-.footnotes p {
-    break-inside: avoid-column;
-    page-break-inside: avoid; /* for firefox */
-    font-size: 0.98em;
-    margin: 0 0 0.3em 0;
-}
-.footnotes blockquote { margin: 0.5em 1em; }
-.footnotes blockquote p {
-    font-size: 0.98em;
-    line-height: 1.1em;
-}
-.footnotes a { color: #eee; }
-.footnotes a:hover { color: var(--cred); }
-/* Selected footnote */
-.footnotes li:target { background: #33330011; }
-.footnotes li:target a { color: #999; }
-
-/* See script.js */
-#hover-note {
-    border-left: 1px solid #000000aa;
-
-    opacity: 0;
-    padding: 0.6em;
-    position: fixed;
-    transform: translateY(-50%);
-    width: 18%;
-    left: calc(75%);
-}
-#hover-note p {
-    font-size: 0.95em;
-    margin: 0;
 }
 
 .subtitle {
     margin: -0.25em 0 0.25em 0;
     text-align: center;
     font-style: italic;
-    font-weight: 400;
-}
-
-.sc { /* small caps */
-    text-transform: lowercase;
-    font-variant: small-caps;
+    font-weight: normal;
 }
 
 img#title {
     display: block;
     margin: 30px auto 30px auto;
     width: 55%;
-    opacity: 0.9;
 }
 
 #author {
-    text-align: center;
     margin: 0;
-    font-weight: 400;
-    text-transform: lowercase;
+
     font-variant: small-caps;
+    font-weight: 400;
     font-size: 1.3em;
+    text-align: center;
+    text-transform: lowercase;
     letter-spacing: 0.1em;
-    color: var(--ctext);
+    color: var(--black);
 }
 
-#pre-author {
-    font-size: 1.1em;
-    text-align: center;
+#pre-author { /* "Notes on Hegel's" */
     margin: 0;
+
+    font-size: 1.1em;
     font-weight: normal;
     font-style: italic;
+    text-align: center;
     letter-spacing: 0.1em;
-    text-decoration: none;
 }
 
-#title-info {
+#title-info { /* 'Last edited' info */
     text-align: center;
     font-style: italic;
     opacity: 0.8;
 }
 
+/* Contents ------------------------------------------------- */
+
+#contents {
+    width: 50%;
+    margin: 2em auto 4em auto;
+    padding-left: 2.4rem;
+    white-space: nowrap;
+
+    counter-reset: toc;
+}
+
+#contents ol {
+    padding-left: 0;
+    counter-reset: toc;
+}
+
+#contents li {
+    margin-top: 0;
+    display: block;
+    list-style-type: none;
+}
+
+#contents > li {
+    margin-top: 1em;
+}
+
+#contents li li li a {
+    margin-left: 1em;
+}
+
+/* contents numbering */
+#contents li::before {
+    position: absolute;
+    width: 2.4rem;
+    transform: translate(-3.2rem);
+
+    text-align: right;
+    color: var(--lightgrey);
+
+    content: counters(toc, '.') ' ';
+    counter-increment: toc;
+}
+
+#contents a { line-height: 1.375em; }
+
+/* extra indentation */
+#contents li.ind { padding-left: 1rem; }
+#contents li.ind::before { transform: translate(-4.2rem); } /* see values above */
+
+/* Navigation ----------------------------------------------- */
+
 #nav {
     margin-top: 3em;
-    text-transform: lowercase;
+
     font-variant: small-caps;
     font-size: 1.2em;
+    text-transform: lowercase;
     text-align: center;
 }
 
 #nav a { display: block; }
 
-/* Contents: ---------------------------------------------------- */
-#contents {
-    width: 50%;
-    padding-left: 2.4rem;
-    margin: 2em auto;
-    margin-bottom: 4em;
-    white-space: nowrap;
-    counter-reset: toc;
-}
-#contents ol { padding-left: 0; counter-reset: toc; }
-#contents li { list-style-type: none; display: block; margin-top: 0 }
-#contents li li li a { margin-left: 1em; }
-#contents > li { margin-top: 1em; }
-/* Decimal numbering */
-#contents li::before {
-    position: absolute;
-    width: 2.4rem;
-    transform: translate(-3.2rem);
-    text-align: right;
-    content: counters(toc, '.') ' ';
-    counter-increment: toc;
-    color: var(--ctext);
-    opacity: 0.2;
-}
-#contents a { line-height: 1.375em; text-decoration: none; }
-#contents a:hover { border-bottom: 1px solid rgb(153, 153, 153); }
-/* Some parts need to be indented */
-#contents li.ind { padding-left: 1rem; }
-#contents li.ind::before { transform: translate(-4.2rem); }
+/* The footnotes section ------------------------------------ */
 
-/* Bibliography: ------------------------------------------------ */
-#biblink { /* link following the footnotes */
-    color: var(--cred);
+.footnotes {
+    width: 120%;
+    margin: 50px -10%;
+}
+
+.footnotes hr { width: 100%; }
+
+.footnotes ol {
+    column-count: 2;
+    column-gap: 3em;
+}
+
+.footnotes li,
+.footnotes p {
+    break-inside: avoid column;
+    page-break-inside: avoid; /* firefox */
+    font-size: 0.98em;
+    margin: 0 0 0.3em 0;
+}
+
+.footnotes blockquote { margin: 0.5em 1em; }
+
+.footnotes blockquote p {
+    font-size: 0.9em;
+    line-height: 1.1;
+}
+
+.footnotes a { color: var(--lightgrey); }
+.footnotes a:hover { color: var(--red); }
+
+/* selected footnote */
+.footnotes li:target { background: #33330011; }
+
+#biblink { /* link in footnotes to bibliography.html */
     display: block;
     text-align: center;
+    color: var(--red);
 }
+
+/* Bibliography --------------------------------------------- */
+
 .bib {
     padding: 0;
     text-align: left;
     font-size: 0.95em;
 }
+
 .bib li {
     list-style-type: none;
     text-indent: -2em;
     margin-left: 2em;
     margin-bottom: 0.2em;
 }
-.bib li span {
-    text-transform: lowercase;
+
+.bib li span { /* author names */
     font-variant: small-caps;
+    text-transform: lowercase;
 }
 
-/* JavaScript elements: ----------------------------------------- */
-#wordcount { text-align: center; color: #ccc; margin-top: 4em; }
+/* JavaScript elements -------------------------------------- */
+
+#hover-note {
+    border-left: 1px solid #000000aa;
+
+    position: fixed;
+    opacity: 0; /* see script.js */
+    padding: 0.6em;
+    transform: translateY(-50%);
+    width: 18%;
+    left: 75%;
+}
+
+#hover-note p {
+    font-size: 0.95em;
+    margin: 0;
+}
+
+#wordcount {
+    margin-top: 4em;
+    text-align: center;
+    color: var(--lightgrey);
+}
+
 #moving-header {
     position: fixed;
     top: 20px;
     left: 20px;
     width: 25%;
-    text-transform: lowercase;
+
     font-variant: small-caps;
     font-size: 1.2em;
+    text-transform: lowercase;
     opacity: 0.5;
 }
+
 #moving-header em { font-style: normal; }
+
+/* Mobile-friendly design ----------------------------------- */
+
+body[mobile="true"] {
+    width: 85%;
+    font-size: 18pt;
+}
+
+body[mobile="true"] #moving-header,
+body[mobile="true"] #hover-note,
+body[mobile="true"] .footnote-back {
+    display: none;
+}
