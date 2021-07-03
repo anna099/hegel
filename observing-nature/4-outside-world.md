@@ -166,8 +166,8 @@ stream of life, manifest as a universal, shapes the matter of the Earth and
 accordingly gives rise to a species, a singular embodiment of the universal
 genus. As such, 'the differences of the concept' are exhibited 'as a series of
 simple determinatenesses', Hegel explains.[^90] This is likely a reference to
-medieval and early modern thinkers of 'the great chain of being'; for instance
-Leibniz, Alexander Pope, for whom
+medieval and early modern thinkers of 'the great chain of being' -- Alexander
+Pope, for instance, for whom
 
 > All are but parts of one stupendous whole,<br>
 > Whose body Nature is, and God the soul.[^91]
