@@ -64,4 +64,5 @@
 [^55]: Ibid.
 [^56]: Alenka Zupančič, *What IS Sex?* (Cambridge, MA: The MIT Press, 2017), p. 48.
 [^57]: See Hegel, *The Encyclopaedia Logic*, §91.
-[^58]: Kroner, 'Hegel's Philosophical Development', p. 32.
+[^58]: See Harris, *Hegel's Ladder*, I, p. 146 for Hegel's idea of the concept.
+[^59]: Kroner, 'Hegel's Philosophical Development', p. 32.

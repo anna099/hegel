@@ -364,6 +364,12 @@ idea of a universe that is *at its heart* incomplete is one that will
 
 #### Dialectical Thinking {#dial}
 
+<blockquote class="short epigraph">
+Do I contradict myself?<br>
+Very well then I contradict myself,<br>
+(I am large, I contain multitudes.)
+<footer>Walt Whitman, <em>Song of Myself</em>, 1855</footer></blockquote>
+
 At this point, we are left with the question: how is the development of the
 *Phenomenology* -- the 'voyage of discovery', as Hegel called it -- supposed to
 progress? What makes it move? Deep into his long preface, Hegel finally gives us
@@ -414,11 +420,45 @@ importance since, as noted above, *all* determination for Hegel -- that is, all
 particularities and qualities of an object -- is made possible through
 negativity.[^57] For this reason, only conceptual thinking can carry actual,
 positive content; and it does so by negativity and development in the very thing
-it is thinking about. This is what makes Hegel's work **dialectical**. Despite
-what many misconceptions and misrepresentations would have us believe,
+it is thinking about. The negativity that conceptual thinking acknowledges in
+reality is central to what we established above as the *subjectivity* of
+substantial reality. All this is what makes Hegel's work **dialectical**.
+
+Despite what many misconceptions and misrepresentations would have us believe,
 'dialectics' is not a readymade method which can be applied universally to any
-problem of philosophy. There is no 'monotonous trick that could be learned and
-repeated' in Hegel's work, Richard Kroner insists.[^58] Rather, philosophy is
-dialectical when thinking refuses to trail behind its objects, desperately
-shuffling propositions and predicates in an attempt to grasp a reality that is
-constantly changing. 
+problem of philosophy. The idea of a 'thesis' being followed by an 'antithesis',
+and the two being followed by a greater 'synthesis', is wildly inaccurate and to
+be found nowhere in Hegel's writing. Rather, philosophical thinking is
+dialectical when it refuses to trail behind its objects, desperately shuffling
+propositions and concepts in an attempt to grasp a reality that is constantly
+changing. A non-dialectical, argumentative thinker will throw away their
+'concepts' as soon as the contradictions of reality challenge them. In
+dialectical philosophy, on the other hand, we are concerned with '*the* concept'
+[*der Begriff*] as such: the constantly moving account we keep of reality *as a
+whole*.[^58] The concept is not supposed to 'match' reality or 'signify' it, as
+someone like William of Ockham would have us believe; rather, the concept *is*
+reality, in the same way that Plato's 'ideas' or Aristotle's 'essences' are.
+'The "nature" of a thing is something thought, but it also is something
+operative in the thing,' Richard Kroner writes.[^59]
+
+As such, when dialectical philosophy encounters contradictions in experience, it
+takes these moments as *determinate negations*. Contradiction is not a failure
+for Hegel; rather, it is a sign of success. A contradiction in the concept's
+development allows the concept to account for something previously unaccounted
+for. This is precisely the way in which the *Phenomenology* progresses: Hegel
+(or the narrator, or the protagonist, for this is a 'voyage', after all)
+expresses his concept -- a claim to grasp reality with absolute certainty -- and
+elaborates upon it until a contradiction is found. It is at these moments of
+contradiction that the concept *embraces* the negativity it was repressing, and
+reaches a more holistic stage. In the rest of this commentary, I hope to
+demonstrate how this holism evolves from the simple naivety of sense-perception
+into the sophistications of drama and politics.
+
+Today's intellectual atmosphere is skeptical of any grand accounts of 'The
+Truth'. It is more comfortable to concern ourselves with tiny, trivial problems
+that remain safe among the few people who speak the right academic language. A
+world in which philosophers have something substantial to say about how we live,
+and how we should live, seems almost ancient. But *The Phenomenology of Spirit*
+isn't yet old enough to be forgotten, and Hegel, despite living in an atmosphere
+comparable to ours, had the courage to be ambitious. It is left to the reader to
+decide whether or not he was successful.

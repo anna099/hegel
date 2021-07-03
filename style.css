@@ -390,8 +390,9 @@ img#title {
 }
 
 #hover-note p {
-    font-size: 0.95em;
     margin: 0;
+    font-size: 0.95em;
+    text-align: left;
 }
 
 #wordcount {

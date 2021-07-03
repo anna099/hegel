@@ -1,14 +1,14 @@
 ## Introduction {#int}
 
+<blockquote class="epigraph">Every philosophy is complete in itself, and like an
+authentic work of art, carries the totality within itself. Just as the works of
+Apelles or Sophocles would not have appeared to Raphael and Shakespeare -- had
+they known them -- as mere preparatory studies, but as a kindred force of the
+spirit, so Reason cannot regard its former shapes as merely useful preludes to
+itself. <footer>G.W.F. Hegel, <em>The Difference Between Fichte's and
+Schelling's System of Philosophy</em>, 1801</footer></blockquote>
+
 ### Hegel's Project
-
-<div class="special">**Phenomenology** (*Phänomenologie*): an account of the
-ways in which something appears; an account of the *phenomena* of something in
-its manifestation.</div>
-
-<div class="special">**Spirit** (*Geist*): the living, evolving activity of
-society and culture, representative of humanity's self-consciousness at a
-particular time, represented in art, religion, philosophy, and science.</div>
 
 In October 1806, as Napoleon and his forty-thousand soldiers invaded Jena, Georg
 Wilhelm Friedrich Hegel (1770-1831) was nearby, finishing his famous book: *The
