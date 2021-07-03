@@ -14,7 +14,7 @@
 # of contents.
 #
 
-chapters=('introduction' 'prologue' 'new-introduction'
+chapters=('introduction'
         \ 'consciousness'
         \ 'self-consciousness'
         \ 'reason-intro' 'observing-nature' 'observing-self'

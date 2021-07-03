@@ -1,195 +1,4 @@
-## Introduction {#int}
-
-(This revised introduction is still a work in progress and ends abruptly.)
-
-### Hegel's Project
-
-<div class="special">**Phenomenology** (*Phänomenologie*): an account of the
-ways in which something appears; an account of the *phenomena* of something in
-its manifestation.</div>
-
-<div class="special">**Spirit** (*Geist*): the living, evolving activity of
-society and culture, representative of humanity's self-consciousness at a
-particular time, represented in art, religion, philosophy, and science.</div>
-
-In October 1806, as Napoleon and his forty-thousand soldiers invaded Jena, Georg
-Wilhelm Friedrich Hegel (1770-1831) was nearby, finishing his famous book: *The
-Phenomenology of Spirit*. The book has the intended purpose of introducing the
-reader to Hegel's overall philosophical project, the 'science of logic'. Though
-it might seem strange today, when we associate 'logic' with symbolic languages
-or the rules of good argumentation, it makes sense to call Hegel a *logician*,
-in a unique sense that we will come to understand. Things are even stranger when
-we open the *Phenomenology* and find in it quotations from poetry, allusions to
-the Haitian revolution, Ancient Greek cults and Martin Luther's health
-conditions, prose that randomly alternates between dramatic, profound imagery
-and opaque, abstract concepts, and philosophical interpretations of practices as
-basic as sense-perception and as complex as organised religion.
-
-Nonetheless, the book has a purpose. It is a *phenomenology* insofar as it tries
-to make sense of the phenomena of humanity's various attempts throughout history
-at absolute, certain knowledge of the world and of themselves. Of course, this
-is a very ambitious project, and as such it is no surprise that the book is
-often very difficult to understand. The two-hundred years of its existence have
-brought no consensus on its overall meaning: it has been interpreted as a
-metaphysical Bildungsroman, a systematic defence of orthodox Christianity, a
-revolutionary *critique* of Christianity, and as a text that is
-proto-existentialist, proto-communist, proto-fascist, or proto-nihilistic.
-Contemporary 'analytic' philosophy originally emerged out of British and
-Austrian philosophers completely *rejecting* Hegel, while 'Continental'
-philosophy -- in the work of Michel Foucault, Simone De Beauvoir, or Jacques
-Derrida, for instance -- has always had Hegel as an influence, at least in the
-background.
-
-The general aim of this writing is to provide a commentary on Hegel's
-*Phenomenology*, with frequent reference to other texts both from the
-contemporary era and from Hegel's time. Any great intellectual or artistic work
-of history seems to me to be infinitely deep, and the same is true for the
-*Phenomenology of Spirit*. It would presumably be possible to research this book
-(and any other great book) for the rest of a lifetime and still find something
-new every day. We therefore have to be limited by a particular *purpose*; the
-purpose of my commentary is to hopefully make the *Phenomenology* a little
-easier to read, and put it in some degree of historical and philosophical
-context.
-
-So ... what *is* the *Phenomenology of Spirit* about? What kind of 'logic' is it
-an introduction to? One way of describing the book is that it attempts to
-prepare us (that is, people living in modernity) to adopt a completely new way
-of knowing ourselves and the world around us. In Hegel's own words, his task is
-for philosophy to 'lay aside the title of *love* of *wisdom* and be *actual
-wisdom*.'[^1] This 'actual wisdom', for Hegel, is not just a set of facts to be
-accumulated; it is not even a *method* for ascertaining facts. Rather, Hegel's
-project has concrete ambitions as well as theoretical ones, and all of these
-ambitions come out of the problems that he saw in modern life. To give an idea
-of the motivation behind the *Phenomenology*, some of these ambitions can be
-introduced.
-
-Taking great influence from the Hellenistic philosophers, Hegel sees philosophy
-as being fundamentally concerned with living a good life. Life in modern
-society, as he sees it, is to some significant degree characterised by the
-notion of 'unhappy consciousness': the human spirit is homeless, living an
-objectified existence in a world that it *understands* but in which it feels no
-sense of *belonging*. 'Spirit, so to speak, floats over the waters of the void:
-it is in one sense a god, but more fundamentally, an impotent god.'[^2]
-Subjectivity is born out of the awareness of one's *separation* from objectivity
-(the world), and until an individual can overcome this separation and see
-themselves reflected in the world, they will remain unhappy.[^3] It is central
-to Hegel's project that philosophy has a role to play in overcoming this
-unhappiness; however, in doing so, it faces the challenge of the many forms of
-separation that dominate modernity.
-
-#### Dualism {#dual}
-
-Hegel sees modern life as rife with dualisms, just like that of the individual
-and the world that they are separated from. In his view, the transformation of
-religion throughout history was one way that these dualisms came to be dominant.
-While the Ancient Greek and Roman gods 'were individual and incomplete beings'
-like humans, and 'could not satisfy the demands of a universal ideal', the
-impact of Christianity on modernity introduced a rift between God, the perfect
-and unchangeable being, and humanity, who must remain conscious of our apparent
-nothingness.[^4] In the Christian worldview, happiness is found only in the
-Kingdom that awaits us after death. This is not just applicable to religious
-people, however: Hegel relates the spirit of Christianity to a concrete social
-cause. It was when 'the despotism of the Roman emperors had chased the human
-spirit from the earth', leaving people oppressed and with no hope for earthly
-life, he argues, that real misery on earth ensued and 'compelled men to seek and
-expect happiness in heaven.'[^5]
-
-There is thus a modern unhappiness that mourns humanity's separation from the
-world, from divinity, and from the universal. As Hegel sees it, the unhappiness
-of dualism exists in science and philosophy as well -- and these problems, just
-like the spiritual and religious ones above, can also be understood by
-understanding modernity's development upon ancient thought. In the modern age,
-science underwent a huge revolution, which Alexandre Koyré describes in broad
-terms as
-
-> the disappearance ... of the conception of the world as a finite, closed, and
-> hierarchically ordered whole (a whole in which the hierarchy of value
-> determined the hierarchy and structure of being...), and its replacement by an
-> indefinite and even infinite universe which is bound together by the identity
-> of its fundamental concepts and laws.[^6]
-
-The 'infinite universe' cannot be fit into a closed hierarchy, like that of the
-Aristotelian picture that dominated in the premodern world, and is thus
-understood as a mechanistic (or 'corpuscular') totality. It is impossible to
-know *every*thing about a cosmos that is infinite, but it is possible to
-construct a method by which *any*thing can be known. This is what gives rise to
-the image of the universe as 'all-encompassing book', as Galileo described it,
-'written in mathematical language'.[^7] Now, the idea that all phenomena can be
-explained mathematically implies that, behind the appearance of the universe,
-there is some mathematical *essence* that guides everything. Stanley Rosen calls
-this 'a kind of materialistic version of Pythagoreanism.'[^8] For everything to
-be essentially mathematical means that either there is a Platonic realm of
-mathematical essences, or that mathematical structure is imposed by the
-subjective mind. In either scenario, we are left with a dualism: one of
-appearance and essence, or of subjective and objective.
-
-These scientific and philosophical dualisms -- dualisms of *knowledge*, rather
-than of culture or religion -- are a problem for Hegel because they separate the
-mind from its objects, the intellect from the 'Absolute' (that is, ultimate and
-unconditioned reality). When Kant, for example, claims that we can only have
-objective knowledge if we severely *limit* our cognition, and apply it only to
-objects as they *appear* to us, he leaves an 'impassable gulf' between thought
-and its objects.[^9] Hegel is thinking of this kind of philosophy, which he
-calls 'reflective philosophy', when he writes:
-
-> The intellect, as the capacity to set limits, erects a building and places it
-> between man and the Absolute, linking everything that man thinks worthy and
-> holy to this building, fortifying it through all the powers of nature and
-> talent and expanding it *ad infinitum*. The entire totality of limitations is
-> to be found in it, but not the Absolute itself.[^10]
-
-In the introduction to the *Phenomenology*, Hegel gives a more specific critique
-of reflective philosophy in philosophers like Descartes and, most especially,
-Kant. Such philosophers, he writes, regard cognition as 'the instrument by which
-one seizes hold of the absolute'; it is an *instrument* in the way that it 'goes
-about forming and changing' the objects of thought so that they comply with the
-structures of intelligibility.[^11] The problem with cognition in the
-instrumental sense is that it leaves behind a 'thing in itself': the absolute
-remains completely unknown. If we subtract from our thoughts all the
-modifications that cognition places on its objects, we are left with what we had
-prior to these modifications: namely, nothing. Likewise, if we understand
-cognition as a 'medium' through which we experience the world (like a set of
-glasses that make objects intelligible to us), then we cannot 'undo' the
-qualification of this medium without ending up where we started: with an
-indeterminate, unintelligible nothingness.
-
-Hegel was opposed to this epistemological dualism, wherein 'the absolute stands
-*on one side* and ... *cognition stands on the other*', and the task of the
-philosopher is therefore to 'fuss about', establishing the structure and rules
-of thinking before actually *getting on* with thinking itself.[^12] 'Fear of
-erring,' he says famously, 'is already the error itself.'[^13] His
-discomfort with this strategy of establishing rules and concepts before they
-enter their living context explains some of the *Phenomenology*'s difficulty:
-its concepts and ideas are not established prior to being put to use; rather, it
-is up to us to realise what they mean *through* the very manner in which they
-are used.
-
-Hegel wants philosophy to help us overcome the prevalence of dualism, which
-'crystallizes the modifications of nature, the relationships of life, into
-mundane realities,' and extracts all spirit from life and places it in an
-unknowable figure (God, the thing in itself, etc).[^14] He wants philosophy to
-bring us back to the earth and find happiness not in a divine other world, but
-in ourselves and our society. Accordingly, he favours a *speculative* philosophy
-over a reflective one; 'The principle of speculation', he writes, 'is the
-*identity* of subject and object.'[^15] His approach to overcoming the dualisms
-described above -- dualisms of the individual and the world, the knower and the
-known, and so on -- is the *reconcile* subject to object, and vice versa. In
-fact, he sees this as the task of philosophy as such: though he claims that
-'life eternally forms itself by setting up oppositions', 'what Reason opposes
-... is just the absolute fixity which the intellect gives to the
-dichotomy.'[^16]
-
-> When the might of union vanishes from the life of men and the antitheses lose
-> their living connection and reciprocity and gain independence, the need of
-> philosophy arises.[^17]
-
-If the dualisms of culture and philosophy are not to be overcome by a philosophy
-whose structure is worked out ahead of time, then philosophy must instead *enter
-into* the problems, *in medias res*, and work them out from within. This is how
-the *Phenomenology*'s preface begins: like Aristotle, Hegel begins by looking
-out upon his contemporary landscape and assessing its various ways of thinking.
-How have other philosophers tried to find unity against dualism? Why have they
-failed (in Hegel's view)?
+### The Preface {#pref}
 
 #### Hegel's Romanticism and Anti-Romanticism {#roma}
 
@@ -506,11 +315,110 @@ attempt at doing this. By attributing subjectivity to substance, Hegel is
 claiming that *negativity*, which has been established as central to
 subjectivity, *is also central to substance itself*. That is to say, substantial
 reality itself involves self-othering, involves its own negation, and is
-inherently a *development* and a process. As such, 'substance is subject' is
-permissible as a 'first principle' precisely because it is an *anti*-principle;
-to equate substance (what *is*) with subject (what is *becoming*, in and through
-what it is *not*) is to avoid the rigidity of propositional first principles. To
-understand exactly *how* substance is subject can never be done in a
-proposition; it 'must be justified through the presentation of the system', as
-Hegel writes. The *Phenomenology* will thus show the inherence of negativity
-within reality, the process through which things *become*.
+inherently a *development* and a process: 'the true is not an *original unity*
+as such ... it is the coming-to-be of itself'.[^47] As such, 'substance is
+subject' is permissible as a 'first principle' precisely because it is an
+*anti*-principle; to equate substance (what *is*) with subject (what is
+*becoming*, in and through what it is *not*) is to avoid the rigidity of
+propositional first principles. To understand exactly *how* substance is subject
+can never be done in a proposition; it 'must be justified through the
+presentation of the system', as Hegel writes. The *Phenomenology* will thus show
+the inherence of negativity within reality, the process through which things
+*become*.
+
+This reading can be pushed even further, however. Not only does 'substance as
+subject' imply that substantial reality is developmental and processive, but
+that it is also *permanently incomplete*, just as the subject is. The
+*Phenomenology* will show that the self-conscious subject never reaches complete
+satisfaction in its self-awareness. The threat of the Other is always there, the
+subject can always be undermined, and so on, and it is the *very nature* of
+subjectivity to live with this inconsistency.[^48] As such, to recognise
+'substance as subject' is to recognise the impossibility for substance to be
+stable and identical with itself. As Slavoj Žižek explains, this is the most
+direct way that Hegel distances himself from the subject-focused idealists like
+Fichte: 'the subject does not come first, it is not a new name for the One which
+grounds all, but the name for the inner impossibility or self-blockage of the
+One.'[^49]
+
+For this reason, there is no 'clean beginning' to philosophy, like Spinoza's
+definitions, Fichte's self-positing I, or Jacobi's *salto mortale*. The drive to
+begin one's philosophy with a certainty free of error *is itself* an error,
+because 'error' and 'falsehood', typically regarded as exclusive to the domain
+of subjectivity, are built into the *substance* of reality itself.[^50] As Žižek
+goes on to say:
+
+> At its most elementary, the Real [i.e. substantial reality, the Absolute] is
+> non-identity itself: the impossibility for X to be(come) "fully itself." The
+> Real is not the external intruder or obstacle preventing the realization of
+> X's identity with itself, but the absolutely immanent impossibility of this
+> identity. It is not that X cannot fully realize itself as X because an
+> external obstacle hinders it -- the impossibility comes first, and the
+> external obstacle ultimately just materializes this impossibility. As such,
+> the Real is opaque, inaccessible, out of reach, *and* undeniable, impossible
+> to by-pass or remove -- in it, lack and surplus coincide.[^51]
+
+Of course, as Hegel has himself pointed out, the real insight of this idea must
+be justified and demonstrated through the presentation of his whole system. The
+idea of a universe that is *at its heart* incomplete is one that will
+(hopefully) become more plausible to us as the *Phenomenology* progresses.
+
+#### Dialectical Thinking {#dial}
+
+At this point, we are left with the question: how is the development of the
+*Phenomenology* -- the 'voyage of discovery', as Hegel called it -- supposed to
+progress? What makes it move? Deep into his long preface, Hegel finally gives us
+some answers, by distinguishing ordinary 'argumentative thinking'
+[*Räsonnement*] with his own 'conceptual thinking' [*begreifende Denken*].[^52]
+The conceptual thinker, he claims, submerges their thought 'into the immanent
+rhythm of the concept.'[^53] This is Hegel's rather opaque way of saying that
+conceptual thought, rather than trying to *represent* its object and to develop
+this representation when it sees fit, instead recognises its object as
+containing development *within it*, and gives itself over to this development.
+In other words, conceptual thought is the kind of thinking that comprehends
+substance as subject.
+
+Hegel clarifies what he means by further distinguishing conceptual thinking from
+argumentative thinking. Typically, he claims, argumentative thinking is 'merely
+*negative*'.[^54] It tells us what is false, but doesn't tell us how to get
+towards the truth. In this regard, the argumentative thinker is akin to the
+person in a childish argument who, when presented with an idea, simply says
+'no!' and offers no correction or alternative. This is an empty negation which
+is simply imposed on the content of discussion by the thinker: when presented
+with any thoughtful idea, argumentative thinking only 'knows how to refute it
+and reduce it to nothing.' In conceptual thinking, on the other hand, negativity
+is not imposed by the thinker but, instead, 'the negative belongs to the content
+itself.' This allows for what Hegel calls a *determinate negation*.
+
+Determinate negativity is not arbitrarily applied by a thinker; rather, it
+belongs to a thing (or a situation, or whatever else) and plays a *positive*
+role in determining what that thing is. It is a negation 'with a positive
+content', as Hegel puts it.[^55] As an example of this, consider two atheists.
+One was raised as a Muslim, and came to reject their theistic upbringing; the
+other was raised in a Catholic setting, which they also came to reject. While
+both of these people are atheists, their atheism is different because of what it
+rejects (what it *negates*): to be a 'non-Muslim atheist' involves a different
+set of (non-)beliefs to being a 'non-Catholic atheist'. The negative 'non-' in
+the identities of the two individuals plays a *positive* role in defining who
+they are. Another example of determinate negativity is given by Alenka Zupančič,
+based on a joke from Ernst Lubitsch's film *Ninotchka*:
+
+> A guy goes into a restaurant and says to the waiter: "Coffee without cream,
+> please." The waiter replies: "I'm sorry, sir, but we're out of cream. Could it
+> be without milk?" The waiter's response introduces an additional, paradoxical
+> spectral entity in the very dimension of negativity. The presupposition of his
+> response is that "without" something actually means "with the lack of
+> something," or with-without something.[^56]
+
+For conceptual thinking to be able to grasp determinate negation is of great
+importance since, as noted above, *all* determination for Hegel -- that is, all
+particularities and qualities of an object -- is made possible through
+negativity.[^57] For this reason, only conceptual thinking can carry actual,
+positive content; and it does so by negativity and development in the very thing
+it is thinking about. This is what makes Hegel's work **dialectical**. Despite
+what many misconceptions and misrepresentations would have us believe,
+'dialectics' is not a readymade method which can be applied universally to any
+problem of philosophy. There is no 'monotonous trick that could be learned and
+repeated' in Hegel's work, Richard Kroner insists.[^58] Rather, philosophy is
+dialectical when thinking refuses to trail behind its objects, desperately
+shuffling propositions and predicates in an attempt to grasp a reality that is
+constantly changing. 
