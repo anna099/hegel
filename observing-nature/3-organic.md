@@ -23,7 +23,7 @@ object which is understood through this law -- is the **organic**, or the
 organism. An organism in this sense is, simply put, a worldly thing *grasped in
 the context* of 'the dynamism of nature' and the 'process' of 'becoming-other'.
 The organic worldview is a major theme for Hegel, and it is introduced right at
-the beginning of the *Phenomenology*, in a beautiful passage in the preface:
+the beginning of the *Phenomenology*, in a beautiful passage in the Preface:
 
 > The bud disappears when the blossom breaks through, and one might say that the
 > former is refuted by the latter. Likewise, through the fruit, the blossom
@@ -114,7 +114,7 @@ preserving what it is.
 At this stage, then, the observer finds that organisms undergo changes, and
 develop their 'distinguishing marks', by the internal concept of **purpose**
 [*Zweck*] that drives them to self-conservation. This is a significant moment
-since, in the preface, Hegel referred to *reason* as '*purposive* doing.'[^51]
+since, in the Preface, Hegel referred to *reason* as '*purposive* doing.'[^51]
 Laws of purpose are the of the kind that appear in Pindar and Nietzsche:
 *'become what you are'*.[^52] Only *'at the end'*, Hegel explains, is it
 retroactively revealed that an organism's whole process of change was a

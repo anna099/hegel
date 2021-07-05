@@ -32,20 +32,20 @@ love or even life itself. As Charles Taylor puts it, the Romantics were
 'responsible for developing an alternative anthropology, one centred on the
 categories of *expression*'.[^22]
 
-As the last quotation above shows, the Romantics were also profoundly influenced
-by Ancient Greece and Rome -- or, at least, their idealised version of them.
-This influence had in part been brought about by Johann Joachim Winckelmann
-(1717-1768), the first 'art historian' in the modern sense, who idolised Ancient
-Greece and attributed a universal, timeless value to its artwork. Incidentally,
-Winckelmann never travelled to Greece, and was often unaware that the artworks
-he studied were in fact Roman replicas; nonetheless, his aesthetic veneration of
-Greek antiquity and his insistence that art should be studied as an expressive
-part of life (and not as an object of detached analysis) had an enormous effect
-on German artists and writers, leading to what has been called 'the tyranny of
-Greece over Germany.'[^23] Winckelmann's writings accompanied Goethe's trip to
-Italy, and Herder claimed to read them 'with a feeling like that of a youth on a
-fine morning, like the letter of a far-distant bride, from a happy time that is
-past.'[^24]
+As one of the above quotations shows, the Romantics were also profoundly
+influenced by Ancient Greece and Rome -- or, at least, their idealised version
+of them. This influence had in part been brought about by Johann Joachim
+Winckelmann (1717-1768), the first 'art historian' in the modern sense, who
+idolised Ancient Greece and attributed a universal, timeless value to its
+artwork. Incidentally, Winckelmann never travelled to Greece, and was often
+unaware that the artworks he studied were in fact Roman replicas; nonetheless,
+his aesthetic veneration of Greek antiquity and his insistence that art should
+be studied as an expressive part of life (and not as an object of detached
+analysis) had an enormous effect on German artists and writers, leading to what
+has been called 'the tyranny of Greece over Germany.'[^23] Winckelmann's
+writings accompanied Goethe on his trip to Italy, and Herder claimed to read
+them 'with a feeling like that of a youth on a fine morning, like the letter of
+a far-distant bride, from a happy time that is past.'[^24]
 
 As mentioned above, Hegel shared this attitude about antiquity. His belief that
 Ancient Greece and Rome enjoyed a greater unity of individual and society, life
@@ -97,7 +97,7 @@ establish unity. Thus, Richard Kroner writes:
 > concepts.[^28]
 
 Romanticism, as Hegel came to see it, was not concerned with *accurate thinking*
-at all. In the *Phenomenology*'s preface, he suggests that the Romantics were
+at all. In the *Phenomenology*'s Preface, he suggests that the Romantics were
 reacting against the *disenchantment* brought upon the world by the science of
 modernity. (Indeed, the term 'disenchantment' was brought into sociology by Max
 Weber, but Weber himself borrowed it from Schiller, the Romantic.) However,
@@ -140,7 +140,7 @@ had to be derived.
 Schelling's influence led to a 'school' of students working under his influence:
 philosophers who took Schelling's work as though it was a catalogue of clean-cut
 concepts, ready to be applied to any domain of reality. These philosophers are
-among those that Hegel criticises in his preface, accusing them of *formalism*.
+among those that Hegel criticises in his Preface, accusing them of *formalism*.
 (Hegel claimed that he did not intend to criticise Schelling, who was his close
 friend, specifically. Nonetheless, Schelling seems to have taken the criticism
 personally, and Hegel went on to name Schelling explicitly in his
@@ -226,9 +226,9 @@ Basic, fundamental propositions are expanded upon to arrive at a comprehensive
 philosophical view. In keeping with his anti-formalist view of philosophy as a
 developing *process*, Hegel is highly critical of this approach: 'No
 philosophical beginning could look worse than to begin with a definition as
-Spinoza does,' he remarks.[^38] We might also recall his dislike of the Romantic
-trend of resting knowledge upon one immediate foundation. In the
-*Phenomenology*'s preface, he explains his criticism:
+Spinoza does,' he remarks.[^38] Of course, this is in keeping with his avoidance
+of the Romantic trend of resting knowledge upon one immediate foundation. In the
+*Phenomenology*'s Preface, he explains his criticism:
 
 > It is only as a science or as a *system* that knowing is actual and can be
 > given an exposition; and that any further so-called fundamental proposition or
@@ -248,7 +248,7 @@ Static, propositional philosophy 'is incapable of expressing what is concrete
 *Encyclopaedia*; 'because of its form, the judgment is one-sided and to that
 extent false.'[^40]
 
-In spite of all of this, the preface contains some aphoristic remarks which
+In spite of all of this, the Preface contains some aphoristic remarks which
 *appear*, at the very least, to be 'first principles' of Hegel's thought. They
 have clearly been interpreted in that way by many people, since they have become
 some of the most notorious quotations in Hegel's work. The first is as follows:
@@ -372,7 +372,7 @@ Very well then I contradict myself,<br>
 
 At this point, we are left with the question: how is the development of the
 *Phenomenology* -- the 'voyage of discovery', as Hegel called it -- supposed to
-progress? What makes it move? Deep into his long preface, Hegel finally gives us
+progress? What makes it move? Deep into his long Preface, Hegel finally gives us
 some answers, by distinguishing ordinary 'argumentative thinking'
 [*Räsonnement*] with his own 'conceptual thinking' [*begreifende Denken*].[^52]
 The conceptual thinker, he claims, submerges their thought 'into the immanent

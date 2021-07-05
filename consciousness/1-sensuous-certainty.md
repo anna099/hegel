@@ -5,66 +5,75 @@
 
 ### Sensuous Certainty {#s-c}
 
-'Sensuous certainty' is the name for the initial kind of knowing an object;
-specifically, the kind of knowing for which the object is *immediate*. Taking
-any spatiotemporal thing as its object, sensuous-certainty has no limit as
-regards its 'wealth', since it can take its object from anywhere in the infinite
-boundaries of space and time, and can furthermore divide any such object into
-more distinct objects. The object apprehended by sensuous-certainty is not only
-immediate but *complete*, since nothing is taken away or added to it; instead,
-it is laid before consciousness as *this* which *is*. In other words, it is
-apprehended in its pure being. The apprehending consciousness, as well, is also
-held in certainty, by itself, as another *this* which *is*; consequently, any
-particular experience of sensuous-certainty takes the form: '*this* I, a
-singular individual consciousness, knows *this* object, a singular individual
-thing'. In the world of sensuous-certainty, there is no causality, no
+In keeping with the ideas in his Preface and Introduction, Hegel begins *in
+medias res*: that is, not by assuming a *tabula rasa*, nor by establishing a
+theory of the possibility of knowledge, but instead by examining a
+'common-sense', intuitive form of knowledge. If knowledge is to be considered as
+a kind of relationship between the mind and the world, then the most intuitive
+place to begin is with the most *immediate* relation between mind and world.
+
+'Sensuous certainty' is the name for this relation, for the kind of knowing in
+which the object is *immediate*. It is on this grounds of immediacy that
+sensuous certainty claims to have absolute knowledge; and, at first, Hegel finds
+reasons to praise this claim. Firstly, taking any spatiotemporal thing as its
+object, sensuous-certainty has no limit as regards its 'wealth', since it can
+take its object from anywhere in the infinite boundaries of space and time, and
+can furthermore divide any such object into more distinct objects. Moreover, the
+object apprehended by sensuous-certainty is not only immediate but *complete*,
+since nothing is taken away or added to it; instead, it is straightforwardly
+laid before consciousness as a *this* which *is*. In other words, it is
+apprehended in its pure, simple existence. Now, the consciousness who apprehends
+the object also holds *itself* in certainty, as another *this* which *is*;
+consequently, any particular experience of sensuous-certainty takes the form:
+'*this* I, a singular individual consciousness, knows *this* object, a singular
+individual thing'. In the world of sensuous-certainty, there is no causality, no
 unification, no essences or properties, no relations: there is merely the being
 of manifold particulars. This is sensuous-certainty's claim to absolute
 knowledge.
 
-Clearly, then, while the strength of sensuous-certainty is in the *completeness*
-of its object, its weakness is in the *abstractness* of its truth, since it
-expresses nothing but the pure being of the object and of the consciousness
+So, while the strength of sensuous-certainty is in the *completeness* of its
+object, its weakness is in the *abstractness* of its truth, since it expresses
+nothing but the mere presence of the object and of the consciousness
 apprehending it. In fact, it is this abstractness and simplicity which reveals
-to us the dialectic within sensuous-certainty. As a singular thing, the object
-of sensuous-certainty is a *this* which is *here* and *now*. Each of these three
-terms name the radical particularity of the thing. I have sensuous-certainty
-*now* ... and yet, as soon as I have named this 'now', it is gone: the moment
-has passed.  Likewise, if I face the thing, I can say that it is *here*, but if
-I turn around, then while I can still refer to a 'here', it is no longer 'here'
-that the thing in question is found. In both of these cases, the *Here* and
-*Now* persevere, while the thing of which I had sensuous-certainty disappears.
-That which we call 'now' is indifferent to whether it is 5:00 <span
-class="sc">PM</span>, 3:00 <span class="sc">AM</span>, or any other time.
-Through every moment, the *Now* endures; it is *mediated* through the moment.
-The moment is a particular expression of the *Now*, and the location of
-sensuous-certainty is an expression of the *Here*. *Now* and *Here* are thus
-*universals*. 'Now' means: *not* 5:00 <span class="sc">PM</span>, *not* 3:00
-<span class="sc">AM</span>, *not* any unique particular moment; as Hegel
+to us the dialectic, the self-undermining negativity, within sensuous-certainty.
+As a singular thing, the object of sensuous-certainty is a *this* which is
+*here* and *now*. Each of these three terms name the radical particularity of
+the thing. I have sensuous-certainty *now* ... and yet, as soon as I have named
+this 'now', it is gone: the moment has passed.  Likewise, if I face the thing, I
+can say that it is *here*, but if I turn around, then while I can still refer to
+a 'here', it is no longer the same 'here' in which the object was found. In both
+of these cases, the *Here* and *Now* persevere, while the thing of which I had
+sensuous-certainty disappears. That which we call 'now' is indifferent to
+whether it is 5:00 <span class="sc">PM</span>, 3:00 <span class="sc">AM</span>,
+or any other time. Through every moment, the *Now* endures; it is *mediated*
+through the moment. The moment is a particular expression of the *Now*, and the
+location of sensuous-certainty is an expression of the *Here*. *Now* and *Here*
+are thus *universals*. 'Now' means: *not* 5:00 <span class="sc">PM</span>, *not*
+3:00 <span class="sc">AM</span>, *not* any unique particular moment; as Hegel
 explains, 'As little as night and day are its being, it is just as much night
 and day. ... Such a simple is through negation; it is neither this nor that, it
 is both a *not-this* and is just as indifferent to being this or that, and such
 a simple is what we call a *universal*.'[^1]
 
 As such, the truth of sensuous-certainty is the opposite of its original truth.
-At the start, its truth was in its consistent particularity; it is now in its
-emergent universality. Sensuous-certainty has *refuted itself*, and language has
-shown this: 'In language, we immediately refute what we *mean to say*, and since
-the universal is the truth of sensuous-certainty, and language only expresses
-this truth, it is, in that way, not possible at all that we could say what we
-*mean* about sensuous being.'[^2] By this, Hegel shows that, just as language
-necessarily deals only with universals (in 'this tree', both the word 'this' and
-'tree' are mediated universals, as explained above), so too does
-sensuous-certainty itself give rise to universals when it 'means' to refer only
-to particulars. In the very moment, I might 'know what I mean' when I refer to
-*this tree*; nonetheless, as soon as the words ('this tree') are *written down*,
-my subjectivity is removed from them, and universality takes its place.
-Consequently we find that what is persistent in sensuous-certainty's experience
-of the *This* is not the *object*, but the subject *for whom the object is a
-'This', here and now*. 'Now' is midnight, or noon, or whenever else, because *I*
-name it so; 'now' is always *my* 'now'. (Incidentally, this notion of language
-undermining the conscious wish of subjectivity will be famously repeated by
-Sigmund Freud).
+At the start, its claim to truth concerned its consistent *particularity*; now,
+unintentionally, it concerns an emerging *universality*. Sensuous-certainty has
+refuted itself, and language has shown this: 'In language, we immediately
+refute what we *mean to say*, and since the universal is the truth of
+sensuous-certainty, and language only expresses this truth, it is, in that way,
+not possible at all that we could say what we *mean* about sensuous being.'[^2]
+By this, Hegel shows that, just as language necessarily deals only with
+universals (in 'this tree', both the word 'this' and 'tree' are mediated
+universals, as explained above), so too does sensuous-certainty itself give rise
+to universals when it 'means' to refer only to particulars. In the very moment,
+I might 'know what I mean' when I refer to *this tree*; nonetheless, as soon as
+the words ('this tree') are *written down*, my subjectivity is removed from
+them, and universality takes its place. Consequently we find that what is
+persistent in sensuous-certainty's experience of the *This* is not the *object*,
+but the subject *for whom the object is a 'This', here and now*. 'Now' is
+midnight, or noon, or whenever else, because *I* name it so; 'now' is always
+*my* 'now'. (Incidentally, this notion of language undermining the conscious
+wish of subjectivity will be famously repeated by Sigmund Freud).
 
 Who is this 'I'? As the subject that names an object to be a particular This, at
 a particular *here and now*, it must too be a particular. There is an 'I' for

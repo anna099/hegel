@@ -2,23 +2,22 @@
 
 Sensuous certainty is the beginning for Hegel precisely because it is the
 beginning for *us*; as the Introduction states, it is a mistake to make a fuss
-about *how to begin* before actually beginning. In actual fact, 'this fear of
-erring is already the error itself'.[^5] By asking if it is even *possible* for
-cognition to apprehend the absolute, this fear of error presupposes that
-cognition stands outside of, or apart from, the absolute (that is, the truth),
-and yet can still somehow be truthful itself. This is clearly a mistake; as
-such, Hegel puts issues of method to one side, and simply *begins* his analysis
-of experience. As Frederick Beiser writes: 'The standards, rules, and guidelines
-appropriate to a subject matter should be the result, not the starting point, of
-the investigation. So, if Hegel has any methodology at all, it appears to be an
-*anti*-methodology, a method to suspend all methods.'[^6] So, the
-*Phenomenology* begins with the most familiar, unconceptualised form of
-experience: immediate certainty of sensuous objects. The language that expresses
-this experience -- at least according to 'common sense' -- expresses the simple,
-particular being of these objects. 'We are in the world that Adam bequeathed to
-us,' Harris writes, 'the world of *things with names* ... this is how our
-language gets its significance -- by referring to objects whose "being" we can
-confirm by a simple use of the senses.'[^7]
+about *how to begin* before actually beginning. Fear of erring is already the
+error itself. By asking if it is even *possible* for cognition to apprehend the
+absolute, this fear of error presupposes that cognition stands outside of, or
+apart from, the absolute (that is, the truth), and yet can still somehow be
+truthful itself. This is clearly a mistake; as such, Hegel puts issues of method
+to one side, and simply *begins* his analysis of experience. As Frederick Beiser
+writes: 'The standards, rules, and guidelines appropriate to a subject matter
+should be the result, not the starting point, of the investigation. So, if Hegel
+has any methodology at all, it appears to be an *anti*-methodology, a method to
+suspend all methods.'[^6] So, the *Phenomenology* begins with the most familiar,
+unconceptualised form of experience: immediate certainty of sensuous objects.
+The language that expresses this experience -- at least according to 'common
+sense' -- expresses the simple, particular being of these objects. 'We are in
+the world that Adam bequeathed to us,' Harris writes, 'the world of *things with
+names* ... this is how our language gets its significance -- by referring to
+objects whose "being" we can confirm by a simple use of the senses.'[^7]
 
 It is language that best illuminates the dialectic of sensuous certainty.
 Language, in naming the 'immediate' object of experience, realises before we do

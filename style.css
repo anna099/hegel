@@ -150,6 +150,7 @@ td, th { padding: 0 0.3em; }
 
     font-variant: small-caps;
     font-feature-settings: normal;
+    text-align: right;
     text-transform: lowercase;
     letter-spacing: 1px;
 }

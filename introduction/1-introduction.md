@@ -47,7 +47,9 @@ of history seems to me to be infinitely deep, and the same is true for the
 new every day. We therefore have to be limited by a particular *purpose*; the
 purpose of my commentary is to hopefully make the *Phenomenology* a little
 easier to read, and put it in some degree of historical and philosophical
-context.
+context. This introductory chapter refers to the 'Introduction' and 'Preface' of
+Hegel's book, as well as some other writings by him, in order to establish the
+context and general workings of his project.
 
 So ... what *is* the *Phenomenology of Spirit* about? What kind of 'logic' is it
 an introduction to? One way of describing the book is that it attempts to
@@ -75,10 +77,6 @@ to Hegel's project that philosophy has a role to play in overcoming this
 unhappiness; however, in doing so, it faces the challenge of the many forms of
 separation that dominate modernity.
 
-This introduction refers to the 'Introduction' and 'Preface' to Hegel's book, as
-well as some other writings by Hegel, in order to establish the context and
-general workings of his project.
-
 #### Dualism {#dual}
 
 Hegel sees modern life as rife with dualisms, just like that of the individual
@@ -100,7 +98,7 @@ There is thus a modern unhappiness that mourns humanity's separation from the
 world, from divinity, and from the universal. As Hegel sees it, the unhappiness
 of dualism exists in science and philosophy as well -- and these problems, just
 like the spiritual and religious ones above, can also be understood by
-understanding modernity's development upon ancient thought. In the modern age,
+considering modernity's development upon ancient thought. In the modern age,
 science underwent a huge revolution, which Alexandre Koyré describes in broad
 terms as
 
@@ -115,15 +113,15 @@ Aristotelian picture that dominated in the premodern world, and is thus
 understood as a mechanistic (or 'corpuscular') totality. It is impossible to
 know *every*thing about a cosmos that is infinite, but it is possible to
 construct a method by which *any*thing can be known. This is what gives rise to
-the image of the universe as 'all-encompassing book', as Galileo described it,
-'written in mathematical language'.[^7] Now, the idea that all phenomena can be
-explained mathematically implies that, behind the appearance of the universe,
+the image of the universe as an 'all-encompassing book', as Galileo described
+it, 'written in mathematical language'.[^7] Now, the idea that all phenomena can
+be explained mathematically implies that, behind the appearance of the universe,
 there is some mathematical *essence* that guides everything. Stanley Rosen calls
 this 'a kind of materialistic version of Pythagoreanism.'[^8] For everything to
 be essentially mathematical means that either there is a Platonic realm of
 mathematical essences, or that mathematical structure is imposed by the
 subjective mind. In either scenario, we are left with a dualism: one of
-appearance and essence, or of subjective and objective.
+appearance and essence, or of subjective and objective reality.
 
 These scientific and philosophical dualisms -- dualisms of *knowledge*, rather
 than of culture or religion -- are a problem for Hegel because they separate the
@@ -175,7 +173,7 @@ in ourselves and our society. Accordingly, he favours a *speculative* philosophy
 over a reflective one; 'The principle of speculation', he writes, 'is the
 *identity* of subject and object.'[^15] His approach to overcoming the dualisms
 described above -- dualisms of the individual and the world, the knower and the
-known, and so on -- is the *reconcile* subject to object, and vice versa. In
+known, and so on -- is to *reconcile* subject to object, and vice versa. In
 fact, he sees this as the task of philosophy as such: though he claims that
 'life eternally forms itself by setting up oppositions', 'what Reason opposes
 ... is just the absolute fixity which the intellect gives to the
@@ -185,10 +183,10 @@ dichotomy.'[^16]
 > their living connection and reciprocity and gain independence, the need of
 > philosophy arises.[^17]
 
-If the dualisms of culture and philosophy are not to be overcome by a philosophy
+If the dualisms of culture and knowledge are not to be overcome by a philosophy
 whose structure is worked out ahead of time, then philosophy must instead *enter
 into* the problems, *in medias res*, and work them out from within. This is how
-the *Phenomenology*'s preface begins: like Aristotle, Hegel begins by looking
+the *Phenomenology*'s Preface begins: like Aristotle, Hegel begins by looking
 out upon his contemporary landscape and assessing its various ways of thinking.
 How have other philosophers tried to find unity against dualism? Why have they
 failed (in Hegel's view)?
