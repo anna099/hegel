@@ -1,4 +1,4 @@
-#### The Adventure of Individualism: Pleasure and Necessity {#pleas}
+#### Pleasure and Necessity {#pleas}
 
 <blockquote class="epigraph">All theories, dear friend, are gray; the golden tree of life is green. <footer>Mephistopheles (Goethe's Faust, 1808)</footer></blockquote>
 

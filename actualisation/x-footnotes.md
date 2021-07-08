@@ -90,3 +90,5 @@
 [^67]: §379.
 [^68]: §380.
 [^69]: Harris, *Hegel's Ladder*, II. p. 46.
+<!-- Virtue and the Way of the World -->
+[^70]: §381.

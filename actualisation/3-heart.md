@@ -1,4 +1,4 @@
-#### The Adventure of Individualism: The Law of the Heart and the Insanity of Self-Conceit {#heart}
+#### The Law of the Heart and the Insanity of Self-Conceit {#heart}
 
 As it is with every stage of development in the *Phenomenology*, some
 individuals may remain in the Faustian world of pleasure and necessity. The

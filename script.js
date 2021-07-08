@@ -141,7 +141,7 @@ function followHeading() {
         });
 
         let notes_pos = document.querySelector(".footnotes hr").getBoundingClientRect().top;
-        if (notes_pos <= 0) {
+        if (notes_pos <= 70) {
             follow.innerHTML = "";
         }
     });

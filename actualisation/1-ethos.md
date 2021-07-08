@@ -8,13 +8,14 @@ sophisticated ways in which rational consciousness tries to see reason in the
 world. If we recall Robert Solomon's suggestion[^1] that Hegel's book consists
 of *two* phenomenologies -- one of theory and one of practice -- then we can see
 how the journey of observing reason was a recapitulation (albeit in a more
-developed manner) of the development in the *Consciousness* chapter.[^2] But now
-we are returning to the phenomenology of *practice* that begun in the
-*Self-Consciousness* chapter; thus, the Reason that self-consciousness embodies
-no longer wants simply to *find* rationality in the world, but to *actualise*
-it: 'to engender itself by its own activity.'[^3] Through this process,
-self-consciousness will work towards experiencing what **spirit** really is:
-namely, 'The *I* that is *we* and the *we* that is *I*.'[^4]
+developed manner) of the theoretical development in the *Consciousness*
+chapter.[^2] But now we are returning to the phenomenology of *practice* that
+begun in the *Self-Consciousness* chapter; thus, the Reason that
+self-consciousness embodies no longer wants simply to *find* rationality in the
+world, but to *actualise* it: 'to engender itself by its own activity.'[^3]
+Through this process, self-consciousness will work towards experiencing what
+**spirit** really is: namely, 'The *I* that is *we* and the *we* that is
+*I*.'[^4]
 
 Self-consciousness's *immediate* certainty of being all reality was shattered by
 the emptiness of phrenology. The subject of this *Actualisation* chapter -- that
