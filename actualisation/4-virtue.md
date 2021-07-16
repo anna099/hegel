@@ -16,3 +16,20 @@ universal standard of virtue. Logically, then, we find an individual who aims to
 let universality *sublate* individuality; for the rest of society (those who
 partake in the way of the world), universality is sublated by individuality: the
 individual 'is the essence' of life.
+
+Virtue is thus a rejection of the individualistic forms of self-actualisation
+that preceded it, a rejection of the idea that the law has a relation to one's
+personal whims. The position of the 'knight of virtue' is therefore rather
+paradoxical: since the success of virtue is the *overcoming* of individuality,
+there will be no individual to celebrate this success should it take place. The
+knight of virtue 'engages with the way of the world; but its purpose and true
+essence lie in *defeating the actuality* of the way of the world. As a result,
+the existence of the good which is thereby brought about is the *cessation of
+its doing*.'[^71] The knight of virtue is an individual against individuality.
+Moreover, since the 'true essence' of virtue -- that is, a world in which
+everyone is virtuous -- is not yet actual, and since it stands completely
+outside the domain of individuality, the knight of virtue 'only *has faith in*'
+the possibility of global virtuousness.[^72] Put together, the self-sacrificing
+goal of the knight of virtue and the inherent uncertainty in this goal make
+the quest for virtue a remarkably different kind of self-actualisation to the
+previous two kinds.

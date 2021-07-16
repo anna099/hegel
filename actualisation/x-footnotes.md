@@ -92,3 +92,5 @@
 [^69]: Harris, *Hegel's Ladder*, II. p. 46.
 <!-- Virtue and the Way of the World -->
 [^70]: §381.
+[^71]: §383. Emphasis added.
+[^72]: Ibid.
