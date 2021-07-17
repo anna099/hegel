@@ -45,6 +45,24 @@ further ado simply help themselves to them and devour them. Just like the
 animals, all of nature celebrates those revealed mysteries which teach the truth
 about sensuous things.'[^9]
 
+This is just the first instance of a lesson that the *Phenomenology*'s
+protagonist will experience over and over again: namely, the lesson that the
+world and its objects are slippery, difficult to grasp, and often exist in much
+greater complexity than the concepts of human thought would assume. Sensuous
+certainty is naïve to think that its simple, abstract concepts are sufficient to
+comprehend the world. The downfall of sensuous certainty is thus comparable to
+Roquentin's breathless shock in Sartre's *Nausea*:
+
+> And then, all of a sudden, there it was, as clear as day: existence had
+> suddenly unveiled itself. It has lost its harmless appearance as an abstract
+> category ... All those objects ...how can I explain? They embarrassed me; I
+> would have liked them to exist less strongly, in a drier, more abstract way,
+> with more reserve.[^9.1]
+
+Like Roquentin, sensuous certainty wants reality to be drier and more abstract.
+But, as phenomenologists, we have to follow what *the things themselves* teach
+us, and not what our order-obsessed minds desire.
+
 > By my *pointing out* this piece of paper, I thus learn from experience what
 > the truth of sensuous-certainty in fact is. I point it out as a *Here*, which
 > if a Here of other Heres, or which in its own self is a *simple ensemble* of

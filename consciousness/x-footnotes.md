@@ -11,6 +11,7 @@
 [^7]: Harris, *Hegel's Ladder*, I, p. 209.
 [^8]: Ibid., p. 225.
 [^9]: §109.
+[^9.1]: Jean-Paul Sartre, *Nausea*, translated by R. Baldick (London: Penguin Books, 1965), p. 183.
 [^10]: §110.
 [^11]: All quotations in this paragraph: §113.
 [^12]: Ibid.
