@@ -75,7 +75,7 @@ function hoverNotes() {
 
 function pageTitle() {
     let h2 = document.querySelector("h2");
-    document.title = "Hegel / " + h2.innerText;
+    document.title = h2.innerText + " - Hegel's Phenomenology";
 }
 
 function numbering() {

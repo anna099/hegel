@@ -94,3 +94,11 @@
 [^70]: §381.
 [^71]: §383. Emphasis added.
 [^72]: Ibid.
+[^73]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 434.
+[^74]: §386.
+[^75]: Ibid.
+[^76]: See §339.
+[^77]: §389.
+[^78]: §390. See also Hegel's criticism of 'edifying' philosophy in the Preface, §7.
+[^79]: Ibid.
+[^80]: See Aristotle, *Nicomachean Ethics*, 1103a; Confucius, *Analects* 1.16.
