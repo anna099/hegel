@@ -96,3 +96,58 @@ purpose.'[^79] Aristotle acknowledged that virtue comes not from the 'nature' of
 humanity in-itself, but from the actual *habits* of individuals; Confucius, who
 Hegel unfairly dismissed, analysed virtue by observing the behaviour of others
 and attempting to understand them on the basis of this actual behaviour.[^80]
+Reason's understanding of virtue, on the other hand, has left the substance of
+social reality behind, and is left with nothing meaningful to say:
+
+> The emptiness of [virtue's] oratorical flourishes in their struggle with the
+> way of the world would be revealed at once if what its oratory really means
+> were simply to be stated. -- It is therefore *presupposed* that what these
+> oratorical flourishes mean is *well known*. The demand to put this familiarity
+> into words would either be fulfilled by a new torrent of fancy oratory, or by
+> an appeal to the heart, which *internal to itself* is supposed to state what
+> those fine words mean, which is to say, it would amount to an admission that
+> it cannot, in fact, say what it means.[^81]
+
+Through the defeat of its account of virtue, Reason learns that the good is not
+incompatible with individuality; rather, goodness is *realised* by individuals
+interacting with one another in society. Simply put, the way of the world is
+better than the cynical knight of virtue took it to be; individuality's '*doing*
+is at the same time  *universal doing* which is *in-itself*.'[^82] That is to
+say, Reason has come to the realisation that a society of individuals, acting
+on self-interest, come to the common good *without knowing it*. This is the
+exact notion that Adam Smith famously observed as the 'invisible hand' of
+society:
+
+> [An individual] generally, indeed, neither intends to promote the publick
+> interest, nor knows how much he is promoting it. ...He intends only his own
+> gain, and he is in this, as in many other cases, led by an invisible hand to
+> promote an end which was no part of his intention. Nor is it always the worse
+> for the society that it was no part of it. By pursuing his own interest he
+> frequently promotes that of the society more effectually than when he really
+> intends to promote it.[^83]
+
+It is at this point that the development of self-consciousness's actualisation
+comes to a conclusion, now that the individual and their self-motivated action
+realises their role -- *finds their home* -- in society. This is a significant
+moment in the *Phenomenology* as a whole: the unexpected conclusion to observing
+reason was that rationality, and *meaning* in general, cannot be found in
+concrete reality (in the form of a dead skull, for instance) in itself; it
+requires self-consciousness, which is *for itself*, to play a role. We know,
+however, that to focus exclusively on the *for itself* results in failure and
+abandonment of the world (in the form of unhappy consciousness); as such, the
+*actualisation* of self-consciousness in this chapter was the development of
+that which is *in-and-for-itself*: namely, the concretely acting individual in
+society. Now that the individual has found its place in society, after the
+dissolution of rational virtue, we have for the first time in the
+*Phenomenology* achieved a union of the world and the individual, object and
+subject, in-itself and for-itself. As Eckart Förster remarks, the individual
+'now knows, as we do, that the opposition of subject and object with which it
+started has been sublated, and that both subject and object are moments of a
+**spirit** higher than either'.[^84]
+
+Indeed, *Spirit* is the next part in the book, coming after *Reason*. Before
+beginning his examination of spirit, however, Hegel spends one final chapter
+looking at the rational individual from the perspective of its conclusion: that
+is, the perspective of the individual who is real in-itself and for-itself, who,
+in Hyppolite's words, 'is directly in the midst of the world and it wishes only
+to express itself.'[^85]

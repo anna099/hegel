@@ -81,7 +81,7 @@
 [^58]: §372.
 [^59]: §373.
 [^60]: Harris, *Hegel's Ladder*, II, p. 40.
-[^61]: Immanuel Kant, *Critique of Practical Reason*, trans. Mary Gregor (Cambridge: Cambridge University Press, 2015), 5:28.
+[^61]: Immanuel Kant, *Critique of Practical Reason*, translated by Mary Gregor (Cambridge: Cambridge University Press, 2015), 5:28.
 [^62]: §374.
 [^63]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 432.
 [^64]: §377.
@@ -102,3 +102,8 @@
 [^78]: §390. See also Hegel's criticism of 'edifying' philosophy in the Preface, §7.
 [^79]: Ibid.
 [^80]: See Aristotle, *Nicomachean Ethics*, 1103a; Confucius, *Analects* 1.16.
+[^81]: §390.
+[^82]: §392.
+[^83]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book IV, Chapter II, Paragraph 9.
+[^84]: Eckart Förster, *The Twenty-Five Years of Philosophy: A Systematic Reconstruction*, translated by Brady Bowman (Cambridge, MA: Harvard University Press, 2012), p. 351. Emphasis (in bold) added.
+[^85]: Hyppolite, *Genesis and Structure*, p. 296.
