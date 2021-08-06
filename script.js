@@ -25,7 +25,7 @@ function isMobile() {
 }
 
 function smallCaps() {
-    const selector = "h3 + p, h4 + p, h3 + blockquote + p, h4 + blockquote + p";
+    const selector = "h3 + p, h4 + p, blockquote.epigraph + p";
     const ps = document.querySelectorAll(selector);
     for (var i = 0; i < ps.length; i++) {
         let p = ps[i];

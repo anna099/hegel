@@ -1,4 +1,5 @@
-<div id="nav"><a href="observing-self.html">Previous Chapter: Observing Self-Consciousness</a></div>
+<div id="nav"><a href="observing-self.html">Previous Chapter: Observing Self-Consciousness</a>
+<a href="individuality.html">Next Chapter: Real Individuality</a></div>
 
 </section>
 

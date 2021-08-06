@@ -260,8 +260,8 @@ one gives to oneself.'[^35] Thus, the post-alienation *Sittlichkeit* in
 Brandom's Stage Three is one that incorporates both ethos and subjectivity --
 ethics and morality.
 
-In the last paragraph before Hegel actually examines the three shapes of
-individualism, he gives a dense summary of how these three shapes develop. This
+In the last paragraph before Hegel actually examines the shapes of
+individualism, he gives a dense summary of how these shapes develop. This
 development runs parallels to the story in the *Self-Consciousness* chapter;
 however, rather than dealing with a singular object or a singular Other, the
 rational individual deals with *communities*; this is not surprising, given that
@@ -276,13 +276,14 @@ of the heart'**. The individual wants to *act*, to help, and so on; however,
 this leads them to the realisation that 'the good can only be put into practice
 through the sacrifice' of the singular individual. This is what gives rise to a
 kind of **virtue**, a good in-itself which demands that we let go of the ego and
-its individual desire. This is the final shape of individualism; at the end,
-after all this development, the individual realises that 'its purpose has in
-itself already been put into practice ... that the good is the doing
-itself.'[^37] The individual then enters *civil society*, wherein they seek not
-to save the world or virtuously master themselves, but to socially express
-themselves *through* the society around them. The result of this adventure is an
-individual
+its individual desire. This is the final shape of individualism -- and, in
+wanting to let go of individual desire, it doesn't strictly cohere to the label
+of 'individualism'. At the end, after all this development, the individual
+realises that 'its purpose has in itself already been put into practice ... that
+the good is the doing itself.'[^37] The individual then enters *civil society*,
+wherein they seek not to save the world or virtuously master themselves, but to
+socially express themselves *through* the society around them. The result of
+this adventure is an individual
 
 > which no longer finds any resistance in an actuality opposed to it, and whose
 > object and purpose are only this giving voice to itself.
