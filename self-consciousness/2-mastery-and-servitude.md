@@ -207,11 +207,11 @@ later understand, fear and anxiety cause the world to slip away, leaving us
 alone with what Hegel calls the *simple essence of self-consciousness*: 'anxiety
 leaves us hanging because it induces the slipping away of beings as a whole ...
 In the altogether unsettling experience of this hovering where there is nothing
-to hold onto, pure Dasein is all that is still there'.[^47] In other words, the
-fear inherent in slavery allows the slave to shrug off everything that is
-temporary, all of 'natural existence', and confront the subjective truth of
-their self-consciousness -- the self-consciousness that they have cultivated,
-and imprinted on the world, in their labour.
+to hold onto, pure Dasein [human existence] is all that is still there'.[^47] In
+other words, the fear inherent in slavery allows the slave to shrug off
+everything that is temporary, all of 'natural existence', and confront the
+subjective truth of their self-consciousness -- the self-consciousness that they
+have cultivated, and imprinted on the world, in their labour.
 
 The third part in the slave's liberation is the 'service' which the slave
 provides to the master. As Hegel explains, fear causes the dissolution of the

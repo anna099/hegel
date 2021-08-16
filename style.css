@@ -377,6 +377,11 @@ img#title {
     text-transform: lowercase;
 }
 
+.bib-note { /* p in .bib */
+    width: 80%;
+    margin: 0.5em auto 1em auto;
+}
+
 /* JavaScript elements -------------------------------------- */
 
 #hover-note {

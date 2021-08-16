@@ -29,3 +29,15 @@ action that creates (social, political, historical) human reality.'[^5] This
 action 'alters nothing and opposes nothing', Hegel explains, because it is no
 longer carried out in *opposition* to something (the pain of necessity, laws of
 society, etc.).[^6]
+
+What is left of the enormous *Reason* chapter is an examination of this new form
+of self-consciousness, who acts out 'the *exhibition* or *expression of
+individuality*' and has left behind all grand ideology to instead pursue simple
+self-expression in 'the pure form of translating *not having been seen* into
+*having been seen*.'[^7] Accordingly, Pinkard suggests that this is the point in
+humanity's development when genuine *autobiography* emerges. In the pre-modern
+world, books by writers like Augustine and Peter Abelard were written to fit a
+religious narrative (of falling away from God and rediscovering one's religion);
+Augustine's *Confessions* in particular are explicitly addressed to God. In
+Rousseau's *Confessions*, however, the author presents himself as a unique
+individual, and 'not just an instance of some more general pattern.'[^8]
