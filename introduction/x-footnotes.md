@@ -2,6 +2,15 @@
 
 </section>
 
+[^0]: Recall Foucault's famous remark in 'The Discourse on Language' (*The
+  Archaeology of Knowledge*, translated by A. M. Sheridan Smith (New York:
+  Pantheon Books, 1972), p. 235):
+
+    > Our age, whether through logic or epistemology, whether through Marx or
+    > through Nietzsche, is attempting to flee Hegel .... We have to determine
+    > the extent to which our anti-Hegelianism is possibly one of his tricks
+    > directed against us, at the end of which he stands, motionless, waiting
+    > for us.
 [^1]: G.W.F. Hegel, *The Phenomenology of Spirit*, translated by T. Pinkard. (Cambridge, Cambridge University Press, 2018), §5. Subsequent citations to the *Phenomenology* will simply give the paragraph number.
 [^2]: Stanley Rosen, *G.W.F. Hegel: An Introduction to the Science of Wisdom* (New Haven: Yale University Press, 1974), p. 151.
 [^3]: This idea of separation being central to subjectivity is taken up and transformed by psychoanalysis. See Sigmund Freud, *Civilization and its Discontents* (SE XXI), pp. 64-8.

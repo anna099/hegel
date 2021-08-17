@@ -13,8 +13,8 @@ a kind of relationship between the mind and the world, then the most intuitive
 place to begin is with the most *immediate* relation between mind and world.
 
 'Sensuous certainty' is the name for this relation, for the kind of knowing in
-which the object is *immediate*. It is on this grounds of immediacy that
-sensuous certainty claims to have absolute knowledge; and, at first, Hegel finds
+which the object is immediate. It is on this ground of immediacy that sensuous
+certainty claims to have absolute knowledge, and -- at first -- Hegel finds
 reasons to praise this claim. Firstly, taking any spatiotemporal thing as its
 object, sensuous-certainty has no limit as regards its 'wealth', since it can
 take its object from anywhere in the infinite boundaries of space and time, and

@@ -13,4 +13,7 @@
 [^9]: §397.
 [^10]: §398.
 [^11]: §399.
-[^12]: §400. For the 'labor of the negative' and the slave's labour, see §19 and §195.
+[^12]: Kalkavage, *The Logic of Desire*, p. 211.
+[^13]: §400. For the 'labor of the negative' and the slave's labour, see §19 and §195.
+[^14]: §401.
+[^15]: Ibid. Emphasis added.

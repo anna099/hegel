@@ -36,7 +36,7 @@ Contemporary 'analytic' philosophy originally emerged out of British and
 Austrian philosophers completely *rejecting* Hegel, while 'Continental'
 philosophy -- in the work of Michel Foucault, Simone De Beauvoir, or Jacques
 Derrida, for instance -- has always had Hegel as an influence, at least in the
-background.
+background.[^0]
 
 The general aim of this writing is to provide a commentary on Hegel's
 *Phenomenology*, with frequent reference to other texts both from the
@@ -127,10 +127,10 @@ These scientific and philosophical dualisms -- dualisms of *knowledge*, rather
 than of culture or religion -- are a problem for Hegel because they separate the
 mind from its objects, the intellect from the 'Absolute' (that is, ultimate and
 unconditioned reality). When Kant, for example, claims that we can only have
-objective knowledge if we severely *limit* our cognition, and apply it only to
-objects as they *appear* to us, he leaves an 'impassable gulf' between thought
-and its objects.[^9] Hegel is thinking of this kind of philosophy, which he
-calls 'reflective philosophy', when he writes:
+objective knowledge if we severely *limit* the scope of our cognition, and apply
+it only to objects as they *appear* to us, he leaves an 'impassable gulf'
+between thought and its objects.[^9] Hegel is thinking of this kind of
+philosophy, which he calls 'reflective philosophy', when he writes:
 
 > The intellect, as the capacity to set limits, erects a building and places it
 > between man and the Absolute, linking everything that man thinks worthy and
