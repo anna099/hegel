@@ -4,7 +4,6 @@ window.onload = function () {
     smallCaps();     // sections begin with a few words in small caps.
     wordCount();     // a wordcount appears at the end of the page.
     hoverNotes();    // hover over a footnote number to see the note.
-    numbering();     // add decimal numbering ('4.1.1' etc) to H4's.
     bibLink();       // add link to bibliography below footnotes.
     followHeading(); // note the heading of the current section at the top
 };
@@ -78,40 +77,6 @@ function pageTitle() {
     document.title = h2.innerText + " - Hegel's Phenomenology";
 }
 
-function numbering() {
-    let subheads = document.querySelectorAll("h4:not(#author):not(.subtitle)");
-    subheads.forEach((s) => {
-        s.setAttribute("js-number", getContentsIndex(s.id));
-    });
-}
-
-// Takes an ID (used as an href) and returns the decimal place in the contents
-function getContentsIndex(id) {
-    let items = document.querySelectorAll("#contents a");
-    let x = undefined;
-
-    items.forEach((i) => {
-        if (i.href.substr(i.href.indexOf("#") + 1) === id) {
-            x = i;
-        }
-    });
-
-    let p = parentsOf(x);
-    let io = Array.prototype.indexOf;
-    return (io.call(p[3].children, p[4]) + 1) + "." +
-           (io.call(p[5].children, p[6]) + 1) + "." +
-           (io.call(p[7].children, p[8]) + 1);
-}
-
-function parentsOf(elem) {
-    var parents = [];
-    while (elem) {
-        parents.unshift(elem);
-        elem = elem.parentNode;
-    }
-    return parents;
-}
-
 function bibLink() {
     let bl = document.createElement("a");
     bl.href = "bibliography.html";
@@ -140,7 +105,7 @@ function followHeading() {
             }
         });
 
-        let notes_pos = document.querySelector(".footnotes hr").getBoundingClientRect().top;
+        let notes_pos = document.querySelector(".footnotes").getBoundingClientRect().top;
         if (notes_pos <= 70) {
             follow.innerHTML = "";
         }

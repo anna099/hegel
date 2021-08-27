@@ -31,7 +31,7 @@ serves as a mediation between the individual's consciousness (their intentions,
 the purpose of their activity, and so on) and the world itself. This is the
 *rational* manifestation of the 'labor of the negative' that appeared in the
 Preface and in the slave's liberation in *Self-Consciousness*: through the
-individual's doing, they come to face' the object as it has emerged from the
+individual's doing, they come to face 'the object as it has emerged from the
 actor to be outside of him and to be *for him* as an *other*.'[^13] The
 difference here is that, while the slave's work brought the slave to an
 awareness of *themselves*, the real individual's work brings them to an
@@ -55,4 +55,13 @@ known; but it can only be known when it is made explicit in individual activity.
 actually offers no clean logical solution to this paradox; rather, he claims
 that the individual simply begins its activity *immediately*, without worrying
 about '*beginnings*, *middles*, and *ends*', precisely because activity itself
-*is* the beginning, middle, and *end* (in the sense of purpose) of itself.
+*is* the beginning, middle, and *end* (in the sense of purpose) of itself. In
+other words, we come to know the nature that inspires our activity because we
+just 'get on with it', and our nature is revealed to us in the way we act.
+Harris explains this point with a helpful anecdote:
+
+> The little girl, of whom I once heard in a philosophy class, who asked "How
+> can I know what I think, until I see what I say?" had her feet set firmly on
+> the path towards a Real Individuality that will not deceive itself at least.
+> But, of course, we could ask her how she knew what she was saying if she did
+> not formulate it to herself before she said it.[^16]

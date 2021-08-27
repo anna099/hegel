@@ -2,9 +2,9 @@
 
 </section>
 
-[^0]: Recall Foucault's famous remark in 'The Discourse on Language' (*The
+[^0]: Recall Foucault's famous remark in 'The Discourse on Language', in *The
   Archaeology of Knowledge*, translated by A. M. Sheridan Smith (New York:
-  Pantheon Books, 1972), p. 235):
+  Pantheon Books, 1972), p. 235:
 
     > Our age, whether through logic or epistemology, whether through Marx or
     > through Nietzsche, is attempting to flee Hegel .... We have to determine
@@ -20,7 +20,7 @@
 [^6]: Alexandre Koyré, *From the Closed World to the Infinite Universe* (Baltimore: Johns Hopkins Press, 1957), p. 2.
 [^7]: Galileo Galilei, 'The Assayer' in *The Essential Galileo*, translated by M.A. Finocchiaro (Indianapolis: Hackett, 2008), p. 183.
 [^8]: Rosen, *G.W.F. Hegel*, p. xv.
-[^9]: Hegel, *The Encyclopaedia Logic*, translated by T. F. Geraets, W. A. Suchting, and H. S Harris (Indianapolis, IN: Hackett, 1991), p. 83 (§41: Addition 2).
+[^9]: Hegel, *The Encyclopaedia Logic*, translated by T. F. Geraets, W. A. Suchting, and H. S. Harris (Indianapolis, IN: Hackett, 1991), p. 83 (§41: Addition 2).
 [^10]: Hegel, *The Difference Between Fichte’s and Schelling's System of Philosophy*, translated by H. S. Harris and W. Cerf (Albany: State University of New York Press, 1977), p. 89. Henceforth cited as 'D'.
 [^11]: §73.
 [^12]: §74, §76.

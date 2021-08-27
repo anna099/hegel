@@ -8,7 +8,8 @@ html {
     --red: #a14a3f;
     --black: #1a0f00;
     --lightgrey: #d2d2d2;
-    --blue: #e7eff6;
+    --lightblue: #e7eff6;
+    --blue: rgb(15, 52, 128);
 }
 
 body {
@@ -16,7 +17,7 @@ body {
     margin: 3% auto;
 
     font-family: 'Arno Pro', 'ap', Garamond, Georgia, serif;
-    font-size: 12.5pt;
+    font-size: 13pt;
     font-feature-settings: 'onum';
 
     color: var(--black);
@@ -50,7 +51,7 @@ p + p {
 strong { font-weight: 600; }
 
 ::selection {
-    background: var(--blue);
+    background: var(--lightblue);
 }
 
 hr {
@@ -96,7 +97,7 @@ hr {
 
 a[href] {
     text-decoration: none;
-    color: var(--red);
+    color: var(--blue);
 }
 a[href]:hover {
     text-decoration: underline;
@@ -205,12 +206,13 @@ h4:not(#author):not(.subtitle) { /* mini-section titles, e.g. 'Skepticism' or Pl
     font-weight: normal;
     font-style: italic;
     margin: 2em 0 1em 0;
+    counter-increment: subsection;
 }
 
 h4:not(#author):not(.subtitle)::before {
-    content: attr(js-number); /* see script.js */
+    content: counter(subsection);
     font-style: normal;
-    margin-right: 0.75em;
+    margin-right: 0.4em;
 }
 
 .subtitle {
@@ -265,10 +267,7 @@ img#title {
     counter-reset: toc;
 }
 
-#contents ol {
-    padding-left: 0;
-    counter-reset: toc;
-}
+#contents ol { padding-left: 0; }
 
 #contents li {
     margin-top: 0;
@@ -276,28 +275,31 @@ img#title {
     list-style-type: none;
 }
 
-#contents > li {
-    margin-top: 1em;
-}
+/* separate sections */
+#contents > li { margin-top: 1em; }
 
-#contents li li li a {
-    margin-left: 1em;
-}
+/* indent sub-sub-sections */
+#contents li li li a { margin-left: 1em; }
 
-/* contents numbering */
-#contents li::before {
+/* numbering */
+#contents > li::before {
     position: absolute;
     width: 2.4rem;
     transform: translate(-3.2rem);
-
     text-align: right;
     color: var(--lightgrey);
-
-    content: counters(toc, '.') ' ';
+    content: counter(toc);
     counter-increment: toc;
 }
 
 #contents a { line-height: 1.375em; }
+
+/* some pages are so huge that they have extra contents sub-sections
+ * that are only visible when that page is displayed */
+#contents .extra-contents {
+    padding-left: 1em;
+    font-size: 90%;
+}
 
 /* extra indentation */
 #contents li.ind { padding-left: 1rem; }
@@ -306,15 +308,15 @@ img#title {
 /* Navigation ----------------------------------------------- */
 
 #nav {
-    margin-top: 3em;
-
-    font-variant: small-caps;
-    font-size: 1.2em;
-    text-transform: lowercase;
+    margin-top: 2em;
+    font-size: 1.05em;
     text-align: center;
 }
 
-#nav a { display: block; }
+#nav a {
+    display: block;
+    margin-bottom: 0.3em;
+}
 
 /* The footnotes section ------------------------------------ */
 
@@ -323,7 +325,7 @@ img#title {
     margin: 50px -10%;
 }
 
-.footnotes hr { width: 100%; }
+.footnotes hr { display: none; }
 
 .footnotes ol {
     column-count: 2;
@@ -354,7 +356,7 @@ img#title {
 #biblink { /* link in footnotes to bibliography.html */
     display: block;
     text-align: center;
-    color: var(--red);
+    color: var(--blue);
 }
 
 /* Bibliography --------------------------------------------- */
@@ -409,12 +411,12 @@ img#title {
 
 #moving-header {
     position: fixed;
-    top: 20px;
-    left: 20px;
     width: 25%;
+    top: 10px;
+    left: 20px;
 
     font-variant: small-caps;
-    font-size: 1.2em;
+    font-size: 1.1em;
     text-transform: lowercase;
     opacity: 0.5;
 }

@@ -186,7 +186,7 @@ dichotomy.'[^16]
 If the dualisms of culture and knowledge are not to be overcome by a philosophy
 whose structure is worked out ahead of time, then philosophy must instead *enter
 into* the problems, *in medias res*, and work them out from within. This is how
-the *Phenomenology*'s Preface begins: like Aristotle, Hegel begins by looking
-out upon his contemporary landscape and assessing its various ways of thinking.
-How have other philosophers tried to find unity against dualism? Why have they
-failed (in Hegel's view)?
+the *Phenomenology*'s Preface begins: like Aristotle often did, Hegel begins by
+looking out upon his contemporary landscape and assessing its various ways of
+thinking. How have other philosophers tried to find unity against dualism? Why
+have they failed (in Hegel's view)?

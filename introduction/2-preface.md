@@ -99,16 +99,16 @@ establish unity. Thus, Richard Kroner writes:
 Romanticism, as Hegel came to see it, was not concerned with *accurate thinking*
 at all. In the *Phenomenology*'s Preface, he suggests that the Romantics were
 reacting against the *disenchantment* brought upon the world by the science of
-modernity. (Indeed, the term 'disenchantment' was brought into sociology by Max
-Weber, but Weber himself borrowed it from Schiller, the Romantic.) However,
+modernity. (Indeed, when the term 'disenchantment' was brought into sociology by
+Max Weber, it was borrowed from the writing of Schiller, the Romantic.) However,
 instead of finding an alternative to this disenchantment by progressing through
 modernity and developing human thought, Romanticism called for a return to the
 spirit of pre-modern *religion*. 'What it wants from philosophy is not so much
-*insight* as *edification*.'[^29] The task of Romantic philosophy, in Hegel's
-terms, is just 'to take what thought has torn asunder [that is, dualisms] and
-then to stir it all together into a smooth mélange, to *suppress* the concept
-that makes those distinctions, and then to fabricate the *feeling* of the
-essence.'[^30]
+*insight* as *edification*,' Hegel remarked.[^29] The task of Romantic
+philosophy, in Hegel's terms, is just 'to take what thought has torn asunder
+[that is, dualisms] and then to stir it all together into a smooth mélange, to
+*suppress* the concept that makes those distinctions, and then to fabricate the
+*feeling* of the essence.'[^30]
 
 In other words, the Romantics did nothing to *cure* the dualisms of modern life
 and thought; instead, they suppressed them and covered them up with a
@@ -131,11 +131,11 @@ Romantics. Where writers like Schlegel and Novalis were fragmentary, poetic, and
 spiritual, Schelling was unrepentantly systematic and focused predominantly on
 *nature*, rather than the religious or spiritual dimensions of life. It was
 thought by Schelling that, if we are to understand how subjectivity is a part of
-reality in the first place, we must understand the natural world from which
-subjectivity emerges. In this regard, Schelling's philosophy took the opposite
-direction to that of his predecessor, Fichte, for whom subjectivity ('the I', or
-*das Ich*) was the fundamental fact of philosophy, from which everything else
-had to be derived.
+reality in the first place, we must try to understand the natural world from
+which subjectivity emerges. In this regard, Schelling's philosophy took the
+opposite direction to that of his predecessor, Fichte, for whom subjectivity
+('the I', or *das Ich*) was the fundamental fact of philosophy, from which
+everything else -- nature included -- had to be derived.
 
 Schelling's influence led to a 'school' of students working under his influence:
 philosophers who took Schelling's work as though it was a catalogue of clean-cut

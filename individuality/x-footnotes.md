@@ -17,3 +17,4 @@
 [^13]: §400. For the 'labor of the negative' and the slave's labour, see §19 and §195.
 [^14]: §401.
 [^15]: Ibid. Emphasis added.
+[^16]: Harris, *Hegel's Ladder*, II, p. 88.
