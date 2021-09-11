@@ -2,12 +2,12 @@
 
 body {
     width: 50%;
-    font-size: 13pt;
 }
 
 /* Main text ------------------------------------------------ */
 
 .content {
+    font-size: 100%;
     max-width: 60ch;
 }
 
