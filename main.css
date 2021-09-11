@@ -4,41 +4,40 @@
 @font-face { font-family: 'ap'; font-weight: bold; font-style: italic; src: url('fonts/bolditalic.otf') format('opentype'); }
 
 html {
-    --pale: #fdfdfc;
+    /* --pale: #fdfdfc; */
+    --pale: white;
     --red: #a14a3f;
     --black: #1a0f00;
+    --dim: #33330011;
     --lightgrey: #d2d2d2;
     --lightblue: #e7eff6;
     --blue: rgb(15, 52, 128);
 }
 
 body {
-    width: 50%;
+    width: 90%;
     margin: 3% auto;
 
     font-family: 'Arno Pro', 'ap', Garamond, Georgia, serif;
-    font-size: 13pt;
+    font-size: 15pt;
     font-feature-settings: 'onum';
-
     color: var(--black);
     background: var(--pale);
 
     counter-reset: section;
 }
 
-/* Main text ------------------------------------------------ */
+/* main content */
 
 .content {
-    max-width: 60ch;
     margin: 0 auto;
+    font-size: 1.13em;
 }
 
 p,
 blockquote p,
 .content li {
     margin-bottom: 0;
-
-    font-size: 1.13em;
     line-height: 1.3;
     text-align: justify;
 }
@@ -50,48 +49,12 @@ p + p {
 
 strong { font-weight: 600; }
 
-::selection {
-    background: var(--lightblue);
-}
-
 hr {
     width: 20em;
     margin: 1.3em auto;
     border: none;
     border-top: 1px solid var(--lightgrey);
 }
-
-/* paragraph numbering */
-
-.content>p::before, .content>ol::before {
-    clear: right;
-    float: right;
-    margin-right: -10%;
-
-    font-size: 0.8em;
-    color: var(--lightgrey);
-    white-space: nowrap;
-    counter-increment: section;
-    content: counter(section);
-}
-
-/* lists */
-
-.content ol {
-    position: relative; /* required for the numbers, see below */
-    padding-left: 0;
-    counter-reset: item;
-    list-style-type: none;
-}
-
-.content ol li::before {
-    position: absolute;
-    left: -1.3em;
-    content: counter(item) ' ';
-    counter-increment: item;
-}
-
-.content li p { font-size: 1em; }
 
 /* links and footnote numbers */
 
@@ -132,7 +95,7 @@ thead { border-bottom: 1px solid var(--ctext); }
 th { font-weight: normal; }
 td, th { padding: 0 0.3em; }
 
-/* epigraphs, special text, etc. */
+/* epigraphs */
 
 .epigraph {
     width: 80%;
@@ -160,24 +123,6 @@ td, th { padding: 0 0.3em; }
     font-variant: normal;
     text-transform: none;
     letter-spacing: normal;
-}
-
-.special { /* for definitions, special quotations, etc. */
-    width: 80%;
-    margin: 1em auto;
-    text-align: justify;
-}
-
-.special strong {
-    font-variant: small-caps;
-    font-weight: normal;
-    text-transform: lowercase;
-    font-family: 'Optima', 'ap', serif;
-}
-
-p + .special {
-    margin-top: 1em;
-    text-indent: 0;
 }
 
 /* headings */
@@ -256,10 +201,9 @@ img#title {
     opacity: 0.8;
 }
 
-/* Contents ------------------------------------------------- */
+/* contents */
 
 #contents {
-    width: 50%;
     margin: 2em auto 4em auto;
     padding-left: 2.4rem;
     white-space: nowrap;
@@ -301,11 +245,7 @@ img#title {
     font-size: 90%;
 }
 
-/* extra indentation */
-#contents li.ind { padding-left: 1rem; }
-#contents li.ind::before { transform: translate(-4.2rem); } /* see values above */
-
-/* Navigation ----------------------------------------------- */
+/* navigation */
 
 #nav {
     margin-top: 2em;
@@ -318,24 +258,12 @@ img#title {
     margin-bottom: 0.3em;
 }
 
-/* The footnotes section ------------------------------------ */
-
-.footnotes {
-    width: 120%;
-    margin: 50px -10%;
-}
+/* footnotes */
 
 .footnotes hr { display: none; }
 
-.footnotes ol {
-    column-count: 2;
-    column-gap: 3em;
-}
-
 .footnotes li,
 .footnotes p {
-    break-inside: avoid column;
-    page-break-inside: avoid; /* firefox */
     font-size: 0.98em;
     margin: 0 0 0.3em 0;
 }
@@ -351,7 +279,7 @@ img#title {
 .footnotes a:hover { color: var(--red); }
 
 /* selected footnote */
-.footnotes li:target { background: #33330011; }
+.footnotes li:target { background: var(--dim); }
 
 #biblink { /* link in footnotes to bibliography.html */
     display: block;
@@ -359,7 +287,7 @@ img#title {
     color: var(--blue);
 }
 
-/* Bibliography --------------------------------------------- */
+/* bibliography */
 
 .bib {
     padding: 0;
@@ -384,24 +312,7 @@ img#title {
     margin: 0.5em auto 1em auto;
 }
 
-/* JavaScript elements -------------------------------------- */
-
-#hover-note {
-    border-left: 1px solid #000000aa;
-
-    position: fixed;
-    opacity: 0; /* see script.js */
-    padding: 0.6em;
-    transform: translateY(-50%);
-    width: 18%;
-    left: 75%;
-}
-
-#hover-note p {
-    margin: 0;
-    font-size: 0.95em;
-    text-align: left;
-}
+/* JavaScript elements */
 
 #wordcount {
     margin-top: 4em;
@@ -410,34 +321,5 @@ img#title {
 }
 
 #moving-header {
-    position: fixed;
-    width: 25%;
-    top: 10px;
-    left: 20px;
-
-    font-variant: small-caps;
-    font-size: 1.1em;
-    text-transform: lowercase;
-    opacity: 0.5;
-}
-
-#moving-header em { font-style: normal; }
-
-/* Mobile-friendly design ----------------------------------- */
-
-body[mobile="true"] {
-    width: 85%;
-    margin-top: 15%;
-    font-size: 18pt;
-}
-
-body[mobile="true"] #contents li::before,
-body[mobile="true"] .content>p::before,
-body[mobile="true"] .content>ol::before,
-body[mobile="true"] #author,
-body[mobile="true"] #pre-author,
-body[mobile="true"] #moving-header,
-body[mobile="true"] #hover-note,
-body[mobile="true"] .footnote-back {
     display: none;
 }

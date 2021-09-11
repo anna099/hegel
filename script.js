@@ -1,5 +1,4 @@
 window.onload = function () {
-    handleMobile();  // change the <body> if user is on mobile.
     pageTitle();     // set the page title to something appropriate.
     smallCaps();     // sections begin with a few words in small caps.
     wordCount();     // a wordcount appears at the end of the page.
@@ -7,21 +6,6 @@ window.onload = function () {
     bibLink();       // add link to bibliography below footnotes.
     followHeading(); // note the heading of the current section at the top
 };
-
-function handleMobile() {
-    if (isMobile()) {
-        document.body.setAttribute("mobile", true);
-    }
-}
-
-function isMobile() {
-    const matches = ['Android', 'webOS', 'iPhone', 'iPad',
-        'iPod', 'BlackBerry', 'Windows Phone', 'Mobile'];
-
-    return matches.some((item) => {
-        return navigator.userAgent.indexOf(item) >= 0;
-    });
-}
 
 function smallCaps() {
     const selector = "h3 + p, h4 + p, blockquote.epigraph + p";

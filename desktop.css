@@ -1,0 +1,115 @@
+@media (min-width: 768px) {
+
+body {
+    width: 50%;
+    font-size: 13pt;
+}
+
+/* Main text ------------------------------------------------ */
+
+.content {
+    max-width: 60ch;
+}
+
+p,
+blockquote p,
+.content li {
+    font-size: 1.13em;
+}
+
+::selection {
+    background: var(--lightblue);
+}
+
+/* paragraph numbering */
+
+.content>p::before, .content>ol::before {
+    clear: right;
+    float: right;
+    margin-right: -10%;
+
+    font-size: 0.8em;
+    color: var(--lightgrey);
+    white-space: nowrap;
+    counter-increment: section;
+    content: counter(section);
+}
+
+/* lists */
+
+.content ol {
+    position: relative; /* required for the numbers, see below */
+    padding-left: 0;
+    counter-reset: item;
+    list-style-type: none;
+}
+
+.content ol li::before {
+    position: absolute;
+    left: -1.3em;
+    content: counter(item) ' ';
+    counter-increment: item;
+}
+
+.content li p { font-size: 1em; }
+
+/* contents */
+
+#contents {
+    width: 50%;
+}
+
+/* footnotes */
+
+.footnotes {
+    width: 120%;
+    margin: 50px -10%;
+}
+
+.footnotes ol {
+    column-count: 2;
+    column-gap: 3em;
+}
+
+.footnotes li,
+.footnotes p {
+    break-inside: avoid column;
+    page-break-inside: avoid; /* firefox */
+}
+
+/* JavaScript elements -------------------------------------- */
+
+#hover-note {
+    border-left: 1px solid #000000aa;
+
+    position: fixed;
+    opacity: 0; /* see script.js */
+    padding: 0.6em;
+    transform: translateY(-50%);
+    width: 18%;
+    left: 75%;
+}
+
+#hover-note p {
+    margin: 0;
+    font-size: 0.95em;
+    text-align: left;
+}
+
+#moving-header {
+    display: block;
+
+    position: fixed;
+    width: 25%;
+    top: 10px;
+    left: 20px;
+
+    font-variant: small-caps;
+    font-size: 1.1em;
+    text-transform: lowercase;
+    opacity: 0.5;
+}
+
+#moving-header em { font-style: normal; }
+
+} /* end @media query */
