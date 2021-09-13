@@ -1,7 +1,7 @@
 ### Mastery and Servitude {#master}
 #### Self-Sufficiency and Non-Self-Sufficiency of Self-Consciousness {.subtitle}
 
-<blockquote class="epigraph">Before Darwin, Hegel had provided the definitive theory of the specific function of aggressiveness in human ontology, seeming to prophesy the iron law of our own time. <footer>Jacques Lacan, *Écrits*, 1966</footer></blockquote>
+<blockquote class="epigraph">You ache with the need to convince yourself that you do exist in the real world, that you're a part of all the sound and anguish, and you strike out with your fists, you curse and you swear to make them recognize you. <footer>Ralph Ellison, *Invisible Man*, 1952</blockquote>
 
 The present section is possibly the most-read passage in all of Hegel's work,
 though it lasts less than ten pages. At the opening, Hegel explains that
@@ -181,6 +181,8 @@ objectifying the Other who could recognise them; furthermore, the master is
 entirely *dependent* on their slave's work, and is thus a slave themselves.
 
 #### The Liberation of the Slave {#liber}
+
+<blockquote class="epigraph">You have seen how a man was made a slave; you shall see how a slave was made a man.<footer>Frederick Douglass, *Life of Frederick Douglass*, 1845</footer></blockquote>
 
 The master is a consumer, who makes demands of the slave and then consumes the
 products of the slave's work. In this sense, the master is still ruled by

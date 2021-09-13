@@ -18,3 +18,14 @@
 [^14]: §401.
 [^15]: Ibid. Emphasis added.
 [^16]: Harris, *Hegel's Ladder*, II, p. 88.
+[^17]: §402.
+[^18]: §403. In most English translations of the *Phenomenology*, §402 is erroneously split into two paragraphs. Pinkard's translation, which I am quoting from, fixes this error; as such, if you are reading any other translation, my paragraph citations from §403 on will be smaller by 1.
+[^19]: §404.
+[^20]: Hyppolite makes this comparison in *Genesis and Structure*, p. 304; Harris makes it in *Hegel's Ladder*, II, pp. 81 ff.
+[^21]: G.W. Leibniz, *The Monadology*, edited by Nicholas Rescher (Pittsburgh, PA: University of Pittsburgh Press, 1991), p. 58.
+[^22]: Roland Barthes, 'The Death of the Author', in *Image-Music-Text* (London: Fontana, 1977), p. 145.
+[^23]: §404.
+[^24]: Solomon, *In the Spirit of Hegel*, p. 521.
+[^25]: §405.
+[^26]: Ibid.
+[^27]: See *Summa Theologica* I, Q. 16.

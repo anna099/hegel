@@ -13,11 +13,11 @@ there is no community until we die.
 
 Now, however, unhappy consciousness is no longer at the forefront of things. In
 Hegel's enormous chapter on *Reason* (consisting of over two-hundred
-paragraphs), the foundations for positivity and a real community, prior to
-heaven, are established. The key to the success of reason is *mediation*, which
-emerged in self-consciousness in the figure of the 'mediating counsel' or
-priest. Now, we (the phenomenological observers) must recognise that what
-appeared in self-consciousness as three distinct entities -- the unhappy
+paragraphs), the foundations for positivity and a real community in *this* life,
+prior to heaven, are established. The key to the success of reason is
+*mediation*, which emerged in self-consciousness in the figure of the 'mediating
+counsel' or priest. Now, we (the phenomenological observers) must recognise that
+what appeared in self-consciousness as three distinct entities -- the unhappy
 subject, the unchangeable God, and the mediating priest -- are finally
 understood as three moments of one unified position: namely, the *syllogism* of
 reason. What first appeared as the priest's mediation between God and the

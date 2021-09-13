@@ -1,5 +1,7 @@
 ### Perception {#per}
 
+<blockquote class="short epigraph">Things fall apart.<footer>W.B. Yeats, *The Second Coming*, 1919</footer></blockquote>
+
 Where sensuous certainty claimed to find absolute truth in the particular and
 the immediate, perception -- arising *necessarily* from the dialectic of sensuous
 certainty -- makes its claim to absolute truth in mediated, simple universals:
