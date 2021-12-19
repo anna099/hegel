@@ -64,16 +64,16 @@ the starting position of reason:
 
 In what particular way does reason 'see itself as all truth'? Recall that every
 shape of knowing in the *Phenomenology* so far begins with *certainty*: an
-immediate and often naive claim to truth. The chapter on reason begins in just
+immediate and often naïve claim to truth. The chapter on reason begins in just
 the same way: Hegel makes a distinction between an idealism that recognises the
 journey (from sensuous certainty to self-consciousness) that is necessary for
 '*proving*' that the I is all truth and all reality, and the idealism for whom
 this journey is forgotten. In its present moment of certainty, reason fits the
 latter description. 'It only gives *the assurance* of being all reality, but
 does not itself comprehend this, for the comprehension of this immediately
-expressed assertion is that forgotten path itself'.[^6] This kind of naive,
+expressed assertion is that forgotten path itself'.[^6] This kind of naïve,
 asserted idealism is thus only 'an *immediate certainty* against which other
-immediate certainties stand in contrast': since the naive idealist has forgotten
+immediate certainties stand in contrast': since the naïve idealist has forgotten
 the dialectical overcoming of the certainties in consciousness and
 self-consciousness (sensuous certainty and the desiring I, respectively), it is
 unable to overcome these certainties, or prove itself against them.[^7] This point

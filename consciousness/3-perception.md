@@ -146,7 +146,7 @@ consciousness is now aware that perception is not a mere 'simple apprehension';
 that is to say, the perceiver, after self-reflection, is *consciously aware* of
 their own perceiving. As Harris writes,
 
-> Consciousness is no longer naive but reflective. At this point in the
+> Consciousness is no longer naïve but reflective. At this point in the
 > dialectic of sense-certainty it became the standard of what truly is; but in
 > the dialectic of perception it distinguishes its reflective activity as the
 > source of 'falsity.' [^20]

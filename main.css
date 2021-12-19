@@ -275,7 +275,8 @@ img#title {
     line-height: 1.1;
 }
 
-.footnotes a { color: var(--lightgrey); }
+.footnotes a { color: var(--blue); }
+.footnotes a.footnote-back { color: var(--lightgrey); }
 .footnotes a:hover { color: var(--red); }
 
 /* selected footnote */

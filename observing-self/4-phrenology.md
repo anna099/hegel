@@ -337,7 +337,7 @@ selfhood and spirit with a dead bone. This weird mix of profundity and
 ignorance, he suggests, have
 
 > the same kind of connection of higher and lower which, in the case of the
-> living being, nature itself naively expresses in the combination of the organ
+> living being, nature itself naïvely expresses in the combination of the organ
 > of its highest fulfillment, the organ of reproduction, with the organ of
 > urination.[^68]
 

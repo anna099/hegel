@@ -62,7 +62,7 @@ At the outset, the observer thinks in the tradition of Francis Bacon, working as
 an 'unthinking consciousness.' Hegel does not mean this in a straightforwardly
 disparaging way; rather, he means that the observer is engaged in a naïve kind
 of empiricism, which deludes itself into thinking that it relies on observation
--- 'tasting, smelling, feeling, hearing, and seeing' -- alone.[^7] The naïvety
+-- 'tasting, smelling, feeling, hearing, and seeing' -- alone.[^7] The naivety
 of this position is that it has forgotten the role that consciousness plays in
 determining the objects of experience. As Kant wrote in his *Prolegomena*, a
 'given intuition must be subsumed under a concept which determines the form of

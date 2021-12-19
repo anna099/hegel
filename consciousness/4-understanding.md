@@ -79,15 +79,15 @@ while perception recognised the independence of things (each thing is a One
 distinct from others), it fails to recognise the *causal dependence* of every
 thing on every other thing, insofar as all things are part of one coherent
 reality. Perception indeed *cannot* notice this dependence, because -- as Hume
-notes -- causation is not a perceptible phenomenon. The understanding posits
-force as the substance of things so that causation, and all other relations
-between things, are real, *essential* parts of reality (as opposed to the
-imperceptible and unessential elements of perceptual reality which led to the
-aporia of perception). When things are understood as expressions of force, it is
-a constitutive feature of them to 'reach outside' themselves; thus, the positing
-force allows the totality of things to constitute an intelligible whole or
-cosmos. This reaching-outside of things relates to Newton's Third Law of
-motion:
+famously demonstrated -- causation is not a perceptible phenomenon. The
+understanding posits force as the substance of things so that causation, and all
+other relations between things, are real, *essential* parts of reality (as
+opposed to the imperceptible and unessential elements of perceptual reality
+which led to the aporia of perception). When things are understood as
+expressions of force, it is a constitutive feature of them to 'reach outside'
+themselves; thus, the positing force allows the totality of things to constitute
+an intelligible whole or cosmos. This reaching-outside of things relates to
+Newton's Third Law of motion:
 
 > *To every Action there is always opposed an equal Reaction: or the mutual
 > actions of two bodies upon each other are always equal, and directed to

@@ -64,7 +64,7 @@ consciousness.
 
 Hegel summarises the stoic's freedom when he says that 'within thinking, I am
 *free* because I am not in an other ... my moving about in concepts is a
-movement within myself'.[^59] As such, the stoic is neither a naive master, who
+movement within myself'.[^59] As such, the stoic is neither a naïve master, who
 finds their truth in the slave, nor a slave, whose truth is found in serving the
 master. Hegel is perhaps thinking of how the two masters of stoicism (Marcus
 Aurelius and Epictetus) were an emperor and a slave, respectively, when he says

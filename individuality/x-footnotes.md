@@ -13,19 +13,31 @@
 [^9]: §397.
 [^10]: §398.
 [^11]: §399.
-[^12]: Kalkavage, *The Logic of Desire*, p. 211.
-[^13]: §400. For the 'labor of the negative' and the slave's labour, see §19 and §195.
-[^14]: §401.
-[^15]: Ibid. Emphasis added.
-[^16]: Harris, *Hegel's Ladder*, II, p. 88.
-[^17]: §402.
-[^18]: §403. In most English translations of the *Phenomenology*, §402 is erroneously split into two paragraphs. Pinkard's translation, which I am quoting from, fixes this error; as such, if you are reading any other translation, my paragraph citations from §403 on will be smaller by 1.
-[^19]: §404.
-[^20]: Hyppolite makes this comparison in *Genesis and Structure*, p. 304; Harris makes it in *Hegel's Ladder*, II, pp. 81 ff.
-[^21]: G.W. Leibniz, *The Monadology*, edited by Nicholas Rescher (Pittsburgh, PA: University of Pittsburgh Press, 1991), p. 58.
-[^22]: Roland Barthes, 'The Death of the Author', in *Image-Music-Text* (London: Fontana, 1977), p. 145.
-[^23]: §404.
-[^24]: Solomon, *In the Spirit of Hegel*, p. 521.
-[^25]: §405.
-[^26]: Ibid.
-[^27]: See *Summa Theologica* I, Q. 16.
+[^12]: Slavoj Žižek, ‘Les Non-Dupes Errent’, The Philosophical Salon, September 2021, <https://thephilosophicalsalon.com/les-non-dupes-errent/>.
+[^13]: Kalkavage, *The Logic of Desire*, p. 211.
+[^14]: §400. For the 'labor of the negative' and the slave's labour, see §19 and §195.
+[^15]: §401.
+[^16]: Ibid. Emphasis added.
+[^17]: Harris, *Hegel's Ladder*, II, p. 88.
+[^18]: §402.
+[^19]: §403. In most English translations of the *Phenomenology*, §402 is erroneously split into two paragraphs. Pinkard's translation, which I am quoting from, fixes this error; as such, if you are reading any other translation, my paragraph citations from §403 on will be smaller by 1.
+[^20]: §404.
+[^21]: Hyppolite makes this comparison in *Genesis and Structure*, p. 304; Harris makes it in *Hegel's Ladder*, II, pp. 81 ff.
+[^22]: G.W. Leibniz, *The Monadology*, edited by Nicholas Rescher (Pittsburgh, PA: University of Pittsburgh Press, 1991), p. 58.
+[^23]: Roland Barthes, 'The Death of the Author', in *Image-Music-Text* (London: Fontana, 1977), p. 145.
+[^24]: §404.
+[^25]: Solomon, *In the Spirit of Hegel*, p. 521.
+[^26]: §405.
+[^27]: Ibid.
+[^28]: §407.
+[^29]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, pp. 437-38.
+[^30]: §406.
+[^31]: §408. Cf. Harris, *Hegel's Ladder*, II, p. 97.
+[^32]: §408. Do not confuse this 'thing itself' with the Kantian 'thing in-itself' [*Ding an sich*], which is a less practical and more epistemological concept.
+[^33]: §3.
+[^34]: §410.
+[^35]: Hyppolite, *Genesis and Structure*, p. 310.
+[^36]: §409.
+[^37]: §410.
+[^38]: §411.
+[^39]: §412.
