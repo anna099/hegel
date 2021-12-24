@@ -1,5 +1,5 @@
-<div id="nav"><a href="reason-intro.html">Next Chapter: Reason</a>
-<a href="consciousness.html">Previous Chapter: Consciousness</a></div>
+<div id="nav"><a href="consciousness.html">Previous Chapter: Consciousness</a>
+<a href="reason-intro.html">Next Chapter: Reason</a></div>
 
 </section>
 

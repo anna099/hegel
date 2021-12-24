@@ -41,3 +41,7 @@
 [^37]: §410.
 [^38]: §411.
 [^39]: §412.
+[^40]: §413.
+[^41]: §414.
+[^42]: D 119.
+[^43]: Judith Shklar, *Freedom and Independence: A Study of the Political Ideas of Hegel's Phenomenology of Mind* (Cambridge: Cambridge University Press, 1976), p. 128.

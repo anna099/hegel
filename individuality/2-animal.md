@@ -252,3 +252,22 @@ out by other people:
 > itself which is the crux of the matter just because of the interest that he
 > himself finds in it, which is quite independent of whether or not he brought
 > about that actuality.[^39]
+
+The honest individual 'makes one meaning after another into [the thing itself],
+and then it forgets one after the other.'[^40] Indeed, the only thing that
+unifies these multiple instances of the thing itself is the individual
+themselves: 'they are so plainly related to each other' insofar as 'The *pure*
+doing is essentially *this* individual's doing.'[^41] In this sense, the
+'honest' individual is, in truth, concerned above all with themselves, with
+their own ego. Accordingly, we can see the honest consciousness as a parody of
+Fichte's idealism -- at least in the form that Hegel understood it. For Hegel,
+the foundation of Fichtean idealism is the ego's 'pure thinking of itself, pure
+selfconsciousness.'[^42] Similarly, the honest individual is self-congratulatory
+about its activity, concerning any action to be the crux of the matter simply
+because they deem it to be so. As Judith Shklar writes,
+
+> It is really because it is his 'own' cause that the 'honest' participant cares
+> about it and imputes values to it. His activity is only a reflection of his
+> self-absorption. [...] He is like the spectator who uses art to display his
+> good taste. Causes [i.e. cruxes of the matter] are a foil to demonstrate his
+> 'honesty'. It remains a matter of the self playing with itself.[^43]

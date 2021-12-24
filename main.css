@@ -292,11 +292,11 @@ img#title {
 
 .bib {
     padding: 0;
-    text-align: left;
     font-size: 0.9em;
 }
 
 .bib li {
+    text-align: left;
     list-style-type: none;
     text-indent: -2em;
     margin-left: 2em;
