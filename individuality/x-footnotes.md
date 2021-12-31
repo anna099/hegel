@@ -45,3 +45,9 @@
 [^41]: §414.
 [^42]: D 119.
 [^43]: Judith Shklar, *Freedom and Independence: A Study of the Political Ideas of Hegel's Phenomenology of Mind* (Cambridge: Cambridge University Press, 1976), p. 128.
+[^44]: Kalkavage, *The Logic of Desire*, p. 220.
+[^45]: §415.
+[^46]: §416.
+[^47]: §417.
+[^48]: Ibid.
+[^49]: Robert Pippin, 'You Can't Get There from Here: Transition problems in Hegel's *Phenomenology of Spirit*', in *The Cambridge Companion to Hegel*, edited by Frederick C. Beiser (Cambridge: Cambridge University Press, 1993), pp. 74-75.

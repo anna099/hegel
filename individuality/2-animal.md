@@ -37,7 +37,7 @@ vaccinations:
 
 > The freedom to choose being vaccinated or not is, of course, a formal kind of
 > freedom; however, to reject vaccination effectively implies limiting my actual
-> freedom as well as the freedom of others. [...] My freedom is only actual as
+> freedom as well as the freedom of others. ... My freedom is only actual as
 > freedom within a certain social space regulated by rules and prohibitions. I
 > can walk freely along a busy street because I can be reasonably sure that
 > others on the street will behave in a civilized way towards me, will be
@@ -210,7 +210,7 @@ action wherein the individual 'unreservedly affirms itself and is experienced as
 what endures, independently of the *contingency* of [their] doing and the
 contingency of the circumstances, means, and actuality.'[^32] Recall Hegel's
 comment right at the start of the *Phenomenology*: 'the whole is the result
-together with the way the result comes to be [...] the unadorned result is just
+together with the way the result comes to be ... the unadorned result is just
 the corpse that has left the tendency behind.'[^33] What we are seeing now is
 the practical individual coming to the realisation of this fact. In
 understanding the whole *process* of work to be the crux of the matter, the
@@ -268,6 +268,58 @@ because they deem it to be so. As Judith Shklar writes,
 
 > It is really because it is his 'own' cause that the 'honest' participant cares
 > about it and imputes values to it. His activity is only a reflection of his
-> self-absorption. [...] He is like the spectator who uses art to display his
-> good taste. Causes [i.e. cruxes of the matter] are a foil to demonstrate his
+> self-absorption. ... He is like the spectator who uses art to display his good
+> taste. Causes [i.e. cruxes of the matter] are a foil to demonstrate his
 > 'honesty'. It remains a matter of the self playing with itself.[^43]
+
+The honest individual is **deceiving** themselves: having no grasp on how their
+activity's *subjective* side (i.e., their investment in it) relates to its
+*objective* side (i.e., its supposed status as the crux of the matter), they
+'run from the truth' by constantly changing their mind about their focus and
+values.[^44] Through this deception, however, they also end up deceiving others:
+when an individual declares a certain cause or vocation to be the crux of the
+matter, they declare it to be of *universal* interest: the activity 'is exposed
+by consciousness to the light of day and is represented as being *for
+others*.'[^45] Accordingly, other people start adopting and appropriating the
+activity, and making it their own. But as soon as this happens, the individual
+has lost what really made the activity worthwhile to them: namely, that it was
+*them* doing it themselves. Furthermore, the other people who adopted the
+activity, having been given no *objective* reasons to find the activity truly
+worthwhile, are *also* carrying it out in a merely self-congratulatory manner.
+For the first individual, 'what interests him about the [supposed] crux of the
+matter is what it has to do with *his own* goings-on'; likewise, the 'haste' of
+the others to 'offer their assistance' amounts to nothing more 'but their own
+desire to see and to show off not the *crux of the matter* but only *their own*
+activities'.[^46] Deception and 'hoodwinking' spreads throughout the community.
+
+If this seems too abstract, consider a contemporary example: the 'hipster'. At
+least according to the stereotype, a hipster will fanatically praise something
+(perhaps a filmmaker, a style of music, or a way of dressing), declaring it to
+be the current Big Thing -- the *thing itself*. However, if other people were to
+start adopting this Big Thing for themselves (going to see the filmmaker's
+films, or listening to that particular style of music, etc.), the hipster would
+quickly denounce the thing, and perhaps claim that it has been misunderstood by
+the public: 'they didn't get it!'. It is quickly revealed that the hipster's
+'interest' in the thing was nothing but self-interest in disguise: it only
+earned its status as the thing itself insofar as the hipster could claim it as
+their *own*.
+
+People will only tolerate such deception for so long. When an individual loses
+the trust of their community -- and, moreover, continues to deceive *themselves*
+-- they eventually come to the realisation that their conception of their
+activity is deeply flawed. No matter how much these 'animal' individuals compete
+with each other, 'still they all mutually learn from experience that *everyone*
+is on the move and considers himself invited' and that, when an overly
+individualistic notion of the crux of the matter is abandoned, something else is
+'brought into the open.'[^47] Through experience, each member of the 'animal
+kingdom' comes to learn that the *real* crux of the matter is not an exclusively
+individual thing, but a social thing: it 'is only a fact insofar as it is the
+*doing* of *each* and *all*'. This kind of fact, in Hegelian language, is called
+'*spiritual essence*'.[^48]
+
+As Robert Pippin has suggested, Hegel's conclusion of this chapter is that a
+conception of practical reason wherein my activity 'is rational for me simply if
+it fits and helps realize my overall life plan and interests' is, ultimately,
+*not* reason in any meaningful sense. Put otherwise, activity can be rational
+'only if tied to the development or realization of a supra-individual subject,
+*Geist*.'[^49]
