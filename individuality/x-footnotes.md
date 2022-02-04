@@ -51,3 +51,6 @@
 [^47]: §417.
 [^48]: Ibid.
 [^49]: Robert Pippin, 'You Can't Get There from Here: Transition problems in Hegel's *Phenomenology of Spirit*', in *The Cambridge Companion to Hegel*, edited by Frederick C. Beiser (Cambridge: Cambridge University Press, 1993), pp. 74-75.
+[^50]: §418.
+[^51]: §419.
+[^52]: §419-20.
