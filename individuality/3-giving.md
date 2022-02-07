@@ -29,9 +29,9 @@ This short section is consequently devoted to undermining reason's claim that it
 can devise necessary moral laws -- *laws of nature*, perhaps -- simply through
 abstract rational thought. Such laws always collapse, Hegel will argue, because
 in aiming for *necessity* they fail to incorporate the *contingency* that runs
-throughout diverse individuals in ethical life. Just like in *Sensuous
-Certainty*, Hegel is here demonstrating that immediate claims to truth amount to
-very little.
+throughout diverse individuals in ethical life. Just like in sensuous certainty,
+Hegel is here demonstrating that immediate claims to truth amount to very
+little.
 
 The first attempt at an immediately valid law is: 'everyone ought to speak the
 truth.'[^54] An instruction that is so succinct almost instantly requires
@@ -68,3 +68,23 @@ myself) unless we are participants in the great common good that we call "the
 State." It is our commitment to, and membership in, the community ... that
 enables us to be good to one another.'[^57] Consequently, Hegel concludes, 'the
 only significance that remains to beneficence is that of sentiment.'
+
+What Hegel realises in his deconstruction of these 'laws' is that the contingent
+individuality of a speaker quickly undermines the universality of the speaker's
+claim. This is what Jacques Lacan understood as the difference between the
+content of 'the enunciated' and the subject of 'the enunciation'.[^58] Think
+back to sensuous certainty, where Hegel shows that 'what is meant' is, in act
+and in fact, '*inaccessible*' to language and to consciousness.[^59] The same
+difficulty arises here, when the enunciated universality in 'everyone ought to
+speak the truth' is undermined by the subjective contingency of the
+consciousness enunciating it. These 'laws of nature' therefore express nothing
+more than a '*formal*' or abtract universality which has as little concrete
+content as a tautology.[^60] For Lacan, this undermining is what reveals to us
+the unconscious (indeed, the subject of the enunciation *is* the unconscious
+subject). Similarly, for Hegel it is always the surplus element that undermines
+a claim to universality that reveals a more comprehensive truth.[^61] In this
+context, it is the (importance of the) subjective position of consciousness
+*within* ethical substance that is revealed to us; in other words, the emptiness
+of law-giving reason takes consciousness closer to the realisation that the
+subjective *and* the universal must be combined in a shared way of life (that
+is, *spirit*) in order for moral maxims to have any concrete content.

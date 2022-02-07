@@ -59,3 +59,7 @@
 [^55]: Hyppolite, *Genesis and Structure*, p. 316.
 [^56]: This paragraph quotes §424 throughout.
 [^57]: H.S. Harris, *Hegel: Phenomenology and System* (Indianapolis, IM: Hackett, 1995), p. 59.
+[^58]: See Jacques Lacan, *Écrits*, tranlated by Bruce Fink (New York: Norton, 2006), p. 892 (in the original French pagination).
+[^59]: §110.
+[^60]: §§425-26.
+[^61]: Consider Adorno's definition of dialectics as the claim 'that objects do not go into their concept without leaving a remainder' in *Negative Dialectics*, translated by E.B. Ashton (London: Routledge, 1973), p. 5.
