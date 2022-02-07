@@ -54,3 +54,8 @@
 [^50]: §418.
 [^51]: §419.
 [^52]: §419-20.
+[^53]: Hyppolite, *Genesis and Structure*, p. 316.
+[^54]: This paragraph quotes §423 throughout.
+[^55]: Hyppolite, *Genesis and Structure*, p. 316.
+[^56]: This paragraph quotes §424 throughout.
+[^57]: H.S. Harris, *Hegel: Phenomenology and System* (Indianapolis, IM: Hackett, 1995), p. 59.
