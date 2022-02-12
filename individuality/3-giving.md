@@ -88,3 +88,12 @@ context, it is the (importance of the) subjective position of consciousness
 of law-giving reason takes consciousness closer to the realisation that the
 subjective *and* the universal must be combined in a shared way of life (that
 is, *spirit*) in order for moral maxims to have any concrete content.
+
+If it is always the case for Hegel that the undermining of a claim to truth is
+what takes us to a more *comprehensive* truth, it must also be the case that the
+weaker, narrower claim must come first. Consequently, pre-spiritual reason has
+one last attempt before we arrive at the stage of spirit. This last attempt is
+what Hegel calls **law-testing reason**, and it is, in some sense, a little more
+humble than law-giving reason: rather than trying to *command* humanity on the
+basis of pure reason or 'common sense', consciousness now sets about to use its
+reason merely for *testing* laws (or maxims) that are already presented to it.

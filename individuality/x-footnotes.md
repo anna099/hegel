@@ -63,3 +63,5 @@
 [^59]: §110.
 [^60]: §§425-26.
 [^61]: Consider Adorno's definition of dialectics as the claim 'that objects do not go into their concept without leaving a remainder' in *Negative Dialectics*, translated by E.B. Ashton (London: Routledge, 1973), p. 5.
+[^62]: Pinkard translates this section as 'Reason as Testing Laws'.
+[^63]: Immanuel Kant, *Groundwork of the Metaphysics of Morals*, translated by Mary Gregor (Cambridge: Cambridge University Press, 1998), 4:421.
