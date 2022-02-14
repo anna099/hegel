@@ -65,3 +65,8 @@
 [^61]: Consider Adorno's definition of dialectics as the claim 'that objects do not go into their concept without leaving a remainder' in *Negative Dialectics*, translated by E.B. Ashton (London: Routledge, 1973), p. 5.
 [^62]: Pinkard translates this section as 'Reason as Testing Laws'.
 [^63]: Immanuel Kant, *Groundwork of the Metaphysics of Morals*, translated by Mary Gregor (Cambridge: Cambridge University Press, 1998), 4:421.
+[^64]: §429.
+[^65]: Judith Shklar, 'The Phenomenology: Beyond Morality', *The Western Political Quarterly* 27, No. 4 (1974), p. 601.
+[^66]: Hegel, *The Encyclopaedia Logic*, §54.
+[^67]: Pinkard, *The Sociality of Reason*, p. 130.
+[^68]: §433. Emphasis added.

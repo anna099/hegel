@@ -110,7 +110,7 @@ experience. 'In his work, [the individual] has placed himself outside of himself
 and into the element of universality.'[^20] At this stage at least, the
 individual can be understood as one of Leibniz's *monads*: simple and distinct
 beings who move freely and act in order to express their essence.[^21] The
-public's gaze upon the individual's work reminds us of Leibniz's remark about
+public's gaze upon the individual's work reminds us of one specific remark about
 monads:
 
 > Monads just have no windows through which something can enter into or depart

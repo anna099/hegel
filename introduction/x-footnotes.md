@@ -20,7 +20,7 @@
 [^6]: Alexandre Koyré, *From the Closed World to the Infinite Universe* (Baltimore: Johns Hopkins Press, 1957), p. 2.
 [^7]: Galileo Galilei, 'The Assayer' in *The Essential Galileo*, translated by M.A. Finocchiaro (Indianapolis: Hackett, 2008), p. 183.
 [^8]: Rosen, *G.W.F. Hegel*, p. xv.
-[^9]: Hegel, *The Encyclopaedia Logic*, translated by T. F. Geraets, W. A. Suchting, and H. S. Harris (Indianapolis, IN: Hackett, 1991), p. 83 (§41: Addition 2).
+[^9]: Hegel, *The Encyclopaedia Logic*, translated by T. F. Geraets, W. A. Suchting, and H. S. Harris (Indianapolis, IN: Hackett, 1991), §41: Addition 2.
 [^10]: Hegel, *The Difference Between Fichte’s and Schelling's System of Philosophy*, translated by H. S. Harris and W. Cerf (Albany: State University of New York Press, 1977), p. 89. Henceforth cited as 'D'.
 [^11]: §73.
 [^12]: §74, §76.
@@ -54,11 +54,11 @@
 <!-- Substance and Subject -->
 [^38]: D 105.
 [^39]: §24.
-[^40]: Hegel, *The Encyclopaedia Logic*, p. 69 (§31).
+[^40]: Hegel, *The Encyclopaedia Logic*, §31.
 [^41]: §17, my translation.
 [^42]: See Aristotle, *Categories* and *Metaphysics* Z (VII).
 [^43]: This is a very brief and oversimplified account of Jacobi's anti-Spinozism. For more detail see *Concerning the Doctrine of Spinoza in Letters to Herr Moses Mendelssohn* (1785) in *The Main Philosophical Writings and the Novel Allwill*, translated by G. Di Giovanni (Montreal: McGill-Queen's University Press, 2009).
-[^44]: Hegel, *The Encyclopaedia Logic*, p. 147 (§91: Addition).
+[^44]: Hegel, *The Encyclopaedia Logic*, §91: Addition.
 [^45]: Walter Kaufmann, *Hegel: Texts and Commentary* (New York: Anchor Books, 1966), p. 29; Hegel, *The Phenomenology of Mind*, translated by J. B. Baillie (London: George Allen & Unwin, 1964), p. 80.
 [^46]: See §252.
 [^47]: §18.

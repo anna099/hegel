@@ -95,5 +95,5 @@ weaker, narrower claim must come first. Consequently, pre-spiritual reason has
 one last attempt before we arrive at the stage of spirit. This last attempt is
 what Hegel calls **law-testing reason**, and it is, in some sense, a little more
 humble than law-giving reason: rather than trying to *command* humanity on the
-basis of pure reason or 'common sense', consciousness now sets about to use its
+basis of reason or 'common sense', consciousness now sets about to use its
 reason merely for *testing* laws (or maxims) that are already presented to it.

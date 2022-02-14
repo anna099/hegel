@@ -20,7 +20,7 @@
 [^15]: §235.
 [^16]: Ibid.
 [^17]: Ibid.
-[^18]: G. W. F. Hegel, *The Encyclopaedia Logic*, p. 84 (§42).
+[^18]: G. W. F. Hegel, *The Encyclopaedia Logic*, §42.
 [^19]: §236. I have altered the text to fix a grammatical mistake in the translation.
 [^20]: §236.
 [^21]: Harris, *Hegel's Ladder*, I, p. 464.
