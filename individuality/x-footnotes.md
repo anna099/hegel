@@ -1,4 +1,5 @@
-<div id="nav"><a href="actualisation.html">Previous Chapter: Actualisation of Self-Consciousness</a></div>
+<div id="nav"><a href="actualisation.html">Previous Chapter: Actualisation of Self-Consciousness</a>
+<a href="spirit.html">Next Chapter: Spirit</a></div>
 
 </section>
 

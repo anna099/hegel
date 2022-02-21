@@ -69,3 +69,13 @@ absolute laws [which] takes absolute laws to be an issuance of an *alien
 arbitrary* will.'[^68] In both cases, consciousness mistakes its own reason and
 willing for actual ethical substance, which still remains only in the background
 (most prominently as the 'alien will' which 'gives' reason laws to be tested).
+
+That law-testing reason can equally defend two contradicting laws reveals to
+consciousness the dialectical nature of justice, at least insofar as justice is
+understood as a principle worked out by an individual's use of reason. We have
+seen that this reason cannot *give* laws, but neither can it verify laws given
+*to it* from the hazy background of 'ethical substance' within which it lives.
+Actual, concrete justice is thus only possible when this background comes to the
+fore -- when we take as our subject matter the **spirit** in which critical
+reason comes about and which makes it possible for laws to be given or tested in
+the first place.

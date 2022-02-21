@@ -18,7 +18,8 @@ chapters=('introduction'
         \ 'consciousness'
         \ 'self-consciousness'
         \ 'reason-intro' 'observing-nature' 'observing-self'
-        \ 'actualisation' 'individuality')
+        \ 'actualisation' 'individuality'
+        \ 'spirit')
 
 FN=x-footnotes.md
 TEMP=temp.html
