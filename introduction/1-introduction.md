@@ -38,18 +38,20 @@ philosophy -- in the work of Michel Foucault, Simone De Beauvoir, or Jacques
 Derrida, for instance -- has always had Hegel as an influence, at least in the
 background.[^0]
 
-The general aim of this writing is to provide a commentary on Hegel's
-*Phenomenology*, with frequent reference to other texts both from the
-contemporary era and from Hegel's time. Any great intellectual or artistic work
-of history seems to me to be infinitely deep, and the same is true for the
-*Phenomenology of Spirit*. It would presumably be possible to research this book
-(and any other great book) for the rest of a lifetime and still find something
-new every day. We therefore have to be limited by a particular *purpose*; the
-purpose of my commentary is to hopefully make the *Phenomenology* a little
-easier to read, and put it in some degree of historical and philosophical
-context. This introductory chapter refers to the 'Introduction' and 'Preface' of
-Hegel's book, as well as some other writings by him, in order to establish the
-context and general workings of his project.
+The *original* aim of these notes was for me to keep track of my own thoughts on
+the *Phenomenology* as they developed through my reading of it. But I also hope
+that they can be of some use to other people as well. So, the more *general* aim
+of this writing is to provide a commentary on Hegel's book, with frequent
+reference to other texts both from the contemporary era and from Hegel's time.
+Many books -- not just in philosophy -- seem to be almost infinitely deep, and
+the same is true for the *Phenomenology of Spirit*. It would presumably be
+possible to research this book (and any other great book) for the rest of a
+lifetime and still find something new every day. I am restricting myself to the
+purpose of hopefully making the *Phenomenology* a little easier to read and
+putting it in some degree of historical and philosophical context. This
+introductory chapter refers to the 'Introduction' and 'Preface' of Hegel's book,
+as well as some other writings by him, in order to establish the context and
+general workings of his project.
 
 So ... what *is* the *Phenomenology of Spirit* about? What kind of 'logic' is it
 an introduction to? One way of describing the book is that it attempts to
