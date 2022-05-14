@@ -37,6 +37,7 @@
 [^33]: §447.
 [^34]: §436.
 [^35]: §456.
+[^35.1]: George Steiner, *Antigones* (Oxford: Oxford University Press, 1975), p. 26.
 [^36]: §450.
 [^37]: Ibid.
 [^38]: Ibid.
@@ -44,3 +45,28 @@
 [^40]: §451. Emphasis added.
 [^41]: §455.
 [^42]: Simone de Beauvoir, *The Second Sex*, translated by H.M. Parshley (London: Jonathan Cape, 1953), pp. 180, 479.
+[^43]: §455.
+[^44]: §456.
+[^45]: Quoted in Walter Kaufmann, *Hegel: A Reinterpretation* (Notre Dame, IN: University of Notre Dame Press, 1978), p. 152.
+[^46]: §464.
+[^47]: Hegel, *Philosophy of Right*, §165.
+[^48]: Ibid., §166.
+[^49]: Sophocles, *Antigone* in *The Theban Plays*, translated by Ruth Fainlight and Robert J. Littman (Baltimore: Johns Hopkins Press, 2009), lines 909-912.
+[^50]: §456.
+[^51]: See, for instance, Robert Solomon, *In the Spirit of Hegel*, p. 545, and Terry Pinkard, *Hegel: A Biography* (Cambridge: Cambridge University Press, 2000), pp. 314-19.
+[^52]: Hegel to Göriz, March 19, 1820, in *Hegel: The Letters*, translated by Clark Butler and Christiane Seiler (Bloomington, IN: Indiana University Press, 1984), p. 414.
+[^53]: Harris, *Hegel's Ladder*, II, p. 147.
+[^54]: §461.
+[^55]: §462.
+[^56]: Ibid.
+[^57]: Seyla Benhabib, 'On Hegel, Women, and Irony' in *Feminist Interpretations of G.W.F. Hegel*, edited by Patricia Jagentowicz Mills (University Park, PA: University of Pennsylvania Press, 1996), p. 30.
+[^58]: For example, see Beauvoir on 'enforced maternity' in *The Second Sex*, p. 468.
+[^59]: §456.
+[^60]: Benhabib, 'On Hegel, Women, and Irony', p. 41.
+[^61]: Beauvoir, *The Second Sex*, p. 581.
+[^62]: Ibid., p. 582. My translation.
+[^63]: §452. Emphasis added.
+[^64]: Christians whose Platonic influence led them to disparage embodiment include Clement of Alexandria, Augustine, and Saint Paul. For the feminist critcism, see Wendy Brown, '"Supposing Truth Were a Woman...": Plato's Subversion of Masculine Discourse', in *Political Theory* (1988, Vol. 16, No. 4), p. 598: '[Plato's] repudiation of bodily, sentient, and sensual experience as ways of knowing ... would seem to land him firmly in masculinist terrain.'
+[^65]: *Phaedo* 82e.
+[^66]: For an analysis of this holistic 'asceticism' in Plato, see Coleen P. Zoller, *Plato and the Body* (Albany, NY: State University of New York Press, 2018), especially ch. 1.
+[^67]: Michel Foucault, *The Hermeneutics of the Subject: Lectures at the Collège de France, 1981-82*, translated by Graham Bruchell (New York: Palgrave Macmillan, 2005), pp. 55 (on 'use' and the soul), 56-57 (on χρῆσις), 97-98 (on medicine), 426-28 (on athletics).
