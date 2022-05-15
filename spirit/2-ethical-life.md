@@ -329,3 +329,74 @@ universal -- just as long as they are men.
 Hegel's picture of ethical life in the ancient world is thus misleading in
 several ways. The consolation for us, however, is that the next section in the
 *Phenomenology* shows this ethical life to be constitutively unstable.
+
+#### Of (wo)man's first disobedience {#disob}
+
+We have now moved from the 'ethical world' to 'ethical action' -- to 'human and
+divine knowing, guilt and fate.' This is where the central element of *Antigone*
+-- that is, its *tragic* element -- becomes relevant. Tragedy is a crucial
+literary form for Hegel; an obvious reason for this is that tragedies are
+concerned with some inherent weakness or negativity within the order of things
+that brings about their downfall, and Hegel is, above all else, a philosopher
+concerned with the power of negativity. While writers of the Baroque and
+Neo-Classical periods idolised the Homeric epic, after the French Revolution it
+was the Greek -- and especially Sophoclean -- tragedy that was most
+celebrated.[^68] By the time of the *Phenomenology*, Hegel was fascinated by
+Sophocles, having attempted a translation of *Oedipus at Colonus* in July of
+1787. Until the early twentieth century saw Freud put *Oedipus Rex* at the
+centre, *Antigone* was the most celebrated of the Sophoclean plays. In this
+section on ethical action, the tragedy is employed to show the *fate* at the
+heart of the ethical world, and the necessity of its collapse into instability.
+To examine this fate is crucial for Hegel because he wants to demonstrate the
+necessity of positive law in governing ethical life.
+
+What is defining about Hegel's view on tragedy is that he is interested not in a
+conflict between right and wrong, nor in the hamartia latent within a 'right',
+but in *a conflict between two rights*. Some of us might be inclined to see
+Antigone as a straightforward hero and Creon as a straightforward villain, but
+for Hegel they are both in the right insofar as they simply express the law of
+the sphere they inhabit (human or divine). Indeed, in the ethical world the
+individual exists but hasn't come forth 'in his own right': the developed and
+conscientious individual is so far only 'the *non-actual shade*' of the world
+they live in.[^69] At least at the opening of the play, neither Antigone nor
+Creon reflectively 'identify' with the human and divine law that they embody;
+rather, they immediately 'are' the expressions of those laws.
+
+This section is also concerned, therefore, with the inception of a truly ethical
+individual. Hegel explains that it is through *action* that this individual
+comes about ('in their own right', as he puts it) -- 'the deed is the *actual
+self*.'[^70] An individual develops a 'character' -- a relevant term, given that
+we are looking at drama -- only when they *actively decide* in favour of some
+ethical power, principle, or law.[^71] In this situation of action, human and
+divine law no longer harmoniously complement one another; instead, they
+undermine one another, and 'each proves itself to be the nullity' of the other
+in a revelation of 'dreadful *fate*'.[^72] The practitioners of human law see
+the warriors of divine law as unjust, and vice versa:
+
+> While it sees right only on its own side and sees only wrong on the other, the
+> consciousness that belongs to divine law beholds on the other side human,
+> contingent *violence*; and that consciousness which belongs to human law
+> beholds on the other side the obstinacy and *disobedience* of inward
+> being-for-itself.[^73]
+
+Hegel believes that this mutual distrust must come about necessarily precisely
+because the individuals on each side, being immediately identified with their
+ethical position, *cannot 'know'* the principles of their opponent, or the
+'right' that their opponent expresses. To be sure, human and divine law are
+unified as two sides of the same social order, but this unity can (thus far) be
+seen only from a perspective outside of the lived ethical situation. For the
+actual characters of *Antigone*, human and divine law are separate because an
+individual can only 'know' one or the other. Hegel compares this one-sidedness
+of Antigone and Creon to the 'opposition between the *conscious* and the
+*unconscious*'; while both are present in the same substance, only one is
+present on the surface to a particular perspective.
+
+*Knowledge* is perhaps not the best term here: the ethical 'knowledge' that
+Hegel is concerned with is not something reflective but is exactly the
+*immediate identity* of an individual with their ethical position that was
+mentioned above. Creon and Antigone do not experience inner conflict; in virtue
+of their ethical character, they simply *know* that they are doing the right
+thing. Unfortunately for us, Hegel's explanation for how an individual attains
+this immediate knowledge is born from his gender essentialism. As quoted above:
+'It is nature, not the accident of circumstances or of choice, which assigns one
+sex to one law and the other to the other law.'[^74]

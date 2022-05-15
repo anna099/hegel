@@ -70,3 +70,10 @@
 [^65]: *Phaedo* 82e.
 [^66]: For an analysis of this holistic 'asceticism' in Plato, see Coleen P. Zoller, *Plato and the Body* (Albany, NY: State University of New York Press, 2018), especially ch. 1.
 [^67]: Michel Foucault, *The Hermeneutics of the Subject: Lectures at the Collège de France, 1981-82*, translated by Graham Bruchell (New York: Palgrave Macmillan, 2005), pp. 55 (on 'use' and the soul), 56-57 (on χρῆσις), 97-98 (on medicine), 426-28 (on athletics).
+[^68]: George Steiner, *Antigones*, p. 2.
+[^69]: §463.
+[^70]: Ibid.
+[^71]: §465.
+[^72]: §463.
+[^73]: §465.
+[^74]: §466.
