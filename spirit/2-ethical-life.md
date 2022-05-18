@@ -389,7 +389,7 @@ actual characters of *Antigone*, human and divine law are separate because an
 individual can only 'know' one or the other. Hegel compares this one-sidedness
 of Antigone and Creon to the 'opposition between the *conscious* and the
 *unconscious*'; while both are present in the same substance, only one is
-present on the surface to a particular perspective.
+present on the surface to a particular perspective.[^74]
 
 *Knowledge* is perhaps not the best term here: the ethical 'knowledge' that
 Hegel is concerned with is not something reflective but is exactly the
@@ -399,4 +399,62 @@ of their ethical character, they simply *know* that they are doing the right
 thing. Unfortunately for us, Hegel's explanation for how an individual attains
 this immediate knowledge is born from his gender essentialism. As quoted above:
 'It is nature, not the accident of circumstances or of choice, which assigns one
-sex to one law and the other to the other law.'[^74]
+sex to one law and the other to the other law.'[^75]
+
+Of course, with their knowledge being grounded in their particular ethical
+position, both Antigone and Creon remain one-sided in their acting. This is what
+gives rise to what Hegel calls *guilt*. Both characters appear as guilty because
+they do not overcome their one-sidedness and yet they remain within the natural
+distribution of ethical life -- that is, the *two*-sidedness of human and divine
+law. Thus they both make a false claim to ethical wholeness -- or, in other
+words, an immediate claim to the (ethical) absolute. When it carries out the
+ethical deed, self-consciousness 'posits a separation of itself within itself as
+that between what is active and what is for it the negative actuality
+confronting it.'[^76] That is, 'guilty' self-consciousness comes to see the
+world as divided between itself and the unjust world that it is trying to
+overthrow. Moreover, the only way to be innocent would be to not act *at all*:
+'innocence amounts to non-action, like the being of a stone, not even that of a
+child.'[^77] Now, inactivity on the level of a stone is something that a human
+cannot possibly achieve; what Hegel is saying, therefore, is that to *act*, in
+any way at all, is to confront or 'estrange' oneself against actuality. This is
+an idea that has appeared multiple times in the *Phenomenology* ever since
+self-consciousness became social: the idea that activity is public, external to
+any 'inner self', and thus involves negativity and confrontation in ways that
+the 'inner self' might not expect or have control over. As soon as we act, we
+are guilty.
+
+As such, the guilt of Antigone and Creon is that, in their ethical deeds (by
+which I mean: the deeds they carry out in conflict with each other), they are
+overstepping the bounds of their naturally given limitations (their ethical
+domain -- their gender). The position of the guilty individual, in Harris's
+words, is: 'I must know the whole, but the fundamental thing that I know is that
+the whole is categorical for me in the *male* shape (or the *female* shape)
+according to Nature's decree.'[^78] Antigone and Creon's acts are tainted by a
+kind of original sin -- the 'sin' of humans that consists in them acting outside
+of the 'image' that they were created in.
+
+For Hegel, therefore, guilt is part of 'the developed nature of actual
+acting.'[^79] Because ethical life is made up of multiple interrelated values,
+principles, and *laws*, and because most of these are not immediately known to
+us (in the particular ethical kind of 'knowledge' described above), acting in
+accordance to one particular law calls forth an *other*, interrelated law 'as a
+violated and hostile essence now demanding revenge' -- and this would presumably
+be true even when the principle or law in one's action is only implicit. Here
+Hegel refers to *Oedipus Rex*: a deed, such as Oedipus's murder of his father
+(not knowing it was his father) and marriage to his mother (not knowing it was
+his mother), 'awakens' unconscious and unknown element/s of the social
+world, and it is this unconscious dimension that comes to affect the doer and
+bring about *tragedy*:
+
+> In this way, a power that shuns the daylight preys on ethical
+> self-consciousness, a power which bursts forth only after the deed is done and
+> when it has taken self-consciousness in its grip.[^80]
+
+Again, this is why a deed is always beyond its doer: since my action is external
+to me, it is always already intertwined with the unconscious elements of the
+actuality in which my action is contextualised.
+
+Returning to Antigone, Hegel claims that she is even more guilty than her father
+Oedipus because she *knows* (albeit not immediately) the law that she
+transgresses. It is for this reason that Antigone always acknowledges her guilt,
+even from the start.[^81]

@@ -3,6 +3,8 @@
 ### Observation of Self-Consciousness
 #### (in its Purity and in its Relation to External Actuality:<br>Logical and Psychological Laws) {.subtitle}
 
+<blockquote class="epigraph">Many things are wonderful, but none more wonderful and awesome than humanity.<footer>Sophocles, *Antigone*, 441 B.C.</footer></blockquote>
+
 It should be no surprise by now that this chapter, too, will end in failure.
 Consciousness presses on throughout the *Phenomenology*, following Samuel
 Beckett's words -- 'Ever tried. Ever failed. No matter. Try again. Fail again.

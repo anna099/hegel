@@ -76,4 +76,11 @@
 [^71]: §465.
 [^72]: §463.
 [^73]: §465.
-[^74]: §466.
+[^74]: Kalkavage (*The Logic of Desire*, p. 249) suggests that the 'known' here stands for the absolute insofar as it is known by consciousness, and the 'unknown' stands for the unknown remainder of the absolute.
+[^75]: §466.
+[^76]: §467.
+[^77]: Ibid.
+[^78]: Harris, *Hegel's Ladder*, II, p. 214.
+[^79]: §468.
+[^80]: Ibid.
+[^81]: §469.
