@@ -71,3 +71,13 @@
 [^66]: Hegel, *The Encyclopaedia Logic*, §54.
 [^67]: Pinkard, *The Sociality of Reason*, p. 130.
 [^68]: §433. Emphasis added.
+<!-- Sartrean Animals -->
+[^69]: Jean-Paul Sartre, *Being and Nothingness*, translated by Hazel E. Barnes (New York: Washington Square Press, 1984), p. 370.
+[^70]: §196.
+[^71]: §404.
+[^72]: Sartre, *Being and Nothingness*, pp. 256, 260.
+[^73]: Ibid., p. 363.
+[^74]: Ibid., p. 262.
+[^75]: §399.
+[^76]: Sartre, *Being and Nothingness*, pp. 18-19, 188.
+[^77]: Ibid., p. 351.
