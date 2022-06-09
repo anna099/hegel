@@ -81,6 +81,19 @@
 [^76]: §467.
 [^77]: Ibid.
 [^78]: Harris, *Hegel's Ladder*, II, p. 214.
+[^78.1]: Robert Solomon claims that this original sin should be understood not in the Biblical sense but in the Sartrean sense: 'whatever you choose, the nature of the choice itself guarantees guilt and anxiety' (*In the Spirit of Hegel*, p. 548).
 [^79]: §468.
 [^80]: Ibid.
-[^81]: §469.
+[^81]: §469. This, of course, relies on Hegel's questionable assumption that Antigone *does* consider herself to be guilty.
+[^82]: §470-71.
+[^83]: §471.
+[^84]: Hyppolite, *Genesis and Structure*, p. 362.
+[^85]: §472.
+[^86]: Charles Taylor, *Hegel*, p. 177.
+[^87]: Jacques Lacan, *The Ethics of Psychoanalysis, 1959-1960*, translated by David Porter (New York: W.W. Norton & Company, 1992), pp. 249-250.
+[^88]: Hegel, *System of Ethical Life*, p. 181.
+[^89]: §478.
+[^90]: §479.
+[^91]: Ibid.
+[^92]: See Pinkard, *The Sociality of Reason*, p. 147.
+[^93]: Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, Vol. 1, Ch. 2, Part IV.

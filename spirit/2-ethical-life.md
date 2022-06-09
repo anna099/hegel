@@ -233,8 +233,6 @@ society, and in the following section we will see -- through the tension of
 gives rise to fatal tensions. However, there are firstly some issues in Hegel's
 thought so far that ought to be addressed.
 
-#### Myths {#myths}
-
 The *Phenomenology* is concerned with change. Though it is not a history book
 (as established above), it is nonetheless focused on how certain structures --
 of thought, self-consciousness, society -- can eclipse and give way to something
@@ -403,13 +401,13 @@ sex to one law and the other to the other law.'[^75]
 
 Of course, with their knowledge being grounded in their particular ethical
 position, both Antigone and Creon remain one-sided in their acting. This is what
-gives rise to what Hegel calls *guilt*. Both characters appear as guilty because
-they do not overcome their one-sidedness and yet they remain within the natural
-distribution of ethical life -- that is, the *two*-sidedness of human and divine
-law. Thus they both make a false claim to ethical wholeness -- or, in other
-words, an immediate claim to the (ethical) absolute. When it carries out the
-ethical deed, self-consciousness 'posits a separation of itself within itself as
-that between what is active and what is for it the negative actuality
+gives rise to what Hegel calls **guilt**. Both characters appear as guilty
+because they do not overcome their one-sidedness and yet they remain within the
+natural distribution of ethical life -- that is, the *two*-sidedness of human
+and divine law. Thus they both make a false claim to ethical wholeness -- or, in
+other words, an immediate claim to the (ethical) absolute. When it carries out
+the ethical deed, self-consciousness 'posits a separation of itself within
+itself as that between what is active and what is for it the negative actuality
 confronting it.'[^76] That is, 'guilty' self-consciousness comes to see the
 world as divided between itself and the unjust world that it is trying to
 overthrow. Moreover, the only way to be innocent would be to not act *at all*:
@@ -431,7 +429,7 @@ words, is: 'I must know the whole, but the fundamental thing that I know is that
 the whole is categorical for me in the *male* shape (or the *female* shape)
 according to Nature's decree.'[^78] Antigone and Creon's acts are tainted by a
 kind of original sin -- the 'sin' of humans that consists in them acting outside
-of the 'image' that they were created in.
+of the 'image' that they were created in.[^78.1]
 
 For Hegel, therefore, guilt is part of 'the developed nature of actual
 acting.'[^79] Because ethical life is made up of multiple interrelated values,
@@ -452,9 +450,113 @@ bring about *tragedy*:
 
 Again, this is why a deed is always beyond its doer: since my action is external
 to me, it is always already intertwined with the unconscious elements of the
-actuality in which my action is contextualised.
+actuality in which my action is contextualised. The mistake is to take a
+one-sided ethic as the truth, and fail to realise that the truth lies in *all*
+sides of actuality.
 
 Returning to Antigone, Hegel claims that she is even more guilty than her father
 Oedipus because she *knows* (albeit not immediately) the law that she
 transgresses. It is for this reason that Antigone always acknowledges her guilt,
 even from the start.[^81]
+
+Guilt gives way to the undoing of both Antigone and Creon. When Antigone
+recognises Creon's power to oppose her, her active 'character' gives way to a
+submissive and passive 'disposition' that cannot act, and the exact same happens
+to Creon as he too realises the one-sidedness of his ethics.[^82] (The reason
+that they have these dispositions, rather than just abandoning their allegiance
+to the divine and human laws as a whole, is because they, by nature, still
+retain an emotional investment -- *pathos* -- in the law they express.) This is
+the **fate** or destiny that causes the ethical world to crumble. For Hegel, the
+collapse of Thebes and the downfall of Antigone and Creon is the success of
+'absolute right', and the moment in which the characters recognise that the law
+cannot be one-sided:
+
+> The victory of one power and its character along with the conquest of the
+> other would thus *only be one part* [of ethical advancement]. It is in the
+> *equal subjection of both sides* that absolute right is first achieved, and
+> ethical substance, as the negative power that devours both sides, has
+> emerged.[^83]
+
+It is characteristic of Hegel to find a metaphysical meaning in the concrete
+events of the tragedy. As Hyppolite understands it, the metaphysical meaning
+here is concerned with 'the opposition between nature and
+self-consciousness.'[^84] A person is born into a family and rises out of
+unconsciousness into individuality. But the circumstances of their individuality
+-- the fact and context of their birth, etc. -- are contingencies of nature. And
+since spirit here is present only *immediately*, nature still triumphs and 'has
+a right' over self-consciousness and thus determines the fate of the
+individual.[^85] The reason Antigone and Creon enter such a conflict, then --
+and the reason that one cannot simply give way to the other -- is that they are
+*by nature* driven to act according to principles which are too diverse for a
+society of 'true spirit' to accommodate. By giving the same reason for the
+conflict between Polynices and Eteocles, Hegel shows that it is not only
+Antigone and Creon who succumb to this triumph of nature over immediate spirit,
+but that there is a logic *internal* to such societies that causes their
+'shattering'.
+
+#### Atomised {#atom}
+
+<blockquote class="epigraph">Pacem sine dubio post haec, verum cruentam. / After that there was peace, certainly; but peace with bloodshed.<footer>Tacitus, *Annals* I.X</footer></blockquote>
+
+The outcome of Greek ethical life is a society in ruins, where half of the
+population is unheard (by being sentenced to death, in Antigone's case) and the
+other half is paralysed by guilt. Having lost a harmonious context in which to
+direct their lives -- that is, having lost hold of *spirit* -- people turn to
+violence and vengeance. As Charles Taylor writes:
+
+> Being repressed by the state, the family and particularly its women take their
+> revenge in subtle forms of corruption. Women induce their menfolk to exercise
+> power for the dynasty rather than for the public weal, they turn the heads of
+> youth away from the wisdom of the elders; and since this youth in turn must be
+> exalted by the state as its defenders, their corruption has disastrous
+> effects.[^86]
+
+It is quite confusing, therefore, that Lacan criticises Hegel for finding 'some
+form of reconciliation' at the end of *Antigone*.[^87] What we actually find in
+Hegel at this point is a fateful decline into a society of alienation; as he
+puts it in his *System of Ethical Life*, Greece fell into an era of
+'dismembering, for which there was no reconciliation' -- an era of '*boredom of
+the world*'.[^88] The way he puts it in the *Phenomenology* is that 'the
+universal is splintered into the atoms of absolutely multiple individuals':
+since spirit has fallen from society, people have no harmony and are reduced to
+lone, 'aloof' individuals.
+
+In this atomised society, it isn't communities (families, states, and so on)
+that take centre stage, but individual self-consciousnesses. The kind of
+self-consciousness on the scene now is 'personality' (in the sense of having
+legal 'personhood'), which is akin to stoic self-consciousness insofar as it
+renounces actuality and reaches 'the thought of self-sufficiency', existing
+'absolutely for *itself*.'[^89] Stoicism fled from the world to be in the 'unity
+of pure thinking' and, in the same way, the legal status of the person is rooted
+not in 'a richer or more powerful existence' nor 'a universal living spirit' but
+is bound to the self-consciousness of the person and nothing else. This state of
+legality is the practical analogue to stoicism, or is stoicism in the sphere of
+political action. As such, it will go through the same movement that stoicism
+did -- that is, it will fall into disarray and emptiness. Skepticism, which
+resulted from stoicism, was in a state of contradiction because it doubted the
+reliability of perception while nonetheless relying on it. Skepticism is 'the
+contradiction between the self-sufficiency of consciousness and its
+un-self-sufficiency.'[^90] The state of legality is also in contradiction: it
+wants to render each individual as self-sufficient (whether this is in legal
+personhood or the right to property) but, having lost 'the spirit which
+subjugated it and held it together in its unity', these designations of
+self-sufficiency are empty of content. To be a 'person' is thus the most
+minimal, 'inessential ' status; 'to designate an individual as a *person* is an
+expression of contempt.'[^91]
+
+In these passages, Hegel is thinking not of Greece but of the *Pax Romana* --
+the age of Rome in its early days as an empire. The early emperors, in Hegel's
+view, ruled almost anonymously over several nations and rendered those nations
+spiritless. States in the empire are no longer run by institutions born within
+them, so the law ruling over their people is not born out of the spirit of the
+community; as such, it is purely formal and does not accommodate for the
+diversity of cultures and *ethe* in the various nations. The Greek way of life,
+wherein society was an organically self-sustaining unity, has given way to the
+Roman mode wherein people belong to their identity only through artificially
+imposed laws and customs.[^92] Hegel might have been influenced here by Edward
+Gibbon, who made this remark on the 'poison' inherent in Roman peace:
+
+> This long peace, and the uniform government of the Romans, introduced a slow
+> and secret poison into the vitals of the empire. The minds of men were
+> gradually reduced to the same level, the fire of genius was extinguished, and
+> even the military spirit evaporated.[^93]

@@ -60,7 +60,7 @@ who we are. There cannot be any disconnect between what we do and what we *mean*
 to do, for Sartre, since the starting point of human existence is a radical
 kind of freedom. (It is on this basis that Sartre rejects psychoanalysis.)
 
-Of course, Sartre didn't simply repeat Hegel. It is perhaps in the notiono of
+Of course, Sartre didn't simply repeat Hegel. It is perhaps in the notion of
 radical freedom that the difference between Sartrean relations and the animal
 kingdom is found. For both Hegel and Sartre, all activity is a kind of negating:
 '*doing* is itself nothing but negativity', Hegel claims.[^75] Sartre agrees

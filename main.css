@@ -60,7 +60,7 @@ hr {
 
 a[href] {
     text-decoration: none;
-    color: var(--blue);
+    color: var(--red);
 }
 a[href]:hover {
     text-decoration: underline;
