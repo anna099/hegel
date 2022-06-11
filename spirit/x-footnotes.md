@@ -96,4 +96,9 @@
 [^90]: §479.
 [^91]: Ibid.
 [^92]: See Pinkard, *The Sociality of Reason*, p. 147.
-[^93]: Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, Vol. 1, Ch. 2, Part IV.
+[^93]: Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* (1776-89), Vol. 1, Ch. 2, Part IV.
+[^94]: §480.
+[^95]: Hegel, *The Philosophy of History*, translated by J. Sibree (New York: Dover, 1956), p. 315.
+[^96]: §480.
+[^97]: Hegel, *The Philosophy of History*, p. 315.
+[^98]: See Montesquieu, *The Spirit of the Laws*, translated by A.M. Cohler, B.C. Miller, and H.S. Stone (Cambridge: Cambridge University Press, 1989), pp. xli, 22-24. In his early work, Hegel cited this concept of virtue approvingly (*Early Theological Writings*, p. 156).

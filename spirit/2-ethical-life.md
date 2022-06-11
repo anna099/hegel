@@ -560,3 +560,26 @@ Gibbon, who made this remark on the 'poison' inherent in Roman peace:
 > and secret poison into the vitals of the empire. The minds of men were
 > gradually reduced to the same level, the fire of genius was extinguished, and
 > even the military spirit evaporated.[^93]
+
+Now, in such a spiritless and artificially united world, the only way that
+individuals can be expected to remain within their community is equally
+artificial. As such, it is not through some sense of cooperation or common
+interest but through the rule of an **emperor** that individuals are held
+together in this Roman society. The atoms of society are 'collected' (but not
+quite *united*, perhaps) beneath an 'equally spiritless point': the emperor,
+'lord of the world'.[^94] In his *Lectures on the Philosophy of History*, Hegel
+describes this early form of empire as one wherein 'no moral bond any longer
+existed; the will of the Emperor was supreme, and before him there was absolute
+equality.'[^95] The power of this emperor is ultimately arbitrary; though he
+'knows himself as an actual god' (think, for example, of the self-obsessed
+Caligula), his capacity to rule over a spiritless society is only 'formal', and
+his life is a 'monstrous excess' just as that of the citizens he rules
+over.[^96] These individuals, Hegel claims in the *Philosophy of History*, are
+thus left 'entirely emancipated from control, [with] no inward life, no
+prospective nor retrospective emotions, no repentance, nor hope, nor fear -- not
+even thought': every condition of their life is purely contingent, bringing
+nothing but chaos.[^97] This moment is the political analogue to the *climax* of
+skepticism, wherein any individual's way of living seems as valid as any
+other's. The skeptic's loss of certainty is akin to the Romans' loss of what
+Montesquieu called *virtue*: the love or value that a citizen places in their
+state, on the grounds of that state being democratically instituted.[^98]
