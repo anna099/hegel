@@ -100,30 +100,29 @@ and unhelpful definition of 'spirit' (as 'that which is actualised through its
 self-interpretation'). Things become clearer when we put them in their proper
 context. The *Phenomenology* was the first text of Hegel's split with Schelling,
 and its central concept of spirit is crucial to this split and to Hegel's
-attempt to render himself independent from Schelling. In his works at the start
-of the nineteenth century (which are now understood to be his *early* works),
-Schelling emphasises life, organicism, and -- most especially -- *nature* in his
-account of the absolute. As Frederick Beiser writes, Schelling got close to
-'virtually equating the standpoint of absolute identity with nature itself.'[^9]
-However, this led to Schelling taking a quasi-Romantic stance towards the
-absolute -- that is, a view wherein absolute truth can only be expressed
-artistically or poetically. Philosophy must begin, Schelling claims, with an
-'utterly nonobjective principle' which cannot be 'apprehended through
-concepts.'[^10] Such a principle, he argues, can be intuited only artistically;
-'The work of art merely reflects to me what is otherwise not reflected by
-anything, namely that absolutely identical which has already divided itself even
-in the self.'[^11] Schelling's view is that philosophy, being a form of thought
-and therefore based in concepts and distinctions, cannot represent nature in its
-absolute unity; rather, this unity can only be intuited by artistic means. This
-is precisely Hegel's problem with Schelling; we might imagine that, when Hegel
-refers to philosophers who 'take what thought has torn asunder and then stir it
-all together into a smooth mélange' and who merely 'fabricate the feeling of the
-essence' of reality, he is referring not only to the Romantics but also to
-Schelling's *Naturphilosophie* with its insistence on an unconscious, pre- (and
-indeed anti-) conceptual 'nature'.[^12] In Schellingian *Naturphilosophie*,
-Hegel argues, we find that 'spirit has shown itself to be so impoverished that
-it seems to yearn for its refreshment only in the meagre feeling of
-divinity.'[^13]
+attempt to render himself independent from Schelling. In his early works at the
+start of the nineteenth century, Schelling emphasises life, organicism, and --
+most especially -- *nature* in his account of the absolute. As Frederick Beiser
+writes, Schelling got close to 'virtually equating the standpoint of absolute
+identity with nature itself.'[^9] However, this led to Schelling taking a
+quasi-Romantic stance towards the absolute -- that is, a view wherein absolute
+truth can only be expressed artistically or poetically. Philosophy must begin,
+Schelling claims, with an 'utterly nonobjective principle' which cannot be
+'apprehended through concepts.'[^10] Such a principle, he argues, can be
+intuited only artistically; 'The work of art merely reflects to me what is
+otherwise not reflected by anything, namely that absolutely identical which has
+already divided itself even in the self.'[^11] Schelling's view is that
+philosophy, being a form of thought and therefore based in concepts and
+distinctions, cannot represent nature in its absolute unity; rather, this unity
+can only be intuited by artistic means. This is precisely Hegel's problem with
+Schelling; we might imagine that, when Hegel refers to philosophers who 'take
+what thought has torn asunder and then stir it all together into a smooth
+mélange' and who merely 'fabricate the feeling of the essence' of reality, he is
+referring not only to the Romantics but also to Schelling's *Naturphilosophie*
+with its insistence on an unconscious, pre- (and indeed anti-) conceptual
+'nature'.[^12] In Schellingian *Naturphilosophie*, Hegel argues, we find that
+'spirit has shown itself to be so impoverished that it seems to yearn for its
+refreshment only in the meagre feeling of divinity.'[^13]
 
 The second problem for Hegel is that Schelling's insistence on *unity*, on
 nature/absolute as the pure identity of identity, results in an emptied-out

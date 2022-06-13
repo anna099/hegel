@@ -102,3 +102,5 @@
 [^96]: §480.
 [^97]: Hegel, *The Philosophy of History*, p. 315.
 [^98]: See Montesquieu, *The Spirit of the Laws*, translated by A.M. Cohler, B.C. Miller, and H.S. Stone (Cambridge: Cambridge University Press, 1989), pp. xli, 22-24. In his early work, Hegel cited this concept of virtue approvingly (*Early Theological Writings*, p. 156).
+[^99]: Hyppolite, *Genesis and Structure*, pp. 369-70.
+[^100]: §482.

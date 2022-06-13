@@ -583,3 +583,22 @@ skepticism, wherein any individual's way of living seems as valid as any
 other's. The skeptic's loss of certainty is akin to the Romans' loss of what
 Montesquieu called *virtue*: the love or value that a citizen places in their
 state, on the grounds of that state being democratically instituted.[^98]
+
+Hegel's analysis of Rome and the legal status of its citizens is a critique of
+societies devoid of real spirit -- 'a critique of individual relation and
+communication insofar as these are merely juridical', as Hyppolite has it.[^99]
+In the end, the Roman individual is totally alienated and left as an
+individuated self. Of course, this alienation gives rise to loneliness and
+isolation; however, Hegel sees within it the earliest seeds of modernity. The
+modern subject, the self that determines their own world, grows out of the
+individualised person we have just encountered:
+
+> The actuality of the self which was not present in the ethical world has been
+> attained by its return into the *person*, and what was unified in the ethical
+> world now comes on the scene as both developed and as alienated from
+> itself.[^100]
+
+We are not yet at the full flourishing of modernity. Rather, we are at the
+beginnings of another shape of spirit, one wherein individuals *embrace* their
+alienation from themselves and assert it as the content of their individuality.
+Hegel's name for this shape is **Bildung** -- culture, or cultural formation.
