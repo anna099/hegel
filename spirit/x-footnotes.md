@@ -1,4 +1,5 @@
-<div id="nav"><a href="individuality.html">Previous Chapter: Real Individuality</a></div>
+<div id="nav"><a href="individuality.html">Previous Chapter: Real Individuality</a>
+<a href="culture.html">Next Chapter: Culture</a></div>
 
 </section>
 

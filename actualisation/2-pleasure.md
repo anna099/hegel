@@ -56,6 +56,16 @@ by wanting to obliterate its object as such -- to consume it, destroy it, and so
 on. In *Pleasure and Necessity*, desire wants to be one with the Other: to
 overcome its very *Other*-ness and witness it as the 'objectified selfhood' of
 the desiring individual.[^44] This witnessing is the moment of pleasure.
+Kalkavage is right to identify *Pleasure and Necessity* as 'the erotic version
+of sense-certainty': in the pleasure seeker we find the desire inherent to
+self-consciousness fused with sensuous certainty's desperation to grasp its
+object immediately, to attach itself directly to what it points to. The relation
+in sensuous certainty between the 'I' and the 'This' is paralleled here in the
+relation of Faust (or the pleasure seeker) and the pleasure he desires. Of
+course, the relation of sensuous certainty wasn't actually immediate: it was,
+unbeknownst to the 'I', mediated by the universal. The same goes for the
+relation of pleasure seeking; this time, the universal is not a mere concept but
+is the social sphere which Faust naively thinks he has left behind.
 
 The pleasurable unity of lovers 'positively signifies that [the individual] has
 come to be objective self-consciousness *to itself*': now that there is love,
