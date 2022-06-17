@@ -36,8 +36,7 @@ spirit to whom the only being which counts as the true actuality is that of the
 actuality of singular consciousness.' The individual is now concerned only with
 the particular, sensory things of this world insofar as they might satisfy one's
 desire. Faust chooses the Earth over Heaven because the Earth is the natural
-home of his body. It is for these reasons that Kalkavage refers to
-pleasure-seeking individualism as 'the erotic version of sense-certainty.'[^41]
+home of his body.
 
 Hegel describes the abandonment of observational reason with all the Romantic
 grandeur that this individualist idolises: 'out of the motionless being of
@@ -59,10 +58,10 @@ the desiring individual.[^44] This witnessing is the moment of pleasure.
 Kalkavage is right to identify *Pleasure and Necessity* as 'the erotic version
 of sense-certainty': in the pleasure seeker we find the desire inherent to
 self-consciousness fused with sensuous certainty's desperation to grasp its
-object immediately, to attach itself directly to what it points to. The relation
-in sensuous certainty between the 'I' and the 'This' is paralleled here in the
-relation of Faust (or the pleasure seeker) and the pleasure he desires. Of
-course, the relation of sensuous certainty wasn't actually immediate: it was,
+object immediately, to attach itself directly to what it points to.[^41] The
+relation in sensuous certainty between the 'I' and the 'This' is paralleled here
+in the relation of Faust (or the pleasure seeker) and the pleasure he desires.
+Of course, the relation of sensuous certainty wasn't actually immediate: it was,
 unbeknownst to the 'I', mediated by the universal. The same goes for the
 relation of pleasure seeking; this time, the universal is not a mere concept but
 is the social sphere which Faust naively thinks he has left behind.
