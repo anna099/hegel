@@ -1,14 +1,14 @@
 #### Cultural Formation and its Realm of Actuality
 
-The world of culture, as Hegel sees it, is one wherein are equal. This equality
-is not established through legal status or legal status or through mutual
-recognition, but through each individual's equal alienated conformity to the
-universal. Everyone relinquishes their individuality -- gives up their desires,
-personalities, and so on -- in order to bring the world to its actuality and
-achieve oneness with the beyond. Seeing the world as something alien, cultural
-individuals aim not to belong in the world but to 'take possession' of it,
-precisely by mastering nature (especially their own natural existence) according
-to God's will.[^12] *Bildung* is the name for this mastery.
+The world of culture, as Hegel sees it, is one wherein individuals are equal.
+This equality is not established through legal status or legal status or through
+mutual recognition, but through each individual's equal alienated conformity to
+the universal. Everyone relinquishes their individuality -- gives up their
+desires, personalities, and so on -- in order to bring the world to its
+actuality and achieve oneness with the beyond. Seeing the world as something
+alien, cultural individuals aim not to belong in the world but to 'take
+possession' of it, precisely by mastering nature (especially their own natural
+existence) according to God's will.[^12] *Bildung* is the name for this mastery.
 
 By carrying out their life in this way, the individual comes to realise that
 their 'actuality still solely consists in their sublation of [their] natural
