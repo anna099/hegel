@@ -12,3 +12,10 @@
 [^8]: §485.
 [^9]: Taylor, *Hegel*, p. 178.
 [^10]: §485.
+[^11]: §487.
+[^12]: §488.
+[^13]: Jean-Jacques Rousseau, *Emile, or on Education*, translated by Allan Bloom (New York: Basic Books, 1979), p. 37.
+[^14]: §489.
+[^15]: §490.
+[^16]: §491.
+[^17]: The quotations and ideas in this list are taken from §§491-93 and from *Hegel's Philosophy of Nature* (Volume II of Hegel's *Encyclopaedia*), translated by A.V. Miller (Oxford: Oxford University Press, 2004), §§282-85.
