@@ -48,7 +48,12 @@ internal to it.[^3] This is precisely how ethical substance, *as spirit*, moves
 into its second stage: in undergoing this externalisation, alienation, or
 self-relinquishing, it ascends from out of its immediate existence (which we saw
 in Greece) and awaits the return into itself through which it will reach its
-truth.
+truth. Hyppolite notes that Hegel's inclusion of alienation within an account of
+cultural education is a challenge to his contemporaries.[^3.1] For classical
+Enlightenment thinkers, the individual undergoes education in straightforward
+upward progress, and for 'humanist pedagogy' nature undergoes a harmonious
+development within the human being. For Hegel, however, to undergo formation and
+education involves a movement of self-inequaility and distance from oneself.
 
 Because they are alienated, whenever the individual of culture enters 'the
 actual world', they always 'pass over again back into actual
@@ -68,11 +73,13 @@ history.[^6] On the other hand, Terry Pinkard argues that Hegel, unlike his
 contemporaries, did not think of the ancient era as separated from modernity by
 the so-called 'Middle Ages'.[^7] On this view, for Hegel as for Nietzsche, the
 first signs of modernity are present in the birth of the Christian conception of
-selfhood. So, while Solomon is partially right -- the *Phenomenology* is not a
-literal history, as I have explained above -- he is wrong to find an 'omission'
-in the book. The present chapter takes us on a route from medieval Christianity
-through the Enlightenment and up to the climax of the French Revolution, in a
-manner that, admittedly, may be more logical than chronological.
+selfhood, and when I refer to 'modernity' in the Hegelian context, this should
+be understood as *including* the medieval era. So, while Solomon is partially
+right -- the *Phenomenology* is not a literal history, as I have explained above
+-- he is wrong to find an 'omission' in the book. The present chapter takes us
+on a route from medieval Christianity through the Enlightenment and up to the
+climax of the French Revolution, in a manner that, admittedly, may be more
+logical than chronological.
 
 To close the introductory section of this chapter, Hegel gives a summary of the
 entire section in one long paragraph. Spirit has become divided, opposed within
@@ -94,9 +101,9 @@ such attempts prevent a real unity with the world and keep the individuals from
 being at home in their world.
 
 There are two systems of dichotomies that self-consciousness posits following
-its entry into the stage of cultural formation: firstly, a religious worldview
-wherein the world is taken as untrue in contrast to a harmonious beyond, posited
-by **faith**, 'which has no actual present'.[^10] Secondly, when this faith is
+its entry into the stage of cultural formation: firstly, a worldview wherein the
+world is taken as untrue in contrast to a harmonious beyond, posited by
+**faith**, 'which has no actual present'.[^10] Secondly, when this faith is
 interpreted in the secular terms of the **Enlightenment**, the 'housekeeping of
 faith' is brought into 'disarray' as the present world is comprehended coldly in
 terms of *utility*, and the beyond is taken to be utterly unknowable '*absolute

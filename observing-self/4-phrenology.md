@@ -2,7 +2,7 @@
 
 <blockquote class="short epigraph">The head that will become a skull is already empty. <footer>Michel Foucault, *Madness and Civilization*, 1961</footer></blockquote>
 
-<blockquote class="epigraph">That skull had a tongue in it, and could sing once. How the knave jowls it to the ground, as if 'twere Cain's jawbone, that did the first murther! This might be the pate of a Politician, which this ass now o'erreaches; one that would circumvent God, might it not?<footer>Hamlet, Act V Scene I</footer></blockquote>
+<blockquote class="epigraph">That skull had a tongue in it, and could sing once. How the knave jowls it to the ground, as if 'twere Cain's jawbone, that did the first murther! This might be the pate of a Politician, which this ass now o'erreaches; one that would circumvent God, might it not?<footer>Shakespeare, *Hamlet*, 1601</footer></blockquote>
 
 Hegel recognises phrenology as the 'one relationship left over': the only way
 that remains for the observer to understand the relationship between the

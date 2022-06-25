@@ -1,4 +1,4 @@
-#### Cultural Formation and its Realm of Actuality
+#### Cultural Formation and its Realm of Actuality {#form}
 
 The world of culture, as Hegel sees it, is one wherein individuals are equal.
 This equality is not established through legal status or legal status or through
@@ -22,7 +22,14 @@ culture that looks with contempt upon the lowly world of our natural existence.
 The cultured individual urges us to forget the 'powerless' and 'non-actual'
 contingencies of nature; insofar as we are engaged in cultural formation, they
 claim, we are all equal before God. (This is the equality of 'conformity' that I
-introduced above.)
+introduced above.) The contrast to Rousseau might remind us of Rousseau's once
+friend, turned rival, Denis Diderot. For Rousseau, education ought to liberate
+us from the 'chains' that society and culture have imposed on us: 'What must be
+done is to prevent anything from being done.'[^14.1] Diderot, however, saw
+education as something positive. In §488 Hegel quotes Diderot's *Rameau's
+Nephew* (which he will return to further on), and characterises Diderot as an
+'honest' self-consciousness who strives to overcome nature in seeking the
+universal through culture.
 
 Without being aware of it, the individual still has a relation to the social
 world that it feels alienated from. In the process of cultural formation, 'the
@@ -85,3 +92,34 @@ describes.
    but nonetheless is 'the totality which holds together' the other elements --
    corresponding to social essence *as such*, the ground 'from which [social
    phenomena] start and to which they return.'
+
+The cultured world is thus divided into two estates: state power (which Harris
+identifies with 'public service' in general) and wealth.[^18] In keeping with
+its unhappy dualism, cultural consciousness quite clumsily comes to regard the
+former as *good* and the latter as *bad*. State power is understood as the
+'unchanging *essence*' grounding all individuals, while wealth is the
+institution through which individuals come to realise themselves *as* singular
+individuals -- and, since culture despises self-interest and prioritises the
+'general' good, it looks with disdain upon wealth.[^19] Again, this is
+consistent with a Christian view of society: Augustine divides the world in a
+similar manner, into two 'cities', one that lives by the standard of 'flesh'
+(that is, indviidualistic human affairs) and the other by the standard of
+'spirit'. 'The earthly city was created by self-love reaching the point of
+contempt for God, the Heavenly City by the love of God carried as far as
+contempt of self ... The former looks for glory from men, the latter finds its
+highest glory in God, the witness of a good conscience.'[^20]
+
+This division is not so rigid, however. We saw in unhappy consciousness that the
+believer who surrendered themselves to God was actually self-obsessed, taking
+pains over their 'willing, acting, and consuming', and we learned in the animal
+kingdom that activity that *seems* purely individualistic is in fact always
+public, always dissolved into 'the doing of each and all'.[^21] In the same way,
+the 'self-interest' of wealth actually benefits everyone in its production of
+*common* wealth; 'each in his own consumption benefits everyone else.'[^22]
+Likewise, state power is the source of social stability in which everyone is
+able to find and express their individuality. Both estates are intrinsically
+related to one antoher, and self-consciousness thus realises its capacity to
+*choose* between the two (or, indeed, to choose neither of them). Do I want a
+life of pbulic service, or of making wealth? With regards to the elemental
+analogy above, therefore, *self-consciousness has become fire* in its capacity
+to choose and judge between the dual sides of society.
