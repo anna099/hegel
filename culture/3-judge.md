@@ -1,6 +1,6 @@
 #### Judge for Yourselves! {#judge}
 
-<blockquote class="short epigraph">There is nothing either good or bad, but thinking makes it so. <footer>Shakespeare, *Hamlet*, 1601</footer></blockquote>
+<blockquote class="epigraph">We shall get drunk; we'll pass on scurrilous gossip; we'll indulge in all kinds of profligacy and vice. It'll be absolutely delicious. We'll prove that Voltaire has no genius, that Buffon, who’s always on his high horse, is just a pompous ranter; that Montesquieu is nothing but a wit; we’ll tell D'Alembert to stick to his sums and we'll give a really good going-over to all those petty stoics like you, who despise us out of envy, cloak their pride in modesty, and live soberly out of necessity. And music? Ah, then indeed we'll have music! <footer>Diderot, *Rameau's Nephew*, 1774</footer></blockquote>
 
 Self-consciousness's judgment is conditioned by its alienation; it *judges*
 society because it regards society as an external *object* from it. If it 'finds
@@ -58,15 +58,6 @@ enterprise.'[^32] It seems that Hegel's introduction of the noble and base
 consciousness is inspired by Diderot's novel; both Rameau and the *philosophe*
 occupy the same world, but they judge it in completely opposite ways, and in
 this way Rameau resembles the base consciousness.
-
-> We shall get drunk; we'll pass on scurrilous gossip; we'll indulge in all
-> kinds of profligacy and vice. It'll be absolutely delicious. We'll prove that
-> Voltaire has no genius, that Buffon, who’s always on his high horse, is just a
-> pompous ranter; that Montesquieu is nothing but a wit; we’ll tell D'Alembert
-> to stick to his sums and we'll give a really good going-over to all those
-> petty stoics like you, who despise us out of envy, cloak their pride in
-> modesty, and live soberly out of necessity. And music? Ah, then indeed we'll
-> have music![^33]
 
 At the end of *Rameau's Nephew*, the two men finish their conversation and part
 ways. Things are not quite so simple in the *Phenomenology*, since these two

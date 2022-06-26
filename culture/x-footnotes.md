@@ -36,5 +36,9 @@
 [^30]: Denis Diderot, *Rameau's Nephew and First Satire*, translated by Margaret Mauldon (Oxford: Oxford University Press, 2006), p. 25. Note the contrast to a Rousseauian account of education.
 [^31]: Ibid., p. 84.
 [^32]: Alasdair MacIntyre, *After Virtue*, (Notre Dame, IN: University of Notre Dame Press, 1984), pp. 47-8.
-[^33]: Diderot, *Rameau's Nephew*, pp. 31-2.
 [^34]: §501.
+[^35]: §502.
+[^36]: §503.
+[^37]: §505.
+[^38]: §506.
+[^39]: Hyppolite, *Genesis and Structure*, p. 402.

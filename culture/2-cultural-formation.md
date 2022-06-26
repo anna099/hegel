@@ -8,7 +8,12 @@ desires, personalities, and so on -- in order to bring the world to its
 actuality and achieve oneness with the beyond. Seeing the world as something
 alien, cultural individuals aim not to belong in the world but to 'take
 possession' of it, precisely by mastering nature (especially their own natural
-existence) according to God's will.[^12] *Bildung* is the name for this mastery.
+existence) according to God's will.[^12] *Bildung* is the name for this mastery
+-- a word we have seen before, when the servant of self-consciousness worked
+with its natural body upon the natural world and, in so doing, became the
+*master* of both. The difference now is that the object of *cultural* mastery is
+not just a discrete, isolated thing, but is instead wrapped up in the context of
+social substance.
 
 By carrying out their life in this way, the individual comes to realise that
 their 'actuality still solely consists in their sublation of [their] natural
