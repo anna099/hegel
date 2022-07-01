@@ -44,3 +44,83 @@ completely give myself over to something (or, indeed, some*one*) without dying?
 In Hyppolite's words, the task is 'to find an exteriority of the I such that
 that exteriority still remains I.'[^39] Hegel finds such an exteriority in
 **language**.
+
+<blockquote class="epigraph">I pray you, sweetheart, counsel me whether it is better for a man to speak or to die? <footer>Marguerite de Navarre, *Heptaméron*, 1558</footer></blockquote>
+
+We have already encountered the theme of language in the *Phenomenology*. In the
+first chapter of the book, it is in language that 'we immediately refute what we
+mean to say'; in the fifth chapter, the subject who speaks 'abandons [their
+inwardness] to their other.'[^40] Language is thus understood in terms of loss;
+through language our interiority is abandoned, we lose hold of our intention. In
+other words, to speak is to surrender without dying: this is why the noble
+counsellor must turn to language
+
+At this point, Hegel develops his philosophy of language in reflections which
+take the *form* of language for their *content*. The counsellor speaks of
+themselves – they say 'I'. Only in language does the 'I' properly come into
+existence; it distinguishes itself from 'you' and expresses my existence *for
+others*. Before the act of language, Hegel claims, the self merely 'reflects
+itself into itself', taking on only 'an incomplete existence, a soulless
+existence'.[^41] This distinguishing is not something stable, however. In being
+spoken – in being '*brought to a hearing*' – the 'I' loses any sense of private
+particularity, in the same manner as the 'now' and 'here' of sensuous certainty
+did, and thus enters the sphere of the *universal*.[^42] The sound of speech and
+the sight of writing (i.e., the *particularities* of language) might be
+fleeting, but the meaning, the *universality* of language, persists just so long
+as it is heard or read.
+
+Language thus starts to actualise the 'I that is we', to materialise the spirit
+that is implicit within culture. (Hegel seems to have recognised a close link
+between language and spirit even before writing the *Phenomenology*; in an 1805
+letter to Johann Heinrich Voss, who translated the *Odyssey* into German, Hegel
+wrote that just as Luther had done for the Bible, his endeavour was 'to teach
+philosophy to speak German.'[^43]) Between the two extremes of culture – the
+individual and social substance (here, the noble consciousness and state power)
+– language serves as the mediating middle through which '*spiritual substance*
+enters into existence.[^44]
+
+However, this spirit is still only subjective and is thus undeveloped. Of the
+two extremes that are united in language, one of them (consciousness, the
+counsellor) follows state power out of *honour* but not true *obligation*, and
+this is because the other extreme (state power, the monarch) currently takes
+form only as the 'common good' and not as an actual '*will*'.[^45] The exercises
+of language will attempt to overcome this imperfection. We will see the crucial
+function of language, by which the individual alienates themselves and becomes
+universal and by which state power gains selfhood, take two different shapes in
+its development: one of absolutist flattery, the other of dogmatist
+'laceration'.[^46]
+
+To start with, noble consciousness gives rise to a state-power-with-selfhood
+(or, a *willing* monarch) through **flattery**, the speaking successor to the
+silent 'heroism of service'. Flattery endows the monarch with their name and all
+its authoritative connotation; it elevates the monarch to a 'pure individual
+singular, no longer only in his own consciousness but in the consciousness of
+all.'[^47] It is generally accepted that here Hegel is thinking of Louis XIV,
+the absolute monarch. Around the king, the rest of the nobility sit and serve as
+his 'ornaments', Hegel writes, and the purpose is to reproduce his authority
+through flattery.
+
+One way of understanding this process is that the flattering language of the
+nobility serves as *recognition* of the monarch's right to rule. Recognition,
+for Hegel, is the phenomenon through which the Other, who might ordinarily be an
+*obstacle* to my acting, actually *opens up* my freedom to act.[^48] This is why
+flattery does not just *please* the monarchy, but in fact 'gives it a
+self-conscious existence' with the capacity for 'willing and deciding'.[^49]
+This flattery is an illustration of the performativity of language.
+
+The nobles also benefit from this relationship; in thanks for their flattery,
+the monarch delegates power of the state back to them. The king is the 'self' of
+state- power – its will and direction – and his nobles are its 'essence',
+through which his will is actualised. Through this delegation, however, the
+monarchy begins to undermine itself: state-power, despite having become spirit,
+has become 'an essence whose spirit consists in being sacrificed and
+relinquished'.[^50] Power is handed out generously as the gift of privilege and,
+as such, becomes … wealth. The monarch unwittingly transforms themselves into a
+mere distributor of wealth, a servant to the now-prosperous nobility. 'All that
+remains to it of *universally* recognized and non-mediated self-sufficiency is
+the empty name': the king might as well exist only as a portrait on a bank note.
+The nobles consequently see little equality between themselves and the monarch.
+And in their scrambling for wealth, their flattery has become totally
+inauthentic; it is nothing more than a way for them to receive extra riches.
+They become like Regan and Goneril in *King Lear*, and in them the difference
+between noble and base consciousness has totally dissolved.

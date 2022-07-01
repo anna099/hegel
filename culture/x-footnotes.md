@@ -42,3 +42,14 @@
 [^37]: §505.
 [^38]: §506.
 [^39]: Hyppolite, *Genesis and Structure*, p. 402.
+[^40]: §97, §312.
+[^41]: §507.
+[^42]: The simplest illustration of this is how the word 'I' names *everyone*, at least in the moment of their speaking.
+[^43]: Hegel to Voss, March 1805, in *Hegel: The Letters*, p. 107.
+[^44]: §508.
+[^45]: §509.
+[^46]: Hyppolite, *Genesis and Structure*, p. 403.
+[^47]: §510.
+[^48]: See Robert Pippin, *Hegel's Practical Philosophy* (Cambridge: Cambridge University Press, 2008), ch. 7.
+[^49]: §511.
+[^50]: Ibid.
