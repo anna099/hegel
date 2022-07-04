@@ -124,3 +124,41 @@ And in their scrambling for wealth, their flattery has become totally
 inauthentic; it is nothing more than a way for them to receive extra riches.
 They become like Regan and Goneril in *King Lear*, and in them the difference
 between noble and base consciousness has totally dissolved.
+
+The social world is now one of 'clients' and 'benefactors'. A 'client' -- an
+individual who devotes their life to accruing wealth -- sees their selfhood
+placed 'under the authority of an alien will', Hegel explains.[^51] What he
+means by this is that, now that wealth has become the central concern, the point
+around which a life is oriented, it has become an end in itself. Individuals
+have thus emptied out their selfhood *into* wealth, depending on it completely
+(as an 'alien will'). Self-consciousness takes wealth as its object, but wealth
+is itself just the objectified, *alienated* form of self-consciousness; as such,
+and just as with the end of observing reason, self-consciousness has found
+itself manifest as a dead thing.[^52] Upon acknowledging this contradiction --
+between themselves as an independent subject for-itself and as a dead thing --
+the individual 'stands above' it, 'sublates the self's sublation', and takes the
+form of 'absolute elasticity'.[^53] This elastic subject accepts wealth from
+their benefactors but dismisses their benefactors nonetheless, looking with
+contempt and cynicism upon the social world.[^53]
+
+As the rich benefactors and patrons of society arrogantly think that 'with a
+meal' they can purchase the selfhood of their clients, they overlook the 'inner
+indignation' and 'pure disruption' that this selfhood represents.[^54] There is
+nothing stable about the elastic individual; they are a cynical nihilist,
+willing to change their mindset in an instant, devoted only to a complete lack
+of devotion at all. Hegel dramatically describes how the aristocratic
+benefactor stands before this nihilism, underestimating it completely:
+
+> It stands immediately before this most inward abyss, before this bottomless
+> depth, in which all foothold and substance have vanished, and in these depths
+> it sees nothing but a common thing, a play of its vagaries, an accident of its
+> arbitrary choices. Its spirit is just essenceless opinion, a superficiality
+> forsaken by spirit.[^55]
+
+Perhaps in this notion of 'essenceless opinion' there is a foreshadowing of
+Kierkegaard and Heidegger, two bourgeois critics of society, with their notions
+of 'chatter' and 'idle talk'. Kierkegaard criticises the chatter which talks
+about 'anything and everything' without any reflection or *inwardness*;[^56]
+Heidegger describes (but does not *disparage*, he claims) the idle talk which
+'gossips' with an air of authority but loses a 'primary relationship' to its
+subject matter.[^57]

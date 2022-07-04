@@ -53,3 +53,10 @@
 [^48]: See Robert Pippin, *Hegel's Practical Philosophy* (Cambridge: Cambridge University Press, 2008), ch. 7.
 [^49]: §511.
 [^50]: Ibid.
+[^51]: §515.
+[^52]: This isn't too far away from Marx's idea of money as a material measure of an individual's labour time.
+[^53]: §517.
+[^54]: §518.
+[^55]: Ibid.
+[^56]: Søren Kierkegaard, *Two Ages: A Literary Review*, translated by Howard V. Hong and Edna H. Hong (Princeton, NJ: Princeton University Press, 2009), pp. 97 ff.
+[^57]: Martin Heidegger, *Being and Time*, translated by John Macquarrie and Edward Robinson (Oxford: Blackwell, 1998), §35.

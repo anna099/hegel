@@ -64,7 +64,7 @@ in the relation of Faust (or the pleasure seeker) and the pleasure he desires.
 Of course, the relation of sensuous certainty wasn't actually immediate: it was,
 unbeknownst to the 'I', mediated by the universal. The same goes for the
 relation of pleasure seeking; this time, the universal is not a mere concept but
-is the social sphere which Faust naively thinks he has left behind.
+is the social sphere which Faust naïvely thinks he has left behind.
 
 The pleasurable unity of lovers 'positively signifies that [the individual] has
 come to be objective self-consciousness *to itself*': now that there is love,
