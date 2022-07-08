@@ -3,12 +3,14 @@
 
 </section>
 
+<!-- Introduction -->
 [^1]: Samuel Beckett, *Nohow On* (London: John Calder, 1989), p. 101.
 [^1.1]: Harris, *Hegel's Ladder*, I, p. 570.
 [^2]: §299.
 [^3]: Ibid.
 [^4]: §300.
 [^5]: Ibid.
+<!-- Psychology -->
 [^6]: §301.
 [^7]: §302.
 [^8]: §302.
@@ -19,6 +21,7 @@
 [^13]: §306.
 [^14]: Hyppolite, *Genesis and Structure*, p. 263.
 [^15]: §307.
+<!-- Physiognomy -->
 [^16]: §310.
 [^17]: For example, see Plato, *Timaeus*, 44c and onwards.
 [^18]: §311.
@@ -37,6 +40,7 @@
 [^31]: §320.
 [^32]: Quoted in §322. Lichtenberg's book title translates to 'On Physiognomy, Against the Physiognomists'.
 [^33]: Ibid.
+<!-- Phrenology -->
 [^34]: §323. Hegel's term for phrenology is *Schädellehre*, which literally means 'skull theory'.
 [^35]: Slavoj Žižek, *The Sublime Object of Ideology* (London: Verso, 2008), pp. 235-6.
 [^36]: §343.

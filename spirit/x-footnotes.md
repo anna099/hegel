@@ -3,6 +3,7 @@
 
 </section>
 
+<!-- Prelude -->
 [^1]: György Lukács, *The Young Hegel: Studies in the Relations between Dialectics and Economics*, translated by Rodney Livingstone (London: Merlin Press, 1975), p. 470.
 [^2]: Ibid., p. 471.
 [^3]: Michael N. Forster, *Hegel's Idea of a Phenomenology of Spirit* (Chicago: University of Chicago Press, 1998), pp. 300 ff.
@@ -19,7 +20,7 @@
 [^14]: F.W.J. Schelling, *Presentation of My System of Philosophy*, translated by Michael Vater, in *The Philosophical Forum* (2001, Vol. 32, No. 4), §8. Emphasis added.
 [^15]: Frederick Beiser, *German Idealism: The Struggle against Subjectivism, 1781-1801* (Cambridge, MA: Harvard University Press, 2002), p. 565.
 [^16]: §15 (Miller's translation).
-[^17]: §16.
+[^17]: §16. Harris (*Hegel's Ladder*, I, 52) suggests that the night of black cows refers to Reinhold and his *Urwahre*. I don't see why this is more plausible than what I have suggested.
 [^18]: Jean Hyppolite, *Studies on Marx and Hegel*, translated by John O'Neill (New York: Harper & Row, 1973), p. 6.
 [^19]: G.W.F. Hegel, *Natural Law*, translated by T.M. Knox (Philadelphia: Pennsylvania University Press, 1971), p. 111.
 [^20]: Immanuel Kant, *Anthropology from a Pragmatic Point of View*, translated by John O'Neill (New York: Harper &amp; Row, 1973), p. 6. Emphasis added.
@@ -31,6 +32,8 @@
 [^26]: §438.
 [^27]: Harris, *Hegel's Ladder*, II, p. 148.
 [^28]: §441.
+<!-- True Spirit, Ethical Life -->
+<!-- True Spirit: The Burial of the Dead -->
 [^29]: Aristotle, *Nicomachean Ethics*, 1095b (*Basic Works*, p. 937). Aristotle elsewhere (*Metaphysics* 1029b) claims that this is in fact how all learning operates.
 [^30]: The fact that we have already acknowledged this stage earlier in the *Phenomenology* (at the start of the actualisation of self-consciousness) testifies to the non-chronological structure of the book.
 [^31]: Harris, *Hegel's Ladder*, II, p. 164.
@@ -44,6 +47,7 @@
 [^38]: Ibid.
 [^39]: §454.
 [^40]: §451. Emphasis added.
+<!-- True Spirit: Women and Men -->
 [^41]: §455.
 [^42]: Simone de Beauvoir, *The Second Sex*, translated by H.M. Parshley (London: Jonathan Cape, 1953), pp. 180, 479.
 [^43]: §455.
@@ -71,6 +75,7 @@
 [^65]: *Phaedo* 82e.
 [^66]: For an analysis of this holistic 'asceticism' in Plato, see Coleen P. Zoller, *Plato and the Body* (Albany, NY: State University of New York Press, 2018), especially ch. 1.
 [^67]: Michel Foucault, *The Hermeneutics of the Subject: Lectures at the Collège de France, 1981-82*, translated by Graham Bruchell (New York: Palgrave Macmillan, 2005), pp. 55 (on 'use' and the soul), 56-57 (on χρῆσις), 97-98 (on medicine), 426-28 (on athletics).
+<!-- True Spirit: Of (wo)man's first disobedience -->
 [^68]: George Steiner, *Antigones*, p. 2.
 [^69]: §463.
 [^70]: Ibid.
@@ -90,6 +95,7 @@
 [^83]: §471.
 [^84]: Hyppolite, *Genesis and Structure*, p. 362.
 [^85]: §472.
+<!-- Atomised -->
 [^86]: Charles Taylor, *Hegel*, p. 177.
 [^87]: Jacques Lacan, *The Ethics of Psychoanalysis, 1959-1960*, translated by David Porter (New York: W.W. Norton & Company, 1992), pp. 249-250.
 [^88]: Hegel, *System of Ethical Life*, p. 181.

@@ -3,6 +3,7 @@
 
 </section>
 
+<!-- Introduction -->
 [^1]: §239.
 [^2]: Hyppolite, *Genesis and Structure*, p. 232.
 [^3]: §240.
@@ -20,6 +21,7 @@
 [^15]: Ibid, translation altered.
 [^16]: Ibid.
 [^17]: Note that Darwin had not even been born by the time the *Phenomenology* was written; many of the ways that living beings come to distinguish themselves would not have been known to Hegel.
+<!-- Laws of Nature -->
 [^18]: §248.
 [^19]: Diogenes Laërtius, *Lives of Eminent Philosophers*, translated by R. D. Hicks, Vol. 2 (Cambridge, MA: Harvard University Press, 1925) p. 43, VI 40-42.
 [^20]: §248.
@@ -38,6 +40,7 @@
 [^33]: This is now an obsolete sense of the word 'matter'.
 [^34]: §252.
 [^35]: Kalkavage, *The Logic of Desire*, p. 169.
+<!-- The Organic -->
 [^36]: Harris, *Hegel's Ladder*, I, p. 494.
 [^37]: Hyppolite, *Genesis and Structure*, pp. 239-40.
 [^38]: Ibid, p. 240.
@@ -77,6 +80,7 @@
 [^72]: Inwood, 'Commentary' in *The Phenomenology of Spirit*, p. 418.
 [^73]: §279.
 [^74]: §280. Emphasis added.
+<!-- The Outside World -->
 [^75]: §284.
 [^76]: §285.
 [^77]: §162.
@@ -96,6 +100,7 @@
 [^91]: Alexander Pope, *An Essay on Man*, Epistle I: 277-8.
 [^92]: §294.
 [^93]: Harris, *Hegel's Ladder*, I, p. 536.
+<!-- Collapse -->
 [^94]: Kalkavage, *The Logic of Desire*, p. 178.
 [^95]: §295.
 [^96]: Ibid.

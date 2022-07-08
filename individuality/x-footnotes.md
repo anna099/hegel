@@ -3,6 +3,7 @@
 
 </section>
 
+<!-- Introduction -->
 [^1]: §394.
 [^2]: See §231-3.
 [^3]: §395. See §235 for Hegel's definition of *the category*: 'the *simple* unity of self-consciousness and being.'
@@ -11,6 +12,7 @@
 [^6]: §396.
 [^7]: §394, §396.
 [^8]: Pinkard, *The Sociality of Reason*, p. 115. Rousseau was not necessarily the first to write of his life outside of a strictly religious narrative; Ẓahīr-ud-Dīn Muhammad Bābur's *Bāburnāma* (1530) is an even earlier example of such writing outside of Europe.
+<!-- Animal Kingdom and Deception -->
 [^9]: §397.
 [^10]: §398.
 [^11]: §399.
@@ -52,6 +54,7 @@
 [^47]: §417.
 [^48]: Ibid.
 [^49]: Robert Pippin, 'You Can't Get There from Here: Transition problems in Hegel's *Phenomenology of Spirit*', in *The Cambridge Companion to Hegel*, edited by Frederick C. Beiser (Cambridge: Cambridge University Press, 1993), pp. 74-75.
+<!-- Law-Giving Reason -->
 [^50]: §418.
 [^51]: §419.
 [^52]: §419-20.
@@ -64,6 +67,7 @@
 [^59]: §110.
 [^60]: §§425-26.
 [^61]: Consider Adorno's definition of dialectics as the claim 'that objects do not go into their concept without leaving a remainder' in *Negative Dialectics*, translated by E.B. Ashton (London: Routledge, 1973), p. 5.
+<!-- Law-Testing Reason -->
 [^62]: Pinkard translates this section as 'Reason as Testing Laws'.
 [^63]: Immanuel Kant, *Groundwork of the Metaphysics of Morals*, translated by Mary Gregor (Cambridge: Cambridge University Press, 1998), 4:421.
 [^64]: §429.
@@ -71,7 +75,10 @@
 [^66]: Hegel, *The Encyclopaedia Logic*, §54.
 [^67]: Pinkard, *The Sociality of Reason*, p. 130.
 [^68]: §433. Emphasis added.
-<!-- Sartrean Animals -->
+<!-- Sartrean Animals
+     (This section comes in the middle of the chapter, but was written
+     afterwards, so the footnote numbers come at the end.)
+-->
 [^69]: Jean-Paul Sartre, *Being and Nothingness*, translated by Hazel E. Barnes (New York: Washington Square Press, 1984), p. 370.
 [^70]: §196.
 [^71]: §404.

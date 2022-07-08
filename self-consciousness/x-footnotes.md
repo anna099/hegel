@@ -3,6 +3,7 @@
 
 </section>
 
+<!-- Desire -->
 [^1]: §166.
 [^2]: Ibid.
 [^3]: Hyppolite, *Genesis and Structure*, p. 143.
@@ -22,6 +23,7 @@
 [^17]: Ibid.
 [^18]: §177.
 [^19]: Ibid. Emphasis added.
+<!-- Mastery and Servitude -->
 [^20]: §178. Emphasis added.
 [^21]: Hyppolite, *Genesis and Structure*, pp. 121.
 [^22]: §179.
@@ -55,7 +57,7 @@
 [^50]: Hyppolite, *Genesis and Structure*, p. 174.
 [^51]: §19.
 [^52]: Wendy Brown, *States of Injury: Power and Freedom in Late Modernity*. (Princeton, NJ: Princeton University Press, 1995), p. 7.
-<!-- Stoicism, skepticism, and unhappy consciousness: -->
+<!-- Stoicism and Skepticism -->
 [^53]: Spinoza, *Ethics* (Id7), translated by S. Shirley. (Indianapolis, IN: Hackett, 1992), p. 31.
 [^54]: Kalkavage, *The Logic of Desire*, p. 128.
 [^55]: Harris, *Hegel's Ladder*, I, p. 382.
@@ -87,6 +89,7 @@
 [^81]: Ibid.
 [^82]: Ibid.
 [^83]: §206.
+<!-- Unhappy Consciousness -->
 [^84]: Robert Stern, *The Routledge Guidebook to Hegel's Phenomenology of Spirit*. (London: Routledge, 2013), p. 107.
 [^85]: §212.
 [^86]: §216.

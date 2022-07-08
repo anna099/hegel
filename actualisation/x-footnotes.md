@@ -3,6 +3,7 @@
 
 </section>
 
+<!-- Introduction / Ethos -->
 [^1]: Solomon, *In the Spirit of Hegel*, p. 218.
 [^2]: Peter Kalkavage (*The Logic of Desire*, p. 486) suggests that the parallel
   between *Consciousness* and *Observing Reason* can be understood as follows:

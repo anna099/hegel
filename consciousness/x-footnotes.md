@@ -3,16 +3,19 @@
 
 </section>
 
+<!-- Sensuous Certainty -->
 [^1]: §96.
 [^2]: §97.
 [^3]: §101.
 [^4]: §107.
+<!-- Reflections on Sensuous Certainty -->
 [^6]: Frederick Beiser, *Hegel*. (Oxford: Routledge, 2005), p. 160.
 [^7]: Harris, *Hegel's Ladder*, I, p. 209.
 [^8]: Ibid., p. 225.
 [^9]: §109.
 [^9.1]: Jean-Paul Sartre, *Nausea*, translated by R. Baldick (London: Penguin Books, 1965), p. 183.
 [^10]: §110.
+<!-- Perception -->
 [^11]: All quotations in this paragraph: §113.
 [^12]: Ibid.
 [^13]: §114.
@@ -32,6 +35,7 @@
 [^27]: Peter Kalkavage, *The Logic of Desire*. (Philadelphia, PA: Paul Dry Books, 2007), p. 50.
 [^28]: §128.
 [^29]: §131.
+<!-- Force and the Understanding -->
 [^30]: These terms -- 'manifest' and 'scientific' image -- are taken from Wilfrid Sellars, "Philosophy and the Scientific Image of Man", in *Science, Perception, and Reality*. (Atascadero, CA: Ridgeview Publishing Company, 1991), pp. 1-40.
 [^31]: Terry Pinkard, *Hegel's Phenomenology: The Sociality of Reason*. (Cambridge: Cambridge University Press, 1994), p. 34
 [^32]: §132.
