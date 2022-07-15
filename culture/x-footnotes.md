@@ -2,17 +2,21 @@
 
 </section>
 
+<!-- Introduction -->
 [^1]: All quotations in this paragraph are taken from Hegel, *Early Theological Writings*, pp. 248-251. See also Frederick Beiser, *Hegel*, p. 115.
 [^2]: The German word Hegel uses for alienation -- Entäußerung -- was used in Luther's translation of the Bible to refer to God's 'emptying' himself in becoming flesh. Pinkard (in his translator's note to *The Phenomenology of Spirit*, p. xlii) claims that Hegel would have intended this connotation.
 [^3]: §483. We could say, therefore, that to be alienated or atomised by one's society is to be *objectified* by it.
-[^3.1]: Hyppolite, *Genesis and Structure*, p. 386.
-[^4]: §484.
-[^5]: Ibid.
-[^6]: Solomon, *In the Spirit of Hegel*, p. 495.
-[^7]: Pinkard, *The Sociality of Reason*, p. 388n6.
-[^8]: §485.
-[^9]: Taylor, *Hegel*, p. 178.
-[^10]: §485.
+[^4]: Solomon, *In the Spirit of Hegel*, p. 495.
+[^4.1]: Fredric Jameson, *The Hegel Variations* (London: Verso, 2010), pp. 78-9.
+[^5]: Pinkard, *The Sociality of Reason*, p. 388n6.
+[^7]: §485.
+[^8]: Taylor, *Hegel*, p. 178.
+[^9]: §484.
+[^10]: Ibid.
+[^6]: Hyppolite, *Genesis and Structure*, p. 386.
+[^10.1]: For example in §28.
+[^10.2]: §485.
+<!-- Cultural Formation -->
 [^11]: §487.
 [^12]: §488.
 [^13]: Jean-Jacques Rousseau, *Emile, or on Education*, translated by Allan Bloom (New York: Basic Books, 1979), p. 37.
@@ -26,6 +30,7 @@
 [^20]: Augustine, *City of God*, translated by Henry Bettenson (London: Penguin Books, 2003), XIV.28. See also XIV.2 for the meaning of 'the standard of flesh'.
 [^21]: §222, §417.
 [^22]: §493.
+<!-- Judge for Yourselves! -->
 [^23]: §495.
 [^24]: Immanuel Kant, *Critique of Practical Reason*, 5:124.
 [^25]: §496.
@@ -37,6 +42,7 @@
 [^31]: Ibid., p. 84.
 [^32]: Alasdair MacIntyre, *After Virtue*, (Notre Dame, IN: University of Notre Dame Press, 1984), pp. 47-8.
 [^34]: §501.
+<!-- Feudal Drama and Language -->
 [^35]: §502.
 [^36]: §503.
 [^37]: §505.
@@ -60,3 +66,9 @@
 [^55]: Ibid.
 [^56]: Søren Kierkegaard, *Two Ages: A Literary Review*, translated by Howard V. Hong and Edna H. Hong (Princeton, NJ: Princeton University Press, 2009), pp. 97 ff.
 [^57]: Martin Heidegger, *Being and Time*, translated by John Macquarrie and Edward Robinson (Oxford: Blackwell, 1998), §35.
+[^58]: §519, translation altered.
+[^59]: Ibid.
+[^60]: §520.
+[^61]: §521. Emphasis added.
+[^62]: §522.
+[^63]: §523.

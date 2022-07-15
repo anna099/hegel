@@ -161,4 +161,44 @@ of 'chatter' and 'idle talk'. Kierkegaard criticises the chatter which talks
 about 'anything and everything' without any reflection or *inwardness*;[^56]
 Heidegger describes (but does not *disparage*, he claims) the idle talk which
 'gossips' with an air of authority but loses a 'primary relationship' to its
-subject matter.[^57]
+subject matter.[^57] However, the nihilistic critic that Hegel is describing is
+a lot less serious and reverent than Kierkegaard and Hegel; this critic is the
+young Rameau whose mocking language 'is the perfected language of this entire
+world of culture'.[^58]
+
+Rameau is practically undefeatable in conversation: by the time someone has
+refuted a point of his, he has already moved on to something else. He
+'repudiates his own abjectness', Hegel writes; his identity is 'disruption', the
+total lack of consistent identity. As a form of self-consciousness, Rameau (and
+any 'client' consciousness that he represents) still asserts himself and his
+identity, but 'this identical judgment is at the same time the infinite
+judgment': that is, his identity is defined by a negation.[^59] Keeping in mind
+that infinite judgments always have the structure 'X is not Y', we should
+understand Rameau's identity to be defined as something like: 'I am not
+cultured'. Crucially, it is in this disavowal that Rameau *most exemplifies*
+culture: the disruption of his nihilism and relativism are culture in its
+absolute truth, in the chaotic and constant dissolution of all of its elements
+into one another.
+
+The 'turmoil-ridden *judging*' is the final stage in culture's development. The
+individual who has undergone the greatest *Bildung*, the greatest cultural
+formation, is what Hegel calls 'the disruptive consciousness', and it is they
+who most truthfully represent the feudal world of culture.[^60] In their
+'candor' (that is, their self-awareness in having no consistency) this cultured
+individual finds 'a strain of reconciliation'; they are '*denatured*' by a 'strain
+of the ridiculous' -- Hegel is quoting Diderot here -- and thereby get closer to
+a truly *spiritual* existence.[^61]
+
+Because the disruptive consciousness represents the truth of culture as a whole,
+their opponent -- the *philosophe*, or what Hegel calls 'simple consciousness'
+-- is left lost for words. If they can muster up anything beyond mere
+'monosyllables', they will still be representing only a particular moment of
+culture and will therefore be saying nothing that the disruptive nihilist does
+not already know.[^62] If they cite *examples* of 'the excellent' -- stories
+that are supposed to convince us that, really, culture *does* have a noble
+element, and wealth and flattery aren't just hypocritical emptinesses -- the
+nihilist can simply respond by pointing out that these are only individual
+cases; they don't hold up to the holism of the disruptive view of society. 'To
+present the existence of the good and the noble as a single anecdote, whether
+fictitious or true,' Hegel writes, 'is the most caustic thing that can be said
+about it.'[^63]
