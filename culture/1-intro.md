@@ -2,6 +2,8 @@
 
 ### Alienated Spirit: Culture
 
+#### Introduction and Summary
+
 In an interesting passage of his early work *The Spirit of Christianity and its
 Fate*, Hegel gives an analysis of the Last Supper.[^1] He writes of the 'bond of
 friendship' and the acts that actualise friendship and love, and he takes the
@@ -64,9 +66,9 @@ Solomon argues that the *Phenomenology* simply jumps from Rome to modernity -- a
 'glaring omission' that proves to us that Hegel is not attempting a literal
 history.[^4] Fredric Jameson agrees that Hegel makes an omission, but only
 because medieval times were the subject of the unhappy consciousness
-chapter.[^4.1] On the other hand, Terry Pinkard argues that Hegel, unlike his
+chapter.[^5] On the other hand, Terry Pinkard argues that Hegel, unlike his
 contemporaries, did not think of the ancient era as separated from modernity by
-the so-called 'Middle Ages'.[^5] On this view, for Hegel as for Nietzsche, the
+the so-called 'Middle Ages'.[^6] On this view, for Hegel as for Nietzsche, the
 first signs of modernity are present in the birth of the Christian conception of
 selfhood; as such, when I refer to 'modernity' in the Hegelian context, this
 should be understood as *including* the medieval era. So, while Solomon is
@@ -103,25 +105,18 @@ closing them off from the world by rendering it as an '*other-worldly
 beyond*'.[^10] (This is yet another similarity with unhappy consciousness.)
 Hyppolite notes that Hegel's inclusion of alienation within an account of
 cultural education is a challenge to his contemporaries (such as Herder, who did
-the most to introduce the notion of *Bildung* into German philosophy).[^6] For
+the most to introduce the notion of *Bildung* into German philosophy).[^11] For
 classical Enlightenment thinkers, the individual undergoes education in
 straightforward upward progress, and for 'humanist pedagogy' nature undergoes a
 harmonious development within the human being. For Hegel, however, to undergo
 formation and education involves a movement of self-inequality and distance
 from oneself -- this is precisely the externalisation I described above.
 
-<!-- Unfinished:
-Even though the cultural formation of alienated spirit comes to fail, this does
-not mean that Hegel is opposed to all cultural formation, all kinds of
-*Bildung*. In his preface, he describes the *Phenomenology* itself as a process
-of *Bildung* multiple times.[^10.1]
--->
-
 After the dissolution of the most immediate form of cultural formation, spirit
 undergoes two more shapes, both of which are still based on systems of
 dichotomies. Firstly, spirit adopts a worldview wherein the world is taken as
 untrue in contrast to a harmonious beyond, posited by **faith**, 'which has no
-actual present'.[^10.2] Secondly, when this faith is interpreted in the secular
+actual present'.[^12] Secondly, when this faith is interpreted in the secular
 terms of the **Enlightenment**, the 'housekeeping of faith' is brought into
 'disarray' as the present world is comprehended coldly in terms of *utility*,
 and the beyond is taken to be utterly unknowable '*absolute essence*'. Though

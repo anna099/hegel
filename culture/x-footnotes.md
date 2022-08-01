@@ -7,68 +7,81 @@
 [^2]: The German word Hegel uses for alienation -- Entäußerung -- was used in Luther's translation of the Bible to refer to God's 'emptying' himself in becoming flesh. Pinkard (in his translator's note to *The Phenomenology of Spirit*, p. xlii) claims that Hegel would have intended this connotation.
 [^3]: §483. We could say, therefore, that to be alienated or atomised by one's society is to be *objectified* by it.
 [^4]: Solomon, *In the Spirit of Hegel*, p. 495.
-[^4.1]: Fredric Jameson, *The Hegel Variations* (London: Verso, 2010), pp. 78-9.
-[^5]: Pinkard, *The Sociality of Reason*, p. 388n6.
+[^5]: Fredric Jameson, *The Hegel Variations* (London: Verso, 2010), pp. 78-9.
+[^6]: Pinkard, *The Sociality of Reason*, p. 388n6.
 [^7]: §485.
 [^8]: Taylor, *Hegel*, p. 178.
 [^9]: §484.
 [^10]: Ibid.
-[^6]: Hyppolite, *Genesis and Structure*, p. 386.
-[^10.1]: For example in §28.
-[^10.2]: §485.
+[^11]: Hyppolite, *Genesis and Structure*, p. 386.
+[^12]: §485.
 <!-- Cultural Formation -->
-[^11]: §487.
-[^12]: §488.
-[^13]: Jean-Jacques Rousseau, *Emile, or on Education*, translated by Allan Bloom (New York: Basic Books, 1979), p. 37.
-[^14]: §489.
-[^14.1]: Rousseau, *Emile*, p. 41.
-[^15]: §490.
-[^16]: §491.
-[^17]: The quotations and ideas in this list are taken from §§491-93 and from *Hegel's Philosophy of Nature* (Volume II of Hegel's *Encyclopaedia*), translated by A.V. Miller (Oxford: Oxford University Press, 2004), §§282-85.
-[^18]: Harris, *Hegel's Ladder*, II, p. 266.
-[^19]: §492.
-[^20]: Augustine, *City of God*, translated by Henry Bettenson (London: Penguin Books, 2003), XIV.28. See also XIV.2 for the meaning of 'the standard of flesh'.
-[^21]: §222, §417.
-[^22]: §493.
+[^13]: §475.
+[^14]: Rebecca Comay, *Mourning Sickness: Hegel and the French Revolution* (Stanford, CA: Stanford University Press, 2011), p. 58.
+[^15]: Hobbes, *Leviathan* (I. XVI), pp. 106-7.
+[^16]: Comay, *Mourning Sickness*, p. 59.
+[^17]: See §485.
+[^18]: Comay, *Mourning Sickness*, p. 59.
+[^19]: §487.
+[^20]: §488.
+[^21]: Jean-Jacques Rousseau, *Emile, or on Education*, translated by Allan Bloom (New York: Basic Books, 1979), p. 37.
+[^22]: Ibid., p. 41.
+[^23]: §489.
+[^24]: §490.
+[^25]: §491.
+[^26]: The quotations and ideas in this list are taken from §§491-93 and from *Hegel's Philosophy of Nature* (Volume II of Hegel's *Encyclopaedia*), translated by A.V. Miller (Oxford: Oxford University Press, 2004), §§282-85.
+[^27]: Harris, *Hegel's Ladder*, II, p. 266.
+[^28]: §492.
+[^29]: Augustine, *City of God*, translated by Henry Bettenson (London: Penguin Books, 2003), XIV.28. See also XIV.2 for the meaning of 'the standard of flesh'.
+[^30]: §222, §417.
+[^31]: §493.
 <!-- Judge for Yourselves! -->
-[^23]: §495.
-[^24]: Immanuel Kant, *Critique of Practical Reason*, 5:124.
-[^25]: §496.
-[^26]: §497.
-[^27]: §498.
-[^28]: Miller translates this word as 'ignoble', but Pinkard, Baillie, and Inwood opt for 'base'. Harris (*Hegel's Ladder*, II, p. 310n33) argues that both are mistranslations which oversimplify the connotations of *niederträchtig*.
-[^29]: §§499-500.
-[^30]: Denis Diderot, *Rameau's Nephew and First Satire*, translated by Margaret Mauldon (Oxford: Oxford University Press, 2006), p. 25. Note the contrast to a Rousseauian account of education.
-[^31]: Ibid., p. 84.
-[^32]: Alasdair MacIntyre, *After Virtue*, (Notre Dame, IN: University of Notre Dame Press, 1984), pp. 47-8.
-[^34]: §501.
+[^32]: §495.
+[^33]: Immanuel Kant, *Critique of Practical Reason*, 5:124.
+[^34]: §496.
+[^35]: §497.
+[^36]: §498.
+[^37]: Miller translates this word as 'ignoble', but Pinkard, Baillie, and Inwood opt for 'base'. Harris (*Hegel's Ladder*, II, p. 310n33) argues that both are mistranslations which oversimplify the connotations of *niederträchtig*.
+[^38]: §§499-500.
+[^39]: Denis Diderot, *Rameau's Nephew and First Satire*, translated by Margaret Mauldon (Oxford: Oxford University Press, 2006), p. 25. Note the contrast to a Rousseauian account of education.
+[^40]: Ibid., p. 84.
+[^41]: Alasdair MacIntyre, *After Virtue*, (Notre Dame, IN: University of Notre Dame Press, 1984), pp. 47-8.
+[^42]: §501.
 <!-- Feudal Drama and Language -->
-[^35]: §502.
-[^36]: §503.
-[^37]: §505.
-[^38]: §506.
-[^39]: Hyppolite, *Genesis and Structure*, p. 402.
-[^40]: §97, §312.
-[^41]: §507.
-[^42]: The simplest illustration of this is how the word 'I' names *everyone*, at least in the moment of their speaking.
-[^43]: Hegel to Voss, March 1805, in *Hegel: The Letters*, p. 107.
-[^44]: §508.
-[^45]: §509.
-[^46]: Hyppolite, *Genesis and Structure*, p. 403.
-[^47]: §510.
-[^48]: See Robert Pippin, *Hegel's Practical Philosophy* (Cambridge: Cambridge University Press, 2008), ch. 7.
-[^49]: §511.
-[^50]: Ibid.
-[^51]: §515.
-[^52]: This isn't too far away from Marx's idea of money as a material measure of an individual's labour time.
-[^53]: §517.
-[^54]: §518.
-[^55]: Ibid.
-[^56]: Søren Kierkegaard, *Two Ages: A Literary Review*, translated by Howard V. Hong and Edna H. Hong (Princeton, NJ: Princeton University Press, 2009), pp. 97 ff.
-[^57]: Martin Heidegger, *Being and Time*, translated by John Macquarrie and Edward Robinson (Oxford: Blackwell, 1998), §35.
-[^58]: §519, translation altered.
-[^59]: Ibid.
-[^60]: §520.
-[^61]: §521. Emphasis added.
-[^62]: §522.
-[^63]: §523.
+[^43]: §502.
+[^44]: §503.
+[^45]: §505.
+[^46]: §506.
+[^47]: Hyppolite, *Genesis and Structure*, p. 402.
+[^48]: §97, §312.
+[^49]: §507.
+[^50]: The simplest illustration of this is how the word 'I' names *everyone*, at least in the moment of their speaking.
+[^51]: Hegel to Voss, March 1805, in *Hegel: The Letters*, p. 107.
+[^52]: §508.
+[^53]: §509.
+[^54]: Hyppolite, *Genesis and Structure*, p. 403.
+[^55]: §510.
+[^56]: See Robert Pippin, *Hegel's Practical Philosophy* (Cambridge: Cambridge University Press, 2008), ch. 7.
+[^57]: §511.
+[^58]: Ibid.
+[^59]: §515.
+[^60]: This isn't too far away from Marx's idea of money as a material measure of an individual's labour time.
+[^61]: §517.
+[^62]: §518.
+[^63]: Ibid.
+[^64]: Søren Kierkegaard, *Two Ages: A Literary Review*, translated by Howard V. Hong and Edna H. Hong (Princeton, NJ: Princeton University Press, 2009), pp. 97 ff.
+[^65]: Martin Heidegger, *Being and Time*, translated by John Macquarrie and Edward Robinson (Oxford: Blackwell, 1998), §35.
+[^66]: §519, translation altered.
+[^67]: Ibid.
+[^68]: §520.
+[^69]: §521. Emphasis added.
+[^70]: §522.
+[^71]: §523.
+<!-- From Nihilism to Faith -->
+[^72]: Friedrich Nietzsche, *Twilight of the Idols*, in *The Portable Nietzsche*, translated by Walter Kaufmann (New York: Penguin Books, 1982), pp. 490-91.
+[^73]: §523.
+[^74]: Voltaire to Rousseau, August 30, 1755, in *The Collected Writings of Rousseau*, edited by Roger D. Masters and Christopher Kelly (Hanover, NH: University Press of New England, 1992), p. 102.
+[^75]: §524.
+[^76]: Blaise Pascal, *Pensées, and Other Writings*, p. 41.
+[^77]: §521, §217.
+[^78]: §525.
