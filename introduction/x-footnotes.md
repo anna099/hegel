@@ -35,7 +35,7 @@
 [^20]: Friedrich Schiller, *On the Aesthetic Education of Man*, translated by Keith Tribe (London: Penguin Books, 2016), p. 21.
 [^21]: Friedrich Schlegel, 'Athenaeum Fragments' in *Philosophical Fragments*, translated by Peter Firchow (Minneapolis: University of Minnesota Press, 1991), §147.
 [^22]: Charles Taylor, *Hegel* (Cambridge: Cambridge University Press, 1975), p. 13.
-[^23]: This phrase comes from Eliza M. Butler, *The Tyranny of Greece Over Germany* (Cambridge: Cambridge University Press, 1935).
+[^23]: This phrase comes from Eliza M. Butler, *The Tyranny of Greece Over Germany* (Boston, MA: Beacon Press, 1958).
 [^24]: See Michael Baur, 'Winckelmann and Hegel on the Imitation of the Greeks', in *Hegel and the Tradition: Essays in Honour of H.S. Harris*, edited by Baur and John Russon (Toronto: University of Toronto Press, 1997), p. 93.
 [^25]: Hegel, 'Love', translated by T.M. Knox, in *Early Theological Writings*, p. 304.
 [^26]: Hegel, 'The Spirit of Christianity', p. 301.

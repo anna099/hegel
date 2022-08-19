@@ -1,5 +1,7 @@
 ### The Preface {#pref}
 
+<blockquote class="epigraph">The last thing one discovers in composing a work is what has to be put first. <footer>Pascal, *Pensées*, 1670</footer></blockquote>
+
 #### Hegel's Romanticism and Anti-Romanticism {#roma}
 
 At the start of Hegel's philosophical career, a trend of counter-Enlightenment
