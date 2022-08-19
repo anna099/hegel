@@ -100,7 +100,7 @@ discourse of 'repression' come about? Cutrofello suggests that
 > in terms of the pleasure principle.[^49.2]
 
 As such, although philosophers like Foucault like to criticise Hegel for
-affirming self-consciousness by denying the alterity of others. We can see here
+affirming self-consciousness by denying the alterity of others, we can see here
 that Hegel does the very opposite: he shows that, in trying to affirm one's
 pleasure against society's necessity, one actually ends up subsumed by that
 necessity. Real self-recognition, we will see, comes about when the individual
