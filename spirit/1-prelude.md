@@ -204,7 +204,7 @@ it is in its spiritual existence that human society is 'higher' than nature. Put
 more concisely: spirit is that in virtue of which I am more than what I am made
 of, more than the sum of my parts.
 
-'All the previous shapes of consciousness are abstractions from [spirit]',
+'All the previous shapes of consciousness are abstractions' from spirit,
 according to Hegel.[^25] As such, and as mentioned above, spirit is often
 present *implicitly* or in the background of the *Phenomenology*'s earlier
 stages. For instance, the 'ethical substance' we saw in Reason is accordingly
