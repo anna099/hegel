@@ -4,7 +4,7 @@
 
 #### History in the *Phenomenology*
 
-According to György Lukács, in the *Phenomenology* the entirety of human history
+According to Georg Lukács, in the *Phenomenology* the entirety of human history
 (up to 1807, at least) is 'traversed *three times*'.[^1] Using the terms that
 Hegel adopts later in the *Encyclopaedia*, Lukács considers these three
 repetitions to be concerned with *subjective spirit*, *objective spirit*, and
