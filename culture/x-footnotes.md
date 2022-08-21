@@ -82,6 +82,6 @@
 [^73]: §523.
 [^74]: Voltaire to Rousseau, August 30, 1755, in *The Collected Writings of Rousseau*, edited by Roger D. Masters and Christopher Kelly (Hanover, NH: University Press of New England, 1992), p. 102.
 [^75]: §524.
-[^76]: Blaise Pascal, *Pensées, and Other Writings*, p. 41.
+[^76]: Augustine, *Confessions*, p. 43.
 [^77]: §521, §217.
 [^78]: §525.

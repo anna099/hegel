@@ -39,14 +39,14 @@ take it up again.'[^74]
 The cultured nihilist laughs about existence, about the 'vanity of all
 actuality'.[^75] The most immediate contrast to this laughter is, of course, the
 weeping of the unhappy consciousness: the 'teacher' in *Ecclesiastes* also
-regards the world as 'vanity', and Pascal despairs at the 'tangle' of
-contradictions in humanity, 'glory and reject of the universe'.[^76] Diderot --
-and Hegel here -- are thus presenting us with the comedic analogue to the
-tragedy of modern unhappy consciousness. Whether it laughs or cries, however,
-the cultural subject in modernity comes to the same conclusion: we are all
-alienated from ourselves ('Man is beyond man' -- Pascal), and *contradiction* is
-the ultimate truth not only of our subjectivity, as psychoanalysis will also
-come to emphasise, but also of our cultured society itself.
+regards the world as 'vanity', and Augustine despairs at the 'havoc of
+disruption' which tears the human spirit 'to pieces'.[^76] Diderot -- and Hegel
+here -- are thus presenting us with the comedic analogue to the tragedy of
+modern unhappy consciousness. Whether it laughs or cries, however, the cultural
+subject in modernity comes to the same conclusion: we are all alienated from
+ourselves ('Man is beyond man' -- Pascal), and *contradiction* is the ultimate
+truth not only of our subjectivity, as psychoanalysis will also come to
+emphasise, but also of our cultured society itself.
 
 Despite his laughter, therefore, Rameau is just as alienated as the unhappy
 consciousness of the fourth chapter. Cultural speech 'is the madness of the
