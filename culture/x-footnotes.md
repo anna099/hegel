@@ -85,3 +85,30 @@
 [^76]: Augustine, *Confessions*, p. 43.
 [^77]: §521, §217.
 [^78]: §525.
+<!-- Faith and Pure Insight -->
+[^79]: Young Rameau is supposed to be the nephew of Jean-Philippe Rameau, the accomplished composer.
+[^80]: §526.
+[^81]: Hyppolite, *Genesis and Structure*, p. 417.
+[^82]: MacIntyre, *After Virtue*, pp. 23-5.
+[^83]: §197.
+[^84]: §527.
+[^85]: Rebecca Comay (*Mourning Sickness*, p. 60) recognises this in the context of Hegel's conjection ('really an apposition, or identity') for the French Revolution: 'Absolute Freedom and Terror'.
+[^86]: Rousseau, *The Social Contract and the First and Second Discourses*, p. 156.
+[^87]: §528.
+[^88]: See §535.
+[^89]: My claim here is inspired by how, in the first chapter of the *Phenomenology*, Hegel describes consciousness as beginning with the aim of 'pure apprehension' (§116) and as distinct from conceptual comprehension (§90). Comprehension, he argues, involves a 'reflective turn' (§118).
+[^90]: §529.
+[^91]: Hegel, *Faith and Knowledge*, translated by Walter Cerf and H.S. Harris (Albany, NY: State University of New York Press, 1977), p. 190; Pascal, *Pensées, and Other Writings*, p. 173.
+[^92]: §528. Emphasis added.
+[^93]: §530.
+[^94]: Pascal, *Pensées, and Other Writings*, p. 172.
+[^95]: Jameson, *The Hegel Variations*, p. 93.
+[^96]: §531.
+[^97]: §532.
+[^98]: §533.
+[^99]: Pascal, *Pensées, and Other Writings*, pp. 30, 105.
+[^100]: Alasdair MacIntyre, 'Pascal and Marx: on Lucien Goldmann's *Hidden God*', in *Against the Self-Images of the Age* (London: Duckworth, 1971), p. 80.
+[^101]: Pascal, *Pensées, and Other Writings*, p. 62.
+[^102]: Octave Mannoni, *Clefs pour l'imaginaire ou l'Autre Scène* (Paris: Éditions de Seuil, 1969), ch. 1.
+[^103]: Pascal, *Pensées, and Other Writings*, p. 152.
+[^104]: §534.

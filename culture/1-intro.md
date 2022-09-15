@@ -1,6 +1,6 @@
 ## Spirit
 
-### Alienated Spirit: Culture
+### Alienated Spirit:<br>The World of Culture
 
 #### Introduction and Summary
 
