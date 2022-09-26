@@ -112,3 +112,14 @@
 [^102]: Octave Mannoni, *Clefs pour l'imaginaire ou l'Autre Scène* (Paris: Éditions de Seuil, 1969), ch. 1.
 [^103]: Pascal, *Pensées, and Other Writings*, p. 152.
 [^104]: §534.
+[^105]: I use the term 'unmasks' deliberately here: see my comments on Rome and 'personae' above.
+[^106]: Hans-Georg Gadamer, *Truth and Method*, translated by Joel Weinsheimer and Donald G. Marshall (London: Bloomsbury, 2013), pp. 364-5.
+[^107]: Comay, *Mourning Sickness*, p. 61.
+[^108]: §528.
+[^109]: Ibid.
+[^110]: §535.
+[^111]: Immanuel Kant, 'An Answer to the Question: What is the Enlightenment?' in *Practical Philosophy*, translated and edited by Mary Gregor (Cambridge: Cambridge University Press, 1996), 8:35.
+[^112]: §536.
+[^113]: Ibid.
+[^114]: Kant, 'What is Enlightenment?', 8:36.
+[^115]: §536.

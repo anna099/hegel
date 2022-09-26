@@ -194,3 +194,86 @@ constituents of pure consciousness.[^90]
    subject can only access this inner if it gives way to self-reflection -- that
    is (and here is Hegel's third perspective on faith), if it sustains a
    relationship to pure insight.[^104]
+
+2. *Pure Insight*
+
+   The word 'insight', as well as the German 'Einsicht', can be read literally:
+   it is an inward seeing. But inwards into what? One can see into the object of
+   one's sight, or into oneself reflectively. In the case of 'pure insight', as
+   Hegel describes it, both of these modes are carried out simultaneously. By
+   casting a scrutinising look at its object -- that is, faith -- pure insight
+   also comes to look inwards (more precisely, into the modern alienated self as
+   such) and turn its scrutiny into dissolution; insight unmasks faith and
+   reveals it to be a superstition.[^105] This is why, as Gadamer has
+   recognised, insight 'involves an escape':
+
+   > Insight is more than the knowledge of this or that situation. It always
+   > involves an escape from something that had deceived us and held us captive.
+   > Thus insight always involves an element of self-knowledge and constitutes a
+   > necessary side of what we called experience in the proper sense. Insight is
+   > something we come to. It too is ultimately part of the vocation of
+   > man---i.e., to be discerning and insightful.[^106]
+
+   'It too is ultimately part of the vocation of man': indeed, pure insight has
+   practical motivations insofar as, like faith, it is a defence mechanism; the
+   two are 'shadow brothers', in Comay's words. Their difference lies in *how*
+   they defend themselves against their alienation: while faith fled from the
+   world, insight 'directs itself against it' with relentless criticism.[^107]
+   In this way, the subject of pure insight has the paradigmatic position of a
+   social critic: they are both inside society and outside of it, alienated from
+   that which they are thrown into.
+
+   Faith was previously defined as having content with no self-reflection; we
+   can conversely define pure insight as self-reflection without content. It is
+   pure consciousness in the form of a 'restless movement' of
+   being-for-itself.[^108] Just as he did with faith, Hegel analyses pure
+   insight from three perspectives: as it is in and for itself, in its relation
+   to actuality, and in relation to faith.
+
+   As mentioned above, while faith is a form of consciousness, pure insight is a
+   form of *self*-consciousness: where faith apprehended the 'absolute essence'
+   of the faith-world, pure insight comprehends itself as an 'absolute
+   *self*'.[^109] This is a high achievement of reason; where reason in the
+   fifth chapter was only the *certainty* of being 'all truth', pure insight
+   reaches actual *knowledge* of itself as all truth. This knowledge is
+   established through a rigorous process of conceptualising: that is, annulling
+   the self-sufficiency of anything that is not self-consciousness by revealing
+   such things to be mere acts and figments of self-consciousness -- in other
+   words, *concepts*. Insight works to reveal that the activity of faith is not
+   apprehension but projection -- which, as phenomenological observers, we knew
+   all along. Insightful self-consciousness thus undermines everything that is
+   not itself. It comes to recognise itself as the truth -- and thus finally
+   fulfil the project of reason -- precisely be reducing to falsehood everything
+   that is other to it. Moreover, in revealing that faith was wrong not for
+   apprehending the wrong God, or the right God in the wrong way, but by
+   *failing to think properly*, insight exposes it as a self-imposed lack of
+   independence. Therein is the first sign that Kant was right to identify the
+   Enlightenment (which grows out of pure insight) as the overcoming of
+   'self-incurred minority'.[^110]
+
+   The fact that conceptualising is a *process* is crucial: insight is not
+   immediately given but is a project that must be realised. The aim of this
+   project is to conceptualise all of actuality, rendering all things of the
+   world 'into one concept': namely, the absolute self.[^111] The differences of
+   cultural actuality which 'in mutual forcibleness and confusion ... fight and
+   deceive each other' will thus be flattened. Not only the beliefs of faith,
+   but all claims of culturation, all social essences, ambitions and promises of
+   wealth or power -- all these will be revealed, deep down, to be aspects of
+   self-consciousness. In its first appearance, Hegel explains, pure insight was
+   still 'singularly individual'; here we might think of Descartes'
+   *Meditations*, wherein insight is individual enough to be carried out alone
+   in one's living room. We might also think of the name of young Rameau's
+   philosophical opponent: 'moi'. But the overall project of insight, being
+   rational and thus allowing for no unconceptualised remainder, aims for
+   universality. 'Pure insight is supposed to be the possession of all
+   self-consciousnesses'.[^112] Insight aims for universal selfhood -- not in a
+   relativist, *laissez faire* way, which would amount to a return to the
+   spiritual animal kingdom and the various estates of culture, but in the sense
+   of establishing a new kind of modern individual who is engaged in a life of
+   comprehensive thought and who has, in Kant's words, 'cast off the yoke of
+   minority'.[^113] This is why insight aims for *one* concept to unify all the
+   others; if it is possible to conceptualise *everything* under the rubric of
+   'absolute self', it is possible for *everyone* to have worked through and
+   against the disruption of cultural actuality. 'This pure insight is thus the
+   spirit that calls out to every consciousness: *Be for yourselves* what you
+   all are *in yourselves* -- *rational*.'[^114]
