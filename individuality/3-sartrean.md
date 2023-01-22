@@ -68,7 +68,7 @@ when he writes that 'Hegel is right rather than Heidegger when he states that
 Mind is the negative'; he claims that the freedom of the subject for-itself is
 'constituted' by the 'negating act.'[^76] However, in the chapter on the animal
 kingdom, Hegel describes activity as negating an 'original determinate nature'
--- the particular restrictive qualities of the acting being (subh as their
+-- the particular restrictive qualities of the acting being (such as their
 body). For Sartre, activity is negative because the choice of one action negates
 all other possibilities -- he refuses the idea of an 'original nature' that is
 supposed to be negated by an act. Indeed, in existentialism there is no human
