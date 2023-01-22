@@ -25,15 +25,15 @@ Where Culture was captured in the disorganised back-and-forth between Rameau's
 newphew and the *philosophe*, Enlightenment emerges---as all signs of
 development do in Hegel---as a third term. But where in Diderot's book does a
 third term appear? The dialogue, from beginning to end, is between only two
-characters. However, all of this 'claptrap' will have been forgotten, Hegel
+characters. And yet all of this 'claptrap' will have been forgotten, Hegel
 points out, if it were not gathered up into a whole by a 'third consciousness';
 in other words, if the speech (the 'scattered language') of the dialogue had not
-been into the universality of writing; in other words again, *if Diderot had not
-written it*.[^2] Over and above young Rameau and his friend, it is Diderot himself
-who is enlightened insofar as he is able to mediate the conversation he records
-and thereby render a general insight from it. It is presuambly for the same
-reasons that we attribute the ideas in the *Republic* to Plato and not to
-Socrates nor Glaucon.
+been collected in the universality of writing; in other words again, *if Diderot
+had not written it*.[^2] Over and above young Rameau and his friend, it is
+Diderot himself who is enlightened insofar as he is able to mediate the
+conversation he records and thereby render a general insight from it. It is
+presuambly for the same reasons that we attribute the ideas in the *Republic* to
+Plato and not to Socrates nor Glaucon.
 
 [Insert commentary on §539-40.]
 
