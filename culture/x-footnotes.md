@@ -1,4 +1,5 @@
-<div id="nav"><a href="spirit.html">Previous Chapter: True Spirit</a></div>
+<div id="nav"><a href="spirit.html">Previous Chapter: True Spirit</a>
+<a href="enlightenment.html">Next Chapter: The Enlightenment</a></div>
 
 </section>
 
@@ -7,7 +8,7 @@
 [^2]: The German word Hegel uses for alienation -- Entäußerung -- was used in Luther's translation of the Bible to refer to God's 'emptying' himself in becoming flesh. Pinkard (in his translator's note to *The Phenomenology of Spirit*, p. xlii) claims that Hegel would have intended this connotation.
 [^3]: §483. We could say, therefore, that to be alienated or atomised by one's society is to be *objectified* by it.
 [^4]: Solomon, *In the Spirit of Hegel*, p. 495.
-[^5]: Fredric Jameson, *The Hegel Variations* (London: Verso, 2010), pp. 78-9.
+[^5]: Jameson, *The Hegel Variations*, pp. 78-9.
 [^6]: Pinkard, *The Sociality of Reason*, p. 388n6.
 [^7]: §485.
 [^8]: Taylor, *Hegel*, p. 178.

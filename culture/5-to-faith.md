@@ -30,11 +30,11 @@ with his condemnation of culture. The disruptive consciousness, however,
 embraces that one cannot abandon a world that one is shaped by: 'for even
 Diogenes in his barrel is conditioned by it.'[^73]
 
-We find this embrace in Voltaire's criticisms of Rousseau, which are just as
+(We find this embrace in Voltaire's criticisms of Rousseau, which are just as
 funny as Rameau: 'One acquires the desire to walk on all fours when one reads
 your work [the *Discourse on Inequality*]. Nevertheless, since I lost this habit
 more than sixty years ago, I unfortunately feel that it is impossible for me to
-take it up again.'[^74]
+take it up again.'[^74])
 
 The cultured nihilist laughs about existence, about the 'vanity of all
 actuality'.[^75] The most immediate contrast to this laughter is, of course, the

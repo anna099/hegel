@@ -16,14 +16,14 @@ meaning in the world of thought. Perhaps this shouldn't surprise us. It is
 common in modernity to suppose that the world around us is too dry and
 indifferent -- or, in this case, too vain -- for us to find meaning in it, and
 that we must therefore retreat into thought to 'construct' a meaning for
-ourselves. As Hyppolite says, 'Man lives in one world and thinks in
-another.'[^81] Alasdair MacIntyre claims that Rameau's nephew criticises a world
-that is implied by moral emotivism: a world wherein non-manipulative (i.e.,
-ethical) relations are impossible because everything boils down to preference
-and desire, and there are no impersonal criteria of action.[^82] If we accept
-this, then, we can understand faith's flight from actuality as a flight from the
-emotivist scenario; the construction of a faith-world is an attempt to establish
-a ground for non-manipulative relations between people.
+ourselves. We live in one world and think in another.[^81] Alasdair MacIntyre
+claims that Rameau's nephew criticises a world that is implied by moral
+emotivism: a world wherein non-manipulative (i.e., ethical) relations are
+impossible because everything boils down to preference and desire, and there are
+no impersonal criteria of action.[^82] If we accept this, then, we can
+understand faith's flight from actuality as a flight from the emotivist
+scenario; the construction of a faith-world is an attempt to establish a ground
+for non-manipulative relations between people.
 
 In the case of faith and pure insight, however, we are not quite dealing with a
 *constructed* world of thought. This flight into thought is 'only the
@@ -66,11 +66,11 @@ combined in Hegel's title for this section? In the *Phenomenology*, when the
 word 'and' appears in the title of a section, substituting it for the word 'is'
 is often revealing:[^85] in 'Perceiving; or the Thing and Illusion', we discover
 that the 'thing' of perception *is* an illusion, unconsciously held together by
-the operation of the understanding; in 'Mastery and Servitude', we find a proof
-of what Rousseau wrote in 1762: 'Many a one believes himself the master of
-others, and yet he is a greater slave than they.'[^86] In the case of the
-present chapter, however, faith and insight are quite separate; indeed, as in
-the case of 'human and divine law', they are best understood as opponents.
+the operation of the understanding; in 'Mastery and Servitude', we find proof
+that 'many a one believes himself the master of others, and yet he is a greater
+slave than they' (Rousseau).[^86] In the case of the present chapter, however,
+faith and insight are quite separate; indeed, as in the case of 'human and
+divine law', they are best understood as opponents.
 
 The protagonist of the chapter is pure consciousness. Since it is essentially
 alienated from a world that it opposes, 'it has in its own self the
@@ -216,24 +216,24 @@ constituents of pure consciousness.[^90]
 
    'It too is ultimately part of the vocation of man': indeed, pure insight has
    practical motivations insofar as, like faith, it is a defence mechanism; the
-   two are 'shadow brothers', in Comay's words. Their difference lies in *how*
-   they defend themselves against their alienation: while faith fled from the
-   world, insight 'directs itself against it' with relentless criticism.[^107]
-   In this way, the subject of pure insight has the paradigmatic position of a
-   social critic: they are both inside society and outside of it, alienated from
-   that which they are thrown into.
+   two are 'shadow brothers', in Comay's words.[^107] Their difference lies in
+   *how* they defend themselves against their alienation: while faith fled from
+   the world, insight 'directs itself against it' with relentless
+   criticism.[^108] In this way, the subject of pure insight has the
+   paradigmatic position of a social critic: they are both inside society and
+   outside of it, alienated from that which they are thrown into.
 
    Faith was previously defined as having content with no self-reflection; we
    can conversely define pure insight as self-reflection without content. It is
    pure consciousness in the form of a 'restless movement' of
-   being-for-itself.[^108] Just as he did with faith, Hegel analyses pure
+   being-for-itself.[^109] Just as he did with faith, Hegel analyses pure
    insight from three perspectives: as it is in and for itself, in its relation
    to actuality, and in relation to faith.
 
    As mentioned above, while faith is a form of consciousness, pure insight is a
    form of *self*-consciousness: where faith apprehended the 'absolute essence'
    of the faith-world, pure insight comprehends itself as an 'absolute
-   *self*'.[^109] This is a high achievement of reason; where reason in the
+   *self*'.[^110] This is a high achievement of reason; where reason in the
    fifth chapter was only the *certainty* of being 'all truth', pure insight
    reaches actual *knowledge* of itself as all truth. This knowledge is
    established through a rigorous process of conceptualising: that is, annulling
@@ -249,12 +249,12 @@ constituents of pure consciousness.[^90]
    *failing to think properly*, insight exposes it as a self-imposed lack of
    independence. Therein is the first sign that Kant was right to identify the
    Enlightenment (which grows out of pure insight) as the overcoming of
-   'self-incurred minority'.[^110]
+   'self-incurred minority'.[^111]
 
    The fact that conceptualising is a *process* is crucial: insight is not
    immediately given but is a project that must be realised. The aim of this
    project is to conceptualise all of actuality, rendering all things of the
-   world 'into one concept': namely, the absolute self.[^111] The differences of
+   world 'into one concept': namely, the absolute self.[^112] The differences of
    cultural actuality which 'in mutual forcibleness and confusion ... fight and
    deceive each other' will thus be flattened. Not only the beliefs of faith,
    but all claims of culturation, all social essences, ambitions and promises of
@@ -266,14 +266,14 @@ constituents of pure consciousness.[^90]
    philosophical opponent: 'moi'. But the overall project of insight, being
    rational and thus allowing for no unconceptualised remainder, aims for
    universality. 'Pure insight is supposed to be the possession of all
-   self-consciousnesses'.[^112] Insight aims for universal selfhood -- not in a
+   self-consciousnesses'.[^113] Insight aims for universal selfhood -- not in a
    relativist, *laissez faire* way, which would amount to a return to the
    spiritual animal kingdom and the various estates of culture, but in the sense
    of establishing a new kind of modern individual who is engaged in a life of
    comprehensive thought and who has, in Kant's words, 'cast off the yoke of
-   minority'.[^113] This is why insight aims for *one* concept to unify all the
+   minority'.[^114] This is why insight aims for *one* concept to unify all the
    others; if it is possible to conceptualise *everything* under the rubric of
    'absolute self', it is possible for *everyone* to have worked through and
    against the disruption of cultural actuality. 'This pure insight is thus the
    spirit that calls out to every consciousness: *Be for yourselves* what you
-   all are *in yourselves* -- *rational*.'[^114]
+   all are *in yourselves* -- *rational*.'[^115]
